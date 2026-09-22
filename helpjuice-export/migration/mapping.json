@@ -1,0 +1,2426 @@
+{
+ "mapping": {
+  "611310": [
+   "37023",
+   6
+  ],
+  "398326": [
+   "37466",
+   8
+  ],
+  "386734": [
+   "37464",
+   2
+  ],
+  "386735": [
+   "37464",
+   3
+  ],
+  "553879": [
+   "95629",
+   0
+  ],
+  "553904": [
+   "95629",
+   1
+  ],
+  "395174": [
+   "37029",
+   3
+  ],
+  "610712": [
+   "37029",
+   11
+  ],
+  "378047": [
+   "37028",
+   1
+  ],
+  "271445": [
+   "37476",
+   3
+  ],
+  "384651": [
+   "37476",
+   8
+  ],
+  "384922": [
+   "37476",
+   9
+  ],
+  "289914": [
+   "41109",
+   0
+  ],
+  "289945": [
+   "41109",
+   1
+  ],
+  "290530": [
+   "41109",
+   2
+  ],
+  "304554": [
+   "41109",
+   3
+  ],
+  "304337": [
+   "41109",
+   4
+  ],
+  "387516": [
+   "58828",
+   0
+  ],
+  "387517": [
+   "58828",
+   1
+  ],
+  "387518": [
+   "58828",
+   2
+  ],
+  "387519": [
+   "58828",
+   3
+  ],
+  "387522": [
+   "58829",
+   0
+  ],
+  "387523": [
+   "58829",
+   1
+  ],
+  "387524": [
+   "58829",
+   2
+  ],
+  "486732": [
+   "79339",
+   0
+  ],
+  "293317": [
+   "79339",
+   1
+  ],
+  "388027": [
+   "39657",
+   5
+  ],
+  "371412": [
+   "48721",
+   3
+  ],
+  "386689": [
+   "48721",
+   4
+  ],
+  "398320": [
+   "48721",
+   5
+  ],
+  "359598": [
+   "52743",
+   5
+  ],
+  "359644": [
+   "52749",
+   1
+  ],
+  "359652": [
+   "52723",
+   4
+  ],
+  "359659": [
+   "52739",
+   3
+  ],
+  "338148": [
+   "53696",
+   0
+  ],
+  "338152": [
+   "53696",
+   1
+  ],
+  "340862": [
+   "53696",
+   3
+  ],
+  "265844": [
+   "53697",
+   1
+  ],
+  "476572": [
+   "53697",
+   6
+  ],
+  "280494": [
+   "58505",
+   0
+  ],
+  "280502": [
+   "58505",
+   1
+  ],
+  "386281": [
+   "58505",
+   2
+  ],
+  "386416": [
+   "58505",
+   3
+  ],
+  "303596": [
+   "58506",
+   0
+  ],
+  "386417": [
+   "58506",
+   1
+  ],
+  "386715": [
+   "58599",
+   0
+  ],
+  "2153157": [
+   "112276",
+   0
+  ],
+  "2153171": [
+   "112276",
+   1
+  ],
+  "2153867": [
+   "112276",
+   2
+  ],
+  "264269": [
+   "37023",
+   0
+  ],
+  "264276": [
+   "37023",
+   1
+  ],
+  "304211": [
+   "37023",
+   2
+  ],
+  "340764": [
+   "37023",
+   3
+  ],
+  "340889": [
+   "37023",
+   4
+  ],
+  "341361": [
+   "37023",
+   5
+  ],
+  "264253": [
+   "37466",
+   0
+  ],
+  "266256": [
+   "37466",
+   1
+  ],
+  "340863": [
+   "37466",
+   2
+  ],
+  "266538": [
+   "37466",
+   3
+  ],
+  "266540": [
+   "37466",
+   4
+  ],
+  "264256": [
+   "37466",
+   5
+  ],
+  "268446": [
+   "37466",
+   6
+  ],
+  "341368": [
+   "37466",
+   7
+  ],
+  "264254": [
+   "37464",
+   0
+  ],
+  "266236": [
+   "37464",
+   1
+  ],
+  "266541": [
+   "37465",
+   0
+  ],
+  "266542": [
+   "37465",
+   1
+  ],
+  "264273": [
+   "37465",
+   2
+  ],
+  "304697": [
+   "37465",
+   3
+  ],
+  "304553": [
+   "37465",
+   4
+  ],
+  "340750": [
+   "49431",
+   0
+  ],
+  "340751": [
+   "49431",
+   1
+  ],
+  "340755": [
+   "49431",
+   2
+  ],
+  "287202": [
+   "37029",
+   0
+  ],
+  "340758": [
+   "37029",
+   1
+  ],
+  "312904": [
+   "37029",
+   2
+  ],
+  "340756": [
+   "37029",
+   4
+  ],
+  "304335": [
+   "37029",
+   5
+  ],
+  "308326": [
+   "37029",
+   6
+  ],
+  "343363": [
+   "37029",
+   7
+  ],
+  "330054": [
+   "37029",
+   8
+  ],
+  "340737": [
+   "37029",
+   9
+  ],
+  "340736": [
+   "37029",
+   10
+  ],
+  "264285": [
+   "37024",
+   0
+  ],
+  "308329": [
+   "37024",
+   1
+  ],
+  "264279": [
+   "37024",
+   2
+  ],
+  "264284": [
+   "37024",
+   3
+  ],
+  "312274": [
+   "37024",
+   4
+  ],
+  "268134": [
+   "37024",
+   5
+  ],
+  "264280": [
+   "37024",
+   6
+  ],
+  "264281": [
+   "37024",
+   7
+  ],
+  "266214": [
+   "37027",
+   0
+  ],
+  "266215": [
+   "37027",
+   1
+  ],
+  "268447": [
+   "37027",
+   2
+  ],
+  "266223": [
+   "37028",
+   0
+  ],
+  "264286": [
+   "37476",
+   0
+  ],
+  "264287": [
+   "37476",
+   1
+  ],
+  "271414": [
+   "37476",
+   2
+  ],
+  "315713": [
+   "37476",
+   4
+  ],
+  "324497": [
+   "37476",
+   5
+  ],
+  "339388": [
+   "37476",
+   6
+  ],
+  "271440": [
+   "37476",
+   7
+  ],
+  "357029": [
+   "37476",
+   10
+  ],
+  "340752": [
+   "49432",
+   0
+  ],
+  "340888": [
+   "49432",
+   1
+  ],
+  "340754": [
+   "49432",
+   2
+  ],
+  "340886": [
+   "49432",
+   3
+  ],
+  "340763": [
+   "49434",
+   0
+  ],
+  "340745": [
+   "49434",
+   1
+  ],
+  "264282": [
+   "49459",
+   0
+  ],
+  "340867": [
+   "49459",
+   1
+  ],
+  "340895": [
+   "49459",
+   2
+  ],
+  "340896": [
+   "49463",
+   0
+  ],
+  "340744": [
+   "49463",
+   1
+  ],
+  "357032": [
+   "49463",
+   2
+  ],
+  "340760": [
+   "49463",
+   3
+  ],
+  "340759": [
+   "49463",
+   4
+  ],
+  "340761": [
+   "49463",
+   5
+  ],
+  "340762": [
+   "49463",
+   6
+  ],
+  "266217": [
+   "58601",
+   0
+  ],
+  "266216": [
+   "58601",
+   1
+  ],
+  "266218": [
+   "58601",
+   2
+  ],
+  "283557": [
+   "58601",
+   3
+  ],
+  "339759": [
+   "58601",
+   4
+  ],
+  "268877": [
+   "37885",
+   0
+  ],
+  "268878": [
+   "37885",
+   1
+  ],
+  "268887": [
+   "37885",
+   2
+  ],
+  "315549": [
+   "37885",
+   3
+  ],
+  "269194": [
+   "37886",
+   0
+  ],
+  "268884": [
+   "37886",
+   1
+  ],
+  "268885": [
+   "37886",
+   2
+  ],
+  "268886": [
+   "37886",
+   3
+  ],
+  "268888": [
+   "37886",
+   4
+  ],
+  "269193": [
+   "37886",
+   5
+  ],
+  "264210": [
+   "37887",
+   0
+  ],
+  "337879": [
+   "37499",
+   0
+  ],
+  "268283": [
+   "37499",
+   1
+  ],
+  "268284": [
+   "37499",
+   2
+  ],
+  "337878": [
+   "37499",
+   3
+  ],
+  "268286": [
+   "37888",
+   0
+  ],
+  "317970": [
+   "37888",
+   1
+  ],
+  "268288": [
+   "37889",
+   0
+  ],
+  "268289": [
+   "37889",
+   1
+  ],
+  "339604": [
+   "47369",
+   0
+  ],
+  "339385": [
+   "49148",
+   0
+  ],
+  "263838": [
+   "39657",
+   0
+  ],
+  "264206": [
+   "39657",
+   1
+  ],
+  "340878": [
+   "39657",
+   2
+  ],
+  "264204": [
+   "39657",
+   3
+  ],
+  "264203": [
+   "39657",
+   4
+  ],
+  "268292": [
+   "39659",
+   0
+  ],
+  "340881": [
+   "39659",
+   1
+  ],
+  "264260": [
+   "39659",
+   2
+  ],
+  "341362": [
+   "39659",
+   3
+  ],
+  "264226": [
+   "48721",
+   0
+  ],
+  "264208": [
+   "48721",
+   1
+  ],
+  "340883": [
+   "48721",
+   2
+  ],
+  "357014": [
+   "48721",
+   6
+  ],
+  "356992": [
+   "48721",
+   7
+  ],
+  "340868": [
+   "49457",
+   0
+  ],
+  "266224": [
+   "49457",
+   1
+  ],
+  "340869": [
+   "49461",
+   0
+  ],
+  "340874": [
+   "49461",
+   1
+  ],
+  "340894": [
+   "49461",
+   2
+  ],
+  "359653": [
+   "52740",
+   0
+  ],
+  "359686": [
+   "52740",
+   1
+  ],
+  "359695": [
+   "52741",
+   0
+  ],
+  "359668": [
+   "52741",
+   1
+  ],
+  "359619": [
+   "52741",
+   2
+  ],
+  "359666": [
+   "52741",
+   3
+  ],
+  "359625": [
+   "52742",
+   0
+  ],
+  "359712": [
+   "52742",
+   1
+  ],
+  "359689": [
+   "52733",
+   0
+  ],
+  "359698": [
+   "52733",
+   1
+  ],
+  "359656": [
+   "52734",
+   0
+  ],
+  "359640": [
+   "52734",
+   1
+  ],
+  "359608": [
+   "52734",
+   2
+  ],
+  "359673": [
+   "52734",
+   3
+  ],
+  "359638": [
+   "52734",
+   4
+  ],
+  "359622": [
+   "52734",
+   5
+  ],
+  "359683": [
+   "52734",
+   6
+  ],
+  "359595": [
+   "52738",
+   0
+  ],
+  "359628": [
+   "52738",
+   1
+  ],
+  "359685": [
+   "52754",
+   0
+  ],
+  "359681": [
+   "52766",
+   0
+  ],
+  "359680": [
+   "52764",
+   0
+  ],
+  "359643": [
+   "52764",
+   1
+  ],
+  "359664": [
+   "52764",
+   2
+  ],
+  "359593": [
+   "52764",
+   3
+  ],
+  "359660": [
+   "52764",
+   4
+  ],
+  "359722": [
+   "52743",
+   0
+  ],
+  "359713": [
+   "52743",
+   1
+  ],
+  "359671": [
+   "52743",
+   2
+  ],
+  "359649": [
+   "52743",
+   3
+  ],
+  "359607": [
+   "52743",
+   4
+  ],
+  "359674": [
+   "52744",
+   0
+  ],
+  "359635": [
+   "52744",
+   1
+  ],
+  "359702": [
+   "52747",
+   0
+  ],
+  "359676": [
+   "52747",
+   1
+  ],
+  "359600": [
+   "52747",
+   2
+  ],
+  "359665": [
+   "52753",
+   0
+  ],
+  "359594": [
+   "52753",
+   1
+  ],
+  "359587": [
+   "52753",
+   2
+  ],
+  "359615": [
+   "52753",
+   3
+  ],
+  "359724": [
+   "52725",
+   0
+  ],
+  "359719": [
+   "52725",
+   1
+  ],
+  "359582": [
+   "52725",
+   2
+  ],
+  "359611": [
+   "52725",
+   3
+  ],
+  "359650": [
+   "52725",
+   4
+  ],
+  "359632": [
+   "52724",
+   0
+  ],
+  "359576": [
+   "52724",
+   1
+  ],
+  "359688": [
+   "52724",
+   2
+  ],
+  "359578": [
+   "52724",
+   3
+  ],
+  "359709": [
+   "52724",
+   4
+  ],
+  "359694": [
+   "52724",
+   5
+  ],
+  "359637": [
+   "52728",
+   0
+  ],
+  "359703": [
+   "52728",
+   1
+  ],
+  "359614": [
+   "52728",
+   2
+  ],
+  "359663": [
+   "52728",
+   3
+  ],
+  "359691": [
+   "52728",
+   4
+  ],
+  "359690": [
+   "52728",
+   5
+  ],
+  "359630": [
+   "52728",
+   6
+  ],
+  "359617": [
+   "52749",
+   0
+  ],
+  "359720": [
+   "52749",
+   2
+  ],
+  "359636": [
+   "52749",
+   3
+  ],
+  "359667": [
+   "52758",
+   0
+  ],
+  "359684": [
+   "52758",
+   1
+  ],
+  "359613": [
+   "52758",
+   2
+  ],
+  "359679": [
+   "52758",
+   3
+  ],
+  "359723": [
+   "52723",
+   0
+  ],
+  "359721": [
+   "52723",
+   1
+  ],
+  "359585": [
+   "52723",
+   2
+  ],
+  "359648": [
+   "52723",
+   3
+  ],
+  "359725": [
+   "52735",
+   0
+  ],
+  "359657": [
+   "52735",
+   1
+  ],
+  "359672": [
+   "52735",
+   2
+  ],
+  "359589": [
+   "52735",
+   3
+  ],
+  "359580": [
+   "52735",
+   4
+  ],
+  "359579": [
+   "52735",
+   5
+  ],
+  "359647": [
+   "52735",
+   6
+  ],
+  "359714": [
+   "52735",
+   7
+  ],
+  "359710": [
+   "52737",
+   0
+  ],
+  "359575": [
+   "52737",
+   1
+  ],
+  "359693": [
+   "52737",
+   2
+  ],
+  "359718": [
+   "52737",
+   3
+  ],
+  "359675": [
+   "52748",
+   0
+  ],
+  "359581": [
+   "52748",
+   1
+  ],
+  "359711": [
+   "52748",
+   2
+  ],
+  "359646": [
+   "52748",
+   3
+  ],
+  "359590": [
+   "52748",
+   4
+  ],
+  "359609": [
+   "52748",
+   5
+  ],
+  "359623": [
+   "52732",
+   0
+  ],
+  "359620": [
+   "52732",
+   1
+  ],
+  "359655": [
+   "52761",
+   0
+  ],
+  "359612": [
+   "52761",
+   1
+  ],
+  "359599": [
+   "52761",
+   2
+  ],
+  "359588": [
+   "52761",
+   3
+  ],
+  "359639": [
+   "52761",
+   4
+  ],
+  "359705": [
+   "52761",
+   5
+  ],
+  "359602": [
+   "52761",
+   6
+  ],
+  "359633": [
+   "52761",
+   7
+  ],
+  "359616": [
+   "52761",
+   8
+  ],
+  "359716": [
+   "52761",
+   9
+  ],
+  "359634": [
+   "52761",
+   10
+  ],
+  "359654": [
+   "52726",
+   0
+  ],
+  "359604": [
+   "52726",
+   1
+  ],
+  "359699": [
+   "52726",
+   2
+  ],
+  "359687": [
+   "52729",
+   0
+  ],
+  "359584": [
+   "52729",
+   1
+  ],
+  "359641": [
+   "52729",
+   2
+  ],
+  "359651": [
+   "52729",
+   3
+  ],
+  "359618": [
+   "52739",
+   0
+  ],
+  "359700": [
+   "52739",
+   1
+  ],
+  "359596": [
+   "52739",
+   2
+  ],
+  "359677": [
+   "52739",
+   4
+  ],
+  "359696": [
+   "52739",
+   5
+  ],
+  "359715": [
+   "52739",
+   6
+  ],
+  "359697": [
+   "52739",
+   7
+  ],
+  "359642": [
+   "52739",
+   8
+  ],
+  "359586": [
+   "52746",
+   0
+  ],
+  "359605": [
+   "52746",
+   1
+  ],
+  "359603": [
+   "52746",
+   2
+  ],
+  "359682": [
+   "52750",
+   0
+  ],
+  "359583": [
+   "52750",
+   1
+  ],
+  "359645": [
+   "52750",
+   2
+  ],
+  "359701": [
+   "52750",
+   3
+  ],
+  "359707": [
+   "52750",
+   4
+  ],
+  "359662": [
+   "52750",
+   5
+  ],
+  "359597": [
+   "52750",
+   6
+  ],
+  "359574": [
+   "52750",
+   7
+  ],
+  "359708": [
+   "52759",
+   0
+  ],
+  "359661": [
+   "52759",
+   1
+  ],
+  "359610": [
+   "52759",
+   2
+  ],
+  "359626": [
+   "52759",
+   3
+  ],
+  "359678": [
+   "52759",
+   4
+  ],
+  "359706": [
+   "52759",
+   5
+  ],
+  "359592": [
+   "52759",
+   6
+  ],
+  "359624": [
+   "52759",
+   7
+  ],
+  "359629": [
+   "52760",
+   0
+  ],
+  "359621": [
+   "52760",
+   1
+  ],
+  "359670": [
+   "52760",
+   2
+  ],
+  "359577": [
+   "52760",
+   3
+  ],
+  "359658": [
+   "52760",
+   4
+  ],
+  "359606": [
+   "52760",
+   5
+  ],
+  "359591": [
+   "52762",
+   0
+  ],
+  "359704": [
+   "52762",
+   1
+  ],
+  "359627": [
+   "52762",
+   2
+  ],
+  "340861": [
+   "53696",
+   2
+  ],
+  "264026": [
+   "53697",
+   0
+  ],
+  "264229": [
+   "53697",
+   2
+  ],
+  "265856": [
+   "53697",
+   3
+  ],
+  "264228": [
+   "53697",
+   4
+  ],
+  "268126": [
+   "53697",
+   5
+  ],
+  "264230": [
+   "53698",
+   0
+  ],
+  "264262": [
+   "53698",
+   1
+  ],
+  "264234": [
+   "53698",
+   2
+  ],
+  "264257": [
+   "53704",
+   0
+  ],
+  "265852": [
+   "53704",
+   1
+  ],
+  "328540": [
+   "53704",
+   2
+  ],
+  "340877": [
+   "53704",
+   3
+  ],
+  "264231": [
+   "53705",
+   0
+  ],
+  "311758": [
+   "53705",
+   1
+  ],
+  "265685": [
+   "53705",
+   2
+  ],
+  "264232": [
+   "53705",
+   3
+  ],
+  "264227": [
+   "53705",
+   4
+  ],
+  "264233": [
+   "53705",
+   5
+  ],
+  "264237": [
+   "53706",
+   0
+  ],
+  "268445": [
+   "53706",
+   1
+  ],
+  "268290": [
+   "53706",
+   2
+  ],
+  "268291": [
+   "53706",
+   3
+  ],
+  "268294": [
+   "53706",
+   4
+  ],
+  "268299": [
+   "53706",
+   5
+  ],
+  "340865": [
+   "53706",
+   6
+  ],
+  "357025": [
+   "62887",
+   0
+  ]
+ },
+ "cat_lang": {
+  "37023": "en_US",
+  "37466": "en_US",
+  "37464": "en_US",
+  "37465": "en_US",
+  "49431": "en_US",
+  "95629": "en_US",
+  "37029": "en_US",
+  "37024": "en_US",
+  "37027": "en_US",
+  "37028": "en_US",
+  "37476": "en_US",
+  "49432": "en_US",
+  "49434": "en_US",
+  "49459": "en_US",
+  "49463": "en_US",
+  "58601": "en_US",
+  "58158": "t_CN",
+  "58188": "t_CN",
+  "58501": "t_CN",
+  "39951": "t_CN",
+  "39952": "t_CN",
+  "39953": "t_CN",
+  "39955": "t_CN",
+  "39957": "t_CN",
+  "37885": "en_US",
+  "37886": "en_US",
+  "37887": "en_US",
+  "37499": "en_US",
+  "37888": "en_US",
+  "37889": "en_US",
+  "41079": "t_CN",
+  "41107": "t_CN",
+  "41108": "t_CN",
+  "41109": "t_CN",
+  "41534": "t_CN",
+  "41535": "t_CN",
+  "41536": "t_CN",
+  "42028": "t_CN",
+  "42029": "t_CN",
+  "42032": "t_CN",
+  "42033": "t_CN",
+  "42036": "t_CN",
+  "42037": "t_CN",
+  "58600": "t_CN",
+  "58603": "t_CN",
+  "58647": "t_CN",
+  "58828": "t_CN",
+  "58829": "t_CN",
+  "41970": "t_CN",
+  "57486": "t_CN",
+  "58150": "t_CN",
+  "42182": "cn_CN",
+  "42183": "cn_CN",
+  "42184": "cn_CN",
+  "42185": "cn_CN",
+  "44032": "cn_CN",
+  "44033": "cn_CN",
+  "44064": "cn_CN",
+  "44065": "cn_CN",
+  "44066": "cn_CN",
+  "44067": "cn_CN",
+  "44068": "cn_CN",
+  "44069": "cn_CN",
+  "44070": "cn_CN",
+  "44086": "cn_CN",
+  "44087": "cn_CN",
+  "44089": "cn_CN",
+  "44090": "cn_CN",
+  "44286": "cn_CN",
+  "44287": "cn_CN",
+  "44288": "cn_CN",
+  "44289": "cn_CN",
+  "46012": "cn_CN",
+  "42192": "nl_NL",
+  "52451": "nl_NL",
+  "52452": "nl_NL",
+  "42196": "nl_NL",
+  "42197": "nl_NL",
+  "42198": "nl_NL",
+  "42199": "nl_NL",
+  "42200": "nl_NL",
+  "42204": "nl_NL",
+  "42201": "nl_NL",
+  "42202": "nl_NL",
+  "42203": "nl_NL",
+  "42205": "nl_NL",
+  "42206": "nl_NL",
+  "42207": "nl_NL",
+  "42208": "nl_NL",
+  "42209": "nl_NL",
+  "42210": "nl_NL",
+  "42211": "nl_NL",
+  "42212": "nl_NL",
+  "42213": "nl_NL",
+  "42214": "nl_NL",
+  "52475": "nl_NL",
+  "52476": "nl_NL",
+  "52477": "nl_NL",
+  "79339": "nl_NL",
+  "42215": "nl_NL",
+  "42216": "nl_NL",
+  "52455": "nl_NL",
+  "47369": "en_US",
+  "49148": "en_US",
+  "49341": "en_US",
+  "39657": "en_US",
+  "39659": "en_US",
+  "48721": "en_US",
+  "49457": "en_US",
+  "49461": "en_US",
+  "52459": "nl_NL",
+  "52460": "nl_NL",
+  "52474": "nl_NL",
+  "52478": "nl_NL",
+  "52479": "nl_NL",
+  "52480": "nl_NL",
+  "52481": "nl_NL",
+  "52482": "nl_NL",
+  "52740": "it_IT",
+  "52741": "it_IT",
+  "52742": "it_IT",
+  "52733": "it_IT",
+  "52734": "it_IT",
+  "52738": "it_IT",
+  "52754": "it_IT",
+  "52765": "it_IT",
+  "52766": "it_IT",
+  "52764": "it_IT",
+  "52743": "it_IT",
+  "52744": "it_IT",
+  "52747": "it_IT",
+  "52753": "it_IT",
+  "52725": "it_IT",
+  "52724": "it_IT",
+  "52728": "it_IT",
+  "52749": "it_IT",
+  "52758": "it_IT",
+  "52723": "it_IT",
+  "52735": "it_IT",
+  "52737": "it_IT",
+  "52748": "it_IT",
+  "52732": "it_IT",
+  "52761": "it_IT",
+  "52726": "it_IT",
+  "52729": "it_IT",
+  "52739": "it_IT",
+  "52746": "it_IT",
+  "52750": "it_IT",
+  "52759": "it_IT",
+  "52760": "it_IT",
+  "52762": "it_IT",
+  "53696": "en_US",
+  "53709": "en_US",
+  "53710": "en_US",
+  "53697": "en_US",
+  "53698": "en_US",
+  "53704": "en_US",
+  "53705": "en_US",
+  "53706": "en_US",
+  "56987": "en_US",
+  "56991": "en_US",
+  "56989": "en_US",
+  "56990": "en_US",
+  "58189": "en_US",
+  "58190": "en_US",
+  "58191": "en_US",
+  "58192": "en_US",
+  "58193": "en_US",
+  "58194": "en_US",
+  "58195": "en_US",
+  "58196": "en_US",
+  "58197": "en_US",
+  "39865": "t_CN",
+  "58504": "t_CN",
+  "58505": "t_CN",
+  "58506": "t_CN",
+  "58507": "t_CN",
+  "58508": "t_CN",
+  "58597": "t_CN",
+  "58598": "t_CN",
+  "58599": "t_CN",
+  "59207": "en_US",
+  "59639": "en_US",
+  "79158": "nl_NL",
+  "79157": "nl_NL",
+  "79159": "nl_NL",
+  "61807": "de_DE",
+  "61816": "de_DE",
+  "61818": "de_DE",
+  "61817": "de_DE",
+  "61801": "de_DE",
+  "61809": "de_DE",
+  "61829": "de_DE",
+  "61831": "de_DE",
+  "61803": "de_DE",
+  "61810": "de_DE",
+  "61821": "de_DE",
+  "61835": "de_DE",
+  "61799": "de_DE",
+  "61811": "de_DE",
+  "61812": "de_DE",
+  "61814": "de_DE",
+  "61813": "de_DE",
+  "61822": "de_DE",
+  "61823": "de_DE",
+  "61825": "de_DE",
+  "61832": "de_DE",
+  "61836": "de_DE",
+  "61837": "de_DE",
+  "61838": "de_DE",
+  "61839": "de_DE",
+  "61815": "de_DE",
+  "61808": "de_DE",
+  "61834": "de_DE",
+  "61824": "de_DE",
+  "61826": "de_DE",
+  "61827": "de_DE",
+  "61796": "de_DE",
+  "61797": "de_DE",
+  "61828": "de_DE",
+  "61830": "de_DE",
+  "61833": "de_DE",
+  "84318": "en_US",
+  "62887": "en_US",
+  "62889": "en_US",
+  "70692": "en_US",
+  "69442": "t_CN",
+  "69443": "t_CN",
+  "70691": "t_CN",
+  "90581": "en_US",
+  "71627": "en_US",
+  "71628": "en_US",
+  "112272": "en_US",
+  "112271": "en_US",
+  "112276": "en_US",
+  "112275": "en_US",
+  "112273": "en_US",
+  "112277": "en_US",
+  "53663": "en_US",
+  "112239": "en_US",
+  "36879": "en_US",
+  "53664": "en_US",
+  "37828": "en_US",
+  "71626": "en_US",
+  "48719": "en_US",
+  "62886": "en_US",
+  "36878": "en_US",
+  "37827": "en_US",
+  "46766": "en_US",
+  "56448": "en_US",
+  "59206": "en_US",
+  "61819": "de_DE",
+  "61802": "de_DE",
+  "61798": "de_DE",
+  "61820": "de_DE",
+  "61804": "de_DE",
+  "61800": "de_DE",
+  "61805": "de_DE",
+  "61806": "de_DE",
+  "52751": "it_IT",
+  "52727": "it_IT",
+  "52730": "it_IT",
+  "52736": "it_IT",
+  "52755": "it_IT",
+  "52756": "it_IT",
+  "52757": "it_IT",
+  "52968": "it_IT",
+  "42191": "nl_NL",
+  "52453": "nl_NL",
+  "52454": "nl_NL",
+  "42186": "nl_NL",
+  "42187": "nl_NL",
+  "42188": "nl_NL",
+  "42189": "nl_NL",
+  "42190": "nl_NL",
+  "60164": "nl_NL",
+  "39872": "cn_CN",
+  "39873": "cn_CN",
+  "39875": "cn_CN",
+  "39878": "cn_CN",
+  "39869": "cn_CN",
+  "39870": "cn_CN",
+  "39864": "t_CN",
+  "36924": "t_CN",
+  "39860": "t_CN",
+  "39862": "t_CN",
+  "69441": "t_CN",
+  "39863": "t_CN",
+  "36923": "t_CN",
+  "58503": "t_CN",
+  "58596": "t_CN"
+ },
+ "cat_slug": {
+  "37023": "find-and-edit-forms",
+  "37466": "submit-forms",
+  "37464": "link-issues-and-documents-to-forms",
+  "37465": "export-forms",
+  "49431": "permits-company-level",
+  "95629": "new-project",
+  "37029": "forms-company-level",
+  "37024": "drawings-project-level",
+  "37027": "notifications-project-level",
+  "37028": "standard-issue-list-company-level",
+  "37476": "accounts-and-permissions-project-level",
+  "49432": "checklists-and-scheduling-company-level",
+  "49434": "accounts-and-permissions-company-level",
+  "49459": "locations-project-level",
+  "49463": "general-settings",
+  "58601": "standard-issue-list-company-level",
+  "37885": "upload-documents",
+  "37886": "manage-documents",
+  "37887": "download-documents",
+  "37499": "quality",
+  "37888": "safety",
+  "37889": "site-operations",
+  "41109": "pdf",
+  "58828": "checklists-and-scheduling-company-level",
+  "58829": "permits-company-level",
+  "79339": "standaard-actiepunten-lijst-projectniveau",
+  "47369": "analytics",
+  "49148": "custom-pdf-report",
+  "39657": "get-ready-on-mobile",
+  "39659": "troubleshooting-on-mobile",
+  "48721": "general",
+  "49457": "troubelshooting-for-admins",
+  "49461": "locations",
+  "52740": "safety",
+  "52741": "quality",
+  "52742": "site-operations",
+  "52733": "upload-documents",
+  "52734": "manage-documents",
+  "52738": "download-documents",
+  "52754": "custom-pdf-report",
+  "52766": "analytics",
+  "52764": "general",
+  "52743": "get-ready-on-mobile",
+  "52744": "troubelshooting-for-admins",
+  "52747": "locations",
+  "52753": "troubleshooting-on-mobile",
+  "52725": "add-issues",
+  "52724": "edit-issues",
+  "52728": "reports-and-analytics",
+  "52749": "update-issues",
+  "52758": "find-issues",
+  "52723": "link-issues-and-documents-to-forms",
+  "52735": "submit-forms",
+  "52737": "export-forms",
+  "52748": "find-and-edit-forms",
+  "52732": "accounts-and-permissions-company-level",
+  "52761": "forms-company-level",
+  "52726": "permits-company-level",
+  "52729": "checklists-and-scheduling-company-level",
+  "52739": "accounts-and-permissions-project-level",
+  "52746": "locations-project-level",
+  "52750": "general-settings",
+  "52759": "drawings-project-level",
+  "52760": "standard-issue-list-company-level",
+  "52762": "notifications-project-level",
+  "53696": "what-is-your-role",
+  "53697": "add-issues",
+  "53698": "update-issues",
+  "53704": "find-issues",
+  "53705": "edit-issues",
+  "53706": "report-and-analytics",
+  "58505": "app",
+  "58506": "admin",
+  "58599": "pdf",
+  "62887": "2fa",
+  "112276": "snagr-home-admin",
+  "112275": "appointment",
+  "112273": "appointment",
+  "112277": "appointment"
+ },
+ "cat_q": {
+  "37023": [
+   "how-can-i-search-for-forms",
+   "how-do-i-see-form-notifications",
+   "304211-can-i-delete-form",
+   "340764-can-i-search-inspection-forms-by-the-hotspot-value",
+   "340889-inspection-dashboard",
+   "341361-can-i-change-location-of-an-inspection-form",
+   "how-to-scan-and-fill-the-qrcode-image-qrcode-text-field"
+  ],
+  "37466": [
+   "how-to-complete-forms-on-device",
+   "how-to-complete-forms-on-website",
+   "340863-permits-dashboard",
+   "can-i-track-changes-of-a-form",
+   "can-i-have-a-summary-of-the-form-workflow-history",
+   "how-do-i-send-notifications-regarding-a-form",
+   "how-can-i-be-notified-of-forms-updates",
+   "how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form",
+   "how-to-closed-failed-related-forms"
+  ],
+  "37464": [
+   "how-can-i-link-issues-to-a-form",
+   "how-can-i-unlink-issues-from-a-form",
+   "386734-how-to-upload-documents-to-link-to-forms-new-upgrade",
+   "386735-how-to-mark-the-document-as-not-in-use-new-upgrade"
+  ],
+  "37465": [
+   "can-i-export-forms-in-pdf",
+   "how-do-i-export-form-pdf-if-there-are-issues-and-documents-attached-to-it",
+   "can-i-extract-a-list-of-forms-that-are-created-on-snagr",
+   "304697-how-to-export-excel-from-template",
+   "304553-how-to-design-the-dms-export-template"
+  ],
+  "49431": [
+   "340750-add-permit-inspection",
+   "340751-add-permit",
+   "340755-view-edit-delete-permit-inspection"
+  ],
+  "95629": [
+   "how-do-i-create-a-new-project",
+   "how-do-i-clone-project"
+  ],
+  "37029": [
+   "287202-how-to-design-inspections-in-snagr",
+   "340758-how-to-edit-the-inspection-template",
+   "312904-how-do-i-digitalise-a-form",
+   "how-to-edit-form-details",
+   "340756-can-i-edit-replace-inspection-form",
+   "304335-how-to-create-custom-list",
+   "308326-how-to-edit-the-custom-list",
+   "343363-how-to-create-a-hierarchical-list",
+   "330054-import-export-inspection-form-templates",
+   "340737-how-can-i-remove-a-form-from-the-inspection-template",
+   "340736-how-can-i-remove-the-inspection-from-the-company",
+   "how-to-set-up-the-qr-code-image"
+  ],
+  "37024": [
+   "how-to-group-drawings",
+   "308329-how-to-edit-drawing-set",
+   "how-to-upload-drawings",
+   "how-to-edit-existing-drawing",
+   "312274-how-to-set-up-the-drawing-regions",
+   "what-is-the-quickest-way-to-set-up-repetitive-units",
+   "how-to-link-drawings-together-manually",
+   "how-to-link-drawings-together-automatically"
+  ],
+  "37027": [
+   "how-to-set-up-issues-notifications-for-all-users",
+   "how-to-set-up-forms-notifications-for-all-users",
+   "how-to-manage-subscriptions"
+  ],
+  "37028": [
+   "how-to-enable-specific-issue-categories-for-a-project",
+   "linkup-issue-contractor"
+  ],
+  "37476": [
+   "how-to-add-users-to-project",
+   "how-to-add-contractors-to-project",
+   "how-to-edit-users-and-contractors",
+   "how-to-set-permissions-issues",
+   "315713-how-to-set-permissions-forms",
+   "how-to-set-permission-for-kpi-dashboard",
+   "how-to-set-permission-for-custom-reports",
+   "how-to-send-password-reminders",
+   "how-to-batch-update-user-permissions",
+   "384922-how-to-batch-edit-user-s-role-enabled",
+   "reset2fa"
+  ],
+  "49432": [
+   "340752-project-checklists",
+   "340888-project-checklists",
+   "340754-construction-stages",
+   "340886-construction-stages"
+  ],
+  "49434": [
+   "340763-add-user-at-the-company-level",
+   "340745-add-contractors-at-the-company-level"
+  ],
+  "49459": [
+   "how-to-set-up-locations-on-drawings",
+   "340867-move-edit-delete-a-location-pin",
+   "340895-create-barcode-for-location"
+  ],
+  "49463": [
+   "340896-how-to-edit-the-project-settings",
+   "340744-edit-default-language-or-logo",
+   "passwordcomplexity",
+   "340760-edit-view-projects",
+   "340759-can-i-edit-the-priorities-and-due-day",
+   "340761-regions-divisions-programs",
+   "340762-terminology"
+  ],
+  "58601": [
+   "how-to-design-the-issue-list",
+   "how-to-import-issue-list",
+   "how-to-add-single-items-to-issue-list",
+   "how-to-edit-items-on-standard-issue-list",
+   "how-can-i-set-up-auto-close-for-photo-diaries"
+  ],
+  "58158": [],
+  "58188": [],
+  "58501": [],
+  "39951": [],
+  "39952": [],
+  "39953": [],
+  "39955": [],
+  "39957": [],
+  "37885": [
+   "how-to-create-a-folder",
+   "how-to-upload-documents",
+   "what-is-bundle",
+   "315549-is-there-version-control-in-snagr-documents"
+  ],
+  "37886": [
+   "how-to-link-documents-to-locations",
+   "who-has-access-to-document-repository",
+   "how-to-delete-a-folder",
+   "how-to-delete-a-file",
+   "how-to-move-a-file-from-one-folder-to-another",
+   "how-to-find-documents-by-locations"
+  ],
+  "37887": [
+   "how-to-download-files"
+  ],
+  "37499": [
+   "defect-management",
+   "handover-process-with-purchaser",
+   "request-for-inspections",
+   "337878-non-conformance-report"
+  ],
+  "37888": [
+   "safety-inspection",
+   "317970-permit-to-work"
+  ],
+  "37889": [
+   "daily-site-walk",
+   "photo-diary"
+  ],
+  "41079": [],
+  "41107": [],
+  "41108": [],
+  "41109": [
+   "289914-pdf",
+   "289945-pdf",
+   "290530-snagr",
+   "304554",
+   "304337-excel"
+  ],
+  "41534": [],
+  "41535": [],
+  "41536": [],
+  "42028": [],
+  "42029": [],
+  "42032": [],
+  "42033": [],
+  "42036": [],
+  "42037": [],
+  "58600": [],
+  "58603": [],
+  "58647": [],
+  "58828": [
+   "387516-create-project-checklist",
+   "387517-import-project-checklists-at-project-level",
+   "387518-create-construction-stages",
+   "387519-import-construction-stages-schedules-to-track-progress-at-project-level"
+  ],
+  "58829": [
+   "387522-add-permit-inspection",
+   "387523-add-permit-form-pages",
+   "387524-view-edit-delete-permit-inspection"
+  ],
+  "41970": [],
+  "57486": [],
+  "58150": [],
+  "42182": [],
+  "42183": [],
+  "42184": [],
+  "42185": [],
+  "44032": [],
+  "44033": [],
+  "44064": [],
+  "44065": [],
+  "44066": [],
+  "44067": [],
+  "44068": [],
+  "44069": [],
+  "44070": [],
+  "44086": [],
+  "44087": [],
+  "44089": [],
+  "44090": [],
+  "44286": [],
+  "44287": [],
+  "44288": [],
+  "44289": [],
+  "46012": [],
+  "42192": [],
+  "52451": [],
+  "52452": [],
+  "42196": [],
+  "42197": [],
+  "42198": [],
+  "42199": [],
+  "42200": [],
+  "42204": [],
+  "42201": [],
+  "42202": [],
+  "42203": [],
+  "42205": [],
+  "42206": [],
+  "42207": [],
+  "42208": [],
+  "42209": [],
+  "42210": [],
+  "42211": [],
+  "42212": [],
+  "42213": [],
+  "42214": [],
+  "52475": [],
+  "52476": [],
+  "52477": [],
+  "79339": [
+   "kan-een-aannemersgroep-automatisch-gekoppeld-worden-aan-een-specifiek-actiepuntentype",
+   "hoe-activeer-ik-specifieke-actiepunt-categorieen-voor-een-project"
+  ],
+  "42215": [],
+  "42216": [],
+  "52455": [],
+  "47369": [
+   "how-do-i-see-custom-dashboard"
+  ],
+  "49148": [
+   "339385-how-do-i-generate-a-custom-report"
+  ],
+  "49341": [],
+  "39657": [
+   "how-do-i-download-a-project",
+   "how-can-i-go-from-one-drawing-to-another",
+   "340878-icons-or-buttons-on-the-device",
+   "what-does-synchronise-mean",
+   "can-i-set-up-auto-sync",
+   "388027-how-to-enable-location-data-on-the-mobile-device"
+  ],
+  "39659": [
+   "common-issues-in-project-download",
+   "340881-the-app-has-been-checking-credentials-for-a-long-time-and-does-not-allow-me-to-download-project-on-mobile-app-what-is-wrong",
+   "remove-and-re-add-project",
+   "341362-i-can-t-sync-on-mobile-app-what-should-i-do"
+  ],
+  "48721": [
+   "how-do-i-change-password",
+   "what-is-issue-mode-and-form-mode",
+   "340883-what-os-version-does-snagr-support",
+   "371412-what-is-email-log",
+   "386689-how-can-i-contact-snagr",
+   "what-if-i-forgot-my-account-password",
+   "2fa",
+   "loginwith2fa"
+  ],
+  "49457": [
+   "340868-i-can-t-add-a-user-i-don-t-see-him-her-on-the-project-but-the-system-says-email-already-exists-what-is-wrong",
+   "how-to-enable-form-templates-for-a-project"
+  ],
+  "49461": [
+   "340869-location-ready-for-inspection",
+   "340874-location-sign-off",
+   "340894-room-area-signoff"
+  ],
+  "52459": [],
+  "52460": [],
+  "52474": [],
+  "52478": [],
+  "52479": [],
+  "52480": [],
+  "52481": [],
+  "52482": [],
+  "52740": [
+   "safety-inspection",
+   "317970-permit-to-work"
+  ],
+  "52741": [
+   "defect-management",
+   "handover-process-with-purchaser",
+   "request-for-inspections",
+   "337878-non-conformance-report"
+  ],
+  "52742": [
+   "daily-site-walk",
+   "photo-diary"
+  ],
+  "52733": [
+   "how-to-create-a-folder",
+   "how-to-upload-documents"
+  ],
+  "52734": [
+   "who-has-access-to-document-repository",
+   "how-to-link-documents-to-locations",
+   "how-to-delete-a-folder",
+   "how-to-delete-a-file",
+   "what-is-bundle",
+   "how-to-move-a-file-from-one-folder-to-another",
+   "315549-is-there-version-control-in-snagr-documents"
+  ],
+  "52738": [
+   "how-to-download-files",
+   "how-to-find-documents-by-locations"
+  ],
+  "52754": [
+   "339385-how-do-i-generate-a-custom-report"
+  ],
+  "52765": [],
+  "52766": [
+   "how-do-i-see-custom-dashboard"
+  ],
+  "52764": [
+   "2fa",
+   "loginwith2fa",
+   "how-do-i-change-password",
+   "what-is-issue-mode-and-form-mode",
+   "340883-what-os-version-does-snagr-support"
+  ],
+  "52743": [
+   "how-do-i-download-a-project",
+   "how-can-i-go-from-one-drawing-to-another",
+   "340878-icons-or-buttons-on-the-device",
+   "what-does-synchronise-mean",
+   "can-i-set-up-auto-sync",
+   "345440-how-to-enable-location-data-on-the-mobile-device"
+  ],
+  "52744": [
+   "340868-i-can-t-add-a-user-i-don-t-see-him-her-on-the-project-but-the-system-says-email-already-exists-what-is-wrong",
+   "how-to-enable-form-templates-for-a-project"
+  ],
+  "52747": [
+   "340869-location-ready-for-inspection",
+   "340874-location-sign-off",
+   "340894-room-area-signoff"
+  ],
+  "52753": [
+   "common-issues-in-project-download",
+   "340881-the-app-has-been-checking-credentials-for-a-long-time-and-does-not-allow-me-to-download-project-on-mobile-app-what-is-wrong",
+   "remove-and-re-add-project",
+   "341362-i-can-t-sync-on-mobile-app-what-should-i-do"
+  ],
+  "52725": [
+   "how-to-add-an-issue",
+   "can-i-add-more-photos-to-an-issue",
+   "can-i-copy-and-paste-an-issue",
+   "what-is-add-future-issue",
+   "can-i-define-photo-size"
+  ],
+  "52724": [
+   "can-i-edit-issues",
+   "311758-how-to-batch-edit-issues",
+   "can-i-delete-issues",
+   "can-i-move-an-issue-pin",
+   "how-to-organise-issue-pins-that-overlap-on-each-other",
+   "how-to-break-items-out-from-a-plot-with-multiple-issues"
+  ],
+  "52728": [
+   "how-to-generate-an-issue-report",
+   "can-issue-reports-be-generated-automatically",
+   "how-to-generate-issue-report-for-subcontractors-only",
+   "can-i-have-a-report-with-the-first-and-last-photo-only",
+   "how-to-get-a-summary-statistics-of-our-issue-records",
+   "how-do-i-view-analytics",
+   "project-summary-what-are-the-figures-in-red-colour"
+  ],
+  "52749": [
+   "how-to-update-issues",
+   "340864-how-to-reopen-the-issue",
+   "what-do-the-pin-colours-represent",
+   "how-do-i-send-a-notification-regarding-an-issue"
+  ],
+  "52758": [
+   "how-do-i-search-issues-on-device",
+   "340877-filtering-issues-on-device",
+   "where-do-i-see-issue-notifications",
+   "328540-how-to-view-issue-history"
+  ],
+  "52723": [
+   "how-can-i-link-issues-to-a-form",
+   "how-can-i-unlink-issues-from-a-form",
+   "how-can-i-link-documents-to-a-form",
+   "how-can-i-unlink-documents-from-a-form",
+   "how-to-upload-documents-to-link-to-forms"
+  ],
+  "52735": [
+   "how-to-complete-forms-on-device",
+   "how-to-complete-forms-on-website",
+   "340863-permits-dashboard",
+   "can-i-track-changes-of-a-form",
+   "can-i-have-a-summary-of-the-form-workflow-history",
+   "how-do-i-send-notifications-regarding-a-form",
+   "how-can-i-be-notified-of-forms-updates",
+   "how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form"
+  ],
+  "52737": [
+   "can-i-export-forms-in-pdf",
+   "how-do-i-export-form-pdf-if-there-are-issues-and-documents-attached-to-it",
+   "can-i-extract-a-list-of-forms-that-are-created-on-snagr",
+   "304697-how-to-export-excel-from-template"
+  ],
+  "52748": [
+   "how-can-i-search-for-forms",
+   "how-do-i-see-form-notifications",
+   "304211-can-i-delete-form",
+   "340764-can-i-search-inspection-forms-by-the-hotspot-value",
+   "340889-inspection-dashboard",
+   "341361-can-i-change-location-of-an-inspection-form"
+  ],
+  "52732": [
+   "340763-add-user-at-the-company-level",
+   "340745-add-contractors-at-the-company-level"
+  ],
+  "52761": [
+   "287202-how-to-design-inspections-in-snagr",
+   "340758-how-to-edit-the-inspection-template",
+   "312904-how-do-i-digitalise-a-form",
+   "340756-can-i-edit-replace-inspection-form",
+   "340737-how-can-i-remove-a-form-from-the-inspection-template",
+   "340736-how-can-i-remove-the-inspection-from-the-company",
+   "304335-how-to-create-custom-list",
+   "308326-how-to-edit-the-custom-list",
+   "330054-import-export-inspection-form-templates",
+   "304553-how-to-design-the-dms-export-template",
+   "343363-how-to-create-a-hierarchical-list"
+  ],
+  "52726": [
+   "340750-add-permit-inspection",
+   "340751-add-permit",
+   "340755-view-edit-delete-permit-inspection"
+  ],
+  "52729": [
+   "340752-project-checklists",
+   "340888-project-checklists",
+   "340754-construction-stages",
+   "340886-construction-stages"
+  ],
+  "52739": [
+   "how-to-add-users-to-project",
+   "how-to-add-contractors-to-project",
+   "how-to-edit-users-and-contractors",
+   "how-to-set-up-form-permissions",
+   "315713-how-to-set-permissions-forms",
+   "how-to-set-permission-for-kpi-dashboard",
+   "how-to-set-permission-for-custom-reports",
+   "how-to-send-password-reminders",
+   "reset2fa"
+  ],
+  "52746": [
+   "how-to-set-up-locations-on-drawings",
+   "340867-move-edit-delete-a-location-pin",
+   "340895-create-barcode-for-location"
+  ],
+  "52750": [
+   "enable2fa",
+   "passwordcomplexity",
+   "340744-edit-default-language-or-logo",
+   "340759-can-i-edit-the-priorities-and-due-day",
+   "340760-edit-view-projects",
+   "340761-regions-divisions-programs",
+   "340896-how-to-edit-the-project-settings",
+   "340762-terminology"
+  ],
+  "52759": [
+   "how-to-group-drawings",
+   "308329-how-to-edit-drawing-set",
+   "how-to-upload-drawings",
+   "how-to-edit-existing-drawing",
+   "312274-how-to-set-up-the-drawing-regions",
+   "what-is-the-quickest-way-to-set-up-repetitive-units",
+   "how-to-link-drawings-together-manually",
+   "how-to-link-drawings-together-automatically"
+  ],
+  "52760": [
+   "how-to-design-the-issue-list",
+   "how-to-import-issue-list",
+   "how-to-add-single-items-to-issue-list",
+   "how-to-edit-items-on-standard-issue-list",
+   "how-to-enable-specific-issue-categories-for-a-project",
+   "how-can-i-set-up-auto-close-for-photo-diaries"
+  ],
+  "52762": [
+   "how-to-set-up-issues-notifications-for-all-users",
+   "how-to-set-up-forms-notifications-for-all-users",
+   "how-to-manage-subscriptions"
+  ],
+  "53696": [
+   "subcontractor",
+   "main-contractor",
+   "developer",
+   "340862-manufacturer"
+  ],
+  "53709": [],
+  "53710": [],
+  "53697": [
+   "how-to-add-an-issue",
+   "how-to-add-multiple-issues-on-the-same-spot",
+   "can-i-add-more-photos-to-an-issue",
+   "can-i-copy-and-paste-an-issue",
+   "what-is-add-future-issue",
+   "can-i-define-photo-size",
+   "add-the-previous-issue"
+  ],
+  "53698": [
+   "how-to-update-issues",
+   "what-do-the-pin-colours-represent",
+   "how-do-i-send-a-notification-regarding-an-issue"
+  ],
+  "53704": [
+   "how-do-i-search-issues-on-device",
+   "where-do-i-see-issue-notifications",
+   "328540-how-to-view-issue-history",
+   "340877-filtering-issues-on-device"
+  ],
+  "53705": [
+   "can-i-edit-issues",
+   "311758-how-to-batch-edit-issues",
+   "can-i-delete-issues",
+   "can-i-move-an-issue-pin",
+   "how-to-organise-issue-pins-that-overlap-on-each-other",
+   "how-to-break-items-out-from-a-plot-with-multiple-issues"
+  ],
+  "53706": [
+   "how-to-generate-an-issue-report",
+   "can-issue-reports-be-generated-automatically",
+   "how-to-generate-issue-report-for-subcontractors-only",
+   "can-i-have-a-report-with-the-first-and-last-photo-only",
+   "how-to-get-a-summary-statistics-of-our-issue-records",
+   "how-do-i-view-analytics",
+   "project-summary-what-are-the-figures-in-red-colour"
+  ],
+  "56987": [],
+  "56991": [],
+  "56989": [],
+  "56990": [],
+  "58189": [],
+  "58190": [],
+  "58191": [],
+  "58192": [],
+  "58193": [],
+  "58194": [],
+  "58195": [],
+  "58196": [],
+  "58197": [],
+  "39865": [],
+  "58504": [],
+  "58505": [
+   "280494",
+   "280502",
+   "386281-app-checking-credentials",
+   "386416-app"
+  ],
+  "58506": [
+   "303596",
+   "386417"
+  ],
+  "58507": [],
+  "58508": [],
+  "58597": [],
+  "58598": [],
+  "58599": [
+   "386715-how-do-i-generate-a-custom-report"
+  ],
+  "59207": [],
+  "59639": [],
+  "79158": [],
+  "79157": [],
+  "79159": [],
+  "61807": [],
+  "61816": [],
+  "61818": [],
+  "61817": [],
+  "61801": [],
+  "61809": [],
+  "61829": [],
+  "61831": [],
+  "61803": [],
+  "61810": [],
+  "61821": [],
+  "61835": [],
+  "61799": [],
+  "61811": [],
+  "61812": [],
+  "61814": [],
+  "61813": [],
+  "61822": [],
+  "61823": [],
+  "61825": [],
+  "61832": [],
+  "61836": [],
+  "61837": [],
+  "61838": [],
+  "61839": [],
+  "61815": [],
+  "61808": [],
+  "61834": [],
+  "61824": [],
+  "61826": [],
+  "61827": [],
+  "61796": [],
+  "61797": [],
+  "61828": [],
+  "61830": [],
+  "61833": [],
+  "84318": [],
+  "62887": [
+   "enable2fa"
+  ],
+  "62889": [],
+  "70692": [],
+  "69442": [],
+  "69443": [],
+  "70691": [],
+  "90581": [],
+  "71627": [],
+  "71628": [],
+  "112272": [],
+  "112271": [],
+  "112276": [
+   "how-to-update-the-users-profile",
+   "how-to-edit-users-detail",
+   "how-to-generate-the-welcome-packs"
+  ],
+  "112275": [
+   "how-to-the-snagr-home-user-request-an-appointment%3F",
+   "how-to-the-snagr-home-user-cancel-a-requested-appointment%3F"
+  ],
+  "112273": [
+   "how-to-create-an-appointment-for-the-owner%3F",
+   "how-to-withdraw-an-appointment%3F",
+   "how-to-confirm-appointment%3F"
+  ],
+  "112277": [
+   "to-batch-assign-the-appointment%3F"
+  ],
+  "53663": [],
+  "112239": [],
+  "36879": [],
+  "53664": [],
+  "37828": [],
+  "71626": [],
+  "48719": [],
+  "62886": [],
+  "36878": [],
+  "37827": [],
+  "46766": [],
+  "56448": [],
+  "59206": [],
+  "61819": [],
+  "61802": [],
+  "61798": [],
+  "61820": [],
+  "61804": [],
+  "61800": [],
+  "61805": [],
+  "61806": [],
+  "52751": [],
+  "52727": [],
+  "52730": [],
+  "52736": [],
+  "52755": [],
+  "52756": [],
+  "52757": [],
+  "52968": [],
+  "42191": [],
+  "52453": [],
+  "52454": [],
+  "42186": [],
+  "42187": [],
+  "42188": [],
+  "42189": [],
+  "42190": [],
+  "60164": [],
+  "39872": [],
+  "39873": [],
+  "39875": [],
+  "39878": [],
+  "39869": [],
+  "39870": [],
+  "39864": [],
+  "36924": [],
+  "39860": [],
+  "39862": [],
+  "69441": [],
+  "39863": [],
+  "36923": [],
+  "58503": [],
+  "58596": []
+ }
+}

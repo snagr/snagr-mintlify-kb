@@ -14,7 +14,7 @@ Generated 2026-09-22 from the `snagr-*-2026-09-22.csv` export.
 | &nbsp;&nbsp;cn | 97 |
 | &nbsp;&nbsp;zh-Hant | 159 |
 | Unpublished articles skipped | 23 |
-| Curated overview pages created | 9 |
+| Curated overview pages created | 7 |
 | Images downloaded | 2055 |
 | Image downloads refused (HTTP 403) | 1 |
 | Dead legacy image links (support.snagr.co.uk) | 228 unique URLs, 1805 references on 167 pages |
@@ -393,15 +393,13 @@ These hrefs pointed to deleted or unpublished Helpjuice articles (they 404 on th
 
 Helpjuice starter-guide categories had no articles of their own but listed links to articles elsewhere. Those became `index.mdx` pages with the same link list.
 
-- `en/getting-started/index` - Getting Started (16 links)
-- `en/set-up-project/index` - Set up project (4 links)
-- `en/reporting/index` - Reporting (7 links)
-- `en/faq/index` - FAQ (8 links)
-- `en/new-features/index` - New Features (9 links)
-- `it/reportistica/index` - Reportistica (6 links)
-- `it/faq/index` - FAQ (1 links)
-- `zh-hant/getting-started/index` - 入門指南 (1 links)
-- `zh-hant/set-up-project/index` - 項目設置 (1 links)
+- `en/getting-started/starter-guide-how-do-i-take-issues/index` - Starter Guide: How do I take issues? (9 links)
+- `en/getting-started/starter-guide-how-to-submit-forms/index` - Starter Guide: How to submit forms? (9 links)
+- `en/reporting/standard-pdf-report/index` - Standard PDF Report (5 links)
+- `en/new-features/document-repository-upgrade/index` - Document repository (Upgrade) (2 links)
+- `en/new-features/others/index` - Others (4 links)
+- `it/reportistica/reportistica-standard-pdf/index` - Reportistica Standard PDF (4 links)
+- `zh-hant/getting-started/starter-guide-how-to-submit-forms/index` - 初階指引：如何提交表格？ (1 links)
 
 ## Duplicate slugs
 
@@ -419,7 +417,7 @@ Two articles in the same folder had the same Helpjuice codename; the second one 
 ## Things to review by hand
 
 - Branding: `docs.json` still uses the starter logo files in `logo/` and `favicon.svg`; replace them with SnagR assets. The navbar links, footer socials and starter pages were removed.
-- Colours: primary `#086F92` was chosen from the old Helpjuice theme (`#09b2e6` failed the WCAG contrast check).
+- Colours: primary `#086F92` was derived from the old Helpjuice theme (`#09b2e6` failed the WCAG contrast check).
 - Chinese article URLs: Helpjuice used numeric codenames for most Chinese articles, so their file names are the Helpjuice question ids (for example `zh-hant/issues/add-issues/280009.mdx`). Rename them if you want readable URLs; nothing links to the old codenames.
 - Group names in the sidebar keep the original Helpjuice category names, including capitalisation and the typo in "Troubelshooting for Admins".
 - Guidde walkthroughs were flattened to their screenshots and step text.

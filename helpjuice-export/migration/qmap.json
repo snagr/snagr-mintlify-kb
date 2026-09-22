@@ -1,0 +1,6806 @@
+{
+ "264208": {
+  "cat": "48721",
+  "qid": "264208",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/48721-general/what-is-issue-mode-and-form-mode",
+  "private": false
+ },
+ "268884": {
+  "cat": "37886",
+  "qid": "268884",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37886-manage-documents/who-has-access-to-document-repository",
+  "private": false
+ },
+ "378714": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2F378714-trd-admin-training-video",
+  "private": true
+ },
+ "340868": {
+  "cat": "49457",
+  "qid": "340868",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49457-troubelshooting-for-admins/340868-i-can-t-add-a-user-i-don-t-see-him-her-on-the-project-but-the-system-says-email-already-exists-what-is-wrong",
+  "private": false
+ },
+ "266210": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2F37464-link-issues-and-documents-to-forms%2Fhow-can-i-link-documents-to-a-form",
+  "private": true
+ },
+ "377203": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Ftrd-nqaa%2F377203-trd-nqaa-training-video",
+  "private": true
+ },
+ "389566": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389566-nqaa-training-video-website",
+  "private": true
+ },
+ "389567": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389567-nqaa-training-video-app",
+  "private": true
+ },
+ "389568": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389568-website-form-closed-passed-failed",
+  "private": true
+ },
+ "389569": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389569-website-fill-in-form-and-attach-document",
+  "private": true
+ },
+ "389571": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389571-website-login-with-2-factor-authentication-code",
+  "private": true
+ },
+ "391374": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2F37023-find-and-edit-forms%2Fhow-to-make-use-of-form-finder-in-app",
+  "private": true
+ },
+ "394794": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Ftrd-dowl%2Fapp-login",
+  "private": true
+ },
+ "389572": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389572-website-form-creation",
+  "private": true
+ },
+ "389573": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389573-app-create-a-new-inspection",
+  "private": true
+ },
+ "389574": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389574-app-form-closed-passed-failed",
+  "private": true
+ },
+ "389575": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389575-app-open-form-from-dashboard",
+  "private": true
+ },
+ "389576": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-nqaa%2F389576-app-notification",
+  "private": true
+ },
+ "394803": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Ftrd-spe%2Fvideo-tutorials-spe-report",
+  "private": true
+ },
+ "400392": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-photo-diary%2Fwebsite-photo-diary-issue-dashboard",
+  "private": true
+ },
+ "400393": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-photo-diary%2Fwebsite-photo-dairy-create-a-photo-diary-record",
+  "private": true
+ },
+ "400394": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-photo-diary%2Fapp-photo-dairy-create-a-photo-diary-record",
+  "private": true
+ },
+ "400395": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-photo-diary%2Fapp-photo-dairy-synchronisation",
+  "private": true
+ },
+ "400396": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcwd-photo-diary%2Fphoto-diary-adding-more-photos-in-the-same-record",
+  "private": true
+ },
+ "448362": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fapidoc%2Fhow-do-i-get-my-api-token",
+  "private": true
+ },
+ "448363": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fapidoc%2Fwhere-do-i-find-snagr-api-documentation",
+  "private": true
+ },
+ "448364": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fpublishpowerbi%2Fhow-do-i-embed-power-bi-dashboards-in-snagr-project-sites",
+  "private": true
+ },
+ "484404": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Ftrd-spe%2Ftraining-handout-spe",
+  "private": true
+ },
+ "484403": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Ftrd-nqaa%2Fhandout-material-nqaa",
+  "private": true
+ },
+ "484402": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Ftrd-dowl%2Fhandout-material-dowl-hints-and-tips",
+  "private": true
+ },
+ "530656": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Flinks%2Fhow-to-generate-photo-links",
+  "private": true
+ },
+ "530664": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Flinks%2Fhow-to-generate-plan-viewer-link",
+  "private": true
+ },
+ "530667": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Flinks%2Fhow-to-generate-link-to-view-inspection-form",
+  "private": true
+ },
+ "264285": {
+  "cat": "37024",
+  "qid": "264285",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37024-drawings-project-level/how-to-group-drawings",
+  "private": false
+ },
+ "357029": {
+  "cat": "37476",
+  "qid": "357029",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/reset2fa",
+  "private": false
+ },
+ "1003487": {
+  "cat": "84318",
+  "qid": "1003487",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-android-v41543-06-august-2021",
+  "private": false
+ },
+ "264232": {
+  "cat": "53705",
+  "qid": "264232",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53705-edit-issues/can-i-move-an-issue-pin",
+  "private": false
+ },
+ "340896": {
+  "cat": "49463",
+  "qid": "340896",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49463-general-settings/340896-how-to-edit-the-project-settings",
+  "private": false
+ },
+ "388027": {
+  "cat": "39657",
+  "qid": "388027",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39657-get-ready-on-mobile/388027-how-to-enable-location-data-on-the-mobile-device",
+  "private": false
+ },
+ "266540": {
+  "cat": "37466",
+  "qid": "266540",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/can-i-have-a-summary-of-the-form-workflow-history",
+  "private": false
+ },
+ "271414": {
+  "cat": "37476",
+  "qid": "271414",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/how-to-edit-users-and-contractors",
+  "private": false
+ },
+ "595763": {
+  "cat": "84318",
+  "qid": "595763",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-android-v41486-29-may-2020",
+  "private": false
+ },
+ "614229": {
+  "cat": "",
+  "qid": "614229",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/614229-snagr-ltd-glossary",
+  "private": false
+ },
+ "476572": {
+  "cat": "53697",
+  "qid": "476572",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53697-add-issues/add-the-previous-issue",
+  "private": false
+ },
+ "357014": {
+  "cat": "48721",
+  "qid": "357014",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/48721-general/2fa",
+  "private": false
+ },
+ "328540": {
+  "cat": "53704",
+  "qid": "328540",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53704-find-issues/328540-how-to-view-issue-history",
+  "private": false
+ },
+ "266216": {
+  "cat": "58601",
+  "qid": "266216",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/58601-standard-issue-list-company-level/how-to-import-issue-list",
+  "private": false
+ },
+ "264026": {
+  "cat": "53697",
+  "qid": "264026",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53697-add-issues/how-to-add-an-issue",
+  "private": false
+ },
+ "308326": {
+  "cat": "37029",
+  "qid": "308326",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/308326-how-to-edit-the-custom-list",
+  "private": false
+ },
+ "266236": {
+  "cat": "37464",
+  "qid": "266236",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37464-link-issues-and-documents-to-forms/how-can-i-unlink-issues-from-a-form",
+  "private": false
+ },
+ "529354": {
+  "cat": "84318",
+  "qid": "529354",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-mobile-ios-android-v4-146-1-29-jan-2020",
+  "private": false
+ },
+ "341361": {
+  "cat": "37023",
+  "qid": "341361",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37023-find-and-edit-forms/341361-can-i-change-location-of-an-inspection-form",
+  "private": false
+ },
+ "266239": {
+  "cat": "37464",
+  "qid": "266239",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37464-link-issues-and-documents-to-forms/how-can-i-unlink-documents-from-a-form",
+  "private": false
+ },
+ "264269": {
+  "cat": "37023",
+  "qid": "264269",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37023-find-and-edit-forms/how-can-i-search-for-forms",
+  "private": false
+ },
+ "398326": {
+  "cat": "37466",
+  "qid": "398326",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/how-to-closed-failed-related-forms",
+  "private": false
+ },
+ "595760": {
+  "cat": "84318",
+  "qid": "595760",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-ios-v41480-30-april-2020",
+  "private": false
+ },
+ "623354": {
+  "cat": "112273",
+  "qid": "623354",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112273-appointment/how-to-withdraw-an-appointment%3F",
+  "private": false
+ },
+ "340755": {
+  "cat": "49431",
+  "qid": "340755",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49431-permits-company-level/340755-view-edit-delete-permit-inspection",
+  "private": false
+ },
+ "269194": {
+  "cat": "37886",
+  "qid": "269194",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37886-manage-documents/how-to-link-documents-to-locations",
+  "private": false
+ },
+ "264286": {
+  "cat": "37476",
+  "qid": "264286",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/how-to-add-users-to-project",
+  "private": false
+ },
+ "287202": {
+  "cat": "37029",
+  "qid": "287202",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/287202-how-to-design-inspections-in-snagr",
+  "private": false
+ },
+ "268886": {
+  "cat": "37886",
+  "qid": "268886",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37886-manage-documents/how-to-delete-a-file",
+  "private": false
+ },
+ "340744": {
+  "cat": "49463",
+  "qid": "340744",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49463-general-settings/340744-edit-default-language-or-logo",
+  "private": false
+ },
+ "264256": {
+  "cat": "37466",
+  "qid": "264256",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/how-do-i-send-notifications-regarding-a-form",
+  "private": false
+ },
+ "384651": {
+  "cat": "37476",
+  "qid": "384651",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/how-to-batch-update-user-permissions",
+  "private": false
+ },
+ "268126": {
+  "cat": "53697",
+  "qid": "268126",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53697-add-issues/can-i-define-photo-size",
+  "private": false
+ },
+ "264287": {
+  "cat": "37476",
+  "qid": "264287",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/how-to-add-contractors-to-project",
+  "private": false
+ },
+ "922859": {
+  "cat": "84318",
+  "qid": "922859",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-iosandroid-v41536-12-may-2021-",
+  "private": false
+ },
+ "595766": {
+  "cat": "84318",
+  "qid": "595766",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hot-fix-android-v41489-07-june-2020",
+  "private": false
+ },
+ "340874": {
+  "cat": "49461",
+  "qid": "340874",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49461-locations/340874-location-sign-off",
+  "private": false
+ },
+ "623316": {
+  "cat": "112273",
+  "qid": "623316",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112273-appointment/how-to-create-an-appointment-for-the-owner%3F",
+  "private": false
+ },
+ "553904": {
+  "cat": "95629",
+  "qid": "553904",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/95629-new-project/how-do-i-clone-project",
+  "private": false
+ },
+ "308329": {
+  "cat": "37024",
+  "qid": "308329",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37024-drawings-project-level/308329-how-to-edit-drawing-set",
+  "private": false
+ },
+ "357032": {
+  "cat": "49463",
+  "qid": "357032",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49463-general-settings/passwordcomplexity",
+  "private": false
+ },
+ "264282": {
+  "cat": "49459",
+  "qid": "264282",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49459-locations-project-level/how-to-set-up-locations-on-drawings",
+  "private": false
+ },
+ "268289": {
+  "cat": "37889",
+  "qid": "268289",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37889-site-operations/photo-diary",
+  "private": false
+ },
+ "268887": {
+  "cat": "37885",
+  "qid": "268887",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37885-upload-documents/what-is-bundle",
+  "private": false
+ },
+ "315549": {
+  "cat": "37885",
+  "qid": "315549",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37885-upload-documents/315549-is-there-version-control-in-snagr-documents",
+  "private": false
+ },
+ "398320": {
+  "cat": "48721",
+  "qid": "398320",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/48721-general/what-if-i-forgot-my-account-password",
+  "private": false
+ },
+ "567265": {
+  "cat": "84318",
+  "qid": "567265",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-ios-v41472-20-april-2020",
+  "private": false
+ },
+ "521700": {
+  "cat": "84318",
+  "qid": "521700",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/latest-release-notes-mobile-app-v41459-23-jan-2020",
+  "private": false
+ },
+ "340736": {
+  "cat": "37029",
+  "qid": "340736",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/340736-how-can-i-remove-the-inspection-from-the-company",
+  "private": false
+ },
+ "340745": {
+  "cat": "49434",
+  "qid": "340745",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49434-accounts-and-permissions-company-level/340745-add-contractors-at-the-company-level",
+  "private": false
+ },
+ "386734": {
+  "cat": "37464",
+  "qid": "386734",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37464-link-issues-and-documents-to-forms/386734-how-to-upload-documents-to-link-to-forms-new-upgrade",
+  "private": false
+ },
+ "264234": {
+  "cat": "53698",
+  "qid": "264234",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53698-update-issues/how-do-i-send-a-notification-regarding-an-issue",
+  "private": false
+ },
+ "340751": {
+  "cat": "49431",
+  "qid": "340751",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49431-permits-company-level/340751-add-permit",
+  "private": false
+ },
+ "623314": {
+  "cat": "112275",
+  "qid": "623314",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112275-appointment/how-to-the-snagr-home-user-cancel-a-requested-appointment%3F",
+  "private": false
+ },
+ "264279": {
+  "cat": "37024",
+  "qid": "264279",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37024-drawings-project-level/how-to-upload-drawings",
+  "private": false
+ },
+ "268291": {
+  "cat": "53706",
+  "qid": "268291",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53706-report-and-analytics/can-i-have-a-report-with-the-first-and-last-photo-only",
+  "private": false
+ },
+ "264257": {
+  "cat": "53704",
+  "qid": "264257",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53704-find-issues/how-do-i-search-issues-on-device",
+  "private": false
+ },
+ "340863": {
+  "cat": "37466",
+  "qid": "340863",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/340863-permits-dashboard",
+  "private": false
+ },
+ "340737": {
+  "cat": "37029",
+  "qid": "340737",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/340737-how-can-i-remove-a-form-from-the-inspection-template",
+  "private": false
+ },
+ "264280": {
+  "cat": "37024",
+  "qid": "264280",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37024-drawings-project-level/how-to-link-drawings-together-manually",
+  "private": false
+ },
+ "340762": {
+  "cat": "49463",
+  "qid": "340762",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49463-general-settings/340762-terminology",
+  "private": false
+ },
+ "312274": {
+  "cat": "37024",
+  "qid": "312274",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37024-drawings-project-level/312274-how-to-set-up-the-drawing-regions",
+  "private": false
+ },
+ "340862": {
+  "cat": "53696",
+  "qid": "340862",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53696-what-is-your-role/340862-manufacturer",
+  "private": false
+ },
+ "268299": {
+  "cat": "53706",
+  "qid": "268299",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53706-report-and-analytics/how-do-i-view-analytics",
+  "private": false
+ },
+ "271440": {
+  "cat": "37476",
+  "qid": "271440",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/how-to-send-password-reminders",
+  "private": false
+ },
+ "680099": {
+  "cat": "84318",
+  "qid": "680099",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-%2F-android-v41515-(9-oct-2020)-",
+  "private": false
+ },
+ "264206": {
+  "cat": "39657",
+  "qid": "264206",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39657-get-ready-on-mobile/how-can-i-go-from-one-drawing-to-another",
+  "private": false
+ },
+ "610712": {
+  "cat": "37029",
+  "qid": "610712",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/how-to-set-up-the-qr-code-image",
+  "private": false
+ },
+ "713580": {
+  "cat": "84318",
+  "qid": "713580",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41522-(5-nov-2020)-",
+  "private": false
+ },
+ "264260": {
+  "cat": "39659",
+  "qid": "264260",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39659-troubleshooting-on-mobile/remove-and-re-add-project",
+  "private": false
+ },
+ "264227": {
+  "cat": "53705",
+  "qid": "264227",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53705-edit-issues/how-to-organise-issue-pins-that-overlap-on-each-other",
+  "private": false
+ },
+ "268878": {
+  "cat": "37885",
+  "qid": "268878",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37885-upload-documents/how-to-upload-documents",
+  "private": false
+ },
+ "1097563": {
+  "cat": "84318",
+  "qid": "1097563",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41549-19-oct-2021",
+  "private": false
+ },
+ "516167": {
+  "cat": "84318",
+  "qid": "516167",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/latest-release-notes-v41011913-13-jan-2020",
+  "private": false
+ },
+ "544549": {
+  "cat": "84318",
+  "qid": "544549",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-android-v41462-13-march-2020",
+  "private": false
+ },
+ "339759": {
+  "cat": "58601",
+  "qid": "339759",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/58601-standard-issue-list-company-level/how-can-i-set-up-auto-close-for-photo-diaries",
+  "private": false
+ },
+ "340752": {
+  "cat": "49432",
+  "qid": "340752",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49432-checklists-and-scheduling-company-level/340752-project-checklists",
+  "private": false
+ },
+ "264231": {
+  "cat": "53705",
+  "qid": "264231",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53705-edit-issues/can-i-edit-issues",
+  "private": false
+ },
+ "595764": {
+  "cat": "84318",
+  "qid": "595764",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-android-v41489-07-june-2020",
+  "private": false
+ },
+ "2153867": {
+  "cat": "112276",
+  "qid": "2153867",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112276-snagr-home-admin/how-to-generate-the-welcome-packs",
+  "private": false
+ },
+ "264229": {
+  "cat": "53697",
+  "qid": "264229",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53697-add-issues/can-i-add-more-photos-to-an-issue",
+  "private": false
+ },
+ "378047": {
+  "cat": "37028",
+  "qid": "378047",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37028-standard-issue-list-company-level/linkup-issue-contractor",
+  "private": false
+ },
+ "395174": {
+  "cat": "37029",
+  "qid": "395174",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/how-to-edit-form-details",
+  "private": false
+ },
+ "340756": {
+  "cat": "37029",
+  "qid": "340756",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/340756-can-i-edit-replace-inspection-form",
+  "private": false
+ },
+ "264226": {
+  "cat": "48721",
+  "qid": "264226",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/48721-general/how-do-i-change-password",
+  "private": false
+ },
+ "266223": {
+  "cat": "37028",
+  "qid": "266223",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37028-standard-issue-list-company-level/how-to-enable-specific-issue-categories-for-a-project",
+  "private": false
+ },
+ "699547": {
+  "cat": "84318",
+  "qid": "699547",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-v41517-(29-oct-2020)-",
+  "private": false
+ },
+ "340865": {
+  "cat": "53706",
+  "qid": "340865",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53706-report-and-analytics/project-summary-what-are-the-figures-in-red-colour",
+  "private": false
+ },
+ "340764": {
+  "cat": "37023",
+  "qid": "340764",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37023-find-and-edit-forms/340764-can-i-search-inspection-forms-by-the-hotspot-value",
+  "private": false
+ },
+ "595765": {
+  "cat": "84318",
+  "qid": "595765",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hot-fix-android-v41490-10-june-2020",
+  "private": false
+ },
+ "595761": {
+  "cat": "84318",
+  "qid": "595761",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-ios-v41483-12-may-2020",
+  "private": false
+ },
+ "268283": {
+  "cat": "37499",
+  "qid": "268283",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37499-quality/handover-process-with-purchaser",
+  "private": false
+ },
+ "324497": {
+  "cat": "37476",
+  "qid": "324497",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/how-to-set-permission-for-kpi-dashboard",
+  "private": false
+ },
+ "340761": {
+  "cat": "49463",
+  "qid": "340761",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49463-general-settings/340761-regions-divisions-programs",
+  "private": false
+ },
+ "264228": {
+  "cat": "53697",
+  "qid": "264228",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53697-add-issues/what-is-add-future-issue",
+  "private": false
+ },
+ "668547": {
+  "cat": "84318",
+  "qid": "668547",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-%2F-android-v41510-(25-sept-2020)-",
+  "private": false
+ },
+ "268877": {
+  "cat": "37885",
+  "qid": "268877",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37885-upload-documents/how-to-create-a-folder",
+  "private": false
+ },
+ "371412": {
+  "cat": "48721",
+  "qid": "371412",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/48721-general/371412-what-is-email-log",
+  "private": false
+ },
+ "340878": {
+  "cat": "39657",
+  "qid": "340878",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39657-get-ready-on-mobile/340878-icons-or-buttons-on-the-device",
+  "private": false
+ },
+ "340750": {
+  "cat": "49431",
+  "qid": "340750",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49431-permits-company-level/340750-add-permit-inspection",
+  "private": false
+ },
+ "312904": {
+  "cat": "37029",
+  "qid": "312904",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/312904-how-do-i-digitalise-a-form",
+  "private": false
+ },
+ "499063": {
+  "cat": "84318",
+  "qid": "499063",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/latest-release-notes-v4-1-11845",
+  "private": false
+ },
+ "266538": {
+  "cat": "37466",
+  "qid": "266538",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/can-i-track-changes-of-a-form",
+  "private": false
+ },
+ "905104": {
+  "cat": "84318",
+  "qid": "905104",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-iosandroid-v41531-03-may-2021-",
+  "private": false
+ },
+ "268445": {
+  "cat": "53706",
+  "qid": "268445",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53706-report-and-analytics/can-issue-reports-be-generated-automatically",
+  "private": false
+ },
+ "337879": {
+  "cat": "37499",
+  "qid": "337879",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37499-quality/defect-management",
+  "private": false
+ },
+ "2153171": {
+  "cat": "112276",
+  "qid": "2153171",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112276-snagr-home-admin/how-to-edit-users-detail",
+  "private": false
+ },
+ "268888": {
+  "cat": "37886",
+  "qid": "268888",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37886-manage-documents/how-to-move-a-file-from-one-folder-to-another",
+  "private": false
+ },
+ "337878": {
+  "cat": "37499",
+  "qid": "337878",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37499-quality/337878-non-conformance-report",
+  "private": false
+ },
+ "1025233": {
+  "cat": "84318",
+  "qid": "1025233",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-android-v41545-27-august-2021",
+  "private": false
+ },
+ "340894": {
+  "cat": "49461",
+  "qid": "340894",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49461-locations/340894-room-area-signoff",
+  "private": false
+ },
+ "265844": {
+  "cat": "53697",
+  "qid": "265844",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53697-add-issues/how-to-add-multiple-issues-on-the-same-spot",
+  "private": false
+ },
+ "339385": {
+  "cat": "49148",
+  "qid": "339385",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49148-custom-pdf-report/339385-how-do-i-generate-a-custom-report",
+  "private": false
+ },
+ "268290": {
+  "cat": "53706",
+  "qid": "268290",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53706-report-and-analytics/how-to-generate-issue-report-for-subcontractors-only",
+  "private": false
+ },
+ "341368": {
+  "cat": "37466",
+  "qid": "341368",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form",
+  "private": false
+ },
+ "268294": {
+  "cat": "53706",
+  "qid": "268294",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53706-report-and-analytics/how-to-get-a-summary-statistics-of-our-issue-records",
+  "private": false
+ },
+ "264254": {
+  "cat": "37464",
+  "qid": "264254",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37464-link-issues-and-documents-to-forms/how-can-i-link-issues-to-a-form",
+  "private": false
+ },
+ "266217": {
+  "cat": "58601",
+  "qid": "266217",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/58601-standard-issue-list-company-level/how-to-design-the-issue-list",
+  "private": false
+ },
+ "264203": {
+  "cat": "39657",
+  "qid": "264203",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39657-get-ready-on-mobile/can-i-set-up-auto-sync",
+  "private": false
+ },
+ "268288": {
+  "cat": "37889",
+  "qid": "268288",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37889-site-operations/daily-site-walk",
+  "private": false
+ },
+ "553879": {
+  "cat": "95629",
+  "qid": "553879",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/95629-new-project/how-do-i-create-a-new-project",
+  "private": false
+ },
+ "268286": {
+  "cat": "37888",
+  "qid": "268286",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37888-safety/safety-inspection",
+  "private": false
+ },
+ "357025": {
+  "cat": "62887",
+  "qid": "357025",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/62887-2fa/enable2fa",
+  "private": false
+ },
+ "268885": {
+  "cat": "37886",
+  "qid": "268885",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37886-manage-documents/how-to-delete-a-folder",
+  "private": false
+ },
+ "595762": {
+  "cat": "84318",
+  "qid": "595762",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hot-fix-ios-v41486-29-may-2020",
+  "private": false
+ },
+ "676156": {
+  "cat": "84318",
+  "qid": "676156",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-%2F-android-v41512-(-6-oct-2020)-",
+  "private": false
+ },
+ "264262": {
+  "cat": "53698",
+  "qid": "264262",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53698-update-issues/what-do-the-pin-colours-represent",
+  "private": false
+ },
+ "264284": {
+  "cat": "37024",
+  "qid": "264284",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37024-drawings-project-level/how-to-edit-existing-drawing",
+  "private": false
+ },
+ "356992": {
+  "cat": "48721",
+  "qid": "356992",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/48721-general/loginwith2fa",
+  "private": false
+ },
+ "266215": {
+  "cat": "37027",
+  "qid": "266215",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37027-notifications-project-level/how-to-set-up-forms-notifications-for-all-users",
+  "private": false
+ },
+ "340895": {
+  "cat": "49459",
+  "qid": "340895",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49459-locations-project-level/340895-create-barcode-for-location",
+  "private": false
+ },
+ "340867": {
+  "cat": "49459",
+  "qid": "340867",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49459-locations-project-level/340867-move-edit-delete-a-location-pin",
+  "private": false
+ },
+ "339604": {
+  "cat": "47369",
+  "qid": "339604",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/47369-analytics/how-do-i-see-custom-dashboard",
+  "private": false
+ },
+ "339388": {
+  "cat": "37476",
+  "qid": "339388",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/how-to-set-permission-for-custom-reports",
+  "private": false
+ },
+ "623309": {
+  "cat": "112275",
+  "qid": "623309",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112275-appointment/how-to-the-snagr-home-user-request-an-appointment%3F",
+  "private": false
+ },
+ "802435": {
+  "cat": "84318",
+  "qid": "802435",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41527---android-v41529-(21-jan-2021)-",
+  "private": false
+ },
+ "268447": {
+  "cat": "37027",
+  "qid": "268447",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37027-notifications-project-level/how-to-manage-subscriptions",
+  "private": false
+ },
+ "340754": {
+  "cat": "49432",
+  "qid": "340754",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49432-checklists-and-scheduling-company-level/340754-construction-stages",
+  "private": false
+ },
+ "330054": {
+  "cat": "37029",
+  "qid": "330054",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/330054-import-export-inspection-form-templates",
+  "private": false
+ },
+ "315713": {
+  "cat": "37476",
+  "qid": "315713",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/315713-how-to-set-permissions-forms",
+  "private": false
+ },
+ "340758": {
+  "cat": "37029",
+  "qid": "340758",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/340758-how-to-edit-the-inspection-template",
+  "private": false
+ },
+ "283557": {
+  "cat": "58601",
+  "qid": "283557",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/58601-standard-issue-list-company-level/how-to-edit-items-on-standard-issue-list",
+  "private": false
+ },
+ "610178": {
+  "cat": "84318",
+  "qid": "610178",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hot-fix-android-v41496-16-july-2020",
+  "private": false
+ },
+ "623368": {
+  "cat": "112273",
+  "qid": "623368",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112273-appointment/how-to-confirm-appointment%3F",
+  "private": false
+ },
+ "598344": {
+  "cat": "84318",
+  "qid": "598344",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hot-fix-ios-v41493-18-june-2020",
+  "private": false
+ },
+ "764733": {
+  "cat": "84318",
+  "qid": "764733",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41526-(9-dec-2020)",
+  "private": false
+ },
+ "268446": {
+  "cat": "37466",
+  "qid": "268446",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/how-can-i-be-notified-of-forms-updates",
+  "private": false
+ },
+ "269193": {
+  "cat": "37886",
+  "qid": "269193",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37886-manage-documents/how-to-find-documents-by-locations",
+  "private": false
+ },
+ "611310": {
+  "cat": "37023",
+  "qid": "611310",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37023-find-and-edit-forms/how-to-scan-and-fill-the-qrcode-image-qrcode-text-field",
+  "private": false
+ },
+ "266218": {
+  "cat": "58601",
+  "qid": "266218",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/58601-standard-issue-list-company-level/how-to-add-single-items-to-issue-list",
+  "private": false
+ },
+ "264281": {
+  "cat": "37024",
+  "qid": "264281",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37024-drawings-project-level/how-to-link-drawings-together-automatically",
+  "private": false
+ },
+ "940850": {
+  "cat": "84318",
+  "qid": "940850",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-iosandroid-v41537-28-may-2021-",
+  "private": false
+ },
+ "386689": {
+  "cat": "48721",
+  "qid": "386689",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/48721-general/386689-how-can-i-contact-snagr",
+  "private": false
+ },
+ "2153157": {
+  "cat": "112276",
+  "qid": "2153157",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112276-snagr-home-admin/how-to-update-the-users-profile",
+  "private": false
+ },
+ "263838": {
+  "cat": "39657",
+  "qid": "263838",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39657-get-ready-on-mobile/how-do-i-download-a-project",
+  "private": false
+ },
+ "266224": {
+  "cat": "49457",
+  "qid": "266224",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49457-troubelshooting-for-admins/how-to-enable-form-templates-for-a-project",
+  "private": false
+ },
+ "266214": {
+  "cat": "37027",
+  "qid": "266214",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37027-notifications-project-level/how-to-set-up-issues-notifications-for-all-users",
+  "private": false
+ },
+ "265852": {
+  "cat": "53704",
+  "qid": "265852",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53704-find-issues/where-do-i-see-issue-notifications",
+  "private": false
+ },
+ "304335": {
+  "cat": "37029",
+  "qid": "304335",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/304335-how-to-create-custom-list",
+  "private": false
+ },
+ "340877": {
+  "cat": "53704",
+  "qid": "340877",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53704-find-issues/340877-filtering-issues-on-device",
+  "private": false
+ },
+ "340759": {
+  "cat": "49463",
+  "qid": "340759",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49463-general-settings/340759-can-i-edit-the-priorities-and-due-day",
+  "private": false
+ },
+ "264210": {
+  "cat": "37887",
+  "qid": "264210",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37887-download-documents/how-to-download-files",
+  "private": false
+ },
+ "304211": {
+  "cat": "37023",
+  "qid": "304211",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37023-find-and-edit-forms/304211-can-i-delete-form",
+  "private": false
+ },
+ "340763": {
+  "cat": "49434",
+  "qid": "340763",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49434-accounts-and-permissions-company-level/340763-add-user-at-the-company-level",
+  "private": false
+ },
+ "311758": {
+  "cat": "53705",
+  "qid": "311758",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53705-edit-issues/311758-how-to-batch-edit-issues",
+  "private": false
+ },
+ "265685": {
+  "cat": "53705",
+  "qid": "265685",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53705-edit-issues/can-i-delete-issues",
+  "private": false
+ },
+ "265856": {
+  "cat": "53697",
+  "qid": "265856",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53697-add-issues/can-i-copy-and-paste-an-issue",
+  "private": false
+ },
+ "340881": {
+  "cat": "39659",
+  "qid": "340881",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39659-troubleshooting-on-mobile/340881-the-app-has-been-checking-credentials-for-a-long-time-and-does-not-allow-me-to-download-project-on-mobile-app-what-is-wrong",
+  "private": false
+ },
+ "660682": {
+  "cat": "84318",
+  "qid": "660682",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-%2F-android-v41506-(23-sept-2020)-",
+  "private": false
+ },
+ "317970": {
+  "cat": "37888",
+  "qid": "317970",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37888-safety/317970-permit-to-work",
+  "private": false
+ },
+ "268134": {
+  "cat": "37024",
+  "qid": "268134",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37024-drawings-project-level/what-is-the-quickest-way-to-set-up-repetitive-units",
+  "private": false
+ },
+ "1145959": {
+  "cat": "84318",
+  "qid": "1145959",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41552-android-v41554-17-nov-2021",
+  "private": false
+ },
+ "268284": {
+  "cat": "37499",
+  "qid": "268284",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37499-quality/request-for-inspections",
+  "private": false
+ },
+ "264237": {
+  "cat": "53706",
+  "qid": "264237",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53706-report-and-analytics/how-to-generate-an-issue-report",
+  "private": false
+ },
+ "264204": {
+  "cat": "39657",
+  "qid": "264204",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39657-get-ready-on-mobile/what-does-synchronise-mean",
+  "private": false
+ },
+ "338148": {
+  "cat": "53696",
+  "qid": "338148",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53696-what-is-your-role/subcontractor",
+  "private": false
+ },
+ "951285": {
+  "cat": "84318",
+  "qid": "951285",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41540-07-june-2021",
+  "private": false
+ },
+ "340861": {
+  "cat": "53696",
+  "qid": "340861",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53696-what-is-your-role/developer",
+  "private": false
+ },
+ "264230": {
+  "cat": "53698",
+  "qid": "264230",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53698-update-issues/how-to-update-issues",
+  "private": false
+ },
+ "386735": {
+  "cat": "37464",
+  "qid": "386735",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37464-link-issues-and-documents-to-forms/386735-how-to-mark-the-document-as-not-in-use-new-upgrade",
+  "private": false
+ },
+ "266256": {
+  "cat": "37466",
+  "qid": "266256",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/how-to-complete-forms-on-website",
+  "private": false
+ },
+ "648266": {
+  "cat": "84318",
+  "qid": "648266",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-ios-v41497-(18-sept-2020)",
+  "private": false
+ },
+ "268292": {
+  "cat": "39659",
+  "qid": "268292",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39659-troubleshooting-on-mobile/common-issues-in-project-download",
+  "private": false
+ },
+ "343363": {
+  "cat": "37029",
+  "qid": "343363",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37029-forms-company-level/343363-how-to-create-a-hierarchical-list",
+  "private": false
+ },
+ "340889": {
+  "cat": "37023",
+  "qid": "340889",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37023-find-and-edit-forms/340889-inspection-dashboard",
+  "private": false
+ },
+ "341362": {
+  "cat": "39659",
+  "qid": "341362",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/39659-troubleshooting-on-mobile/341362-i-can-t-sync-on-mobile-app-what-should-i-do",
+  "private": false
+ },
+ "340888": {
+  "cat": "49432",
+  "qid": "340888",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49432-checklists-and-scheduling-company-level/340888-project-checklists",
+  "private": false
+ },
+ "546284": {
+  "cat": "84318",
+  "qid": "546284",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41463-18-march-2020",
+  "private": false
+ },
+ "526502": {
+  "cat": "84318",
+  "qid": "526502",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-v4111930-29-jan-2019",
+  "private": false
+ },
+ "264253": {
+  "cat": "37466",
+  "qid": "264253",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37466-submit-forms/how-to-complete-forms-on-device",
+  "private": false
+ },
+ "546285": {
+  "cat": "84318",
+  "qid": "546285",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41465-19-march-2020",
+  "private": false
+ },
+ "304697": {
+  "cat": "37465",
+  "qid": "304697",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37465-export-forms/304697-how-to-export-excel-from-template",
+  "private": false
+ },
+ "340883": {
+  "cat": "48721",
+  "qid": "340883",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/48721-general/340883-what-os-version-does-snagr-support",
+  "private": false
+ },
+ "264273": {
+  "cat": "37465",
+  "qid": "264273",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37465-export-forms/can-i-extract-a-list-of-forms-that-are-created-on-snagr",
+  "private": false
+ },
+ "266542": {
+  "cat": "37465",
+  "qid": "266542",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37465-export-forms/how-do-i-export-form-pdf-if-there-are-issues-and-documents-attached-to-it",
+  "private": false
+ },
+ "266541": {
+  "cat": "37465",
+  "qid": "266541",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37465-export-forms/can-i-export-forms-in-pdf",
+  "private": false
+ },
+ "384922": {
+  "cat": "37476",
+  "qid": "384922",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/384922-how-to-batch-edit-user-s-role-enabled",
+  "private": false
+ },
+ "271445": {
+  "cat": "37476",
+  "qid": "271445",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37476-accounts-and-permissions-project-level/how-to-set-permissions-issues",
+  "private": false
+ },
+ "264276": {
+  "cat": "37023",
+  "qid": "264276",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37023-find-and-edit-forms/how-do-i-see-form-notifications",
+  "private": false
+ },
+ "623372": {
+  "cat": "112277",
+  "qid": "623372",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/112277-appointment/to-batch-assign-the-appointment%3F",
+  "private": false
+ },
+ "338152": {
+  "cat": "53696",
+  "qid": "338152",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53696-what-is-your-role/main-contractor",
+  "private": false
+ },
+ "756887": {
+  "cat": "84318",
+  "qid": "756887",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-ios-v41525-(3-dec-2020)-",
+  "private": false
+ },
+ "340869": {
+  "cat": "49461",
+  "qid": "340869",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49461-locations/340869-location-ready-for-inspection",
+  "private": false
+ },
+ "340760": {
+  "cat": "49463",
+  "qid": "340760",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49463-general-settings/340760-edit-view-projects",
+  "private": false
+ },
+ "264233": {
+  "cat": "53705",
+  "qid": "264233",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/53705-edit-issues/how-to-break-items-out-from-a-plot-with-multiple-issues",
+  "private": false
+ },
+ "1018790": {
+  "cat": "84318",
+  "qid": "1018790",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-hotfix-android-v41544-24-august-2021",
+  "private": false
+ },
+ "1231721": {
+  "cat": "84318",
+  "qid": "1231721",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/release-notes/release-notes-android-v41605-04-feb-2022",
+  "private": false
+ },
+ "304553": {
+  "cat": "37465",
+  "qid": "304553",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/37465-export-forms/304553-how-to-design-the-dms-export-template",
+  "private": false
+ },
+ "340886": {
+  "cat": "49432",
+  "qid": "340886",
+  "lang": "en_US",
+  "url": "https://snagr.helpjuice.com/49432-checklists-and-scheduling-company-level/340886-construction-stages",
+  "private": false
+ },
+ "402616": {
+  "cat": "61818",
+  "qid": "402616",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-dokumente-mit-formularen-verknupfen",
+  "private": false
+ },
+ "402545": {
+  "cat": "61837",
+  "qid": "402545",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/checklisten-und-zeitplane-business-level/projektcheckliste-erstellen",
+  "private": false
+ },
+ "402496": {
+  "cat": "61820",
+  "qid": "402496",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/hgf/nl-issues-in-project-download",
+  "private": false
+ },
+ "402502": {
+  "cat": "61807",
+  "qid": "402502",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/in-welchem-team-bist-du/overzicht-voor-inspectie-teams-adviseurs",
+  "private": false
+ },
+ "402544": {
+  "cat": "61807",
+  "qid": "402544",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/in-welchem-team-bist-du/overzicht-voor-management",
+  "private": false
+ },
+ "402556": {
+  "cat": "61807",
+  "qid": "402556",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/in-welchem-team-bist-du/overzicht-voor-onderaannemers",
+  "private": false
+ },
+ "402612": {
+  "cat": "61809",
+  "qid": "402612",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-hinzufugen/kan-ik-meer-fotos-toevoegen-aan-een-actiepunt",
+  "private": false
+ },
+ "402472": {
+  "cat": "61813",
+  "qid": "402472",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/hoe-voeg-ik-handmatige-workflows-toe-aan-formulieren",
+  "private": false
+ },
+ "402493": {
+  "cat": "61823",
+  "qid": "402493",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wat-is-het-verschil-tussen-een-gebruikers-en-aannemers-account",
+  "private": false
+ },
+ "402514": {
+  "cat": "61813",
+  "qid": "402514",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/hoe-ontwerp-ik-inspecties",
+  "private": false
+ },
+ "402538": {
+  "cat": "61813",
+  "qid": "402538",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/hoe-stel-ik-inspecties-en-formulieren-in",
+  "private": false
+ },
+ "402519": {
+  "cat": "61811",
+  "qid": "402519",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/laden-sie-dokumente-hoch/wie-lade-ich-dokumente-hoch",
+  "private": false
+ },
+ "402488": {
+  "cat": "61809",
+  "qid": "402488",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-hinzufugen/kann-ich-einen-aktionspunkt-und-einfugen",
+  "private": false
+ },
+ "402539": {
+  "cat": "61829",
+  "qid": "402539",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-bearbeiten/kan-ik-actiepunten-verwijderen",
+  "private": false
+ },
+ "402521": {
+  "cat": "61803",
+  "qid": "402521",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-suchen-und-bearbeiten/wie-losche-ich-inspektionsformulare",
+  "private": false
+ },
+ "402537": {
+  "cat": "61813",
+  "qid": "402537",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/wie-erstelle-ich-ein-digitales-formular",
+  "private": false
+ },
+ "402477": {
+  "cat": "61807",
+  "qid": "402477",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/in-welchem-team-bist-du/hauptauftragnehmer",
+  "private": false
+ },
+ "402623": {
+  "cat": "61838",
+  "qid": "402623",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/liste-der-standardaktionspunkte-unternehmensebene/wie-bearbeite-ich-elemente-in-der-standardaktionspunkteliste",
+  "private": false
+ },
+ "402501": {
+  "cat": "61823",
+  "qid": "402501",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wie-fuge-ich-einem-projekt-benutzer-hinzu",
+  "private": false
+ },
+ "402579": {
+  "cat": "61834",
+  "qid": "402579",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/qualitat/aktionspunktverwaltung",
+  "private": false
+ },
+ "402581": {
+  "cat": "61830",
+  "qid": "402581",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/bereit-fur-den-mobilen-einsatz/kann-ich-eine-automatische-synchronisation-einrichten",
+  "private": false
+ },
+ "402479": {
+  "cat": "61816",
+  "qid": "402479",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-erstelle-ich-einen-aktionspunktbericht",
+  "private": false
+ },
+ "402512": {
+  "cat": "61816",
+  "qid": "402512",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-aktualisiere-ich-einen-aktionspunkt",
+  "private": false
+ },
+ "402559": {
+  "cat": "61836",
+  "qid": "402559",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/genehmigungen-geschaftsniveau/genehmigungsprufungen-anzeigen-bearbeiten-loschen",
+  "private": false
+ },
+ "402522": {
+  "cat": "61835",
+  "qid": "402522",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/verknupfen-sie-aktionspunkte-und-dokumente-mit-formularen/wie-kann-ich-die-verknupfung-von-aktionspunkten-mit-formularen-aufheben",
+  "private": false
+ },
+ "402572": {
+  "cat": "61838",
+  "qid": "402572",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/liste-der-standardaktionspunkte-unternehmensebene/wie-erstelle-ich-die-standardaktionspunktlisten",
+  "private": false
+ },
+ "402596": {
+  "cat": "61816",
+  "qid": "402596",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/was-bedeuten-die-verschiedenen-aktionspunktfarben",
+  "private": false
+ },
+ "402565": {
+  "cat": "61803",
+  "qid": "402565",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-suchen-und-bearbeiten/wie-sehe-ich-formularbenachrichtigungen",
+  "private": false
+ },
+ "402489": {
+  "cat": "61813",
+  "qid": "402489",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/wie-entferne-ich-eine-formularvorlage-aus-einer-inspektionsvorlage",
+  "private": false
+ },
+ "402610": {
+  "cat": "61813",
+  "qid": "402610",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/wie-erstelle-ich-eine-benutzerdefinierte-liste",
+  "private": false
+ },
+ "402569": {
+  "cat": "61818",
+  "qid": "402569",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-aktionspunkte-mit-einem-formular-verknupfen",
+  "private": false
+ },
+ "402564": {
+  "cat": "61821",
+  "qid": "402564",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-exportieren/wie-exportiere-ich-formulare-in-pdf-wenn-aktionspunkte-und-dokumente-daran-angehangt-sind",
+  "private": false
+ },
+ "402480": {
+  "cat": "61814",
+  "qid": "402480",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemeine-einstellungen/regionen-bereiche-programme-auf-unternehmensebene",
+  "private": false
+ },
+ "402528": {
+  "cat": "61814",
+  "qid": "402528",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemeine-einstellungen/projekteinstellungen-bearbeiten-auf-projektebene",
+  "private": false
+ },
+ "402535": {
+  "cat": "61828",
+  "qid": "402535",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemein/wie-andere-ich-mein-passwort",
+  "private": false
+ },
+ "402591": {
+  "cat": "61836",
+  "qid": "402591",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/genehmigungen-geschaftsniveau/genehmigungsformularseite-hinzufugen",
+  "private": false
+ },
+ "402571": {
+  "cat": "61838",
+  "qid": "402571",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/liste-der-standardaktionspunkte-unternehmensebene/ich-sehe-die-aktionspunktkategorien-nicht-was-ist-falsch",
+  "private": false
+ },
+ "402593": {
+  "cat": "61797",
+  "qid": "402593",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/lokation/lokation-abmelden",
+  "private": false
+ },
+ "402527": {
+  "cat": "61822",
+  "qid": "402527",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/zeichnungen-projektebene/was-sind-zeichnungfelde-und-wie-setze-ich-sie",
+  "private": false
+ },
+ "402622": {
+  "cat": "61829",
+  "qid": "402622",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-bearbeiten/wie-trenne-ich-einen-aktionspunkt-von-einem-multiplot-mit-mehreren-aktionspunkten",
+  "private": false
+ },
+ "402619": {
+  "cat": "61813",
+  "qid": "402619",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/kann-ich-eine-inspektionsvorlage-auf-unternehmensebene-loschen",
+  "private": false
+ },
+ "402487": {
+  "cat": "61813",
+  "qid": "402487",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/formularinhalt-nach-excel-exportieren-wie-bereite-ich-eine-vorlage-vor",
+  "private": false
+ },
+ "402595": {
+  "cat": "61810",
+  "qid": "402595",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-hinzufugen/wie-kann-ich-uber-formularanderungen-informiert-werden",
+  "private": false
+ },
+ "402541": {
+  "cat": "61803",
+  "qid": "402541",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-suchen-und-bearbeiten/kann-ich-den-lokation-eines-inspektionsformulars-andern",
+  "private": false
+ },
+ "402624": {
+  "cat": "61818",
+  "qid": "402624",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-nach-formularen-suchen",
+  "private": false
+ },
+ "402520": {
+  "cat": "61828",
+  "qid": "402520",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemein/welche-betriebssysteme-unterstutzt-snagr",
+  "private": false
+ },
+ "402617": {
+  "cat": "61813",
+  "qid": "402617",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/wie-erstellen-sie-eine-hierarchische-liste",
+  "private": false
+ },
+ "402548": {
+  "cat": "61797",
+  "qid": "402548",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/lokation/lokation-zur-inspektion-bereit",
+  "private": false
+ },
+ "402513": {
+  "cat": "61835",
+  "qid": "402513",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/verknupfen-sie-aktionspunkte-und-dokumente-mit-formularen/wie-kann-ich-die-verknupfung-von-dokumenten-mit-formularen-aufheben",
+  "private": false
+ },
+ "402563": {
+  "cat": "61797",
+  "qid": "402563",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/lokation/lokation-schlieen-ubergeben",
+  "private": false
+ },
+ "402470": {
+  "cat": "61821",
+  "qid": "402470",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-exportieren/kann-ich-eine-liste-der-in-snagr-erstellten-formulare-extrahieren",
+  "private": false
+ },
+ "402484": {
+  "cat": "61823",
+  "qid": "402484",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wie-fuge-ich-dem-projekt-auftragnehmer-hinzu",
+  "private": false
+ },
+ "402509": {
+  "cat": "61836",
+  "qid": "402509",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/genehmigungen-geschaftsniveau/genehmigungsprufungen-hinzufugen",
+  "private": false
+ },
+ "402613": {
+  "cat": "61837",
+  "qid": "402613",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/checklisten-und-zeitplane-business-level/construction-stages-erstellen",
+  "private": false
+ },
+ "402601": {
+  "cat": "61827",
+  "qid": "402601",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/standard-pdf-bericht/kann-ich-nur-mit-dem-ersten-und-dem-letzten-foto-einen-bericht-erhalten",
+  "private": false
+ },
+ "402621": {
+  "cat": "61818",
+  "qid": "402621",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-formulare-auf-der-website-ausfullen",
+  "private": false
+ },
+ "402602": {
+  "cat": "61812",
+  "qid": "402602",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-herunterladen/hoe-download-ik-bestanden",
+  "private": false
+ },
+ "402530": {
+  "cat": "61815",
+  "qid": "402530",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/baustelle-arbeiten/baustellen-tagebuch",
+  "private": false
+ },
+ "402562": {
+  "cat": "61838",
+  "qid": "402562",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/liste-der-standardaktionspunkte-unternehmensebene/wie-fuge-ich-der-standardaktionspunkteliste-ein-einzelnes-element-hinzu",
+  "private": false
+ },
+ "402555": {
+  "cat": "61832",
+  "qid": "402555",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/lokation-projektebene/wie-erstelle-ich-barcodes-qr-codes-fur-lokationen",
+  "private": false
+ },
+ "402533": {
+  "cat": "61824",
+  "qid": "402533",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/statistik/wie-sehe-ich-die-aktionspunktstatistik",
+  "private": false
+ },
+ "402590": {
+  "cat": "61838",
+  "qid": "402590",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/liste-der-standardaktionspunkte-unternehmensebene/wie-kann-ich-standardaktionspunktlisten-importieren",
+  "private": false
+ },
+ "402594": {
+  "cat": "61839",
+  "qid": "402594",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-firmensebene/benutzerverwaltung-auf-unternehmensebene",
+  "private": false
+ },
+ "402567": {
+  "cat": "61803",
+  "qid": "402567",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-suchen-und-bearbeiten/kann-ich-anhand-des-inhalts-nach-inspektionsformularen-suchen",
+  "private": false
+ },
+ "402523": {
+  "cat": "61813",
+  "qid": "402523",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/importieren-exportieren-von-inspektionsformularvorlagen",
+  "private": false
+ },
+ "402511": {
+  "cat": "61799",
+  "qid": "402511",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-verwalten/gibt-es-eine-versionsverwaltung-in-snagr-dokumenten",
+  "private": false
+ },
+ "402582": {
+  "cat": "61799",
+  "qid": "402582",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-verwalten/wer-hat-zugriff-auf-die-dokumentenablage",
+  "private": false
+ },
+ "402558": {
+  "cat": "61816",
+  "qid": "402558",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-suche-ich-nach-aktionspunkten",
+  "private": false
+ },
+ "402494": {
+  "cat": "61818",
+  "qid": "402494",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-zwischen-den-zeichnungen-navigieren",
+  "private": false
+ },
+ "402476": {
+  "cat": "61808",
+  "qid": "402476",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/sicherheit/arbeitserlaubnis",
+  "private": false
+ },
+ "402500": {
+  "cat": "61809",
+  "qid": "402500",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-hinzufugen/kann-ich-einem-werbeartikel-mehrere-fotos-hinzufugen",
+  "private": false
+ },
+ "402574": {
+  "cat": "61801",
+  "qid": "402574",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-finden/waar-zie-ik-de-actiepunten-notificaties",
+  "private": false
+ },
+ "402481": {
+  "cat": "61815",
+  "qid": "402481",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/baustelle-arbeiten/fototagebuch",
+  "private": false
+ },
+ "402531": {
+  "cat": "61807",
+  "qid": "402531",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/in-welchem-team-bist-du/subunternehmer",
+  "private": false
+ },
+ "402580": {
+  "cat": "61811",
+  "qid": "402580",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/laden-sie-dokumente-hoch/wie-erstelle-ich-einen-ordner",
+  "private": false
+ },
+ "402550": {
+  "cat": "61831",
+  "qid": "402550",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-aktualisieren/kann-ich-eine-benachrichtigung-uber-eine-aktionspunkt-oder-ein-update-senden",
+  "private": false
+ },
+ "402474": {
+  "cat": "61816",
+  "qid": "402474",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/kann-ich-aktionspunkte-bearbeiten",
+  "private": false
+ },
+ "402598": {
+  "cat": "61824",
+  "qid": "402598",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/statistik/wie-verschaffe-ich-mir-einen-uberblick-uber-alle-inspektionsformulare",
+  "private": false
+ },
+ "402547": {
+  "cat": "61825",
+  "qid": "402547",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/benachrichtigungen-projektebene/wie-stelle-ich-inspektionsbenachrichtigungen-fur-alle-benutzer-ein",
+  "private": false
+ },
+ "402510": {
+  "cat": "61799",
+  "qid": "402510",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-verwalten/wie-losche-ich-einen-ordner",
+  "private": false
+ },
+ "402554": {
+  "cat": "61834",
+  "qid": "402554",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/qualitat/antrag-auf-inspektion",
+  "private": false
+ },
+ "402586": {
+  "cat": "61830",
+  "qid": "402586",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/bereit-fur-den-mobilen-einsatz/warum-muss-ich-synchronisieren",
+  "private": false
+ },
+ "402483": {
+  "cat": "61813",
+  "qid": "402483",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/wie-kann-ich-eine-inspektionsvorlage-bearbeiten",
+  "private": false
+ },
+ "402492": {
+  "cat": "61833",
+  "qid": "402492",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/problemlosungen-fur-den-mobilen-einsatz/ich-kann-mich-auf-der-website-anmelden-aber-nicht-in-der-app-was-ist-los",
+  "private": false
+ },
+ "402475": {
+  "cat": "61796",
+  "qid": "402475",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/problemlosungen-fur-administratoren/ich-kann-keinen-benutzer-hinzufugen-ich-sehe-den-benutzer-im-projekt-nicht-aber-das-system-meldet-dass-die-e-mail-adresse-bereits-existiert-was-ist-los",
+  "private": false
+ },
+ "402495": {
+  "cat": "61833",
+  "qid": "402495",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/problemlosungen-fur-den-mobilen-einsatz/loschen-sie-das-projekt-und-fugen-sie-es-erneut-hinzu",
+  "private": false
+ },
+ "402529": {
+  "cat": "61833",
+  "qid": "402529",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/problemlosungen-fur-den-mobilen-einsatz/die-app-zeigt-weiterhin-anmeldeinformationen-prufen-an-was-ist-los",
+  "private": false
+ },
+ "402482": {
+  "cat": "61834",
+  "qid": "402482",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/qualitat/nichtkonformitatsbericht",
+  "private": false
+ },
+ "402585": {
+  "cat": "61832",
+  "qid": "402585",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/lokation-projektebene/wie-fuge-ich-lokationen-zu-zeichnungen-hinzu",
+  "private": false
+ },
+ "402516": {
+  "cat": "61824",
+  "qid": "402516",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/statistik/wie-kann-ich-ein-geandertes-kpi-dashboard-anzeigen",
+  "private": false
+ },
+ "402576": {
+  "cat": "61823",
+  "qid": "402576",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wie-sende-ich-eine-passworterinnerung",
+  "private": false
+ },
+ "402518": {
+  "cat": "61823",
+  "qid": "402518",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wie-lege-ich-die-berechtigungen-fur-custom-report-fest",
+  "private": false
+ },
+ "402583": {
+  "cat": "61822",
+  "qid": "402583",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/zeichnungen-projektebene/wie-kann-ich-zeichnungen-gruppieren",
+  "private": false
+ },
+ "402491": {
+  "cat": "61799",
+  "qid": "402491",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-verwalten/wie-verknupfe-ich-dokumente-mit-lokationen",
+  "private": false
+ },
+ "402557": {
+  "cat": "61799",
+  "qid": "402557",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-verwalten/wie-losche-ich-eine-datei",
+  "private": false
+ },
+ "402611": {
+  "cat": "61812",
+  "qid": "402611",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-herunterladen/wie-finde-ich-dokumente-nach-lokation",
+  "private": false
+ },
+ "402605": {
+  "cat": "61822",
+  "qid": "402605",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/zeichnungen-projektebene/wie-bearbeite-ich-eine-vorhandene-zeichnung",
+  "private": false
+ },
+ "402589": {
+  "cat": "61816",
+  "qid": "402589",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/kann-ich-mehrere-aktionspunkte-an-einem-ort-hinzufugen",
+  "private": false
+ },
+ "402486": {
+  "cat": "61835",
+  "qid": "402486",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/verknupfen-sie-aktionspunkte-und-dokumente-mit-formularen/wie-lade-ich-dokumente-hoch-um-auf-formulare-zu-verlinken",
+  "private": false
+ },
+ "402608": {
+  "cat": "61816",
+  "qid": "402608",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-lade-ich-ein-projekt-herunter",
+  "private": false
+ },
+ "402620": {
+  "cat": "61799",
+  "qid": "402620",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-verwalten/wie-ziehen-sie-eine-datei-von-einem-ordner-in-einen-anderen",
+  "private": false
+ },
+ "402600": {
+  "cat": "61822",
+  "qid": "402600",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/zeichnungen-projektebene/wie-verknupfen-sie-zeichnungen-automatisch",
+  "private": false
+ },
+ "402575": {
+  "cat": "61816",
+  "qid": "402575",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-fuge-ich-einen-cue-point-hinzu",
+  "private": false
+ },
+ "402546": {
+  "cat": "61818",
+  "qid": "402546",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-fuge-ich-formulare-hinzu/wie-fulle-ich-mit-der-app-ein-formular-aus",
+  "private": false
+ },
+ "402526": {
+  "cat": "61822",
+  "qid": "402526",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/zeichnungen-projektebene/wie-bearbeite-ich-zeichnungsordner",
+  "private": false
+ },
+ "402473": {
+  "cat": "61809",
+  "qid": "402473",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-hinzufugen/kann-ich-die-fotogroe-bestimmen",
+  "private": false
+ },
+ "402603": {
+  "cat": "61825",
+  "qid": "402603",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/benachrichtigungen-projektebene/wie-verwalte-ich-automatische-benachrichtigungen",
+  "private": false
+ },
+ "402503": {
+  "cat": "61823",
+  "qid": "402503",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wie-setzen-sie-benutzerrechte-formulare",
+  "private": false
+ },
+ "402536": {
+  "cat": "61823",
+  "qid": "402536",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wie-lege-ich-die-berechtigungen-fur-kpi-dashboards-fest",
+  "private": false
+ },
+ "402588": {
+  "cat": "61801",
+  "qid": "402588",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-finden/354949-hoe-bekijk-ik-de-actiepunthistorie",
+  "private": false
+ },
+ "402577": {
+  "cat": "61831",
+  "qid": "402577",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-aktualisieren/kann-ich-ein-aktionspunkt-erneut-eroffnen",
+  "private": false
+ },
+ "402506": {
+  "cat": "61810",
+  "qid": "402506",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-hinzufugen/kann-ich-eine-zusammenfassung-des-workflow-verlaufs-eines-formulars-erhalten",
+  "private": false
+ },
+ "402573": {
+  "cat": "61817",
+  "qid": "402573",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/berichte-und-statistiken/konnen-aktionspunktberichte-automatisch-generiert-werden",
+  "private": false
+ },
+ "402607": {
+  "cat": "61822",
+  "qid": "402607",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/zeichnungen-projektebene/wie-bereite-ich-zeichnungen-vor-und-lade-sie-hoch",
+  "private": false
+ },
+ "402499": {
+  "cat": "61829",
+  "qid": "402499",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-bearbeiten/aktionspunkte-uberlappen-sich-wie-kann-dem-abgeholfen-werden",
+  "private": false
+ },
+ "402517": {
+  "cat": "61808",
+  "qid": "402517",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/sicherheit/sicherheitsinspektion",
+  "private": false
+ },
+ "402524": {
+  "cat": "61801",
+  "qid": "402524",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-finden/354943-kan-ik-actiepunten-op-tekeningen-filteren",
+  "private": false
+ },
+ "402584": {
+  "cat": "61827",
+  "qid": "402584",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/standard-pdf-bericht/wie-bekomme-ich-zusammenfassungen-unserer-aktionspunkte",
+  "private": false
+ },
+ "402553": {
+  "cat": "61809",
+  "qid": "402553",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-hinzufugen/was-ist-aufeinanderfolgenden-aktionspunkt-hinzufugen",
+  "private": false
+ },
+ "402532": {
+  "cat": "61817",
+  "qid": "402532",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/berichte-und-statistiken/projektzusammenfassung-was-sind-diese-roten-zahlen",
+  "private": false
+ },
+ "402606": {
+  "cat": "61829",
+  "qid": "402606",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-bearbeiten/kann-ich-einen-aktionspunkt-verschieben",
+  "private": false
+ },
+ "402604": {
+  "cat": "61823",
+  "qid": "402604",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wie-bearbeite-ich-benutzer-und-auftragnehmer",
+  "private": false
+ },
+ "402542": {
+  "cat": "61818",
+  "qid": "402542",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-formulare-im-pdf-format-exportieren",
+  "private": false
+ },
+ "402561": {
+  "cat": "61834",
+  "qid": "402561",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/qualitat/ubergabe-an-kaufer",
+  "private": false
+ },
+ "402485": {
+  "cat": "61807",
+  "qid": "402485",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/in-welchem-team-bist-du/entwickler",
+  "private": false
+ },
+ "402478": {
+  "cat": "61818",
+  "qid": "402478",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/startanleitung-wie-fuge-ich-formulare-hinzu/kann-ich-die-anderungen-an-einem-formular-anzeigen",
+  "private": false
+ },
+ "402552": {
+  "cat": "61821",
+  "qid": "402552",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-exportieren/wie-exportiere-ich-formulardaten-nach-excel",
+  "private": false
+ },
+ "402534": {
+  "cat": "61813",
+  "qid": "402534",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/wie-bearbeite-ich-listen",
+  "private": false
+ },
+ "402618": {
+  "cat": "61837",
+  "qid": "402618",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/checklisten-und-zeitplane-business-level/projekt-checklisten-importieren-auf-projektebene",
+  "private": false
+ },
+ "402508": {
+  "cat": "61832",
+  "qid": "402508",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/lokation-projektebene/wie-verschiebe-bearbeite-losche-ich-eine-lokationensnadel",
+  "private": false
+ },
+ "402498": {
+  "cat": "61830",
+  "qid": "402498",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/bereit-fur-den-mobilen-einsatz/ubersicht-aller-icons-buttons-in-der-app",
+  "private": false
+ },
+ "402549": {
+  "cat": "61833",
+  "qid": "402549",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/problemlosungen-fur-den-mobilen-einsatz/ich-kann-in-der-app-nicht-synchronisieren-was-soll-ich-tun",
+  "private": false
+ },
+ "402614": {
+  "cat": "61813",
+  "qid": "402614",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/wie-entwerfe-ich-eine-inspektionsformularvorlage-mit-geschaftslogik",
+  "private": false
+ },
+ "402568": {
+  "cat": "61813",
+  "qid": "402568",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-unternehmensebene/kann-ich-das-formularbild-bearbeiten-ersetzen",
+  "private": false
+ },
+ "402515": {
+  "cat": "61828",
+  "qid": "402515",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemein/was-ist-der-aktionspunktmodus-und-der-inspektionsmodus",
+  "private": false
+ },
+ "402504": {
+  "cat": "61814",
+  "qid": "402504",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemeine-einstellungen/begriffe-auf-unternehmensebene",
+  "private": false
+ },
+ "402570": {
+  "cat": "61814",
+  "qid": "402570",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemeine-einstellungen/standardsprache-oder-logo-bearbeiten-auf-unternehmensebene",
+  "private": false
+ },
+ "402587": {
+  "cat": "61810",
+  "qid": "402587",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-hinzufugen/wie-kann-ich-einem-inspektionsformular-ein-foto-aus-meiner-fotogalerie-hinzufugen",
+  "private": false
+ },
+ "402505": {
+  "cat": "61810",
+  "qid": "402505",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-hinzufugen/wie-kann-ich-genehmigungen-anzeigen-und-hinzufugen",
+  "private": false
+ },
+ "402471": {
+  "cat": "61838",
+  "qid": "402471",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/liste-der-standardaktionspunkte-unternehmensebene/wie-aktiviere-ich-das-auto-close-fur-fototagebucher",
+  "private": false
+ },
+ "402490": {
+  "cat": "61814",
+  "qid": "402490",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemeine-einstellungen/prioritaten-und-enddatum-bearbeiten-auf-unternehmensebene",
+  "private": false
+ },
+ "402560": {
+  "cat": "61796",
+  "qid": "402560",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/problemlosungen-fur-administratoren/wie-aktiviere-ich-formularvorlagen-fur-ein-projekt",
+  "private": false
+ },
+ "402525": {
+  "cat": "61822",
+  "qid": "402525",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/zeichnungen-projektebene/was-ist-der-schnellste-weg-um-sich-wiederholende-zeichnungen-raume-einzurichten",
+  "private": false
+ },
+ "402615": {
+  "cat": "61810",
+  "qid": "402615",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/formulare-hinzufugen/wie-sende-ich-benachrichtigungen-zu-einem-formular",
+  "private": false
+ },
+ "402507": {
+  "cat": "61823",
+  "qid": "402507",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-projektebene/wie-legst-du-rechte-fest-aktionspunkte",
+  "private": false
+ },
+ "402551": {
+  "cat": "61814",
+  "qid": "402551",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/allgemeine-einstellungen/projekte-bearbeiten-anzeigen-auf-unternehmensebene",
+  "private": false
+ },
+ "402578": {
+  "cat": "61826",
+  "qid": "402578",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/benutzerdefinierter-pdf-bericht/wie-erstelle-ich-einen-benutzerdefinierten-bericht",
+  "private": false
+ },
+ "402566": {
+  "cat": "61839",
+  "qid": "402566",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/konten-und-rechte-firmensebene/vertragsmanagement-auf-unternehmensebene",
+  "private": false
+ },
+ "402543": {
+  "cat": "61807",
+  "qid": "402543",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/in-welchem-team-bist-du/hersteller",
+  "private": false
+ },
+ "402497": {
+  "cat": "61799",
+  "qid": "402497",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/dokumente-verwalten/was-ist-ein-paket",
+  "private": false
+ },
+ "402609": {
+  "cat": "61827",
+  "qid": "402609",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/standard-pdf-bericht/wie-erstelle-ich-einen-aktionspunktbericht-fur-subunternehmer",
+  "private": false
+ },
+ "402540": {
+  "cat": "61829",
+  "qid": "402540",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/aktionspunkte-bearbeiten/354950-kan-ik-meerdere-actiepunten-tegelijk-aanpassen",
+  "private": false
+ },
+ "402599": {
+  "cat": "61822",
+  "qid": "402599",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/zeichnungen-projektebene/wie-verbinde-ich-zeichnungen-manuell",
+  "private": false
+ },
+ "402597": {
+  "cat": "61825",
+  "qid": "402597",
+  "lang": "de_DE",
+  "url": "https://snagr.helpjuice.com/de_DE/benachrichtigungen-projektebene/wie-richte-ich-aktionspunktbenachrichtigungen-fur-alle-benutzer-ein",
+  "private": false
+ },
+ "359624": {
+  "cat": "52759",
+  "qid": "359624",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52759-drawings-project-level/how-to-link-drawings-together-automatically",
+  "private": false
+ },
+ "359681": {
+  "cat": "52766",
+  "qid": "359681",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52766-analytics/how-do-i-see-custom-dashboard",
+  "private": false
+ },
+ "359687": {
+  "cat": "52729",
+  "qid": "359687",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52729-checklists-and-scheduling-company-level/340752-project-checklists",
+  "private": false
+ },
+ "359708": {
+  "cat": "52759",
+  "qid": "359708",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52759-drawings-project-level/how-to-group-drawings",
+  "private": false
+ },
+ "359577": {
+  "cat": "52760",
+  "qid": "359577",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52760-standard-issue-list-company-level/how-to-edit-items-on-standard-issue-list",
+  "private": false
+ },
+ "359591": {
+  "cat": "52762",
+  "qid": "359591",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52762-notifications-project-level/how-to-set-up-issues-notifications-for-all-users",
+  "private": false
+ },
+ "359685": {
+  "cat": "52754",
+  "qid": "359685",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52754-custom-pdf-report/339385-how-do-i-generate-a-custom-report",
+  "private": false
+ },
+ "359604": {
+  "cat": "52726",
+  "qid": "359604",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52726-permits-company-level/340751-add-permit",
+  "private": false
+ },
+ "359652": {
+  "cat": "52723",
+  "qid": "359652",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52723-link-issues-and-documents-to-forms/how-to-upload-documents-to-link-to-forms",
+  "private": false
+ },
+ "359622": {
+  "cat": "52734",
+  "qid": "359622",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52734-manage-documents/how-to-move-a-file-from-one-folder-to-another",
+  "private": false
+ },
+ "359658": {
+  "cat": "52760",
+  "qid": "359658",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52760-standard-issue-list-company-level/how-to-enable-specific-issue-categories-for-a-project",
+  "private": false
+ },
+ "359585": {
+  "cat": "52723",
+  "qid": "359585",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52723-link-issues-and-documents-to-forms/how-can-i-link-documents-to-a-form",
+  "private": false
+ },
+ "359659": {
+  "cat": "52739",
+  "qid": "359659",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/how-to-set-up-form-permissions",
+  "private": false
+ },
+ "359713": {
+  "cat": "52743",
+  "qid": "359713",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52743-get-ready-on-mobile/how-can-i-go-from-one-drawing-to-another",
+  "private": false
+ },
+ "359698": {
+  "cat": "52733",
+  "qid": "359698",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52733-upload-documents/how-to-upload-documents",
+  "private": false
+ },
+ "359581": {
+  "cat": "52748",
+  "qid": "359581",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52748-find-and-edit-forms/how-do-i-see-form-notifications",
+  "private": false
+ },
+ "359579": {
+  "cat": "52735",
+  "qid": "359579",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52735-submit-forms/how-do-i-send-notifications-regarding-a-form",
+  "private": false
+ },
+ "359598": {
+  "cat": "52743",
+  "qid": "359598",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52743-get-ready-on-mobile/345440-how-to-enable-location-data-on-the-mobile-device",
+  "private": false
+ },
+ "359615": {
+  "cat": "52753",
+  "qid": "359615",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52753-troubleshooting-on-mobile/341362-i-can-t-sync-on-mobile-app-what-should-i-do",
+  "private": false
+ },
+ "359672": {
+  "cat": "52735",
+  "qid": "359672",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52735-submit-forms/340863-permits-dashboard",
+  "private": false
+ },
+ "359595": {
+  "cat": "52738",
+  "qid": "359595",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52738-download-documents/how-to-download-files",
+  "private": false
+ },
+ "359720": {
+  "cat": "52749",
+  "qid": "359720",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52749-update-issues/what-do-the-pin-colours-represent",
+  "private": false
+ },
+ "359589": {
+  "cat": "52735",
+  "qid": "359589",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52735-submit-forms/can-i-track-changes-of-a-form",
+  "private": false
+ },
+ "359722": {
+  "cat": "52743",
+  "qid": "359722",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52743-get-ready-on-mobile/how-do-i-download-a-project",
+  "private": false
+ },
+ "359710": {
+  "cat": "52737",
+  "qid": "359710",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52737-export-forms/can-i-export-forms-in-pdf",
+  "private": false
+ },
+ "359575": {
+  "cat": "52737",
+  "qid": "359575",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52737-export-forms/how-do-i-export-form-pdf-if-there-are-issues-and-documents-attached-to-it",
+  "private": false
+ },
+ "359676": {
+  "cat": "52747",
+  "qid": "359676",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52747-locations/340874-location-sign-off",
+  "private": false
+ },
+ "359643": {
+  "cat": "52764",
+  "qid": "359643",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52764-general/loginwith2fa",
+  "private": false
+ },
+ "359662": {
+  "cat": "52750",
+  "qid": "359662",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52750-general-settings/340761-regions-divisions-programs",
+  "private": false
+ },
+ "359590": {
+  "cat": "52748",
+  "qid": "359590",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52748-find-and-edit-forms/340889-inspection-dashboard",
+  "private": false
+ },
+ "359599": {
+  "cat": "52761",
+  "qid": "359599",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/312904-how-do-i-digitalise-a-form",
+  "private": false
+ },
+ "359660": {
+  "cat": "52764",
+  "qid": "359660",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52764-general/340883-what-os-version-does-snagr-support",
+  "private": false
+ },
+ "359702": {
+  "cat": "52747",
+  "qid": "359702",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52747-locations/340869-location-ready-for-inspection",
+  "private": false
+ },
+ "359715": {
+  "cat": "52739",
+  "qid": "359715",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/how-to-set-permission-for-custom-reports",
+  "private": false
+ },
+ "359683": {
+  "cat": "52734",
+  "qid": "359683",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52734-manage-documents/315549-is-there-version-control-in-snagr-documents",
+  "private": false
+ },
+ "359588": {
+  "cat": "52761",
+  "qid": "359588",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/340756-can-i-edit-replace-inspection-form",
+  "private": false
+ },
+ "359638": {
+  "cat": "52734",
+  "qid": "359638",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52734-manage-documents/what-is-bundle",
+  "private": false
+ },
+ "359587": {
+  "cat": "52753",
+  "qid": "359587",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52753-troubleshooting-on-mobile/remove-and-re-add-project",
+  "private": false
+ },
+ "359649": {
+  "cat": "52743",
+  "qid": "359649",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52743-get-ready-on-mobile/what-does-synchronise-mean",
+  "private": false
+ },
+ "359601": {
+  "cat": "52968",
+  "qid": "359601",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52968-getting-started/developer",
+  "private": false
+ },
+ "359609": {
+  "cat": "52748",
+  "qid": "359609",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52748-find-and-edit-forms/341361-can-i-change-location-of-an-inspection-form",
+  "private": false
+ },
+ "359718": {
+  "cat": "52737",
+  "qid": "359718",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52737-export-forms/304697-how-to-export-excel-from-template",
+  "private": false
+ },
+ "359680": {
+  "cat": "52764",
+  "qid": "359680",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52764-general/2fa",
+  "private": false
+ },
+ "359605": {
+  "cat": "52746",
+  "qid": "359605",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52746-locations-project-level/340867-move-edit-delete-a-location-pin",
+  "private": false
+ },
+ "359673": {
+  "cat": "52734",
+  "qid": "359673",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52734-manage-documents/how-to-delete-a-file",
+  "private": false
+ },
+ "359648": {
+  "cat": "52723",
+  "qid": "359648",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52723-link-issues-and-documents-to-forms/how-can-i-unlink-documents-from-a-form",
+  "private": false
+ },
+ "359594": {
+  "cat": "52753",
+  "qid": "359594",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52753-troubleshooting-on-mobile/340881-the-app-has-been-checking-credentials-for-a-long-time-and-does-not-allow-me-to-download-project-on-mobile-app-what-is-wrong",
+  "private": false
+ },
+ "359642": {
+  "cat": "52739",
+  "qid": "359642",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/reset2fa",
+  "private": false
+ },
+ "359712": {
+  "cat": "52742",
+  "qid": "359712",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52742-site-operations/photo-diary",
+  "private": false
+ },
+ "359584": {
+  "cat": "52729",
+  "qid": "359584",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52729-checklists-and-scheduling-company-level/340888-project-checklists",
+  "private": false
+ },
+ "359646": {
+  "cat": "52748",
+  "qid": "359646",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52748-find-and-edit-forms/340764-can-i-search-inspection-forms-by-the-hotspot-value",
+  "private": false
+ },
+ "359597": {
+  "cat": "52750",
+  "qid": "359597",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52750-general-settings/340896-how-to-edit-the-project-settings",
+  "private": false
+ },
+ "359653": {
+  "cat": "52740",
+  "qid": "359653",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52740-safety/safety-inspection",
+  "private": false
+ },
+ "359635": {
+  "cat": "52744",
+  "qid": "359635",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52744-troubelshooting-for-admins/how-to-enable-form-templates-for-a-project",
+  "private": false
+ },
+ "359619": {
+  "cat": "52741",
+  "qid": "359619",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52741-quality/request-for-inspections",
+  "private": false
+ },
+ "359671": {
+  "cat": "52743",
+  "qid": "359671",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52743-get-ready-on-mobile/340878-icons-or-buttons-on-the-device",
+  "private": false
+ },
+ "359657": {
+  "cat": "52735",
+  "qid": "359657",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52735-submit-forms/how-to-complete-forms-on-website",
+  "private": false
+ },
+ "359593": {
+  "cat": "52764",
+  "qid": "359593",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52764-general/what-is-issue-mode-and-form-mode",
+  "private": false
+ },
+ "359697": {
+  "cat": "52739",
+  "qid": "359697",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/how-to-send-password-reminders",
+  "private": false
+ },
+ "359596": {
+  "cat": "52739",
+  "qid": "359596",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/how-to-edit-users-and-contractors",
+  "private": false
+ },
+ "359641": {
+  "cat": "52729",
+  "qid": "359641",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52729-checklists-and-scheduling-company-level/340754-construction-stages",
+  "private": false
+ },
+ "359723": {
+  "cat": "52723",
+  "qid": "359723",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52723-link-issues-and-documents-to-forms/how-can-i-link-issues-to-a-form",
+  "private": false
+ },
+ "359707": {
+  "cat": "52750",
+  "qid": "359707",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52750-general-settings/340760-edit-view-projects",
+  "private": false
+ },
+ "359656": {
+  "cat": "52734",
+  "qid": "359656",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52734-manage-documents/who-has-access-to-document-repository",
+  "private": false
+ },
+ "359608": {
+  "cat": "52734",
+  "qid": "359608",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52734-manage-documents/how-to-delete-a-folder",
+  "private": false
+ },
+ "359714": {
+  "cat": "52735",
+  "qid": "359714",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52735-submit-forms/how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form",
+  "private": false
+ },
+ "359693": {
+  "cat": "52737",
+  "qid": "359693",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52737-export-forms/can-i-extract-a-list-of-forms-that-are-created-on-snagr",
+  "private": false
+ },
+ "359623": {
+  "cat": "52732",
+  "qid": "359623",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52732-accounts-and-permissions-company-level/340763-add-user-at-the-company-level",
+  "private": false
+ },
+ "359640": {
+  "cat": "52734",
+  "qid": "359640",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52734-manage-documents/how-to-link-documents-to-locations",
+  "private": false
+ },
+ "359620": {
+  "cat": "52732",
+  "qid": "359620",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52732-accounts-and-permissions-company-level/340745-add-contractors-at-the-company-level",
+  "private": false
+ },
+ "359607": {
+  "cat": "52743",
+  "qid": "359607",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52743-get-ready-on-mobile/can-i-set-up-auto-sync",
+  "private": false
+ },
+ "359689": {
+  "cat": "52733",
+  "qid": "359689",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52733-upload-documents/how-to-create-a-folder",
+  "private": false
+ },
+ "359674": {
+  "cat": "52744",
+  "qid": "359674",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52744-troubelshooting-for-admins/340868-i-can-t-add-a-user-i-don-t-see-him-her-on-the-project-but-the-system-says-email-already-exists-what-is-wrong",
+  "private": false
+ },
+ "359647": {
+  "cat": "52735",
+  "qid": "359647",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52735-submit-forms/how-can-i-be-notified-of-forms-updates",
+  "private": false
+ },
+ "359580": {
+  "cat": "52735",
+  "qid": "359580",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52735-submit-forms/can-i-have-a-summary-of-the-form-workflow-history",
+  "private": false
+ },
+ "359668": {
+  "cat": "52741",
+  "qid": "359668",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52741-quality/handover-process-with-purchaser",
+  "private": false
+ },
+ "359576": {
+  "cat": "52724",
+  "qid": "359576",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52724-edit-issues/311758-how-to-batch-edit-issues",
+  "private": false
+ },
+ "359688": {
+  "cat": "52724",
+  "qid": "359688",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52724-edit-issues/can-i-delete-issues",
+  "private": false
+ },
+ "359706": {
+  "cat": "52759",
+  "qid": "359706",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52759-drawings-project-level/what-is-the-quickest-way-to-set-up-repetitive-units",
+  "private": false
+ },
+ "359677": {
+  "cat": "52739",
+  "qid": "359677",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/315713-how-to-set-permissions-forms",
+  "private": false
+ },
+ "359667": {
+  "cat": "52758",
+  "qid": "359667",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52758-find-issues/how-do-i-search-issues-on-device",
+  "private": false
+ },
+ "359606": {
+  "cat": "52760",
+  "qid": "359606",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52760-standard-issue-list-company-level/how-can-i-set-up-auto-close-for-photo-diaries",
+  "private": false
+ },
+ "359651": {
+  "cat": "52729",
+  "qid": "359651",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52729-checklists-and-scheduling-company-level/340886-construction-stages",
+  "private": false
+ },
+ "359574": {
+  "cat": "52750",
+  "qid": "359574",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52750-general-settings/340762-terminology",
+  "private": false
+ },
+ "359621": {
+  "cat": "52760",
+  "qid": "359621",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52760-standard-issue-list-company-level/how-to-import-issue-list",
+  "private": false
+ },
+ "359632": {
+  "cat": "52724",
+  "qid": "359632",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52724-edit-issues/can-i-edit-issues",
+  "private": false
+ },
+ "359603": {
+  "cat": "52746",
+  "qid": "359603",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52746-locations-project-level/340895-create-barcode-for-location",
+  "private": false
+ },
+ "359691": {
+  "cat": "52728",
+  "qid": "359691",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52728-reports-and-analytics/how-to-get-a-summary-statistics-of-our-issue-records",
+  "private": false
+ },
+ "359644": {
+  "cat": "52749",
+  "qid": "359644",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52749-update-issues/340864-how-to-reopen-the-issue",
+  "private": false
+ },
+ "359582": {
+  "cat": "52725",
+  "qid": "359582",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52725-add-issues/can-i-copy-and-paste-an-issue",
+  "private": false
+ },
+ "359690": {
+  "cat": "52728",
+  "qid": "359690",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52728-reports-and-analytics/how-do-i-view-analytics",
+  "private": false
+ },
+ "359719": {
+  "cat": "52725",
+  "qid": "359719",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52725-add-issues/can-i-add-more-photos-to-an-issue",
+  "private": false
+ },
+ "359616": {
+  "cat": "52761",
+  "qid": "359616",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/330054-import-export-inspection-form-templates",
+  "private": false
+ },
+ "359645": {
+  "cat": "52750",
+  "qid": "359645",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52750-general-settings/340744-edit-default-language-or-logo",
+  "private": false
+ },
+ "359634": {
+  "cat": "52761",
+  "qid": "359634",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/343363-how-to-create-a-hierarchical-list",
+  "private": false
+ },
+ "359627": {
+  "cat": "52762",
+  "qid": "359627",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52762-notifications-project-level/how-to-manage-subscriptions",
+  "private": false
+ },
+ "359661": {
+  "cat": "52759",
+  "qid": "359661",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52759-drawings-project-level/308329-how-to-edit-drawing-set",
+  "private": false
+ },
+ "359724": {
+  "cat": "52725",
+  "qid": "359724",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52725-add-issues/how-to-add-an-issue",
+  "private": false
+ },
+ "359637": {
+  "cat": "52728",
+  "qid": "359637",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52728-reports-and-analytics/how-to-generate-an-issue-report",
+  "private": false
+ },
+ "359694": {
+  "cat": "52724",
+  "qid": "359694",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52724-edit-issues/how-to-break-items-out-from-a-plot-with-multiple-issues",
+  "private": false
+ },
+ "359586": {
+  "cat": "52746",
+  "qid": "359586",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52746-locations-project-level/how-to-set-up-locations-on-drawings",
+  "private": false
+ },
+ "359629": {
+  "cat": "52760",
+  "qid": "359629",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52760-standard-issue-list-company-level/how-to-design-the-issue-list",
+  "private": false
+ },
+ "359670": {
+  "cat": "52760",
+  "qid": "359670",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52760-standard-issue-list-company-level/how-to-add-single-items-to-issue-list",
+  "private": false
+ },
+ "359704": {
+  "cat": "52762",
+  "qid": "359704",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52762-notifications-project-level/how-to-set-up-forms-notifications-for-all-users",
+  "private": false
+ },
+ "359628": {
+  "cat": "52738",
+  "qid": "359628",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52738-download-documents/how-to-find-documents-by-locations",
+  "private": false
+ },
+ "359600": {
+  "cat": "52747",
+  "qid": "359600",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52747-locations/340894-room-area-signoff",
+  "private": false
+ },
+ "359695": {
+  "cat": "52741",
+  "qid": "359695",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52741-quality/defect-management",
+  "private": false
+ },
+ "359725": {
+  "cat": "52735",
+  "qid": "359725",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52735-submit-forms/how-to-complete-forms-on-device",
+  "private": false
+ },
+ "359711": {
+  "cat": "52748",
+  "qid": "359711",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52748-find-and-edit-forms/304211-can-i-delete-form",
+  "private": false
+ },
+ "359618": {
+  "cat": "52739",
+  "qid": "359618",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/how-to-add-users-to-project",
+  "private": false
+ },
+ "359654": {
+  "cat": "52726",
+  "qid": "359654",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52726-permits-company-level/340750-add-permit-inspection",
+  "private": false
+ },
+ "359703": {
+  "cat": "52728",
+  "qid": "359703",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52728-reports-and-analytics/can-issue-reports-be-generated-automatically",
+  "private": false
+ },
+ "359611": {
+  "cat": "52725",
+  "qid": "359611",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52725-add-issues/what-is-add-future-issue",
+  "private": false
+ },
+ "359678": {
+  "cat": "52759",
+  "qid": "359678",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52759-drawings-project-level/312274-how-to-set-up-the-drawing-regions",
+  "private": false
+ },
+ "359663": {
+  "cat": "52728",
+  "qid": "359663",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52728-reports-and-analytics/can-i-have-a-report-with-the-first-and-last-photo-only",
+  "private": false
+ },
+ "359613": {
+  "cat": "52758",
+  "qid": "359613",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52758-find-issues/where-do-i-see-issue-notifications",
+  "private": false
+ },
+ "359684": {
+  "cat": "52758",
+  "qid": "359684",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52758-find-issues/340877-filtering-issues-on-device",
+  "private": false
+ },
+ "359633": {
+  "cat": "52761",
+  "qid": "359633",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/308326-how-to-edit-the-custom-list",
+  "private": false
+ },
+ "359578": {
+  "cat": "52724",
+  "qid": "359578",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52724-edit-issues/can-i-move-an-issue-pin",
+  "private": false
+ },
+ "359679": {
+  "cat": "52758",
+  "qid": "359679",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52758-find-issues/328540-how-to-view-issue-history",
+  "private": false
+ },
+ "359709": {
+  "cat": "52724",
+  "qid": "359709",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52724-edit-issues/how-to-organise-issue-pins-that-overlap-on-each-other",
+  "private": false
+ },
+ "359636": {
+  "cat": "52749",
+  "qid": "359636",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52749-update-issues/how-do-i-send-a-notification-regarding-an-issue",
+  "private": false
+ },
+ "359650": {
+  "cat": "52725",
+  "qid": "359650",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52725-add-issues/can-i-define-photo-size",
+  "private": false
+ },
+ "359682": {
+  "cat": "52750",
+  "qid": "359682",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52750-general-settings/enable2fa",
+  "private": false
+ },
+ "359666": {
+  "cat": "52741",
+  "qid": "359666",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52741-quality/337878-non-conformance-report",
+  "private": false
+ },
+ "359617": {
+  "cat": "52749",
+  "qid": "359617",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52749-update-issues/how-to-update-issues",
+  "private": false
+ },
+ "359665": {
+  "cat": "52753",
+  "qid": "359665",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52753-troubleshooting-on-mobile/common-issues-in-project-download",
+  "private": false
+ },
+ "359592": {
+  "cat": "52759",
+  "qid": "359592",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52759-drawings-project-level/how-to-link-drawings-together-manually",
+  "private": false
+ },
+ "359614": {
+  "cat": "52728",
+  "qid": "359614",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52728-reports-and-analytics/how-to-generate-issue-report-for-subcontractors-only",
+  "private": false
+ },
+ "359664": {
+  "cat": "52764",
+  "qid": "359664",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52764-general/how-do-i-change-password",
+  "private": false
+ },
+ "359686": {
+  "cat": "52740",
+  "qid": "359686",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52740-safety/317970-permit-to-work",
+  "private": false
+ },
+ "359696": {
+  "cat": "52739",
+  "qid": "359696",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/how-to-set-permission-for-kpi-dashboard",
+  "private": false
+ },
+ "359610": {
+  "cat": "52759",
+  "qid": "359610",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52759-drawings-project-level/how-to-upload-drawings",
+  "private": false
+ },
+ "359583": {
+  "cat": "52750",
+  "qid": "359583",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52750-general-settings/passwordcomplexity",
+  "private": false
+ },
+ "359675": {
+  "cat": "52748",
+  "qid": "359675",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52748-find-and-edit-forms/how-can-i-search-for-forms",
+  "private": false
+ },
+ "359699": {
+  "cat": "52726",
+  "qid": "359699",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52726-permits-company-level/340755-view-edit-delete-permit-inspection",
+  "private": false
+ },
+ "359626": {
+  "cat": "52759",
+  "qid": "359626",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52759-drawings-project-level/how-to-edit-existing-drawing",
+  "private": false
+ },
+ "359630": {
+  "cat": "52728",
+  "qid": "359630",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52728-reports-and-analytics/project-summary-what-are-the-figures-in-red-colour",
+  "private": false
+ },
+ "359721": {
+  "cat": "52723",
+  "qid": "359721",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52723-link-issues-and-documents-to-forms/how-can-i-unlink-issues-from-a-form",
+  "private": false
+ },
+ "359700": {
+  "cat": "52739",
+  "qid": "359700",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52739-accounts-and-permissions-project-level/how-to-add-contractors-to-project",
+  "private": false
+ },
+ "359701": {
+  "cat": "52750",
+  "qid": "359701",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52750-general-settings/340759-can-i-edit-the-priorities-and-due-day",
+  "private": false
+ },
+ "359612": {
+  "cat": "52761",
+  "qid": "359612",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/340758-how-to-edit-the-inspection-template",
+  "private": false
+ },
+ "359625": {
+  "cat": "52742",
+  "qid": "359625",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52742-site-operations/daily-site-walk",
+  "private": false
+ },
+ "359705": {
+  "cat": "52761",
+  "qid": "359705",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/340736-how-can-i-remove-the-inspection-from-the-company",
+  "private": false
+ },
+ "359639": {
+  "cat": "52761",
+  "qid": "359639",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/340737-how-can-i-remove-a-form-from-the-inspection-template",
+  "private": false
+ },
+ "359716": {
+  "cat": "52761",
+  "qid": "359716",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/304553-how-to-design-the-dms-export-template",
+  "private": false
+ },
+ "359602": {
+  "cat": "52761",
+  "qid": "359602",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/304335-how-to-create-custom-list",
+  "private": false
+ },
+ "359655": {
+  "cat": "52761",
+  "qid": "359655",
+  "lang": "it_IT",
+  "url": "https://snagr.helpjuice.com/it_IT/52761-forms-company-level/287202-how-to-design-inspections-in-snagr",
+  "private": false
+ },
+ "486807": {
+  "cat": "42202",
+  "qid": "486807",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-markeer-je-documenten-als-niet-in-gebruik-nieuwe-upgrade",
+  "private": false
+ },
+ "355544": {
+  "cat": "42214",
+  "qid": "355544",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemene-instellingen/355544-prioriteiten-en-einddatum-bewerken-op-bedrijfsniveau",
+  "private": false
+ },
+ "293104": {
+  "cat": "42192",
+  "qid": "293104",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/team/overzicht-voor-management",
+  "private": false
+ },
+ "293107": {
+  "cat": "42192",
+  "qid": "293107",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/team/overzicht-voor-onderaannemers",
+  "private": false
+ },
+ "293108": {
+  "cat": "52451",
+  "qid": "293108",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepuntenintroductie/hoe-download-ik-een-project",
+  "private": false
+ },
+ "293279": {
+  "cat": "42202",
+  "qid": "293279",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-kan-ik-documenten-ontkoppelen-van-formulieren",
+  "private": false
+ },
+ "293120": {
+  "cat": "42196",
+  "qid": "293120",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-toevoegen/kan-ik-meer-fotos-toevoegen-aan-een-actiepunt",
+  "private": false
+ },
+ "293312": {
+  "cat": "42211",
+  "qid": "293312",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/notificaties-projectniveau/hoe-beheer-ik-automatische-notificaties",
+  "private": false
+ },
+ "293117": {
+  "cat": "52451",
+  "qid": "293117",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepuntenintroductie/kan-ik-meerdere-actiepunten-toevoegen-op-een-plek",
+  "private": false
+ },
+ "293318": {
+  "cat": "42213",
+  "qid": "293318",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/hoe-ontwerp-ik-inspecties",
+  "private": false
+ },
+ "486252": {
+  "cat": "52478",
+  "qid": "486252",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemeen/wat-moet-ik-doen-als-ik-mijn-wachtwoord-ben-vergeten",
+  "private": false
+ },
+ "293291": {
+  "cat": "42206",
+  "qid": "293291",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-beheren/wat-is-een-pakket",
+  "private": false
+ },
+ "293282": {
+  "cat": "42203",
+  "qid": "293282",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-vinden-en-bewerken/hoe-zie-ik-formulier-notificaties",
+  "private": false
+ },
+ "355565": {
+  "cat": "42209",
+  "qid": "355565",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-bedrijfsniveau/355565-gebruikersbeheer-op-bedrijfsniveau",
+  "private": false
+ },
+ "293319": {
+  "cat": "42213",
+  "qid": "293319",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/hoe-stel-ik-inspecties-en-formulieren-in",
+  "private": false
+ },
+ "358075": {
+  "cat": "52480",
+  "qid": "358075",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/probleemoplossingen-voor-mobiel-gebruik/358075-ik-kan-niet-synchroniseren-op-de-app-wat-moet-ik-doen",
+  "private": false
+ },
+ "293105": {
+  "cat": "42192",
+  "qid": "293105",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/team/overzicht-voor-inspectie-teams-adviseurs",
+  "private": false
+ },
+ "293110": {
+  "cat": "52479",
+  "qid": "293110",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/klaar-voor-mobiel-gebruik/kan-ik-automatisch-synchroniseren-instellen",
+  "private": false
+ },
+ "293294": {
+  "cat": "42207",
+  "qid": "293294",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-downloaden/hoe-download-ik-bestanden",
+  "private": false
+ },
+ "293128": {
+  "cat": "42197",
+  "qid": "293128",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-vinden/waar-zie-ik-de-actiepunten-notificaties",
+  "private": false
+ },
+ "293309": {
+  "cat": "42210",
+  "qid": "293309",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/wat-is-het-verschil-tussen-een-gebruikers-en-aannemers-account",
+  "private": false
+ },
+ "354949": {
+  "cat": "42197",
+  "qid": "354949",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-vinden/354949-hoe-bekijk-ik-de-actiepunthistorie",
+  "private": false
+ },
+ "486822": {
+  "cat": "42213",
+  "qid": "486822",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/hoe-bewerk-je-formulier-details",
+  "private": false
+ },
+ "357048": {
+  "cat": "52477",
+  "qid": "357048",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/checklijsten-en-schemas-bedrijfsniveau/357048-project-checklijst-maken",
+  "private": false
+ },
+ "293272": {
+  "cat": "52452",
+  "qid": "293272",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulierintroductie/kan-ik-de-wijzigingen-van-een-formulier-bekijken",
+  "private": false
+ },
+ "357088": {
+  "cat": "52478",
+  "qid": "357088",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemeen/357088-welke-besturingssystemen-ondersteunt-snagr",
+  "private": false
+ },
+ "354760": {
+  "cat": "42192",
+  "qid": "354760",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/team/354760-producent",
+  "private": false
+ },
+ "293295": {
+  "cat": "42207",
+  "qid": "293295",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-downloaden/hoe-vind-ik-documenten-per-locatie",
+  "private": false
+ },
+ "354752": {
+  "cat": "42192",
+  "qid": "354752",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/team/354752-hoofdaannemer",
+  "private": false
+ },
+ "293113": {
+  "cat": "52478",
+  "qid": "293113",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemeen/hoe-verander-ik-mijn-wachtwoord",
+  "private": false
+ },
+ "354751": {
+  "cat": "42192",
+  "qid": "354751",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/team/354751-ontwikkelaar",
+  "private": false
+ },
+ "358074": {
+  "cat": "52480",
+  "qid": "358074",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/probleemoplossingen-voor-mobiel-gebruik/358074-de-app-blijft-checking-credentials-aangeven-wat-is-er-aan-de-hand",
+  "private": false
+ },
+ "293287": {
+  "cat": "42206",
+  "qid": "293287",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-beheren/wie-heeft-toegang-tot-de-documenten-opslag",
+  "private": false
+ },
+ "486732": {
+  "cat": "79339",
+  "qid": "486732",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/79339-standaard-actiepunten-lijst-projectniveau/kan-een-aannemersgroep-automatisch-gekoppeld-worden-aan-een-specifiek-actiepuntentype",
+  "private": false
+ },
+ "355104": {
+  "cat": "42206",
+  "qid": "355104",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-beheren/355104-is-er-versiebeheer-in-snagr-documenten",
+  "private": false
+ },
+ "293138": {
+  "cat": "52451",
+  "qid": "293138",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepuntenintroductie/hoe-maak-ik-een-actiepunten-rapport",
+  "private": false
+ },
+ "293321": {
+  "cat": "52481",
+  "qid": "293321",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/probleemoplossingen-voor-beheerders/hoe-activeer-ik-formulier-sjablonen-voor-een-project",
+  "private": false
+ },
+ "293116": {
+  "cat": "52451",
+  "qid": "293116",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepuntenintroductie/hoe-voeg-ik-een-actiepunt-toe",
+  "private": false
+ },
+ "354932": {
+  "cat": "52460",
+  "qid": "354932",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/aangepast-pdf-rapport/354932-hoe-maak-ik-een-aangepast-rapport",
+  "private": false
+ },
+ "354921": {
+  "cat": "52459",
+  "qid": "354921",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/statistieken/354921-hoe-krijg-ik-een-overzicht-van-alle-inspectieformulieren",
+  "private": false
+ },
+ "293278": {
+  "cat": "42202",
+  "qid": "293278",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-kan-ik-documenten-koppelen-aan-formulieren",
+  "private": false
+ },
+ "486290": {
+  "cat": "52479",
+  "qid": "486290",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/klaar-voor-mobiel-gebruik/kan-ik-automatische-synchronisatie-instellen",
+  "private": false
+ },
+ "356462": {
+  "cat": "42213",
+  "qid": "356462",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/356462-hoe-maak-je-een-hierarchische-lijst",
+  "private": false
+ },
+ "355094": {
+  "cat": "42201",
+  "qid": "355094",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-toevoegen/355094-hoe-kan-ik-een-foto-uit-mijn-fotogalerij-toevoegen-aan-een-inspectieformulier",
+  "private": false
+ },
+ "293141": {
+  "cat": "52474",
+  "qid": "293141",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/standaard-pdf-rapport/kan-ik-een-rapport-krijgen-met-alleen-de-eerste-en-laatste-foto",
+  "private": false
+ },
+ "484524": {
+  "cat": "42203",
+  "qid": "484524",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-vinden-en-bewerken/hoe-gebruik-ik-de-formulier-zoeker-in-de-app",
+  "private": false
+ },
+ "357091": {
+  "cat": "52479",
+  "qid": "357091",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/klaar-voor-mobiel-gebruik/357091-overzicht-van-alle-iconen-knoppen-in-de-app",
+  "private": false
+ },
+ "354950": {
+  "cat": "42198",
+  "qid": "354950",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-bewerken/354950-kan-ik-meerdere-actiepunten-tegelijk-aanpassen",
+  "private": false
+ },
+ "486780": {
+  "cat": "79157",
+  "qid": "486780",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/2ta/twee-traps-authenticatie-activeren-op-bedrijfsniveau",
+  "private": false
+ },
+ "355541": {
+  "cat": "42214",
+  "qid": "355541",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemene-instellingen/355541-project-instellingen-bewerken-op-project-niveau",
+  "private": false
+ },
+ "351217": {
+  "cat": "42213",
+  "qid": "351217",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/351217-hoe-maak-ik-een-aangepaste-lijst",
+  "private": false
+ },
+ "293277": {
+  "cat": "42202",
+  "qid": "293277",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-kan-ik-actiepunten-ontkoppelen-van-formulieren",
+  "private": false
+ },
+ "293300": {
+  "cat": "42208",
+  "qid": "293300",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/tekeningen-projectniveau/hoe-koppel-je-tekeningen-automatisch",
+  "private": false
+ },
+ "355108": {
+  "cat": "42208",
+  "qid": "355108",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/tekeningen-projectniveau/355108-hoe-bewerk-ik-tekeningenmappen",
+  "private": false
+ },
+ "484540": {
+  "cat": "42210",
+  "qid": "484540",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/hoe-partij-bewerk-je-gebruikersrechten",
+  "private": false
+ },
+ "354941": {
+  "cat": "42199",
+  "qid": "354941",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-updaten/354941-kan-ik-een-actiepunt-heropenen",
+  "private": false
+ },
+ "293284": {
+  "cat": "42204",
+  "qid": "293284",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-exporteren/hoe-exporteer-ik-formulieren-in-pdf-wanneer-er-actiepunten-en-documenten-aan-vast-zitten",
+  "private": false
+ },
+ "293132": {
+  "cat": "42198",
+  "qid": "293132",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-bewerken/actiepunten-overlappen-elkaar-hoe-kan-dit-verholpen-worden",
+  "private": false
+ },
+ "293133": {
+  "cat": "42198",
+  "qid": "293133",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-bewerken/hoe-ontkoppel-ik-actiepunt-uit-een-plot-met-meerdere-actiepunten",
+  "private": false
+ },
+ "355095": {
+  "cat": "42203",
+  "qid": "355095",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-vinden-en-bewerken/355095-hoe-verwijder-ik-inspectieformulieren",
+  "private": false
+ },
+ "293298": {
+  "cat": "42208",
+  "qid": "293298",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/tekeningen-projectniveau/wat-is-de-snelste-weg-om-herhalende-tekeningen-ruimtes-in-te-stellen",
+  "private": false
+ },
+ "355197": {
+  "cat": "42211",
+  "qid": "355197",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/notificaties-projectniveau/355197-hoe-stel-ik-inspectie-notificaties-in-voor-alle-gebruikers",
+  "private": false
+ },
+ "293316": {
+  "cat": "42212",
+  "qid": "293316",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/standaard-actiepunten-lijst-bedrijfsniveau/hoe-bewerk-je-items-op-de-standaard-actiepunten-lijst",
+  "private": false
+ },
+ "355098": {
+  "cat": "42203",
+  "qid": "355098",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-vinden-en-bewerken/355098-kan-ik-de-locatie-van-een-inspectieformulier-wijzigen",
+  "private": false
+ },
+ "293314": {
+  "cat": "42212",
+  "qid": "293314",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/standaard-actiepunten-lijst-bedrijfsniveau/hoe-kan-ik-standaard-actiepuntenlijsten-importeren",
+  "private": false
+ },
+ "356452": {
+  "cat": "42213",
+  "qid": "356452",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/356452-hoe-verwijder-ik-een-formulier-template-uit-een-inspectie-template",
+  "private": false
+ },
+ "356450": {
+  "cat": "42213",
+  "qid": "356450",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/356450-kan-ik-de-formulierafbeelding-bewerken-vervangen",
+  "private": false
+ },
+ "293305": {
+  "cat": "42210",
+  "qid": "293305",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/hoe-voeg-ik-aannemers-toe-aan-het-project",
+  "private": false
+ },
+ "293273": {
+  "cat": "42201",
+  "qid": "293273",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-toevoegen/kan-ik-een-samenvatting-krijgen-van-de-workflow-historie-van-een-formulier",
+  "private": false
+ },
+ "354939": {
+  "cat": "42196",
+  "qid": "354939",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-toevoegen/354939-kan-ik-meerdere-foto-s-toevoegen-aan-een-actiepunt",
+  "private": false
+ },
+ "293135": {
+  "cat": "52451",
+  "qid": "293135",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepuntenintroductie/wat-betekenen-de-verschillende-actiepunt-kleuren",
+  "private": false
+ },
+ "351224": {
+  "cat": "42213",
+  "qid": "351224",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/351224-hoe-kan-ik-een-inspectie-sjabloon-bewerken",
+  "private": false
+ },
+ "293315": {
+  "cat": "42212",
+  "qid": "293315",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/standaard-actiepunten-lijst-bedrijfsniveau/hoe-voeg-ik-een-los-item-toe-aan-de-standaard-actiepunten-lijst",
+  "private": false
+ },
+ "293317": {
+  "cat": "79339",
+  "qid": "293317",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/79339-standaard-actiepunten-lijst-projectniveau/hoe-activeer-ik-specifieke-actiepunt-categorieen-voor-een-project",
+  "private": false
+ },
+ "293285": {
+  "cat": "42204",
+  "qid": "293285",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-exporteren/kan-ik-een-lijst-onttrekken-van-formulieren-welke-zijn-gecreeerd-in-snagr",
+  "private": false
+ },
+ "486232": {
+  "cat": "52478",
+  "qid": "486232",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemeen/wat-is-activiteiten-logboek-project",
+  "private": false
+ },
+ "355560": {
+  "cat": "42212",
+  "qid": "355560",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/standaard-actiepunten-lijst-bedrijfsniveau/355560-hoe-activeer-ik-auto-close-voor-fotodagboeken",
+  "private": false
+ },
+ "293288": {
+  "cat": "42206",
+  "qid": "293288",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-beheren/hoe-koppel-ik-documenten-aan-locaties",
+  "private": false
+ },
+ "358103": {
+  "cat": "52482",
+  "qid": "358103",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/locaties/358103-locatie-aftekenen",
+  "private": false
+ },
+ "293280": {
+  "cat": "42202",
+  "qid": "293280",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-upload-ik-documenten-om-te-linken-aan-formulieren",
+  "private": false
+ },
+ "355543": {
+  "cat": "42214",
+  "qid": "355543",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemene-instellingen/355543-standaard-taal-of-logo-bewerken-op-bedrijfsniveau",
+  "private": false
+ },
+ "293114": {
+  "cat": "52480",
+  "qid": "293114",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/probleemoplossingen-voor-mobiel-gebruik/verwijderen-en-opnieuw-toevoegen-project",
+  "private": false
+ },
+ "355096": {
+  "cat": "42203",
+  "qid": "355096",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-vinden-en-bewerken/355096-kan-ik-naar-inspectieformulieren-zoeken-aan-de-hand-van-de-inhoud",
+  "private": false
+ },
+ "486261": {
+  "cat": "52478",
+  "qid": "486261",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemeen/hoe-kunnen-gebruikers-de-twee-traps-authenticatie-activeren",
+  "private": false
+ },
+ "293271": {
+  "cat": "52452",
+  "qid": "293271",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulierintroductie/hoe-kan-ik-formulieren-invullen-op-de-website",
+  "private": false
+ },
+ "355555": {
+  "cat": "42214",
+  "qid": "355555",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemene-instellingen/355555-termen-op-bedrijfsniveau",
+  "private": false
+ },
+ "351230": {
+  "cat": "52482",
+  "qid": "351230",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/locaties/351230-locatie-aftekenen",
+  "private": false
+ },
+ "354769": {
+  "cat": "52455",
+  "qid": "354769",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/kwaliteit/354769-overdracht-aan-kopers",
+  "private": false
+ },
+ "354959": {
+  "cat": "42200",
+  "qid": "354959",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/rapporten-en-statistieken/354959-project-samenvatting-wat-zijn-die-rode-cijfers",
+  "private": false
+ },
+ "355547": {
+  "cat": "42214",
+  "qid": "355547",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemene-instellingen/355547-regio-s-divisies-programma-s-op-bedrijfsniveau",
+  "private": false
+ },
+ "293310": {
+  "cat": "42211",
+  "qid": "293310",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/notificaties-projectniveau/hoe-stel-ik-notificaties-in-voor-alle-gebruikers",
+  "private": false
+ },
+ "486243": {
+  "cat": "52478",
+  "qid": "486243",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemeen/hoe-kan-ik-contact-opnemen-met-snagr",
+  "private": false
+ },
+ "355093": {
+  "cat": "42201",
+  "qid": "355093",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-toevoegen/355093-hoe-bekijk-en-voeg-ik-vergunningen-toe",
+  "private": false
+ },
+ "293296": {
+  "cat": "42208",
+  "qid": "293296",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/tekeningen-projectniveau/hoe-kan-ik-tekeningen-groeperen",
+  "private": false
+ },
+ "293290": {
+  "cat": "42206",
+  "qid": "293290",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-beheren/hoe-verwijder-ik-een-bestand",
+  "private": false
+ },
+ "484533": {
+  "cat": "42201",
+  "qid": "484533",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-toevoegen/hoe-zet-je-gerelateerde-formulieren-op-gesloten-afgekeurd",
+  "private": false
+ },
+ "293131": {
+  "cat": "42198",
+  "qid": "293131",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-bewerken/kan-ik-een-actiepunt-verplaatsen",
+  "private": false
+ },
+ "486771": {
+  "cat": "42214",
+  "qid": "486771",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemene-instellingen/wachtwoord-complexiteit-instellen-op-bedrijfsniveau",
+  "private": false
+ },
+ "355127": {
+  "cat": "52475",
+  "qid": "355127",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/locaties-projectniveau/355127-hoe-verplaats-bewerk-verwijder-ik-een-locatie-pin",
+  "private": false
+ },
+ "354822": {
+  "cat": "42216",
+  "qid": "354822",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/veiligheid/354822-veiligheidsinspectie",
+  "private": false
+ },
+ "293289": {
+  "cat": "42206",
+  "qid": "293289",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-beheren/hoe-verwijder-ik-een-map",
+  "private": false
+ },
+ "358106": {
+  "cat": "42213",
+  "qid": "358106",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/358106-hoe-ontwerp-ik-een-inspectie-formulier-template-met-bedrijfslogica-erin",
+  "private": false
+ },
+ "293299": {
+  "cat": "42208",
+  "qid": "293299",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/tekeningen-projectniveau/nl-how-to-link-drawings-together-manually",
+  "private": false
+ },
+ "293292": {
+  "cat": "42206",
+  "qid": "293292",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-beheren/hoe-sleep-je-een-bestand-van-de-ene-map-naar-de-andere",
+  "private": false
+ },
+ "357050": {
+  "cat": "52477",
+  "qid": "357050",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/checklijsten-en-schemas-bedrijfsniveau/357050-maak-construction-stages",
+  "private": false
+ },
+ "356454": {
+  "cat": "42213",
+  "qid": "356454",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/356454-hoe-bewerk-ik-lijsten",
+  "private": false
+ },
+ "355154": {
+  "cat": "42210",
+  "qid": "355154",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/355154-hoe-stel-je-rechten-in-actiepunten",
+  "private": false
+ },
+ "293274": {
+  "cat": "42201",
+  "qid": "293274",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-toevoegen/hoe-stuur-ik-notificaties-over-een-formulier",
+  "private": false
+ },
+ "354824": {
+  "cat": "42216",
+  "qid": "354824",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/veiligheid/354824-werkvergunning",
+  "private": false
+ },
+ "354761": {
+  "cat": "52455",
+  "qid": "354761",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/kwaliteit/354761-actiepunt-management",
+  "private": false
+ },
+ "354817": {
+  "cat": "52455",
+  "qid": "354817",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/kwaliteit/354817-verzoek-voor-inspecties",
+  "private": false
+ },
+ "354845": {
+  "cat": "42215",
+  "qid": "354845",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/bouwplaatswerkzaamheden/354845-bouwplaatsdagboek",
+  "private": false
+ },
+ "293307": {
+  "cat": "42210",
+  "qid": "293307",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/hoe-bewerk-ik-gebruikers-en-aannemers",
+  "private": false
+ },
+ "293283": {
+  "cat": "52452",
+  "qid": "293283",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulierintroductie/hoe-kan-ik-formulieren-exporteren-in-pdf-formaat",
+  "private": false
+ },
+ "293134": {
+  "cat": "52451",
+  "qid": "293134",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepuntenintroductie/hoe-update-ik-een-actiepunt",
+  "private": false
+ },
+ "293129": {
+  "cat": "52451",
+  "qid": "293129",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepuntenintroductie/kan-ik-actiepunten-bewerken",
+  "private": false
+ },
+ "293123": {
+  "cat": "42196",
+  "qid": "293123",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-toevoegen/wat-is-opvolgend-actiepunt-toevoegen",
+  "private": false
+ },
+ "293139": {
+  "cat": "42200",
+  "qid": "293139",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/rapporten-en-statistieken/kunnen-actiepunt-rapportages-automatisch-gegeneerd-worden",
+  "private": false
+ },
+ "293126": {
+  "cat": "42196",
+  "qid": "293126",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-toevoegen/kan-ik-de-foto-grootte-bepalen",
+  "private": false
+ },
+ "293275": {
+  "cat": "42201",
+  "qid": "293275",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-toevoegen/hoe-kan-ik-op-de-hoogte-gehouden-worden-van-formulier-wijzigingen",
+  "private": false
+ },
+ "293304": {
+  "cat": "42210",
+  "qid": "293304",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/hoe-voeg-ik-gebruikers-toe-aan-een-project",
+  "private": false
+ },
+ "293127": {
+  "cat": "52451",
+  "qid": "293127",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepuntenintroductie/hoe-zoek-ik-naar-actiepunten",
+  "private": false
+ },
+ "293276": {
+  "cat": "52452",
+  "qid": "293276",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulierintroductie/hoe-kan-ik-actiepunten-koppelen-aan-een-formulier",
+  "private": false
+ },
+ "293122": {
+  "cat": "42196",
+  "qid": "293122",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-toevoegen/kan-ik-een-actiepunten-kopieren-en-plakken",
+  "private": false
+ },
+ "293308": {
+  "cat": "42210",
+  "qid": "293308",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/hoe-verstuur-ik-een-wachtwoord-herinnering",
+  "private": false
+ },
+ "293281": {
+  "cat": "52452",
+  "qid": "293281",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulierintroductie/hoe-kan-ik-zoeken-naar-formulieren",
+  "private": false
+ },
+ "293320": {
+  "cat": "42213",
+  "qid": "293320",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/hoe-voeg-ik-handmatige-workflows-toe-aan-formulieren",
+  "private": false
+ },
+ "293142": {
+  "cat": "52459",
+  "qid": "293142",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/statistieken/hoe-zie-ik-de-statistieken",
+  "private": false
+ },
+ "293313": {
+  "cat": "42212",
+  "qid": "293313",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/standaard-actiepunten-lijst-bedrijfsniveau/hoe-ontwerp-ik-de-standaard-actiepunten-lijst",
+  "private": false
+ },
+ "293112": {
+  "cat": "52452",
+  "qid": "293112",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulierintroductie/hoe-kan-ik-tussen-de-tekeningen-navigeren",
+  "private": false
+ },
+ "486217": {
+  "cat": "79157",
+  "qid": "486217",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/2ta/inloggen-met-twee-traps-authenticatie",
+  "private": false
+ },
+ "293136": {
+  "cat": "42199",
+  "qid": "293136",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-updaten/kan-ik-een-notificatie-versturen-over-een-actiepunt-of-update",
+  "private": false
+ },
+ "293286": {
+  "cat": "42205",
+  "qid": "293286",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-uploaden/hoe-upload-ik-documenten",
+  "private": false
+ },
+ "356474": {
+  "cat": "52476",
+  "qid": "356474",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/vergunningen-bedrijfsniveau/356474-bekijk-bewerk-verwijder-vergunning-inspecties",
+  "private": false
+ },
+ "355173": {
+  "cat": "42210",
+  "qid": "355173",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/355173-hoe-stel-ik-de-rechten-in-voor-custom-reports",
+  "private": false
+ },
+ "486192": {
+  "cat": "42210",
+  "qid": "486192",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/hoe-partij-bewerk-je-gebruikersrollen-geactiveerd",
+  "private": false
+ },
+ "293111": {
+  "cat": "52478",
+  "qid": "293111",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemeen/wat-is-de-actiepunten-mode-en-inspectie-mode",
+  "private": false
+ },
+ "295043": {
+  "cat": "42205",
+  "qid": "295043",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/documenten-uploaden/hoe-maak-ik-een-map-aan",
+  "private": false
+ },
+ "293301": {
+  "cat": "52475",
+  "qid": "293301",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/locaties-projectniveau/hoe-voeg-ik-locaties-toe-op-tekeningen",
+  "private": false
+ },
+ "354927": {
+  "cat": "52459",
+  "qid": "354927",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/statistieken/354927-hoe-bekijk-ik-een-aangepaste-kpi-dashboard",
+  "private": false
+ },
+ "293270": {
+  "cat": "52452",
+  "qid": "293270",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulierintroductie/hoe-vul-ik-een-formulier-in-met-de-app",
+  "private": false
+ },
+ "293143": {
+  "cat": "52474",
+  "qid": "293143",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/standaard-pdf-rapport/hoe-krijg-ik-samenvattingen-van-onze-actiepunten",
+  "private": false
+ },
+ "356460": {
+  "cat": "42204",
+  "qid": "356460",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-exporteren/356460-export-formulier-content-naar-excel-hoe-stel-ik-een-template-op",
+  "private": false
+ },
+ "293303": {
+  "cat": "42209",
+  "qid": "293303",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-bedrijfsniveau/hoe-kan-ons-probleemherstelproces-worden-gedefinieerd-in-snagr",
+  "private": false
+ },
+ "484500": {
+  "cat": "42202",
+  "qid": "484500",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-en-documenten-aan-formulieren-koppelen/documenten-uploaden-om-aan-formulieren-te-koppelen-nieuwe-upgrade",
+  "private": false
+ },
+ "355122": {
+  "cat": "42208",
+  "qid": "355122",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/tekeningen-projectniveau/355122-wat-zijn-tekening-vakken-en-hoe-stel-ik-ze-in",
+  "private": false
+ },
+ "355134": {
+  "cat": "52475",
+  "qid": "355134",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/locaties-projectniveau/355134-hoe-genereer-ik-barcodes-qr-codes-voor-locaties",
+  "private": false
+ },
+ "486208": {
+  "cat": "42210",
+  "qid": "486208",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/hoe-reset-je-de-twee-staps-authenticatie-sleutel",
+  "private": false
+ },
+ "355595": {
+  "cat": "42213",
+  "qid": "355595",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/355595-hoe-maak-ik-een-digitaal-formulier",
+  "private": false
+ },
+ "293302": {
+  "cat": "42208",
+  "qid": "293302",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/tekeningen-projectniveau/hoe-bewerk-ik-een-bestaande-tekening",
+  "private": false
+ },
+ "355103": {
+  "cat": "42204",
+  "qid": "355103",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-exporteren/355103-hoe-exporteer-ik-formuliergegevens-naar-excel",
+  "private": false
+ },
+ "356466": {
+  "cat": "52476",
+  "qid": "356466",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/vergunningen-bedrijfsniveau/356466-vergunning-inspectie-toevoegen",
+  "private": false
+ },
+ "354918": {
+  "cat": "42215",
+  "qid": "354918",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/bouwplaatswerkzaamheden/354918-fotodagboek",
+  "private": false
+ },
+ "357261": {
+  "cat": "52480",
+  "qid": "357261",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/probleemoplossingen-voor-mobiel-gebruik/357261-ik-kan-inloggen-op-de-website-maar-niet-op-de-app-wat-is-er-aan-de-hand",
+  "private": false
+ },
+ "356469": {
+  "cat": "52476",
+  "qid": "356469",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/vergunningen-bedrijfsniveau/356469-vergunningsformulier-pagina-toevoegen",
+  "private": false
+ },
+ "293115": {
+  "cat": "52454",
+  "qid": "293115",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/vgv/nl-issues-in-project-download",
+  "private": false
+ },
+ "354943": {
+  "cat": "42197",
+  "qid": "354943",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-vinden/354943-kan-ik-actiepunten-op-tekeningen-filteren",
+  "private": false
+ },
+ "357049": {
+  "cat": "52477",
+  "qid": "357049",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/checklijsten-en-schemas-bedrijfsniveau/357049-importeer-project-checklijsten-op-projectniveau",
+  "private": false
+ },
+ "354820": {
+  "cat": "52455",
+  "qid": "354820",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/kwaliteit/354820-non-conformance-report",
+  "private": false
+ },
+ "293109": {
+  "cat": "52479",
+  "qid": "293109",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/klaar-voor-mobiel-gebruik/waarom-moet-ik-synchroniseren",
+  "private": false
+ },
+ "293306": {
+  "cat": "42210",
+  "qid": "293306",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/hoe-stel-je-gebruikersrechten-in-formulieren",
+  "private": false
+ },
+ "293130": {
+  "cat": "42198",
+  "qid": "293130",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/actiepunten-bewerken/kan-ik-actiepunten-verwijderen",
+  "private": false
+ },
+ "355576": {
+  "cat": "42209",
+  "qid": "355576",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-bedrijfsniveau/355576-aannemersbeheer-op-bedrijfsniveau",
+  "private": false
+ },
+ "293140": {
+  "cat": "52474",
+  "qid": "293140",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/standaard-pdf-rapport/hoe-genereer-ik-een-actiepunten-rapportage-voor-onderaannemers",
+  "private": false
+ },
+ "293297": {
+  "cat": "42208",
+  "qid": "293297",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/tekeningen-projectniveau/hoe-tekeningen-voorbereiden-en-uploaden",
+  "private": false
+ },
+ "355546": {
+  "cat": "42214",
+  "qid": "355546",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/algemene-instellingen/355546-bewerk-bekijk-projecten-op-bedrijfsniveau",
+  "private": false
+ },
+ "358090": {
+  "cat": "52481",
+  "qid": "358090",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/probleemoplossingen-voor-beheerders/358090-ik-kan-een-gebruiker-niet-toevoegen-ik-zie-de-gebruiker-niet-in-het-project-maar-het-systeem-zegt-dat-het-e-mailadres-al-bestaat-wat-is-er-aan-de-hand",
+  "private": false
+ },
+ "355161": {
+  "cat": "42210",
+  "qid": "355161",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/accounts-en-rechten-projectniveau/355161-hoe-stel-ik-de-rechten-voor-kpi-dashboards-in",
+  "private": false
+ },
+ "356455": {
+  "cat": "42213",
+  "qid": "356455",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/356455-import-export-inspectie-formulieren-templates",
+  "private": false
+ },
+ "358102": {
+  "cat": "52482",
+  "qid": "358102",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/locaties/358102-locatie-gereed-voor-inspectie",
+  "private": false
+ },
+ "354753": {
+  "cat": "42192",
+  "qid": "354753",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/team/354753-onderaannemer",
+  "private": false
+ },
+ "356453": {
+  "cat": "42213",
+  "qid": "356453",
+  "lang": "nl_NL",
+  "url": "https://snagr.helpjuice.com/nl_NL/formulieren-bedrijfsniveau/356453-kan-ik-een-inspectie-template-verwijderen-op-bedrijfsniveau",
+  "private": false
+ },
+ "306970": {
+  "cat": "44288",
+  "qid": "306970",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44288/306970",
+  "private": false
+ },
+ "305218": {
+  "cat": "44090",
+  "qid": "305218",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/305218",
+  "private": false
+ },
+ "305040": {
+  "cat": null,
+  "qid": null,
+  "lang": null,
+  "url": "https://helpjuice.com/users/sign_in?_subdomain=snagr&fallback_url=https%3A%2F%2Fsnagr.helpjuice.com%2Fcn_CN%2F44032%2F305040&kb_language=cn_CN",
+  "private": true
+ },
+ "330060": {
+  "cat": "44289",
+  "qid": "330060",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44289/330060",
+  "private": false
+ },
+ "306969": {
+  "cat": "44288",
+  "qid": "306969",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44288/306969",
+  "private": false
+ },
+ "293093": {
+  "cat": "42183",
+  "qid": "293093",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42183/293093-can-i-set-up-auto-sync",
+  "private": false
+ },
+ "305042": {
+  "cat": "44032",
+  "qid": "305042",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44032/305042",
+  "private": false
+ },
+ "321270": {
+  "cat": "42184",
+  "qid": "321270",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42184/321270",
+  "private": false
+ },
+ "312905": {
+  "cat": "44090",
+  "qid": "312905",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/312905",
+  "private": false
+ },
+ "293088": {
+  "cat": "42182",
+  "qid": "293088",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42182/293088-overview-for-management",
+  "private": false
+ },
+ "305210": {
+  "cat": "44087",
+  "qid": "305210",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44087/305210",
+  "private": false
+ },
+ "305048": {
+  "cat": "44033",
+  "qid": "305048",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44033/305048",
+  "private": false
+ },
+ "305170": {
+  "cat": "44067",
+  "qid": "305170",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44067/305170",
+  "private": false
+ },
+ "305176": {
+  "cat": "44068",
+  "qid": "305176",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44068/305176",
+  "private": false
+ },
+ "306956": {
+  "cat": "44287",
+  "qid": "306956",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44287/306956",
+  "private": false
+ },
+ "306972": {
+  "cat": "44288",
+  "qid": "306972",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44288/306972",
+  "private": false
+ },
+ "305204": {
+  "cat": "44086",
+  "qid": "305204",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44086/305204",
+  "private": false
+ },
+ "305179": {
+  "cat": "44069",
+  "qid": "305179",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44069/305179",
+  "private": false
+ },
+ "306974": {
+  "cat": "44288",
+  "qid": "306974",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44288/306974",
+  "private": false
+ },
+ "305172": {
+  "cat": "44067",
+  "qid": "305172",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44067/305172",
+  "private": false
+ },
+ "308330": {
+  "cat": "44090",
+  "qid": "308330",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/308330",
+  "private": false
+ },
+ "306976": {
+  "cat": "44289",
+  "qid": "306976",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44289/306976",
+  "private": false
+ },
+ "305046": {
+  "cat": "44032",
+  "qid": "305046",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44032/305046",
+  "private": false
+ },
+ "308327": {
+  "cat": "44289",
+  "qid": "308327",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44289/308327",
+  "private": false
+ },
+ "305215": {
+  "cat": "44090",
+  "qid": "305215",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/305215",
+  "private": false
+ },
+ "315548": {
+  "cat": "44087",
+  "qid": "315548",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44087/315548",
+  "private": false
+ },
+ "306945": {
+  "cat": "44090",
+  "qid": "306945",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/306945",
+  "private": false
+ },
+ "305152": {
+  "cat": "44033",
+  "qid": "305152",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44033/305152",
+  "private": false
+ },
+ "305203": {
+  "cat": "44086",
+  "qid": "305203",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44086/305203",
+  "private": false
+ },
+ "305180": {
+  "cat": "44069",
+  "qid": "305180",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44069/305180",
+  "private": false
+ },
+ "306982": {
+  "cat": "44289",
+  "qid": "306982",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44289/306982",
+  "private": false
+ },
+ "306950": {
+  "cat": "44286",
+  "qid": "306950",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44286/306950",
+  "private": false
+ },
+ "306954": {
+  "cat": "44287",
+  "qid": "306954",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44287/306954",
+  "private": false
+ },
+ "305213": {
+  "cat": "44089",
+  "qid": "305213",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44089/305213",
+  "private": false
+ },
+ "305200": {
+  "cat": "44070",
+  "qid": "305200",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44070/305200-snagr",
+  "private": false
+ },
+ "305206": {
+  "cat": "44087",
+  "qid": "305206",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44087/305206",
+  "private": false
+ },
+ "293091": {
+  "cat": "42183",
+  "qid": "293091",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42183/293091-how-do-i-download-a-project",
+  "private": false
+ },
+ "306983": {
+  "cat": "44289",
+  "qid": "306983",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44289/306983-excel",
+  "private": false
+ },
+ "305163": {
+  "cat": "44066",
+  "qid": "305163",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44066/305163",
+  "private": false
+ },
+ "306940": {
+  "cat": "44090",
+  "qid": "306940",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/306940",
+  "private": false
+ },
+ "305166": {
+  "cat": "44066",
+  "qid": "305166",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44066/305166",
+  "private": false
+ },
+ "305156": {
+  "cat": "44064",
+  "qid": "305156",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44064/305156",
+  "private": false
+ },
+ "305154": {
+  "cat": "44064",
+  "qid": "305154",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44064/305154",
+  "private": false
+ },
+ "326639": {
+  "cat": "44033",
+  "qid": "326639",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44033/326639",
+  "private": false
+ },
+ "313260": {
+  "cat": "44289",
+  "qid": "313260",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44289/313260",
+  "private": false
+ },
+ "305157": {
+  "cat": "44064",
+  "qid": "305157",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44064/305157",
+  "private": false
+ },
+ "293095": {
+  "cat": "42184",
+  "qid": "293095",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42184/293095-how-can-i-go-from-one-drawing-to-another",
+  "private": false
+ },
+ "293090": {
+  "cat": "42182",
+  "qid": "293090",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42182/293090-getting-started-3-3-intro-overview-for-subcontractors",
+  "private": false
+ },
+ "316400": {
+  "cat": "44286",
+  "qid": "316400",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44286/316400",
+  "private": false
+ },
+ "305047": {
+  "cat": "44032",
+  "qid": "305047",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44032/305047",
+  "private": false
+ },
+ "305164": {
+  "cat": "44066",
+  "qid": "305164",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44066/305164",
+  "private": false
+ },
+ "293092": {
+  "cat": "42183",
+  "qid": "293092",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42183/293092-why-should-i-synchronise",
+  "private": false
+ },
+ "311757": {
+  "cat": "44064",
+  "qid": "311757",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44064/311757",
+  "private": false
+ },
+ "305162": {
+  "cat": "44066",
+  "qid": "305162",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44066/305162",
+  "private": false
+ },
+ "305044": {
+  "cat": "44032",
+  "qid": "305044",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44032/305044",
+  "private": false
+ },
+ "306952": {
+  "cat": "44286",
+  "qid": "306952",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44286/306952",
+  "private": false
+ },
+ "308352": {
+  "cat": "42184",
+  "qid": "308352",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42184/308352",
+  "private": false
+ },
+ "306973": {
+  "cat": "44288",
+  "qid": "306973",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44288/306973",
+  "private": false
+ },
+ "305221": {
+  "cat": "44090",
+  "qid": "305221",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/305221",
+  "private": false
+ },
+ "305159": {
+  "cat": "44065",
+  "qid": "305159",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44065/305159",
+  "private": false
+ },
+ "305153": {
+  "cat": "44064",
+  "qid": "305153",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44064/305153",
+  "private": false
+ },
+ "306948": {
+  "cat": "44286",
+  "qid": "306948",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44286/306948",
+  "private": false
+ },
+ "305155": {
+  "cat": "44064",
+  "qid": "305155",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44064/305155",
+  "private": false
+ },
+ "305161": {
+  "cat": "44066",
+  "qid": "305161",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44066/305161",
+  "private": false
+ },
+ "305208": {
+  "cat": "44087",
+  "qid": "305208",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44087/305208",
+  "private": false
+ },
+ "305168": {
+  "cat": "44067",
+  "qid": "305168",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44067/305168",
+  "private": false
+ },
+ "305175": {
+  "cat": "44068",
+  "qid": "305175",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44068/305175",
+  "private": false
+ },
+ "305188": {
+  "cat": "44070",
+  "qid": "305188",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44070/305188-pdf",
+  "private": false
+ },
+ "305169": {
+  "cat": "44067",
+  "qid": "305169",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44067/305169",
+  "private": false
+ },
+ "305041": {
+  "cat": "44032",
+  "qid": "305041",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44032/305041",
+  "private": false
+ },
+ "305205": {
+  "cat": "44087",
+  "qid": "305205",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44087/305205",
+  "private": false
+ },
+ "305158": {
+  "cat": "44065",
+  "qid": "305158",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44065/305158",
+  "private": false
+ },
+ "305171": {
+  "cat": "44067",
+  "qid": "305171",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44067/305171",
+  "private": false
+ },
+ "305184": {
+  "cat": "44070",
+  "qid": "305184",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44070/305184-pdf",
+  "private": false
+ },
+ "305174": {
+  "cat": "44068",
+  "qid": "305174",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44068/305174",
+  "private": false
+ },
+ "305173": {
+  "cat": "44067",
+  "qid": "305173",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44067/305173",
+  "private": false
+ },
+ "305165": {
+  "cat": "44066",
+  "qid": "305165",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44066/305165",
+  "private": false
+ },
+ "293089": {
+  "cat": "42182",
+  "qid": "293089",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42182/293089-overview-for-inspection-teams-consultants",
+  "private": false
+ },
+ "305207": {
+  "cat": "44087",
+  "qid": "305207",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44087/305207",
+  "private": false
+ },
+ "306949": {
+  "cat": "44286",
+  "qid": "306949",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44286/306949",
+  "private": false
+ },
+ "293094": {
+  "cat": "42184",
+  "qid": "293094",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42184/293094-getting-started-key-nav-1-3-what-is-issue-mode-and-form-mode",
+  "private": false
+ },
+ "305167": {
+  "cat": "44067",
+  "qid": "305167",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44067/305167",
+  "private": false
+ },
+ "306980": {
+  "cat": "44289",
+  "qid": "306980",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44289/306980",
+  "private": false
+ },
+ "306941": {
+  "cat": "44090",
+  "qid": "306941",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/306941",
+  "private": false
+ },
+ "328534": {
+  "cat": "44286",
+  "qid": "328534",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44286/328534",
+  "private": false
+ },
+ "319036": {
+  "cat": "46012",
+  "qid": "319036",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/46012/319036",
+  "private": false
+ },
+ "305202": {
+  "cat": "44070",
+  "qid": "305202",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44070/305202",
+  "private": false
+ },
+ "305209": {
+  "cat": "44087",
+  "qid": "305209",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44087/305209",
+  "private": false
+ },
+ "293097": {
+  "cat": "42185",
+  "qid": "293097",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42185/293097-remove-and-re-add-project",
+  "private": false
+ },
+ "293099": {
+  "cat": "42185",
+  "qid": "293099",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/42185/293099-common-issues-in-project-download",
+  "private": false
+ },
+ "306942": {
+  "cat": "44090",
+  "qid": "306942",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44090/306942",
+  "private": false
+ },
+ "305211": {
+  "cat": "44089",
+  "qid": "305211",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44089/305211",
+  "private": false
+ },
+ "316399": {
+  "cat": "44286",
+  "qid": "316399",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44286/316399",
+  "private": false
+ },
+ "305178": {
+  "cat": "44068",
+  "qid": "305178",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44068/305178",
+  "private": false
+ },
+ "305160": {
+  "cat": "44065",
+  "qid": "305160",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44065/305160",
+  "private": false
+ },
+ "305177": {
+  "cat": "44068",
+  "qid": "305177",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44068/305177",
+  "private": false
+ },
+ "306957": {
+  "cat": "44287",
+  "qid": "306957",
+  "lang": "cn_CN",
+  "url": "https://snagr.helpjuice.com/cn_CN/44287/306957",
+  "private": false
+ },
+ "386417": {
+  "cat": "58506",
+  "qid": "386417",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58506-admin/386417",
+  "private": false
+ },
+ "387517": {
+  "cat": "58828",
+  "qid": "387517",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58828-checklists-and-scheduling-company-level/387517-import-project-checklists-at-project-level",
+  "private": false
+ },
+ "399352": {
+  "cat": "41079",
+  "qid": "399352",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41079/399352",
+  "private": false
+ },
+ "440931": {
+  "cat": "42036",
+  "qid": "440931",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42036/440931",
+  "private": false
+ },
+ "307811": {
+  "cat": "42036",
+  "qid": "307811",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42036/307811",
+  "private": false
+ },
+ "383733": {
+  "cat": "58150",
+  "qid": "383733",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58150/383733",
+  "private": false
+ },
+ "400021": {
+  "cat": "42032",
+  "qid": "400021",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/400021-untitled-question",
+  "private": false
+ },
+ "289908": {
+  "cat": "41108",
+  "qid": "289908",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41108/289908",
+  "private": false
+ },
+ "291600": {
+  "cat": "41536",
+  "qid": "291600",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41536/291600",
+  "private": false
+ },
+ "303587": {
+  "cat": "42032",
+  "qid": "303587",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/303587",
+  "private": false
+ },
+ "303594": {
+  "cat": "42033",
+  "qid": "303594",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42033/303594",
+  "private": false
+ },
+ "280502": {
+  "cat": "58505",
+  "qid": "280502",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58505-app/280502",
+  "private": false
+ },
+ "383514": {
+  "cat": "41970",
+  "qid": "383514",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41970/383514",
+  "private": false
+ },
+ "285774": {
+  "cat": "39953",
+  "qid": "285774",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39953/285774",
+  "private": false
+ },
+ "290534": {
+  "cat": "41534",
+  "qid": "290534",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41534/290534",
+  "private": false
+ },
+ "303596": {
+  "cat": "58506",
+  "qid": "303596",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58506-admin/303596",
+  "private": false
+ },
+ "303427": {
+  "cat": "58603",
+  "qid": "303427",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58603/303427",
+  "private": false
+ },
+ "287066": {
+  "cat": "41079",
+  "qid": "287066",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41079/287066",
+  "private": false
+ },
+ "304213": {
+  "cat": "42036",
+  "qid": "304213",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42036/list-cn",
+  "private": false
+ },
+ "385995": {
+  "cat": "58501",
+  "qid": "385995",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58501/385995",
+  "private": false
+ },
+ "386416": {
+  "cat": "58505",
+  "qid": "386416",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58505-app/386416-app",
+  "private": false
+ },
+ "386031": {
+  "cat": "39952",
+  "qid": "386031",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39952/386031",
+  "private": false
+ },
+ "291599": {
+  "cat": "41535",
+  "qid": "291599",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41535/291599",
+  "private": false
+ },
+ "328385": {
+  "cat": "42032",
+  "qid": "328385",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/328385",
+  "private": false
+ },
+ "303442": {
+  "cat": "42029",
+  "qid": "303442",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/303442",
+  "private": false
+ },
+ "289914": {
+  "cat": "41109",
+  "qid": "289914",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41109-pdf/289914-pdf",
+  "private": false
+ },
+ "286324": {
+  "cat": "39955",
+  "qid": "286324",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39955/286324",
+  "private": false
+ },
+ "280494": {
+  "cat": "58505",
+  "qid": "280494",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58505-app/280494",
+  "private": false
+ },
+ "291813": {
+  "cat": "41535",
+  "qid": "291813",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41535/291813",
+  "private": false
+ },
+ "380418": {
+  "cat": "57486",
+  "qid": "380418",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/57486/380418",
+  "private": false
+ },
+ "387518": {
+  "cat": "58828",
+  "qid": "387518",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58828-checklists-and-scheduling-company-level/387518-create-construction-stages",
+  "private": false
+ },
+ "387524": {
+  "cat": "58829",
+  "qid": "387524",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58829-permits-company-level/387524-view-edit-delete-permit-inspection",
+  "private": false
+ },
+ "280105": {
+  "cat": "58504",
+  "qid": "280105",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/app/280105",
+  "private": false
+ },
+ "403231": {
+  "cat": "58600",
+  "qid": "403231",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58600/403231",
+  "private": false
+ },
+ "286735": {
+  "cat": "39957",
+  "qid": "286735",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39957/286735",
+  "private": false
+ },
+ "412571": {
+  "cat": "58504",
+  "qid": "412571",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/app/412571",
+  "private": false
+ },
+ "386706": {
+  "cat": "58507",
+  "qid": "386706",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58507/386706-snagr",
+  "private": false
+ },
+ "291595": {
+  "cat": "41535",
+  "qid": "291595",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41535/291595",
+  "private": false
+ },
+ "311755": {
+  "cat": "39953",
+  "qid": "311755",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39953/311755",
+  "private": false
+ },
+ "330059": {
+  "cat": "42036",
+  "qid": "330059",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42036/330059",
+  "private": false
+ },
+ "383728": {
+  "cat": "41970",
+  "qid": "383728",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41970/383728",
+  "private": false
+ },
+ "385997": {
+  "cat": "58501",
+  "qid": "385997",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58501/385997",
+  "private": false
+ },
+ "280574": {
+  "cat": "39951",
+  "qid": "280574",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39951/280574",
+  "private": false
+ },
+ "314106": {
+  "cat": "41534",
+  "qid": "314106",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41534/314106",
+  "private": false
+ },
+ "303443": {
+  "cat": "42029",
+  "qid": "303443",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/303443",
+  "private": false
+ },
+ "280662": {
+  "cat": "39952",
+  "qid": "280662",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39952/280662",
+  "private": false
+ },
+ "319706": {
+  "cat": "58598",
+  "qid": "319706",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58598/319706",
+  "private": false
+ },
+ "379661": {
+  "cat": "57486",
+  "qid": "379661",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/57486/379661-defect-management",
+  "private": false
+ },
+ "291590": {
+  "cat": "58508",
+  "qid": "291590",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58508/291590",
+  "private": false
+ },
+ "386715": {
+  "cat": "58599",
+  "qid": "386715",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58599-pdf/386715-how-do-i-generate-a-custom-report",
+  "private": false
+ },
+ "380463": {
+  "cat": "57486",
+  "qid": "380463",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/57486/380463",
+  "private": false
+ },
+ "387521": {
+  "cat": "58603",
+  "qid": "387521",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58603/387521-how-can-i-enable-auto-close-for-photo-diaries",
+  "private": false
+ },
+ "386034": {
+  "cat": "58508",
+  "qid": "386034",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58508/386034",
+  "private": false
+ },
+ "386826": {
+  "cat": "42037",
+  "qid": "386826",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42037/386826-terminology-at-company-level",
+  "private": false
+ },
+ "291598": {
+  "cat": "41534",
+  "qid": "291598",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41534/291598",
+  "private": false
+ },
+ "386732": {
+  "cat": "41107",
+  "qid": "386732",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41107/386732-how-to-upload-documents-to-link-to-forms-new-upgrade",
+  "private": false
+ },
+ "289404": {
+  "cat": "41107",
+  "qid": "289404",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41107/289404",
+  "private": false
+ },
+ "280492": {
+  "cat": "58158",
+  "qid": "280492",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58158/280492",
+  "private": false
+ },
+ "285775": {
+  "cat": "39955",
+  "qid": "285775",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39955/285775",
+  "private": false
+ },
+ "280493": {
+  "cat": "58507",
+  "qid": "280493",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58507/280493",
+  "private": false
+ },
+ "284571": {
+  "cat": "39953",
+  "qid": "284571",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39953/284571",
+  "private": false
+ },
+ "312833": {
+  "cat": "42029",
+  "qid": "312833",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/312833",
+  "private": false
+ },
+ "315828": {
+  "cat": "42032",
+  "qid": "315828",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/315828",
+  "private": false
+ },
+ "280653": {
+  "cat": "39951",
+  "qid": "280653",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39951/280653",
+  "private": false
+ },
+ "289403": {
+  "cat": "41107",
+  "qid": "289403",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41107/289403",
+  "private": false
+ },
+ "287203": {
+  "cat": "41079",
+  "qid": "287203",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41079/287203",
+  "private": false
+ },
+ "304208": {
+  "cat": "41108",
+  "qid": "304208",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41108/304208",
+  "private": false
+ },
+ "313054": {
+  "cat": "42036",
+  "qid": "313054",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42036/313054",
+  "private": false
+ },
+ "325489": {
+  "cat": "39952",
+  "qid": "325489",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39952/325489",
+  "private": false
+ },
+ "303597": {
+  "cat": "42036",
+  "qid": "303597",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42036/303597",
+  "private": false
+ },
+ "286088": {
+  "cat": "39955",
+  "qid": "286088",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39955/286088",
+  "private": false
+ },
+ "286327": {
+  "cat": "39957",
+  "qid": "286327",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39957/286327",
+  "private": false
+ },
+ "280576": {
+  "cat": "39951",
+  "qid": "280576",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39951/280576",
+  "private": false
+ },
+ "386704": {
+  "cat": "58507",
+  "qid": "386704",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58507/386704-login-with-two-factor-authentication",
+  "private": false
+ },
+ "286924": {
+  "cat": "41079",
+  "qid": "286924",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41079/286924",
+  "private": false
+ },
+ "303429": {
+  "cat": "58603",
+  "qid": "303429",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58603/303429",
+  "private": false
+ },
+ "291588": {
+  "cat": "41535",
+  "qid": "291588",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41535/291588",
+  "private": false
+ },
+ "387516": {
+  "cat": "58828",
+  "qid": "387516",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58828-checklists-and-scheduling-company-level/387516-create-project-checklist",
+  "private": false
+ },
+ "286740": {
+  "cat": "39957",
+  "qid": "286740",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39957/286740",
+  "private": false
+ },
+ "398323": {
+  "cat": "58507",
+  "qid": "398323",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58507/398323",
+  "private": false
+ },
+ "286736": {
+  "cat": "39957",
+  "qid": "286736",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39957/286736",
+  "private": false
+ },
+ "304085": {
+  "cat": "39951",
+  "qid": "304085",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39951/304085",
+  "private": false
+ },
+ "386703": {
+  "cat": "58507",
+  "qid": "386703",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58507/3867032fafa",
+  "private": false
+ },
+ "308328": {
+  "cat": "42029",
+  "qid": "308328",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/308328",
+  "private": false
+ },
+ "303593": {
+  "cat": "42033",
+  "qid": "303593",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42033/303593",
+  "private": false
+ },
+ "386431": {
+  "cat": "39957",
+  "qid": "386431",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39957/386431",
+  "private": false
+ },
+ "303440": {
+  "cat": "42032",
+  "qid": "303440",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/303440",
+  "private": false
+ },
+ "303441": {
+  "cat": "42029",
+  "qid": "303441",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/303441",
+  "private": false
+ },
+ "280101": {
+  "cat": "58504",
+  "qid": "280101",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/app/280101",
+  "private": false
+ },
+ "391829": {
+  "cat": "41108",
+  "qid": "391829",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41108/391829",
+  "private": false
+ },
+ "303435": {
+  "cat": "42029",
+  "qid": "303435",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/303435",
+  "private": false
+ },
+ "386818": {
+  "cat": "42037",
+  "qid": "386818",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42037/386818-enable-two-factor-authentication-at-company-level",
+  "private": false
+ },
+ "386820": {
+  "cat": "42037",
+  "qid": "386820",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42037/386820-edit-default-language-or-logo-at-company-level",
+  "private": false
+ },
+ "303437": {
+  "cat": "42029",
+  "qid": "303437",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/303437-admin-drawings-2-7-how-to-prepare-and-upload-drawings",
+  "private": false
+ },
+ "387523": {
+  "cat": "58829",
+  "qid": "387523",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58829-permits-company-level/387523-add-permit-form-pages",
+  "private": false
+ },
+ "386690": {
+  "cat": "58507",
+  "qid": "386690",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58507/386690-snagr",
+  "private": false
+ },
+ "303428": {
+  "cat": "58603",
+  "qid": "303428",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58603/303428-admin-issue-list-3-5-how-to-add-single-items-to-issue-list",
+  "private": false
+ },
+ "386822": {
+  "cat": "42037",
+  "qid": "386822",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42037/386822-edit-priorities-and-due-days-at-company-level",
+  "private": false
+ },
+ "387522": {
+  "cat": "58829",
+  "qid": "387522",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58829-permits-company-level/387522-add-permit-inspection",
+  "private": false
+ },
+ "386701": {
+  "cat": "58598",
+  "qid": "386701",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58598/386701-how-do-i-get-an-overview-of-all-inspection-forms",
+  "private": false
+ },
+ "386779": {
+  "cat": "41079",
+  "qid": "386779",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41079/386779-how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form",
+  "private": false
+ },
+ "303586": {
+  "cat": "42032",
+  "qid": "303586",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/303586",
+  "private": false
+ },
+ "386825": {
+  "cat": "42037",
+  "qid": "386825",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42037/386825-edit-project-settings-at-project-level",
+  "private": false
+ },
+ "387519": {
+  "cat": "58828",
+  "qid": "387519",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58828-checklists-and-scheduling-company-level/387519-import-construction-stages-schedules-to-track-progress-at-project-level",
+  "private": false
+ },
+ "386821": {
+  "cat": "42037",
+  "qid": "386821",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42037/386821-edit-view-projects-at-company-level",
+  "private": false
+ },
+ "386702": {
+  "cat": "58507",
+  "qid": "386702",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58507/386702-what-is-project-activity-log",
+  "private": false
+ },
+ "386760": {
+  "cat": "41108",
+  "qid": "386760",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41108/386760",
+  "private": false
+ },
+ "315824": {
+  "cat": "42032",
+  "qid": "315824",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/315824",
+  "private": false
+ },
+ "291594": {
+  "cat": "41535",
+  "qid": "291594",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41535/291594",
+  "private": false
+ },
+ "285771": {
+  "cat": "39953",
+  "qid": "285771",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39953/285771",
+  "private": false
+ },
+ "290535": {
+  "cat": "41534",
+  "qid": "290535",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41534/290535",
+  "private": false
+ },
+ "386010": {
+  "cat": "58504",
+  "qid": "386010",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/app/386010",
+  "private": false
+ },
+ "304554": {
+  "cat": "41109",
+  "qid": "304554",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41109-pdf/304554",
+  "private": false
+ },
+ "394785": {
+  "cat": "42032",
+  "qid": "394785",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/how-to-set-permissions-for-custom-reports",
+  "private": false
+ },
+ "386812": {
+  "cat": "58647",
+  "qid": "386812",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58647/386812-how-to-move-edit-delete-a-location-pin",
+  "private": false
+ },
+ "303438": {
+  "cat": "42029",
+  "qid": "303438",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/303438",
+  "private": false
+ },
+ "304337": {
+  "cat": "41109",
+  "qid": "304337",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41109-pdf/304337-excel",
+  "private": false
+ },
+ "386421": {
+  "cat": "42028",
+  "qid": "386421",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42028/386421-can-the-contractor-be-automatically-selected-when-a-specific-issue-type-is-selected",
+  "private": false
+ },
+ "286325": {
+  "cat": "39957",
+  "qid": "286325",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39957/286325",
+  "private": false
+ },
+ "404529": {
+  "cat": "58508",
+  "qid": "404529",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58508/room-area-signoff",
+  "private": false
+ },
+ "286936": {
+  "cat": "41079",
+  "qid": "286936",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41079/286936",
+  "private": false
+ },
+ "385989": {
+  "cat": "58501",
+  "qid": "385989",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58501/385989",
+  "private": false
+ },
+ "287064": {
+  "cat": "41079",
+  "qid": "287064",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41079/287064",
+  "private": false
+ },
+ "290530": {
+  "cat": "41109",
+  "qid": "290530",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41109-pdf/290530-snagr",
+  "private": false
+ },
+ "289945": {
+  "cat": "41109",
+  "qid": "289945",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41109-pdf/289945-pdf",
+  "private": false
+ },
+ "386733": {
+  "cat": "41107",
+  "qid": "386733",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41107/386733-how-to-mark-the-document-as-not-in-use-new-upgrade",
+  "private": false
+ },
+ "284562": {
+  "cat": "39953",
+  "qid": "284562",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39953/284562",
+  "private": false
+ },
+ "280571": {
+  "cat": "39951",
+  "qid": "280571",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39951/280571",
+  "private": false
+ },
+ "280573": {
+  "cat": "39951",
+  "qid": "280573",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39951/280573",
+  "private": false
+ },
+ "284316": {
+  "cat": "39953",
+  "qid": "284316",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39953/284316",
+  "private": false
+ },
+ "386824": {
+  "cat": "42037",
+  "qid": "386824",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42037/386824-regions-divisions-programs-at-company-level",
+  "private": false
+ },
+ "386813": {
+  "cat": "58647",
+  "qid": "386813",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58647/386813-how-to-generate-qr-codes-for-locations",
+  "private": false
+ },
+ "400380": {
+  "cat": "42032",
+  "qid": "400380",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/400380",
+  "private": false
+ },
+ "386281": {
+  "cat": "58505",
+  "qid": "386281",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58505-app/386281-app-checking-credentials",
+  "private": false
+ },
+ "385996": {
+  "cat": "58501",
+  "qid": "385996",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58501/385996",
+  "private": false
+ },
+ "280002": {
+  "cat": "39865",
+  "qid": "280002",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39865/280002",
+  "private": false
+ },
+ "387512": {
+  "cat": "42036",
+  "qid": "387512",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42036/387512-can-i-edit-replace-form-page-image",
+  "private": false
+ },
+ "279886": {
+  "cat": "39865",
+  "qid": "279886",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39865/279886",
+  "private": false
+ },
+ "303592": {
+  "cat": "42033",
+  "qid": "303592",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42033/303592",
+  "private": false
+ },
+ "280009": {
+  "cat": "58158",
+  "qid": "280009",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58158/280009",
+  "private": false
+ },
+ "400056": {
+  "cat": "42032",
+  "qid": "400056",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/400056",
+  "private": false
+ },
+ "280007": {
+  "cat": "39865",
+  "qid": "280007",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39865/280007",
+  "private": false
+ },
+ "386419": {
+  "cat": "58600",
+  "qid": "386419",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58600/386419-manage-user-at-company-level",
+  "private": false
+ },
+ "289903": {
+  "cat": "41108",
+  "qid": "289903",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41108/289903",
+  "private": false
+ },
+ "386819": {
+  "cat": "42037",
+  "qid": "386819",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42037/386819-password-complexity-set-up-at-company-level",
+  "private": false
+ },
+ "303439": {
+  "cat": "42029",
+  "qid": "303439",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42029/303439-admin-drawings-4-7-how-to-link-drawings-together-manually",
+  "private": false
+ },
+ "386033": {
+  "cat": "58508",
+  "qid": "386033",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58508/386033",
+  "private": false
+ },
+ "289901": {
+  "cat": "41107",
+  "qid": "289901",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41107/289901",
+  "private": false
+ },
+ "286737": {
+  "cat": "39957",
+  "qid": "286737",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39957/286737",
+  "private": false
+ },
+ "280979": {
+  "cat": "39952",
+  "qid": "280979",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/39952/280979",
+  "private": false
+ },
+ "287302": {
+  "cat": "41079",
+  "qid": "287302",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41079/287302",
+  "private": false
+ },
+ "303590": {
+  "cat": "42032",
+  "qid": "303590",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42032/303590",
+  "private": false
+ },
+ "303431": {
+  "cat": "42028",
+  "qid": "303431",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42028/303431",
+  "private": false
+ },
+ "383735": {
+  "cat": "58150",
+  "qid": "383735",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58150/383735",
+  "private": false
+ },
+ "380769": {
+  "cat": "57486",
+  "qid": "380769",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/57486/380769",
+  "private": false
+ },
+ "280106": {
+  "cat": "58507",
+  "qid": "280106",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58507/280106",
+  "private": false
+ },
+ "303413": {
+  "cat": "58603",
+  "qid": "303413",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/58603/303413",
+  "private": false
+ },
+ "387511": {
+  "cat": "42036",
+  "qid": "387511",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/42036/387511-how-can-i-edit-an-inspection-template",
+  "private": false
+ },
+ "289405": {
+  "cat": "41107",
+  "qid": "289405",
+  "lang": "t_CN",
+  "url": "https://snagr.helpjuice.com/t_CN/41107/289405",
+  "private": false
+ }
+}

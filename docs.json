@@ -22,7 +22,6 @@
           {
             "group": "Getting Started",
             "pages": [
-              "en/getting-started/index",
               {
                 "group": "What is your role?",
                 "pages": [
@@ -30,6 +29,18 @@
                   "en/getting-started/what-is-your-role/main-contractor",
                   "en/getting-started/what-is-your-role/developer",
                   "en/getting-started/what-is-your-role/manufacturer"
+                ]
+              },
+              {
+                "group": "Starter Guide: How do I take issues?",
+                "pages": [
+                  "en/getting-started/starter-guide-how-do-i-take-issues/index"
+                ]
+              },
+              {
+                "group": "Starter Guide: How to submit forms?",
+                "pages": [
+                  "en/getting-started/starter-guide-how-to-submit-forms/index"
                 ]
               }
             ]
@@ -177,7 +188,6 @@
           {
             "group": "Set up project",
             "pages": [
-              "en/set-up-project/index",
               {
                 "group": "Drawings - Project Level",
                 "pages": [
@@ -305,7 +315,12 @@
           {
             "group": "Reporting",
             "pages": [
-              "en/reporting/index",
+              {
+                "group": "Standard PDF Report",
+                "pages": [
+                  "en/reporting/standard-pdf-report/index"
+                ]
+              },
               {
                 "group": "Analytics",
                 "pages": [
@@ -323,7 +338,6 @@
           {
             "group": "FAQ",
             "pages": [
-              "en/faq/index",
               {
                 "group": "Get Ready On Mobile",
                 "pages": [
@@ -377,7 +391,6 @@
           {
             "group": "New Features",
             "pages": [
-              "en/new-features/index",
               {
                 "group": "Release Notes",
                 "pages": [
@@ -425,6 +438,18 @@
                 "group": "2FA",
                 "pages": [
                   "en/new-features/2fa/enable2fa"
+                ]
+              },
+              {
+                "group": "Document repository (Upgrade)",
+                "pages": [
+                  "en/new-features/document-repository-upgrade/index"
+                ]
+              },
+              {
+                "group": "Others",
+                "pages": [
+                  "en/new-features/others/index"
                 ]
               }
             ]
@@ -1571,11 +1596,16 @@
           {
             "group": "Reportistica",
             "pages": [
-              "it/reportistica/index",
               {
                 "group": "Reports PDF personalizzati",
                 "pages": [
                   "it/reportistica/reports-pdf-personalizzati/how-do-i-generate-a-custom-report"
+                ]
+              },
+              {
+                "group": "Reportistica Standard PDF",
+                "pages": [
+                  "it/reportistica/reportistica-standard-pdf/index"
                 ]
               },
               {
@@ -1589,7 +1619,6 @@
           {
             "group": "FAQ",
             "pages": [
-              "it/faq/index",
               {
                 "group": "Get Ready On Mobile",
                 "pages": [
@@ -1679,7 +1708,6 @@
           {
             "group": "入門指南",
             "pages": [
-              "zh-hant/getting-started/index",
               {
                 "group": "你的角色是什麼？",
                 "pages": [
@@ -1702,6 +1730,12 @@
                 "pages": [
                   "zh-hant/getting-started/starter-guide-how-to-take-issues/280009",
                   "zh-hant/getting-started/starter-guide-how-to-take-issues/280492"
+                ]
+              },
+              {
+                "group": "初階指引：如何提交表格？",
+                "pages": [
+                  "zh-hant/getting-started/starter-guide-how-to-submit-forms/index"
                 ]
               }
             ]
@@ -1844,7 +1878,6 @@
           {
             "group": "項目設置",
             "pages": [
-              "zh-hant/set-up-project/index",
               {
                 "group": "圖紙 - 項目管理區域",
                 "pages": [
