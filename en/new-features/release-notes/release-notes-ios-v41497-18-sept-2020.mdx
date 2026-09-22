@@ -1,0 +1,9 @@
+---
+title: "Release Notes - iOS v4.149.7 & Android v4.149.8 (18-Sept-2020)"
+---
+
+- Security Update - re-implemented the login and security module of the mobile app. New users logging in to a project for the first time will need an internet connection to verify the account credentials but then can continue to login during an offline inspection. Logging out will remove the stored credentials.
+  - User credentials are no-longer stored in an encrypted format in the encrypted database to support offline login.
+  - When a user logs in for the first time they will authenticate with the web application. The credentials will then be stored in the secure device keychain only.
+- QRCode / Barcode scanner has been made a permanent button on the main Toolbar on the Plan Viewer. For Module Integrated Construction (MIC) and other QRCode tracking use-cases.
+- Scan a QRCode when adding an Inspection Form to tag the Inspection with that QRCode value (saved as External Reference). Then when you scan the QRCode it will automatically load the Inspection Form.

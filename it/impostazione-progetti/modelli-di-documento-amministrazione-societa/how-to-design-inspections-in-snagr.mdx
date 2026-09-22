@@ -1,0 +1,100 @@
+---
+title: "Come creare Ispezioni e duplicare procedure aziendali in digitale personalizzando flussi di lavoro e Documenti di Ispezione"
+---
+
+Il passaggio dal un sistema cartaceo ad un sistema digitale per la gestione dei documenti di Ispezione genera un notevole guadagno in termini di efficienza; vari processi come Ispezioni di sicurezza, Richieste di Ispezione per completamento SAL, possono essere facilmente digitalizzate.
+
+In Snagr possiamo personalizzare le funizionalita' della piattaforma per ricreare qualsiasi procedura o business process in digitale.
+
+Ogni **procedura o business process** e' in SnagR un Ispezione:
+
+- L' ispezione descrive il **processo o procedura** che si vuole digitalizzare e' l' insieme di documenti che descrivono l' attivita' di uno o piu' utenti.
+- I **Modelli di Documento** sono uno o piu' documenti che raccolgono i dati e certifficano le attivita' da parte degli Utenti coinvolti. Possono essere documenti interni o a norma di legge
+- I **Flussi di lavoro** di ogni **Modello di Documento** permettono ai vari utenti di collaborare nella raccolta dati e verifica di completamento attivita' ed al contempo di automatizzare la comunicazione con **Notifiche Anutomatiche**.
+
+Alcune delle applicazioni piu' comuni:
+
+Ispezioni contententi un solo documento e piu' documenti:
+
+<img src="/images/direct/1525063278695-Admin_Website.109.jpeg" alt="Admin Website.109" />
+
+**I** **Modelli di Documento** si dividono in due categorie fondamentali:
+
+1. **Chiusura sempice: un documento con chiusura semplice non prevede un approvazione di tipo "Passato o Fallito": in questo caso alla chiusura non segue nessun azione automatizzata da parte di SnagR**
+2. **"Chiuso Passato" e "Chiuso Fallito": in caso di fallimento SnagR apre un nuovo documento per ripetizione della procedura, fino ad approvazione con Chiuso Passato, se in tal modo impostato.**
+
+Le Ispezioni possono contenre uno o piu' **Modelli di Documento:**
+
+1. **Modello singolo**: esiste un solo documento da compilare
+2. **Modelli multipli**: due o piu' documenti sono parte dell' Ispezione. Le relazioni tra Modelli di Documento all' interno dell' Ispezione possono essere diversi: compilazione parallela o compilazione in sequenza forzata: solo dopo il completamento di un documento il successivo puo' essere compilato.
+
+<img src="/images/uploads/147655-Admin_Website.110.jpeg" alt="Admin Website.110" />
+
+<img src="/images/uploads/123693-if_ic_tv_48px_352186.png" alt="if ic tv 48px 352186" width="20" /> **applicazione web**
+
+Entra in **Area amministrazione societa'**
+
+<img src="/images/uploads/147957-Admin_Website.112.jpeg" alt="Admin Website.112" />
+
+### 1. Modello di Documento
+
+**Vai a Ispezioni societa'&gt; Ispezioni**
+
+Seleziona Aggiungi **Modello Ispezione**
+
+<img src="/images/uploads/147958-Admin_Website.113.jpeg" alt="Admin Website.113" />
+
+<img src="/images/uploads/147959-Admin_Website.114.jpeg" alt="Admin Website.114" />
+
+**NOTA al passo 4**: Se si desidera legare i Modelli di Ispezione in una sequenza di compilazione forzata, in cui il modello successivo non puo' essere compilato se non viene chiuso con successo il modello precedente, selezionare "**Non puo' essere bypassato**"
+
+### 2. Modello di Documento
+
+All' interno dell' Ispezione iniziamo a creare i Modelli di Documento parte della procedura.
+
+<img src="/images/uploads/147960-Admin_Website.115.jpeg" alt="Admin Website.115" />
+
+<img src="/images/uploads/147961-Admin_Website.116.jpeg" alt="Admin Website.116" />
+
+**Nota** al passo 7: Se per un Modello di Documento selezioniamo **"****Ha opzione passato fallito"** se il documento non viene chiuso con successo, SnagR ne aprira' uno nuovo automaticamente.
+
+<img src="/images/uploads/147962-Admin_Website.117.jpeg" alt="Admin Website.117" />
+
+I passi principali per creare un Modello di Documento sono qui sotto, maggiori dettagli a [questa pagina](/it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-do-i-digitalise-a-form).
+
+<img src="/images/uploads/147963-Admin_Website.118.jpeg" alt="Admin Website.118" />
+
+<img src="/images/uploads/147964-Admin_Website.119.jpeg" alt="Admin Website.119" />
+
+Una volta creato il documento questo diventera' parte dell' Ispezione automaticamente. Se volete aggiungere il medesimo documento ad un altra Ispezione vi bastano pochi click.
+
+I Flussi di lavoro standard per ogni Ispezione sono 4:
+
+1. **Aperta**
+2. **Chiusa**
+3. **Chiuso (Passato)**
+4. **Chiuso (Fallito)**
+
+**Chiuso passato e fallito se e' stato selezionato nella pagina di creazione Modello "Ha opzione Passato Fallito"**
+
+Il flusso di lavoro e' personalizzabile e risulta possibile aggiungere tra Aperto e Chiuso un numero a piacere di stati intermedi a seconda delle necessita' particolari:
+
+<img src="/images/uploads/147677-Admin_Website.111.jpeg" alt="Admin Website.111" />
+
+Ecco come modificare i **Flussi di lavoro** di un **Modello di Ispezione**.
+
+Selezionate l' icona con l' ingranaggio per modificare il **Flusso di lavoro**.
+
+<img src="/images/uploads/147978-Admin_Website.121.jpeg" alt="Admin Website.121" />
+
+Indicate il **nome** del flusso di lavoro e cliccate **Aggiungi Flusso di lavoro**
+
+<img src="/images/uploads/147980-Admin_Website.122.jpeg" alt="Admin Website.122" />
+
+La procedura descritta qui sopra ha creato un Ispezione con un singolo documento. Aggiungete ulteriori Modelli di Documento se necessario.
+
+<img src="/images/uploads/147966-Admin_Website.120.jpeg" alt="Admin Website.120" />
+
+Una volta creata l' Ispezione non dimenticatevi di [abilitarla a livello Progetto](/en/faq/troubelshooting-for-admins/how-to-enable-form-templates-for-a-project).
+
+Tutte le Ispezioni sono disabilitate a livello progetto di default: le dovete attivare voi manualmente.

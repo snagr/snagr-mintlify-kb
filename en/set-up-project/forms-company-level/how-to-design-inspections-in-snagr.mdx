@@ -1,0 +1,99 @@
+---
+title: "How do I create an inspection form template and build in business logic?"
+---
+
+It is not uncommon that various business processes, e.g. daily site walk, quality / safety checklist, request for inspections, etc. remain in paper based system.
+
+It is possible to digitalise them in SnagR and there are many ways to go about it. The best solution often comes from a **clear understanding of the business process** where the form is involved. It translates to the **business requirements** that guide you to configure the template set up.
+
+This article explains what you can configure for forms in SnagR.
+
+### Overview
+
+It is important to first understand:
+
+1. Inspection Template
+2. Form Template
+
+_What's the difference?_  
+An **Inspection Template** is an umbrella, that consists of **a** **Form Template** or **a combination of** **Form Templates**.
+
+Below are **common applications** of Inspection Forms in SnagR:
+
+<img src="/images/direct/1525063278695-Admin_Website.109.jpeg" alt="Admin Website.109" />
+
+It is possible to set a configuration for the form to spawn a new form when it is close failed. _(For detailed operation, see step 7 below)_
+
+If the Inspection Template has multiple form template, it is possible to configure so that a form only opens up when the previous one is close passed. _(For detailed operation, see step 4 in below)_
+
+<img src="/images/uploads/147655-Admin_Website.110.jpeg" alt="Admin Website.110" />
+
+<img src="/images/uploads/123693-if_ic_tv_48px_352186.png" alt="if ic tv 48px 352186" width="20" /> **Website**
+
+Login to **Company Admin Area.**
+
+<img src="/images/uploads/147957-Admin_Website.112.jpeg" alt="Admin Website.112" />
+
+### 1. Inspection Template
+
+Go to **Company Inspections &gt; Inspections**.
+
+Select **Add Form Inspections**.
+
+<img src="/images/uploads/147958-Admin_Website.113.jpeg" alt="Admin Website.113" />
+
+<img src="/images/uploads/147959-Admin_Website.114.jpeg" alt="Admin Website.114" />
+
+**Note** at step 4: If you would like to **build a sequence** of when the form can be completed, i.e., only open form b when form a is closed, please enable "Can't be skipped?".
+
+### 2. Form Template
+
+Inside an Inspection Template, you can create a form template, or add existing form template.
+
+In this example we will set up from scratch and proceed by **Create Form**.
+
+<img src="/images/uploads/147960-Admin_Website.115.jpeg" alt="Admin Website.115" />
+
+<img src="/images/uploads/147961-Admin_Website.116.jpeg" alt="Admin Website.116" />
+
+**Note** at step 7: If you would like the system to spawn a new form automatically once a form is close failed, for example, if first inspection fails and **re-inspection is required**, please enable "Has Pass / Fail?".
+
+<img src="/images/uploads/147962-Admin_Website.117.jpeg" alt="Admin Website.117" />
+
+To set up the form template, below is a compact guide. For more details, please visit [this page](/en/set-up-project/forms-company-level/how-do-i-digitalise-a-form).
+
+<img src="/images/uploads/147963-Admin_Website.118.jpeg" alt="Admin Website.118" />
+
+<img src="/images/uploads/147964-Admin_Website.119.jpeg" alt="Admin Website.119" />
+
+Once you save the form template, it will be added to the Inspection Template automatically.
+
+By default, there are 3 workflow stages to a form:
+
+1. Open
+2. Close (Passed)
+3. Close (Failed)
+
+If you would like to **add** **custom workflow** stages, for example:
+
+<img src="/images/uploads/147677-Admin_Website.111.jpeg" alt="Admin Website.111" />
+
+Here is how:
+
+Select the **gear icon** to edit the form workflow.
+
+<img src="/images/uploads/147978-Admin_Website.121.jpeg" alt="Admin Website.121" />
+
+**Type** in the name of the custom workflow &gt; Click **Add Workflow**
+
+<img src="/images/uploads/147980-Admin_Website.122.jpeg" alt="Admin Website.122" />
+
+For now, we have created an Inspection Template with one form template.
+
+For yours, you may proceed by creating more form templates or by adding an existing form template as needed.
+
+<img src="/images/uploads/147966-Admin_Website.120.jpeg" alt="Admin Website.120" />
+
+Once you are happy with the Inspection Template, don't forget to also [enable this on the project level](/en/faq/troubelshooting-for-admins/how-to-enable-form-templates-for-a-project).
+
+By default, all Inspection Templates created on company level are disabled on project level.

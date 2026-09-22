@@ -1,54 +1,2331 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "SnagR Support",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#09B2E6",
+    "light": "#3CC7F0",
+    "dark": "#0A8FBA"
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
+    "languages": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
+        "language": "en",
+        "groups": [
+          {
+            "group": "SnagR Support",
+            "pages": [
+              "en/index"
+            ]
+          },
+          {
+            "group": "Getting Started",
+            "pages": [
+              "en/getting-started/index",
+              {
+                "group": "What is your role?",
+                "pages": [
+                  "en/getting-started/what-is-your-role/subcontractor",
+                  "en/getting-started/what-is-your-role/main-contractor",
+                  "en/getting-started/what-is-your-role/developer",
+                  "en/getting-started/what-is-your-role/manufacturer"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Issues",
+            "pages": [
+              "en/issues/index",
+              {
+                "group": "Add Issues",
+                "pages": [
+                  "en/issues/add-issues/how-to-add-an-issue",
+                  "en/issues/add-issues/how-to-add-multiple-issues-on-the-same-spot",
+                  "en/issues/add-issues/can-i-add-more-photos-to-an-issue",
+                  "en/issues/add-issues/can-i-copy-and-paste-an-issue",
+                  "en/issues/add-issues/what-is-add-future-issue",
+                  "en/issues/add-issues/can-i-define-photo-size",
+                  "en/issues/add-issues/add-the-previous-issue"
+                ]
+              },
+              {
+                "group": "Update Issues",
+                "pages": [
+                  "en/issues/update-issues/how-to-update-issues",
+                  "en/issues/update-issues/what-do-the-pin-colours-represent",
+                  "en/issues/update-issues/how-do-i-send-a-notification-regarding-an-issue"
+                ]
+              },
+              {
+                "group": "Find Issues",
+                "pages": [
+                  "en/issues/find-issues/how-do-i-search-issues-on-device",
+                  "en/issues/find-issues/where-do-i-see-issue-notifications",
+                  "en/issues/find-issues/how-to-view-issue-history",
+                  "en/issues/find-issues/filtering-issues-on-device"
+                ]
+              },
+              {
+                "group": "Edit Issues",
+                "pages": [
+                  "en/issues/edit-issues/can-i-edit-issues",
+                  "en/issues/edit-issues/how-to-batch-edit-issues",
+                  "en/issues/edit-issues/can-i-delete-issues",
+                  "en/issues/edit-issues/can-i-move-an-issue-pin",
+                  "en/issues/edit-issues/how-to-organise-issue-pins-that-overlap-on-each-other",
+                  "en/issues/edit-issues/how-to-break-items-out-from-a-plot-with-multiple-issues"
+                ]
+              },
+              {
+                "group": "Report and Analytics",
+                "pages": [
+                  "en/issues/report-and-analytics/how-to-generate-an-issue-report",
+                  "en/issues/report-and-analytics/can-issue-reports-be-generated-automatically",
+                  "en/issues/report-and-analytics/how-to-generate-issue-report-for-subcontractors-only",
+                  "en/issues/report-and-analytics/can-i-have-a-report-with-the-first-and-last-photo-only",
+                  "en/issues/report-and-analytics/how-to-get-a-summary-statistics-of-our-issue-records",
+                  "en/issues/report-and-analytics/how-do-i-view-analytics",
+                  "en/issues/report-and-analytics/project-summary-what-are-the-figures-in-red-colour"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Forms",
+            "pages": [
+              "en/forms/index",
+              {
+                "group": "Submit Forms",
+                "pages": [
+                  "en/forms/submit-forms/how-to-complete-forms-on-device",
+                  "en/forms/submit-forms/how-to-complete-forms-on-website",
+                  "en/forms/submit-forms/permits-dashboard",
+                  "en/forms/submit-forms/can-i-track-changes-of-a-form",
+                  "en/forms/submit-forms/can-i-have-a-summary-of-the-form-workflow-history",
+                  "en/forms/submit-forms/how-do-i-send-notifications-regarding-a-form",
+                  "en/forms/submit-forms/how-can-i-be-notified-of-forms-updates",
+                  "en/forms/submit-forms/how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form",
+                  "en/forms/submit-forms/how-to-closed-failed-related-forms"
+                ]
+              },
+              {
+                "group": "Find and Edit Forms",
+                "pages": [
+                  "en/forms/find-and-edit-forms/how-can-i-search-for-forms",
+                  "en/forms/find-and-edit-forms/how-do-i-see-form-notifications",
+                  "en/forms/find-and-edit-forms/can-i-delete-form",
+                  "en/forms/find-and-edit-forms/can-i-search-inspection-forms-by-the-hotspot-value",
+                  "en/forms/find-and-edit-forms/inspection-dashboard",
+                  "en/forms/find-and-edit-forms/can-i-change-location-of-an-inspection-form",
+                  "en/forms/find-and-edit-forms/how-to-scan-and-fill-the-qrcode-image-qrcode-text-field"
+                ]
+              },
+              {
+                "group": "Export Forms",
+                "pages": [
+                  "en/forms/export-forms/can-i-export-forms-in-pdf",
+                  "en/forms/export-forms/how-do-i-export-form-pdf-if-there-are-issues-and-documents-attached-to-it",
+                  "en/forms/export-forms/can-i-extract-a-list-of-forms-that-are-created-on-snagr",
+                  "en/forms/export-forms/how-to-export-excel-from-template",
+                  "en/forms/export-forms/how-to-design-the-dms-export-template"
+                ]
+              },
+              {
+                "group": "Link Issues and Documents to Forms",
+                "pages": [
+                  "en/forms/link-issues-and-documents-to-forms/how-can-i-link-issues-to-a-form",
+                  "en/forms/link-issues-and-documents-to-forms/how-can-i-unlink-issues-from-a-form",
+                  "en/forms/link-issues-and-documents-to-forms/how-to-upload-documents-to-link-to-forms-new-upgrade",
+                  "en/forms/link-issues-and-documents-to-forms/how-to-mark-the-document-as-not-in-use-new-upgrade",
+                  "en/forms/link-issues-and-documents-to-forms/how-can-i-link-documents-to-a-form",
+                  "en/forms/link-issues-and-documents-to-forms/how-can-i-unlink-documents-from-a-form"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Documents",
+            "pages": [
+              "en/documents/index",
+              {
+                "group": "Upload Document",
+                "pages": [
+                  "en/documents/upload-document/how-to-create-a-folder",
+                  "en/documents/upload-document/how-to-upload-documents",
+                  "en/documents/upload-document/what-is-bundle",
+                  "en/documents/upload-document/is-there-version-control-in-snagr-documents"
+                ]
+              },
+              {
+                "group": "Download Documents",
+                "pages": [
+                  "en/documents/download-documents/how-to-download-files"
+                ]
+              },
+              {
+                "group": "Manage Documents",
+                "pages": [
+                  "en/documents/manage-documents/how-to-link-documents-to-locations",
+                  "en/documents/manage-documents/who-has-access-to-document-repository",
+                  "en/documents/manage-documents/how-to-delete-a-folder",
+                  "en/documents/manage-documents/how-to-delete-a-file",
+                  "en/documents/manage-documents/how-to-move-a-file-from-one-folder-to-another",
+                  "en/documents/manage-documents/how-to-find-documents-by-locations"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Set up project",
+            "pages": [
+              "en/set-up-project/index",
+              {
+                "group": "Drawings - Project Level",
+                "pages": [
+                  "en/set-up-project/drawings-project-level/how-to-group-drawings",
+                  "en/set-up-project/drawings-project-level/how-to-edit-drawing-set",
+                  "en/set-up-project/drawings-project-level/how-to-upload-drawings",
+                  "en/set-up-project/drawings-project-level/how-to-edit-existing-drawing",
+                  "en/set-up-project/drawings-project-level/how-to-set-up-the-drawing-regions",
+                  "en/set-up-project/drawings-project-level/what-is-the-quickest-way-to-set-up-repetitive-units",
+                  "en/set-up-project/drawings-project-level/how-to-link-drawings-together-manually",
+                  "en/set-up-project/drawings-project-level/how-to-link-drawings-together-automatically"
+                ]
+              },
+              {
+                "group": "Locations - Project Level",
+                "pages": [
+                  "en/set-up-project/locations-project-level/how-to-set-up-locations-on-drawings",
+                  "en/set-up-project/locations-project-level/move-edit-delete-a-location-pin",
+                  "en/set-up-project/locations-project-level/create-barcode-for-location"
+                ]
+              },
+              {
+                "group": "Accounts and Permissions - Project Level",
+                "pages": [
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-add-users-to-project",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-add-contractors-to-project",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-edit-users-and-contractors",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-set-permissions-issues",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-set-permissions-forms",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-set-permission-for-kpi-dashboard",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-set-permission-for-custom-reports",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-send-password-reminders",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-batch-update-user-permissions",
+                  "en/set-up-project/accounts-and-permissions-project-level/how-to-batch-edit-user-s-role-enabled",
+                  "en/set-up-project/accounts-and-permissions-project-level/reset2fa"
+                ]
+              },
+              {
+                "group": "Notifications - Project Level",
+                "pages": [
+                  "en/set-up-project/notifications-project-level/how-to-set-up-issues-notifications-for-all-users",
+                  "en/set-up-project/notifications-project-level/how-to-set-up-forms-notifications-for-all-users",
+                  "en/set-up-project/notifications-project-level/how-to-manage-subscriptions"
+                ]
+              },
+              {
+                "group": "Standard Issue List - Project Level",
+                "pages": [
+                  "en/set-up-project/standard-issue-list-project-level/how-to-enable-specific-issue-categories-for-a-project",
+                  "en/set-up-project/standard-issue-list-project-level/linkup-issue-contractor"
+                ]
+              },
+              {
+                "group": "General Settings",
+                "pages": [
+                  "en/set-up-project/general-settings/how-to-edit-the-project-settings",
+                  "en/set-up-project/general-settings/edit-default-language-or-logo",
+                  "en/set-up-project/general-settings/passwordcomplexity",
+                  "en/set-up-project/general-settings/edit-view-projects",
+                  "en/set-up-project/general-settings/can-i-edit-the-priorities-and-due-day",
+                  "en/set-up-project/general-settings/regions-divisions-programs",
+                  "en/set-up-project/general-settings/terminology"
+                ]
+              },
+              {
+                "group": "New Projects - Company Level",
+                "pages": [
+                  "en/set-up-project/new-projects-company-level/how-do-i-create-a-new-project",
+                  "en/set-up-project/new-projects-company-level/how-do-i-clone-project"
+                ]
+              },
+              {
+                "group": "Standard Issue List - Company Level",
+                "pages": [
+                  "en/set-up-project/standard-issue-list-company-level/how-to-design-the-issue-list",
+                  "en/set-up-project/standard-issue-list-company-level/how-to-import-issue-list",
+                  "en/set-up-project/standard-issue-list-company-level/how-to-add-single-items-to-issue-list",
+                  "en/set-up-project/standard-issue-list-company-level/how-to-edit-items-on-standard-issue-list",
+                  "en/set-up-project/standard-issue-list-company-level/how-can-i-set-up-auto-close-for-photo-diaries"
+                ]
+              },
+              {
+                "group": "Forms - Company Level",
+                "pages": [
+                  "en/set-up-project/forms-company-level/how-to-design-inspections-in-snagr",
+                  "en/set-up-project/forms-company-level/how-to-edit-the-inspection-template",
+                  "en/set-up-project/forms-company-level/how-do-i-digitalise-a-form",
+                  "en/set-up-project/forms-company-level/how-to-edit-form-details",
+                  "en/set-up-project/forms-company-level/can-i-edit-replace-inspection-form",
+                  "en/set-up-project/forms-company-level/how-to-create-custom-list",
+                  "en/set-up-project/forms-company-level/how-to-edit-the-custom-list",
+                  "en/set-up-project/forms-company-level/how-to-create-a-hierarchical-list",
+                  "en/set-up-project/forms-company-level/import-export-inspection-form-templates",
+                  "en/set-up-project/forms-company-level/how-can-i-remove-a-form-from-the-inspection-template",
+                  "en/set-up-project/forms-company-level/how-can-i-remove-the-inspection-from-the-company",
+                  "en/set-up-project/forms-company-level/how-to-set-up-the-qr-code-image"
+                ]
+              },
+              {
+                "group": "Accounts and Permissions - Company Level",
+                "pages": [
+                  "en/set-up-project/accounts-and-permissions-company-level/add-user-at-the-company-level",
+                  "en/set-up-project/accounts-and-permissions-company-level/add-contractors-at-the-company-level"
+                ]
+              },
+              {
+                "group": "Checklists and Scheduling - Company Level",
+                "pages": [
+                  "en/set-up-project/checklists-and-scheduling-company-level/project-checklists",
+                  "en/set-up-project/checklists-and-scheduling-company-level/project-checklists-2",
+                  "en/set-up-project/checklists-and-scheduling-company-level/construction-stages",
+                  "en/set-up-project/checklists-and-scheduling-company-level/construction-stages-2"
+                ]
+              },
+              {
+                "group": "Permits - Company Level",
+                "pages": [
+                  "en/set-up-project/permits-company-level/add-permit-inspection",
+                  "en/set-up-project/permits-company-level/add-permit",
+                  "en/set-up-project/permits-company-level/view-edit-delete-permit-inspection"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Reporting",
+            "pages": [
+              "en/reporting/index",
+              {
+                "group": "Analytics",
+                "pages": [
+                  "en/reporting/analytics/how-do-i-see-custom-dashboard"
+                ]
+              },
+              {
+                "group": "Custom PDF Report",
+                "pages": [
+                  "en/reporting/custom-pdf-report/how-do-i-generate-a-custom-report"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "FAQ",
+            "pages": [
+              "en/faq/index",
+              {
+                "group": "Get Ready On Mobile",
+                "pages": [
+                  "en/faq/get-ready-on-mobile/how-do-i-download-a-project",
+                  "en/faq/get-ready-on-mobile/how-can-i-go-from-one-drawing-to-another",
+                  "en/faq/get-ready-on-mobile/icons-or-buttons-on-the-device",
+                  "en/faq/get-ready-on-mobile/what-does-synchronise-mean",
+                  "en/faq/get-ready-on-mobile/can-i-set-up-auto-sync",
+                  "en/faq/get-ready-on-mobile/how-to-enable-location-data-on-the-mobile-device"
+                ]
+              },
+              {
+                "group": "Troubleshooting on Mobile",
+                "pages": [
+                  "en/faq/troubleshooting-on-mobile/common-issues-in-project-download",
+                  "en/faq/troubleshooting-on-mobile/the-app-has-been-checking-credentials-for-a-long-time-and-does-not-allow-me-to-download-project-on-mobile-app",
+                  "en/faq/troubleshooting-on-mobile/remove-and-re-add-project",
+                  "en/faq/troubleshooting-on-mobile/i-can-t-sync-on-mobile-app-what-should-i-do"
+                ]
+              },
+              {
+                "group": "General",
+                "pages": [
+                  "en/faq/general/how-do-i-change-password",
+                  "en/faq/general/what-is-issue-mode-and-form-mode",
+                  "en/faq/general/what-os-version-does-snagr-support",
+                  "en/faq/general/what-is-email-log",
+                  "en/faq/general/how-can-i-contact-snagr",
+                  "en/faq/general/what-if-i-forgot-my-account-password",
+                  "en/faq/general/2fa",
+                  "en/faq/general/loginwith2fa"
+                ]
+              },
+              {
+                "group": "Troubelshooting for Admins",
+                "pages": [
+                  "en/faq/troubelshooting-for-admins/i-can-t-add-a-user-i-don-t-see-him-her-on-the-project-but-the-system-says-email-already-exists-what-is-wrong",
+                  "en/faq/troubelshooting-for-admins/how-to-enable-form-templates-for-a-project"
+                ]
+              },
+              {
+                "group": "Locations",
+                "pages": [
+                  "en/faq/locations/location-ready-for-inspection",
+                  "en/faq/locations/location-sign-off",
+                  "en/faq/locations/room-area-signoff"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "New Features",
+            "pages": [
+              "en/new-features/index",
+              {
+                "group": "Release Notes",
+                "pages": [
+                  "en/new-features/release-notes/latest-release-notes-v4-1-11845",
+                  "en/new-features/release-notes/latest-release-notes-v41011913-13-jan-2020",
+                  "en/new-features/release-notes/latest-release-notes-mobile-app-v41459-23-jan-2020",
+                  "en/new-features/release-notes/release-notes-v4111930-29-jan-2019",
+                  "en/new-features/release-notes/release-notes-mobile-ios-android-v4-146-1-29-jan-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-android-v41462-13-march-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41463-18-march-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41465-19-march-2020",
+                  "en/new-features/release-notes/release-notes-ios-v41472-20-april-2020",
+                  "en/new-features/release-notes/release-notes-ios-v41480-30-april-2020",
+                  "en/new-features/release-notes/release-notes-ios-v41483-12-may-2020",
+                  "en/new-features/release-notes/release-notes-hot-fix-ios-v41486-29-may-2020",
+                  "en/new-features/release-notes/release-notes-android-v41486-29-may-2020",
+                  "en/new-features/release-notes/release-notes-android-v41489-07-june-2020",
+                  "en/new-features/release-notes/release-notes-hot-fix-android-v41490-10-june-2020",
+                  "en/new-features/release-notes/release-notes-hot-fix-android-v41489-07-june-2020",
+                  "en/new-features/release-notes/release-notes-hot-fix-ios-v41493-18-june-2020",
+                  "en/new-features/release-notes/release-notes-hot-fix-android-v41496-16-july-2020",
+                  "en/new-features/release-notes/release-notes-ios-v41497-18-sept-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-android-v41506-23-sept-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-android-v41510-25-sept-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-android-v41512-6-oct-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-android-v41515-9-oct-2020",
+                  "en/new-features/release-notes/release-notes-v41517-29-oct-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41522-5-nov-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41525-3-dec-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41526-9-dec-2020",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41527-android-v41529-21-jan-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-iosandroid-v41531-03-may-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-iosandroid-v41536-12-may-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-iosandroid-v41537-28-may-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41540-07-june-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-android-v41543-06-august-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-android-v41544-24-august-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-android-v41545-27-august-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41549-19-oct-2021",
+                  "en/new-features/release-notes/release-notes-hotfix-ios-v41552-android-v41554-17-nov-2021",
+                  "en/new-features/release-notes/release-notes-android-v41605-04-feb-2022"
+                ]
+              },
+              {
+                "group": "2FA",
+                "pages": [
+                  "en/new-features/2fa/enable2fa"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Success stories",
+            "pages": [
+              "en/success-stories/index",
+              {
+                "group": "Quality",
+                "pages": [
+                  "en/success-stories/quality/defect-management",
+                  "en/success-stories/quality/handover-process-with-purchaser",
+                  "en/success-stories/quality/request-for-inspections",
+                  "en/success-stories/quality/non-conformance-report"
+                ]
+              },
+              {
+                "group": "Safety",
+                "pages": [
+                  "en/success-stories/safety/safety-inspection",
+                  "en/success-stories/safety/permit-to-work"
+                ]
+              },
+              {
+                "group": "Site Operations",
+                "pages": [
+                  "en/success-stories/site-operations/daily-site-walk",
+                  "en/success-stories/site-operations/photo-diary"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "SnagR Home",
+            "pages": [
+              "en/snagr-home/index",
+              {
+                "group": "Owner",
+                "pages": [
+                  {
+                    "group": "Appointment",
+                    "pages": [
+                      "en/snagr-home/owner/appointment/how-to-the-snagr-home-user-request-an-appointment",
+                      "en/snagr-home/owner/appointment/how-to-the-snagr-home-user-cancel-a-requested-appointment"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Staff",
+                "pages": [
+                  {
+                    "group": "Appointment",
+                    "pages": [
+                      "en/snagr-home/staff/appointment/how-to-create-an-appointment-for-the-owner",
+                      "en/snagr-home/staff/appointment/how-to-withdraw-an-appointment",
+                      "en/snagr-home/staff/appointment/how-to-confirm-appointment"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "SnagR Home Admin",
+                "pages": [
+                  "en/snagr-home/snagr-home-admin/how-to-update-the-users-profile",
+                  "en/snagr-home/snagr-home-admin/how-to-edit-users-detail",
+                  "en/snagr-home/snagr-home-admin/how-to-generate-the-welcome-packs",
+                  {
+                    "group": "Appointment",
+                    "pages": [
+                      "en/snagr-home/snagr-home-admin/appointment/to-batch-assign-the-appointment"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "nl",
+        "groups": [
+          {
+            "group": "SnagR Ondersteuning",
+            "pages": [
+              "nl/index"
+            ]
+          },
+          {
+            "group": "Ga van start",
+            "pages": [
+              {
+                "group": "In welk team zit je?",
+                "pages": [
+                  "nl/ga-van-start/in-welk-team-zit-je/overzicht-voor-management",
+                  "nl/ga-van-start/in-welk-team-zit-je/overzicht-voor-inspectie-teams-adviseurs",
+                  "nl/ga-van-start/in-welk-team-zit-je/overzicht-voor-onderaannemers",
+                  "nl/ga-van-start/in-welk-team-zit-je/ontwikkelaar",
+                  "nl/ga-van-start/in-welk-team-zit-je/hoofdaannemer",
+                  "nl/ga-van-start/in-welk-team-zit-je/onderaannemer",
+                  "nl/ga-van-start/in-welk-team-zit-je/producent"
+                ]
+              },
+              {
+                "group": "Startgids: Hoe ga ik met actiepunten om?",
+                "pages": [
+                  "nl/ga-van-start/startgids-hoe-ga-ik-met-actiepunten-om/hoe-download-ik-een-project",
+                  "nl/ga-van-start/startgids-hoe-ga-ik-met-actiepunten-om/hoe-voeg-ik-een-actiepunt-toe",
+                  "nl/ga-van-start/startgids-hoe-ga-ik-met-actiepunten-om/kan-ik-meerdere-actiepunten-toevoegen-op-een-plek",
+                  "nl/ga-van-start/startgids-hoe-ga-ik-met-actiepunten-om/hoe-zoek-ik-naar-actiepunten",
+                  "nl/ga-van-start/startgids-hoe-ga-ik-met-actiepunten-om/kan-ik-actiepunten-bewerken",
+                  "nl/ga-van-start/startgids-hoe-ga-ik-met-actiepunten-om/hoe-update-ik-een-actiepunt",
+                  "nl/ga-van-start/startgids-hoe-ga-ik-met-actiepunten-om/wat-betekenen-de-verschillende-actiepunt-kleuren",
+                  "nl/ga-van-start/startgids-hoe-ga-ik-met-actiepunten-om/hoe-maak-ik-een-actiepunten-rapport"
+                ]
+              },
+              {
+                "group": "Startgids: Hoe voeg ik formulieren toe?",
+                "pages": [
+                  "nl/ga-van-start/startgids-hoe-voeg-ik-formulieren-toe/hoe-kan-ik-tussen-de-tekeningen-navigeren",
+                  "nl/ga-van-start/startgids-hoe-voeg-ik-formulieren-toe/hoe-vul-ik-een-formulier-in-met-de-app",
+                  "nl/ga-van-start/startgids-hoe-voeg-ik-formulieren-toe/hoe-kan-ik-formulieren-invullen-op-de-website",
+                  "nl/ga-van-start/startgids-hoe-voeg-ik-formulieren-toe/kan-ik-de-wijzigingen-van-een-formulier-bekijken",
+                  "nl/ga-van-start/startgids-hoe-voeg-ik-formulieren-toe/hoe-kan-ik-actiepunten-koppelen-aan-een-formulier",
+                  "nl/ga-van-start/startgids-hoe-voeg-ik-formulieren-toe/hoe-kan-ik-zoeken-naar-formulieren",
+                  "nl/ga-van-start/startgids-hoe-voeg-ik-formulieren-toe/hoe-kan-ik-formulieren-exporteren-in-pdf-formaat"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Actiepunten",
+            "pages": [
+              {
+                "group": "Actiepunten Toevoegen",
+                "pages": [
+                  "nl/actiepunten/actiepunten-toevoegen/kan-ik-meer-fotos-toevoegen-aan-een-actiepunt",
+                  "nl/actiepunten/actiepunten-toevoegen/kan-ik-een-actiepunten-kopieren-en-plakken",
+                  "nl/actiepunten/actiepunten-toevoegen/wat-is-opvolgend-actiepunt-toevoegen",
+                  "nl/actiepunten/actiepunten-toevoegen/kan-ik-de-foto-grootte-bepalen",
+                  "nl/actiepunten/actiepunten-toevoegen/kan-ik-meerdere-foto-s-toevoegen-aan-een-actiepunt"
+                ]
+              },
+              {
+                "group": "Actiepunten Updaten",
+                "pages": [
+                  "nl/actiepunten/actiepunten-updaten/kan-ik-een-notificatie-versturen-over-een-actiepunt-of-update",
+                  "nl/actiepunten/actiepunten-updaten/kan-ik-een-actiepunt-heropenen"
+                ]
+              },
+              {
+                "group": "Actiepunten Vinden",
+                "pages": [
+                  "nl/actiepunten/actiepunten-vinden/waar-zie-ik-de-actiepunten-notificaties",
+                  "nl/actiepunten/actiepunten-vinden/kan-ik-actiepunten-op-tekeningen-filteren",
+                  "nl/actiepunten/actiepunten-vinden/hoe-bekijk-ik-de-actiepunthistorie"
+                ]
+              },
+              {
+                "group": "Actiepunten Bewerken",
+                "pages": [
+                  "nl/actiepunten/actiepunten-bewerken/kan-ik-actiepunten-verwijderen",
+                  "nl/actiepunten/actiepunten-bewerken/kan-ik-een-actiepunt-verplaatsen",
+                  "nl/actiepunten/actiepunten-bewerken/actiepunten-overlappen-elkaar-hoe-kan-dit-verholpen-worden",
+                  "nl/actiepunten/actiepunten-bewerken/hoe-ontkoppel-ik-actiepunt-uit-een-plot-met-meerdere-actiepunten",
+                  "nl/actiepunten/actiepunten-bewerken/kan-ik-meerdere-actiepunten-tegelijk-aanpassen"
+                ]
+              },
+              {
+                "group": "Rapporten en Statistieken",
+                "pages": [
+                  "nl/actiepunten/rapporten-en-statistieken/kunnen-actiepunt-rapportages-automatisch-gegeneerd-worden",
+                  "nl/actiepunten/rapporten-en-statistieken/project-samenvatting-wat-zijn-die-rode-cijfers"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Formulieren",
+            "pages": [
+              {
+                "group": "Formulieren Toevoegen",
+                "pages": [
+                  "nl/formulieren/formulieren-toevoegen/kan-ik-een-samenvatting-krijgen-van-de-workflow-historie-van-een-formulier",
+                  "nl/formulieren/formulieren-toevoegen/hoe-stuur-ik-notificaties-over-een-formulier",
+                  "nl/formulieren/formulieren-toevoegen/hoe-kan-ik-op-de-hoogte-gehouden-worden-van-formulier-wijzigingen",
+                  "nl/formulieren/formulieren-toevoegen/hoe-bekijk-en-voeg-ik-vergunningen-toe",
+                  "nl/formulieren/formulieren-toevoegen/hoe-kan-ik-een-foto-uit-mijn-fotogalerij-toevoegen-aan-een-inspectieformulier",
+                  "nl/formulieren/formulieren-toevoegen/hoe-zet-je-gerelateerde-formulieren-op-gesloten-afgekeurd"
+                ]
+              },
+              {
+                "group": "Formulieren Vinden en Bewerken",
+                "pages": [
+                  "nl/formulieren/formulieren-vinden-en-bewerken/hoe-zie-ik-formulier-notificaties",
+                  "nl/formulieren/formulieren-vinden-en-bewerken/hoe-verwijder-ik-inspectieformulieren",
+                  "nl/formulieren/formulieren-vinden-en-bewerken/kan-ik-naar-inspectieformulieren-zoeken-aan-de-hand-van-de-inhoud",
+                  "nl/formulieren/formulieren-vinden-en-bewerken/kan-ik-de-locatie-van-een-inspectieformulier-wijzigen",
+                  "nl/formulieren/formulieren-vinden-en-bewerken/hoe-gebruik-ik-de-formulier-zoeker-in-de-app"
+                ]
+              },
+              {
+                "group": "Formulieren Exporteren",
+                "pages": [
+                  "nl/formulieren/formulieren-exporteren/hoe-exporteer-ik-formulieren-in-pdf-wanneer-er-actiepunten-en-documenten-aan-vast-zitten",
+                  "nl/formulieren/formulieren-exporteren/kan-ik-een-lijst-onttrekken-van-formulieren-welke-zijn-gecreeerd-in-snagr",
+                  "nl/formulieren/formulieren-exporteren/hoe-exporteer-ik-formuliergegevens-naar-excel",
+                  "nl/formulieren/formulieren-exporteren/export-formulier-content-naar-excel-hoe-stel-ik-een-template-op"
+                ]
+              },
+              {
+                "group": "Actiepunten en documenten aan formulieren koppelen",
+                "pages": [
+                  "nl/formulieren/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-kan-ik-actiepunten-ontkoppelen-van-formulieren",
+                  "nl/formulieren/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-kan-ik-documenten-koppelen-aan-formulieren",
+                  "nl/formulieren/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-kan-ik-documenten-ontkoppelen-van-formulieren",
+                  "nl/formulieren/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-upload-ik-documenten-om-te-linken-aan-formulieren",
+                  "nl/formulieren/actiepunten-en-documenten-aan-formulieren-koppelen/documenten-uploaden-om-aan-formulieren-te-koppelen-nieuwe-upgrade",
+                  "nl/formulieren/actiepunten-en-documenten-aan-formulieren-koppelen/hoe-markeer-je-documenten-als-niet-in-gebruik-nieuwe-upgrade"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Documenten",
+            "pages": [
+              {
+                "group": "Documenten Uploaden",
+                "pages": [
+                  "nl/documenten/documenten-uploaden/hoe-upload-ik-documenten",
+                  "nl/documenten/documenten-uploaden/hoe-maak-ik-een-map-aan"
+                ]
+              },
+              {
+                "group": "Documenten Beheren",
+                "pages": [
+                  "nl/documenten/documenten-beheren/wie-heeft-toegang-tot-de-documenten-opslag",
+                  "nl/documenten/documenten-beheren/hoe-koppel-ik-documenten-aan-locaties",
+                  "nl/documenten/documenten-beheren/hoe-verwijder-ik-een-map",
+                  "nl/documenten/documenten-beheren/hoe-verwijder-ik-een-bestand",
+                  "nl/documenten/documenten-beheren/wat-is-een-pakket",
+                  "nl/documenten/documenten-beheren/hoe-sleep-je-een-bestand-van-de-ene-map-naar-de-andere",
+                  "nl/documenten/documenten-beheren/is-er-versiebeheer-in-snagr-documenten"
+                ]
+              },
+              {
+                "group": "Documenten Downloaden",
+                "pages": [
+                  "nl/documenten/documenten-downloaden/hoe-download-ik-bestanden",
+                  "nl/documenten/documenten-downloaden/hoe-vind-ik-documenten-per-locatie"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Project opzetten",
+            "pages": [
+              "nl/project-opzetten/index",
+              {
+                "group": "Tekeningen - Projectniveau",
+                "pages": [
+                  "nl/project-opzetten/tekeningen-projectniveau/hoe-kan-ik-tekeningen-groeperen",
+                  "nl/project-opzetten/tekeningen-projectniveau/hoe-tekeningen-voorbereiden-en-uploaden",
+                  "nl/project-opzetten/tekeningen-projectniveau/wat-is-de-snelste-weg-om-herhalende-tekeningen-ruimtes-in-te-stellen",
+                  "nl/project-opzetten/tekeningen-projectniveau/how-to-link-drawings-together-manually",
+                  "nl/project-opzetten/tekeningen-projectniveau/hoe-koppel-je-tekeningen-automatisch",
+                  "nl/project-opzetten/tekeningen-projectniveau/hoe-bewerk-ik-een-bestaande-tekening",
+                  "nl/project-opzetten/tekeningen-projectniveau/hoe-bewerk-ik-tekeningenmappen",
+                  "nl/project-opzetten/tekeningen-projectniveau/wat-zijn-tekening-vakken-en-hoe-stel-ik-ze-in"
+                ]
+              },
+              {
+                "group": "Accounts en Rechten - Projectniveau",
+                "pages": [
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-voeg-ik-gebruikers-toe-aan-een-project",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-voeg-ik-aannemers-toe-aan-het-project",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-stel-je-gebruikersrechten-in-formulieren",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-bewerk-ik-gebruikers-en-aannemers",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-verstuur-ik-een-wachtwoord-herinnering",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/wat-is-het-verschil-tussen-een-gebruikers-en-aannemers-account",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-stel-je-rechten-in-actiepunten",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-stel-ik-de-rechten-voor-kpi-dashboards-in",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-stel-ik-de-rechten-in-voor-custom-reports",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-partij-bewerk-je-gebruikersrechten",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-partij-bewerk-je-gebruikersrollen-geactiveerd",
+                  "nl/project-opzetten/accounts-en-rechten-projectniveau/hoe-reset-je-de-twee-staps-authenticatie-sleutel"
+                ]
+              },
+              {
+                "group": "Locaties - Projectniveau",
+                "pages": [
+                  "nl/project-opzetten/locaties-projectniveau/hoe-voeg-ik-locaties-toe-op-tekeningen",
+                  "nl/project-opzetten/locaties-projectniveau/hoe-verplaats-bewerk-verwijder-ik-een-locatie-pin",
+                  "nl/project-opzetten/locaties-projectniveau/hoe-genereer-ik-barcodes-qr-codes-voor-locaties"
+                ]
+              },
+              {
+                "group": "Notificaties - Projectniveau",
+                "pages": [
+                  "nl/project-opzetten/notificaties-projectniveau/hoe-stel-ik-notificaties-in-voor-alle-gebruikers",
+                  "nl/project-opzetten/notificaties-projectniveau/hoe-beheer-ik-automatische-notificaties",
+                  "nl/project-opzetten/notificaties-projectniveau/hoe-stel-ik-inspectie-notificaties-in-voor-alle-gebruikers"
+                ]
+              },
+              {
+                "group": "Standaard Actiepunten Lijst - Projectniveau",
+                "pages": [
+                  "nl/project-opzetten/standaard-actiepunten-lijst-projectniveau/kan-een-aannemersgroep-automatisch-gekoppeld-worden-aan-een-specifiek-actiepuntentype",
+                  "nl/project-opzetten/standaard-actiepunten-lijst-projectniveau/hoe-activeer-ik-specifieke-actiepunt-categorieen-voor-een-project"
+                ]
+              },
+              {
+                "group": "Algemene Instellingen",
+                "pages": [
+                  "nl/project-opzetten/algemene-instellingen/project-instellingen-bewerken-op-project-niveau",
+                  "nl/project-opzetten/algemene-instellingen/standaard-taal-of-logo-bewerken-op-bedrijfsniveau",
+                  "nl/project-opzetten/algemene-instellingen/prioriteiten-en-einddatum-bewerken-op-bedrijfsniveau",
+                  "nl/project-opzetten/algemene-instellingen/bewerk-bekijk-projecten-op-bedrijfsniveau",
+                  "nl/project-opzetten/algemene-instellingen/regio-s-divisies-programma-s-op-bedrijfsniveau",
+                  "nl/project-opzetten/algemene-instellingen/termen-op-bedrijfsniveau",
+                  "nl/project-opzetten/algemene-instellingen/wachtwoord-complexiteit-instellen-op-bedrijfsniveau"
+                ]
+              },
+              {
+                "group": "Standaard Actiepunten Lijst - Bedrijfsniveau",
+                "pages": [
+                  "nl/project-opzetten/standaard-actiepunten-lijst-bedrijfsniveau/hoe-ontwerp-ik-de-standaard-actiepunten-lijst",
+                  "nl/project-opzetten/standaard-actiepunten-lijst-bedrijfsniveau/hoe-kan-ik-standaard-actiepuntenlijsten-importeren",
+                  "nl/project-opzetten/standaard-actiepunten-lijst-bedrijfsniveau/hoe-voeg-ik-een-los-item-toe-aan-de-standaard-actiepunten-lijst",
+                  "nl/project-opzetten/standaard-actiepunten-lijst-bedrijfsniveau/hoe-bewerk-je-items-op-de-standaard-actiepunten-lijst",
+                  "nl/project-opzetten/standaard-actiepunten-lijst-bedrijfsniveau/hoe-activeer-ik-auto-close-voor-fotodagboeken"
+                ]
+              },
+              {
+                "group": "Formulieren - Bedrijfsniveau",
+                "pages": [
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-ontwerp-ik-inspecties",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-stel-ik-inspecties-en-formulieren-in",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-voeg-ik-handmatige-workflows-toe-aan-formulieren",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-maak-ik-een-aangepaste-lijst",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-kan-ik-een-inspectie-sjabloon-bewerken",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-maak-ik-een-digitaal-formulier",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/kan-ik-de-formulierafbeelding-bewerken-vervangen",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-verwijder-ik-een-formulier-template-uit-een-inspectie-template",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/kan-ik-een-inspectie-template-verwijderen-op-bedrijfsniveau",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-bewerk-ik-lijsten",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/import-export-inspectie-formulieren-templates",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-maak-je-een-hierarchische-lijst",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-ontwerp-ik-een-inspectie-formulier-template-met-bedrijfslogica-erin",
+                  "nl/project-opzetten/formulieren-bedrijfsniveau/hoe-bewerk-je-formulier-details"
+                ]
+              },
+              {
+                "group": "Accounts en Rechten - Bedrijfsniveau",
+                "pages": [
+                  "nl/project-opzetten/accounts-en-rechten-bedrijfsniveau/hoe-kan-ons-probleemherstelproces-worden-gedefinieerd-in-snagr",
+                  "nl/project-opzetten/accounts-en-rechten-bedrijfsniveau/gebruikersbeheer-op-bedrijfsniveau",
+                  "nl/project-opzetten/accounts-en-rechten-bedrijfsniveau/aannemersbeheer-op-bedrijfsniveau"
+                ]
+              },
+              {
+                "group": "Checklijsten en Schema's - Bedrijfsniveau",
+                "pages": [
+                  "nl/project-opzetten/checklijsten-en-schema-s-bedrijfsniveau/project-checklijst-maken",
+                  "nl/project-opzetten/checklijsten-en-schema-s-bedrijfsniveau/importeer-project-checklijsten-op-projectniveau",
+                  "nl/project-opzetten/checklijsten-en-schema-s-bedrijfsniveau/maak-construction-stages"
+                ]
+              },
+              {
+                "group": "Vergunningen - Bedrijfsniveau",
+                "pages": [
+                  "nl/project-opzetten/vergunningen-bedrijfsniveau/vergunning-inspectie-toevoegen",
+                  "nl/project-opzetten/vergunningen-bedrijfsniveau/vergunningsformulier-pagina-toevoegen",
+                  "nl/project-opzetten/vergunningen-bedrijfsniveau/bekijk-bewerk-verwijder-vergunning-inspecties"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Verslaglegging",
+            "pages": [
+              {
+                "group": "Standaard PDF Rapport",
+                "pages": [
+                  "nl/verslaglegging/standaard-pdf-rapport/hoe-genereer-ik-een-actiepunten-rapportage-voor-onderaannemers",
+                  "nl/verslaglegging/standaard-pdf-rapport/kan-ik-een-rapport-krijgen-met-alleen-de-eerste-en-laatste-foto",
+                  "nl/verslaglegging/standaard-pdf-rapport/hoe-krijg-ik-samenvattingen-van-onze-actiepunten"
+                ]
+              },
+              {
+                "group": "Statistieken",
+                "pages": [
+                  "nl/verslaglegging/statistieken/hoe-zie-ik-de-statistieken",
+                  "nl/verslaglegging/statistieken/hoe-krijg-ik-een-overzicht-van-alle-inspectieformulieren",
+                  "nl/verslaglegging/statistieken/hoe-bekijk-ik-een-aangepaste-kpi-dashboard"
+                ]
+              },
+              {
+                "group": "Aangepast PDF rapport",
+                "pages": [
+                  "nl/verslaglegging/aangepast-pdf-rapport/hoe-maak-ik-een-aangepast-rapport"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Veelgestelde vragen",
+            "pages": [
+              "nl/veelgestelde-vragen/issues-in-project-download",
+              {
+                "group": "Klaar voor mobiel gebruik",
+                "pages": [
+                  "nl/veelgestelde-vragen/klaar-voor-mobiel-gebruik/waarom-moet-ik-synchroniseren",
+                  "nl/veelgestelde-vragen/klaar-voor-mobiel-gebruik/kan-ik-automatisch-synchroniseren-instellen",
+                  "nl/veelgestelde-vragen/klaar-voor-mobiel-gebruik/overzicht-van-alle-iconen-knoppen-in-de-app",
+                  "nl/veelgestelde-vragen/klaar-voor-mobiel-gebruik/kan-ik-automatische-synchronisatie-instellen"
+                ]
+              },
+              {
+                "group": "Probleemoplossingen voor mobiel gebruik",
+                "pages": [
+                  "nl/veelgestelde-vragen/probleemoplossingen-voor-mobiel-gebruik/verwijderen-en-opnieuw-toevoegen-project",
+                  "nl/veelgestelde-vragen/probleemoplossingen-voor-mobiel-gebruik/ik-kan-inloggen-op-de-website-maar-niet-op-de-app-wat-is-er-aan-de-hand",
+                  "nl/veelgestelde-vragen/probleemoplossingen-voor-mobiel-gebruik/de-app-blijft-checking-credentials-aangeven-wat-is-er-aan-de-hand",
+                  "nl/veelgestelde-vragen/probleemoplossingen-voor-mobiel-gebruik/ik-kan-niet-synchroniseren-op-de-app-wat-moet-ik-doen"
+                ]
+              },
+              {
+                "group": "Algemeen",
+                "pages": [
+                  "nl/veelgestelde-vragen/algemeen/wat-is-de-actiepunten-mode-en-inspectie-mode",
+                  "nl/veelgestelde-vragen/algemeen/hoe-verander-ik-mijn-wachtwoord",
+                  "nl/veelgestelde-vragen/algemeen/welke-besturingssystemen-ondersteunt-snagr",
+                  "nl/veelgestelde-vragen/algemeen/wat-is-activiteiten-logboek-project",
+                  "nl/veelgestelde-vragen/algemeen/hoe-kan-ik-contact-opnemen-met-snagr",
+                  "nl/veelgestelde-vragen/algemeen/wat-moet-ik-doen-als-ik-mijn-wachtwoord-ben-vergeten",
+                  "nl/veelgestelde-vragen/algemeen/hoe-kunnen-gebruikers-de-twee-traps-authenticatie-activeren"
+                ]
+              },
+              {
+                "group": "Probleemoplossingen voor Beheerders",
+                "pages": [
+                  "nl/veelgestelde-vragen/probleemoplossingen-voor-beheerders/hoe-activeer-ik-formulier-sjablonen-voor-een-project",
+                  "nl/veelgestelde-vragen/probleemoplossingen-voor-beheerders/ik-kan-een-gebruiker-niet-toevoegen-ik-zie-de-gebruiker-niet-in-het-project-maar-het-systeem-zegt-dat-het-e-ma"
+                ]
+              },
+              {
+                "group": "Locaties",
+                "pages": [
+                  "nl/veelgestelde-vragen/locaties/locatie-aftekenen",
+                  "nl/veelgestelde-vragen/locaties/locatie-gereed-voor-inspectie",
+                  "nl/veelgestelde-vragen/locaties/locatie-aftekenen-2"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Nieuwe functionaliteiten",
+            "pages": [
+              {
+                "group": "2TA",
+                "pages": [
+                  "nl/nieuwe-functionaliteiten/2ta/inloggen-met-twee-traps-authenticatie",
+                  "nl/nieuwe-functionaliteiten/2ta/twee-traps-authenticatie-activeren-op-bedrijfsniveau"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Succes Verhalen",
+            "pages": [
+              {
+                "group": "Kwaliteit",
+                "pages": [
+                  "nl/succes-verhalen/kwaliteit/actiepunt-management",
+                  "nl/succes-verhalen/kwaliteit/overdracht-aan-kopers",
+                  "nl/succes-verhalen/kwaliteit/verzoek-voor-inspecties",
+                  "nl/succes-verhalen/kwaliteit/non-conformance-report"
+                ]
+              },
+              {
+                "group": "Veiligheid",
+                "pages": [
+                  "nl/succes-verhalen/veiligheid/veiligheidsinspectie",
+                  "nl/succes-verhalen/veiligheid/werkvergunning"
+                ]
+              },
+              {
+                "group": "Bouwplaats werkzaamheden",
+                "pages": [
+                  "nl/succes-verhalen/bouwplaats-werkzaamheden/bouwplaatsdagboek",
+                  "nl/succes-verhalen/bouwplaats-werkzaamheden/fotodagboek"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "de",
+        "groups": [
+          {
+            "group": "SnagR Support",
+            "pages": [
+              "de/index"
+            ]
+          },
+          {
+            "group": "Fangen Sie an",
+            "pages": [
+              {
+                "group": "In welchem ​​Team bist du?",
+                "pages": [
+                  "de/fangen-sie-an/in-welchem-team-bist-du/hauptauftragnehmer",
+                  "de/fangen-sie-an/in-welchem-team-bist-du/entwickler",
+                  "de/fangen-sie-an/in-welchem-team-bist-du/overzicht-voor-inspectie-teams-adviseurs",
+                  "de/fangen-sie-an/in-welchem-team-bist-du/subunternehmer",
+                  "de/fangen-sie-an/in-welchem-team-bist-du/overzicht-voor-management",
+                  "de/fangen-sie-an/in-welchem-team-bist-du/hersteller",
+                  "de/fangen-sie-an/in-welchem-team-bist-du/overzicht-voor-onderaannemers"
+                ]
+              },
+              {
+                "group": "Startanleitung: Wie gehe ich mit Aktionspunkten um?",
+                "pages": [
+                  "de/fangen-sie-an/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/kann-ich-aktionspunkte-bearbeiten",
+                  "de/fangen-sie-an/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-erstelle-ich-einen-aktionspunktbericht",
+                  "de/fangen-sie-an/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-aktualisiere-ich-einen-aktionspunkt",
+                  "de/fangen-sie-an/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-suche-ich-nach-aktionspunkten",
+                  "de/fangen-sie-an/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-fuge-ich-einen-cue-point-hinzu",
+                  "de/fangen-sie-an/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/kann-ich-mehrere-aktionspunkte-an-einem-ort-hinzufugen",
+                  "de/fangen-sie-an/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/was-bedeuten-die-verschiedenen-aktionspunktfarben",
+                  "de/fangen-sie-an/startanleitung-wie-gehe-ich-mit-aktionspunkten-um/wie-lade-ich-ein-projekt-herunter"
+                ]
+              },
+              {
+                "group": "Startanleitung: Wie füge ich Formulare hinzu?",
+                "pages": [
+                  "de/fangen-sie-an/startanleitung-wie-fuge-ich-formulare-hinzu/kann-ich-die-anderungen-an-einem-formular-anzeigen",
+                  "de/fangen-sie-an/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-zwischen-den-zeichnungen-navigieren",
+                  "de/fangen-sie-an/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-formulare-im-pdf-format-exportieren",
+                  "de/fangen-sie-an/startanleitung-wie-fuge-ich-formulare-hinzu/wie-fulle-ich-mit-der-app-ein-formular-aus",
+                  "de/fangen-sie-an/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-aktionspunkte-mit-einem-formular-verknupfen",
+                  "de/fangen-sie-an/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-dokumente-mit-formularen-verknupfen",
+                  "de/fangen-sie-an/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-formulare-auf-der-website-ausfullen",
+                  "de/fangen-sie-an/startanleitung-wie-fuge-ich-formulare-hinzu/wie-kann-ich-nach-formularen-suchen"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Aktionspunkte",
+            "pages": [
+              {
+                "group": "Aktionspunkte finden",
+                "pages": [
+                  "de/aktionspunkte/aktionspunkte-finden/kan-ik-actiepunten-op-tekeningen-filteren",
+                  "de/aktionspunkte/aktionspunkte-finden/waar-zie-ik-de-actiepunten-notificaties",
+                  "de/aktionspunkte/aktionspunkte-finden/hoe-bekijk-ik-de-actiepunthistorie"
+                ]
+              },
+              {
+                "group": "Aktionspunkte hinzufügen",
+                "pages": [
+                  "de/aktionspunkte/aktionspunkte-hinzufugen/kann-ich-die-fotogroe-bestimmen",
+                  "de/aktionspunkte/aktionspunkte-hinzufugen/kann-ich-einen-aktionspunkt-und-einfugen",
+                  "de/aktionspunkte/aktionspunkte-hinzufugen/kann-ich-einem-werbeartikel-mehrere-fotos-hinzufugen",
+                  "de/aktionspunkte/aktionspunkte-hinzufugen/was-ist-aufeinanderfolgenden-aktionspunkt-hinzufugen",
+                  "de/aktionspunkte/aktionspunkte-hinzufugen/kan-ik-meer-fotos-toevoegen-aan-een-actiepunt"
+                ]
+              },
+              {
+                "group": "Aktionspunkte Bearbeiten",
+                "pages": [
+                  "de/aktionspunkte/aktionspunkte-bearbeiten/aktionspunkte-uberlappen-sich-wie-kann-dem-abgeholfen-werden",
+                  "de/aktionspunkte/aktionspunkte-bearbeiten/kan-ik-actiepunten-verwijderen",
+                  "de/aktionspunkte/aktionspunkte-bearbeiten/kan-ik-meerdere-actiepunten-tegelijk-aanpassen",
+                  "de/aktionspunkte/aktionspunkte-bearbeiten/kann-ich-einen-aktionspunkt-verschieben",
+                  "de/aktionspunkte/aktionspunkte-bearbeiten/wie-trenne-ich-einen-aktionspunkt-von-einem-multiplot-mit-mehreren-aktionspunkten"
+                ]
+              },
+              {
+                "group": "Berichte und Statistiken",
+                "pages": [
+                  "de/aktionspunkte/berichte-und-statistiken/projektzusammenfassung-was-sind-diese-roten-zahlen",
+                  "de/aktionspunkte/berichte-und-statistiken/konnen-aktionspunktberichte-automatisch-generiert-werden"
+                ]
+              },
+              {
+                "group": "Aktionspunkte aktualisieren",
+                "pages": [
+                  "de/aktionspunkte/aktionspunkte-aktualisieren/kann-ich-eine-benachrichtigung-uber-eine-aktionspunkt-oder-ein-update-senden",
+                  "de/aktionspunkte/aktionspunkte-aktualisieren/kann-ich-ein-aktionspunkt-erneut-eroffnen"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Formulare",
+            "pages": [
+              {
+                "group": "Formulare suchen und bearbeiten",
+                "pages": [
+                  "de/formulare/formulare-suchen-und-bearbeiten/wie-losche-ich-inspektionsformulare",
+                  "de/formulare/formulare-suchen-und-bearbeiten/kann-ich-den-lokation-eines-inspektionsformulars-andern",
+                  "de/formulare/formulare-suchen-und-bearbeiten/wie-sehe-ich-formularbenachrichtigungen",
+                  "de/formulare/formulare-suchen-und-bearbeiten/kann-ich-anhand-des-inhalts-nach-inspektionsformularen-suchen"
+                ]
+              },
+              {
+                "group": "Formulare hinzufügen",
+                "pages": [
+                  "de/formulare/formulare-hinzufugen/wie-kann-ich-genehmigungen-anzeigen-und-hinzufugen",
+                  "de/formulare/formulare-hinzufugen/kann-ich-eine-zusammenfassung-des-workflow-verlaufs-eines-formulars-erhalten",
+                  "de/formulare/formulare-hinzufugen/wie-kann-ich-einem-inspektionsformular-ein-foto-aus-meiner-fotogalerie-hinzufugen",
+                  "de/formulare/formulare-hinzufugen/wie-kann-ich-uber-formularanderungen-informiert-werden",
+                  "de/formulare/formulare-hinzufugen/wie-sende-ich-benachrichtigungen-zu-einem-formular"
+                ]
+              },
+              {
+                "group": "Formulare exportieren",
+                "pages": [
+                  "de/formulare/formulare-exportieren/kann-ich-eine-liste-der-in-snagr-erstellten-formulare-extrahieren",
+                  "de/formulare/formulare-exportieren/wie-exportiere-ich-formulardaten-nach-excel",
+                  "de/formulare/formulare-exportieren/wie-exportiere-ich-formulare-in-pdf-wenn-aktionspunkte-und-dokumente-daran-angehangt-sind"
+                ]
+              },
+              {
+                "group": "Verknüpfen Sie Aktionspunkte und Dokumente mit Formularen",
+                "pages": [
+                  "de/formulare/verknupfen-sie-aktionspunkte-und-dokumente-mit-formularen/wie-lade-ich-dokumente-hoch-um-auf-formulare-zu-verlinken",
+                  "de/formulare/verknupfen-sie-aktionspunkte-und-dokumente-mit-formularen/wie-kann-ich-die-verknupfung-von-dokumenten-mit-formularen-aufheben",
+                  "de/formulare/verknupfen-sie-aktionspunkte-und-dokumente-mit-formularen/wie-kann-ich-die-verknupfung-von-aktionspunkten-mit-formularen-aufheben"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Dokumente",
+            "pages": [
+              {
+                "group": "Dokumente verwalten",
+                "pages": [
+                  "de/dokumente/dokumente-verwalten/wie-verknupfe-ich-dokumente-mit-lokationen",
+                  "de/dokumente/dokumente-verwalten/was-ist-ein-paket",
+                  "de/dokumente/dokumente-verwalten/gibt-es-eine-versionsverwaltung-in-snagr-dokumenten",
+                  "de/dokumente/dokumente-verwalten/wie-losche-ich-einen-ordner",
+                  "de/dokumente/dokumente-verwalten/wie-losche-ich-eine-datei",
+                  "de/dokumente/dokumente-verwalten/wer-hat-zugriff-auf-die-dokumentenablage",
+                  "de/dokumente/dokumente-verwalten/wie-ziehen-sie-eine-datei-von-einem-ordner-in-einen-anderen"
+                ]
+              },
+              {
+                "group": "Laden Sie Dokumente hoch",
+                "pages": [
+                  "de/dokumente/laden-sie-dokumente-hoch/wie-lade-ich-dokumente-hoch",
+                  "de/dokumente/laden-sie-dokumente-hoch/wie-erstelle-ich-einen-ordner"
+                ]
+              },
+              {
+                "group": "Dokumente herunterladen",
+                "pages": [
+                  "de/dokumente/dokumente-herunterladen/hoe-download-ik-bestanden",
+                  "de/dokumente/dokumente-herunterladen/wie-finde-ich-dokumente-nach-lokation"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Projekt einrichten",
+            "pages": [
+              {
+                "group": "Formulare - Unternehmensebene",
+                "pages": [
+                  "de/projekt-einrichten/formulare-unternehmensebene/hoe-voeg-ik-handmatige-workflows-toe-aan-formulieren",
+                  "de/projekt-einrichten/formulare-unternehmensebene/wie-kann-ich-eine-inspektionsvorlage-bearbeiten",
+                  "de/projekt-einrichten/formulare-unternehmensebene/formularinhalt-nach-excel-exportieren-wie-bereite-ich-eine-vorlage-vor",
+                  "de/projekt-einrichten/formulare-unternehmensebene/wie-entferne-ich-eine-formularvorlage-aus-einer-inspektionsvorlage",
+                  "de/projekt-einrichten/formulare-unternehmensebene/hoe-ontwerp-ik-inspecties",
+                  "de/projekt-einrichten/formulare-unternehmensebene/importieren-exportieren-von-inspektionsformularvorlagen",
+                  "de/projekt-einrichten/formulare-unternehmensebene/wie-bearbeite-ich-listen",
+                  "de/projekt-einrichten/formulare-unternehmensebene/wie-erstelle-ich-ein-digitales-formular",
+                  "de/projekt-einrichten/formulare-unternehmensebene/hoe-stel-ik-inspecties-en-formulieren-in",
+                  "de/projekt-einrichten/formulare-unternehmensebene/kann-ich-das-formularbild-bearbeiten-ersetzen",
+                  "de/projekt-einrichten/formulare-unternehmensebene/wie-erstelle-ich-eine-benutzerdefinierte-liste",
+                  "de/projekt-einrichten/formulare-unternehmensebene/wie-entwerfe-ich-eine-inspektionsformularvorlage-mit-geschaftslogik",
+                  "de/projekt-einrichten/formulare-unternehmensebene/wie-erstellen-sie-eine-hierarchische-liste",
+                  "de/projekt-einrichten/formulare-unternehmensebene/kann-ich-eine-inspektionsvorlage-auf-unternehmensebene-loschen"
+                ]
+              },
+              {
+                "group": "Allgemeine Einstellungen",
+                "pages": [
+                  "de/projekt-einrichten/allgemeine-einstellungen/regionen-bereiche-programme-auf-unternehmensebene",
+                  "de/projekt-einrichten/allgemeine-einstellungen/prioritaten-und-enddatum-bearbeiten-auf-unternehmensebene",
+                  "de/projekt-einrichten/allgemeine-einstellungen/begriffe-auf-unternehmensebene",
+                  "de/projekt-einrichten/allgemeine-einstellungen/projekteinstellungen-bearbeiten-auf-projektebene",
+                  "de/projekt-einrichten/allgemeine-einstellungen/projekte-bearbeiten-anzeigen-auf-unternehmensebene",
+                  "de/projekt-einrichten/allgemeine-einstellungen/standardsprache-oder-logo-bearbeiten-auf-unternehmensebene"
+                ]
+              },
+              {
+                "group": "Zeichnungen - Projektebene",
+                "pages": [
+                  "de/projekt-einrichten/zeichnungen-projektebene/was-ist-der-schnellste-weg-um-sich-wiederholende-zeichnungen-raume-einzurichten",
+                  "de/projekt-einrichten/zeichnungen-projektebene/was-sind-zeichnungfelde-und-wie-setze-ich-sie",
+                  "de/projekt-einrichten/zeichnungen-projektebene/wie-bearbeite-ich-zeichnungsordner",
+                  "de/projekt-einrichten/zeichnungen-projektebene/wie-kann-ich-zeichnungen-gruppieren",
+                  "de/projekt-einrichten/zeichnungen-projektebene/wie-verbinde-ich-zeichnungen-manuell",
+                  "de/projekt-einrichten/zeichnungen-projektebene/wie-verknupfen-sie-zeichnungen-automatisch",
+                  "de/projekt-einrichten/zeichnungen-projektebene/wie-bearbeite-ich-eine-vorhandene-zeichnung",
+                  "de/projekt-einrichten/zeichnungen-projektebene/wie-bereite-ich-zeichnungen-vor-und-lade-sie-hoch"
+                ]
+              },
+              {
+                "group": "Konten und Rechte - Projektebene",
+                "pages": [
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wie-fuge-ich-dem-projekt-auftragnehmer-hinzu",
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wat-is-het-verschil-tussen-een-gebruikers-en-aannemers-account",
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wie-fuge-ich-einem-projekt-benutzer-hinzu",
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wie-setzen-sie-benutzerrechte-formulare",
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wie-legst-du-rechte-fest-aktionspunkte",
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wie-lege-ich-die-berechtigungen-fur-custom-report-fest",
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wie-lege-ich-die-berechtigungen-fur-kpi-dashboards-fest",
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wie-sende-ich-eine-passworterinnerung",
+                  "de/projekt-einrichten/konten-und-rechte-projektebene/wie-bearbeite-ich-benutzer-und-auftragnehmer"
+                ]
+              },
+              {
+                "group": "Benachrichtigungen - Projektebene",
+                "pages": [
+                  "de/projekt-einrichten/benachrichtigungen-projektebene/wie-stelle-ich-inspektionsbenachrichtigungen-fur-alle-benutzer-ein",
+                  "de/projekt-einrichten/benachrichtigungen-projektebene/wie-richte-ich-aktionspunktbenachrichtigungen-fur-alle-benutzer-ein",
+                  "de/projekt-einrichten/benachrichtigungen-projektebene/wie-verwalte-ich-automatische-benachrichtigungen"
+                ]
+              },
+              {
+                "group": "Lokation - Projektebene",
+                "pages": [
+                  "de/projekt-einrichten/lokation-projektebene/wie-verschiebe-bearbeite-losche-ich-eine-lokationensnadel",
+                  "de/projekt-einrichten/lokation-projektebene/wie-erstelle-ich-barcodes-qr-codes-fur-lokationen",
+                  "de/projekt-einrichten/lokation-projektebene/wie-fuge-ich-lokationen-zu-zeichnungen-hinzu"
+                ]
+              },
+              {
+                "group": "Genehmigungen - Geschäftsniveau",
+                "pages": [
+                  "de/projekt-einrichten/genehmigungen-geschaftsniveau/genehmigungsprufungen-hinzufugen",
+                  "de/projekt-einrichten/genehmigungen-geschaftsniveau/genehmigungsprufungen-anzeigen-bearbeiten-loschen",
+                  "de/projekt-einrichten/genehmigungen-geschaftsniveau/genehmigungsformularseite-hinzufugen"
+                ]
+              },
+              {
+                "group": "Checklisten und Zeitpläne - Business Level",
+                "pages": [
+                  "de/projekt-einrichten/checklisten-und-zeitplane-business-level/projektcheckliste-erstellen",
+                  "de/projekt-einrichten/checklisten-und-zeitplane-business-level/construction-stages-erstellen",
+                  "de/projekt-einrichten/checklisten-und-zeitplane-business-level/projekt-checklisten-importieren-auf-projektebene"
+                ]
+              },
+              {
+                "group": "Liste der Standardaktionspunkte - Unternehmensebene",
+                "pages": [
+                  "de/projekt-einrichten/liste-der-standardaktionspunkte-unternehmensebene/wie-aktiviere-ich-das-auto-close-fur-fototagebucher",
+                  "de/projekt-einrichten/liste-der-standardaktionspunkte-unternehmensebene/wie-fuge-ich-der-standardaktionspunkteliste-ein-einzelnes-element-hinzu",
+                  "de/projekt-einrichten/liste-der-standardaktionspunkte-unternehmensebene/ich-sehe-die-aktionspunktkategorien-nicht-was-ist-falsch",
+                  "de/projekt-einrichten/liste-der-standardaktionspunkte-unternehmensebene/wie-erstelle-ich-die-standardaktionspunktlisten",
+                  "de/projekt-einrichten/liste-der-standardaktionspunkte-unternehmensebene/wie-kann-ich-standardaktionspunktlisten-importieren",
+                  "de/projekt-einrichten/liste-der-standardaktionspunkte-unternehmensebene/wie-bearbeite-ich-elemente-in-der-standardaktionspunkteliste"
+                ]
+              },
+              {
+                "group": "Konten und Rechte - Firmensebene",
+                "pages": [
+                  "de/projekt-einrichten/konten-und-rechte-firmensebene/vertragsmanagement-auf-unternehmensebene",
+                  "de/projekt-einrichten/konten-und-rechte-firmensebene/benutzerverwaltung-auf-unternehmensebene"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Berichterstattung",
+            "pages": [
+              {
+                "group": "Statistik",
+                "pages": [
+                  "de/berichterstattung/statistik/wie-kann-ich-ein-geandertes-kpi-dashboard-anzeigen",
+                  "de/berichterstattung/statistik/wie-sehe-ich-die-aktionspunktstatistik",
+                  "de/berichterstattung/statistik/wie-verschaffe-ich-mir-einen-uberblick-uber-alle-inspektionsformulare"
+                ]
+              },
+              {
+                "group": "Benutzerdefinierter PDF-Bericht",
+                "pages": [
+                  "de/berichterstattung/benutzerdefinierter-pdf-bericht/wie-erstelle-ich-einen-benutzerdefinierten-bericht"
+                ]
+              },
+              {
+                "group": "Standard PDF-Bericht",
+                "pages": [
+                  "de/berichterstattung/standard-pdf-bericht/wie-bekomme-ich-zusammenfassungen-unserer-aktionspunkte",
+                  "de/berichterstattung/standard-pdf-bericht/kann-ich-nur-mit-dem-ersten-und-dem-letzten-foto-einen-bericht-erhalten",
+                  "de/berichterstattung/standard-pdf-bericht/wie-erstelle-ich-einen-aktionspunktbericht-fur-subunternehmer"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Häufig gestellte Fragen",
+            "pages": [
+              "de/haufig-gestellte-fragen/nl-issues-in-project-download",
+              {
+                "group": "Problemlösungen für Administratoren",
+                "pages": [
+                  "de/haufig-gestellte-fragen/problemlosungen-fur-administratoren/ich-kann-keinen-benutzer-hinzufugen-ich-sehe-den-benutzer-im-projekt-nicht-aber-das-system-meldet-dass-die-e-m",
+                  "de/haufig-gestellte-fragen/problemlosungen-fur-administratoren/wie-aktiviere-ich-formularvorlagen-fur-ein-projekt"
+                ]
+              },
+              {
+                "group": "Lokation",
+                "pages": [
+                  "de/haufig-gestellte-fragen/lokation/lokation-zur-inspektion-bereit",
+                  "de/haufig-gestellte-fragen/lokation/lokation-schlieen-ubergeben",
+                  "de/haufig-gestellte-fragen/lokation/lokation-abmelden"
+                ]
+              },
+              {
+                "group": "Allgemein",
+                "pages": [
+                  "de/haufig-gestellte-fragen/allgemein/was-ist-der-aktionspunktmodus-und-der-inspektionsmodus",
+                  "de/haufig-gestellte-fragen/allgemein/welche-betriebssysteme-unterstutzt-snagr",
+                  "de/haufig-gestellte-fragen/allgemein/wie-andere-ich-mein-passwort"
+                ]
+              },
+              {
+                "group": "Bereit für den mobilen Einsatz",
+                "pages": [
+                  "de/haufig-gestellte-fragen/bereit-fur-den-mobilen-einsatz/ubersicht-aller-icons-buttons-in-der-app",
+                  "de/haufig-gestellte-fragen/bereit-fur-den-mobilen-einsatz/kann-ich-eine-automatische-synchronisation-einrichten",
+                  "de/haufig-gestellte-fragen/bereit-fur-den-mobilen-einsatz/warum-muss-ich-synchronisieren"
+                ]
+              },
+              {
+                "group": "Problemlösungen für den mobilen Einsatz",
+                "pages": [
+                  "de/haufig-gestellte-fragen/problemlosungen-fur-den-mobilen-einsatz/ich-kann-mich-auf-der-website-anmelden-aber-nicht-in-der-app-was-ist-los",
+                  "de/haufig-gestellte-fragen/problemlosungen-fur-den-mobilen-einsatz/loschen-sie-das-projekt-und-fugen-sie-es-erneut-hinzu",
+                  "de/haufig-gestellte-fragen/problemlosungen-fur-den-mobilen-einsatz/die-app-zeigt-weiterhin-anmeldeinformationen-prufen-an-was-ist-los",
+                  "de/haufig-gestellte-fragen/problemlosungen-fur-den-mobilen-einsatz/ich-kann-in-der-app-nicht-synchronisieren-was-soll-ich-tun"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Erfolgsgeschichten",
+            "pages": [
+              {
+                "group": "Sicherheit",
+                "pages": [
+                  "de/erfolgsgeschichten/sicherheit/arbeitserlaubnis",
+                  "de/erfolgsgeschichten/sicherheit/sicherheitsinspektion"
+                ]
+              },
+              {
+                "group": "Baustelle arbeiten",
+                "pages": [
+                  "de/erfolgsgeschichten/baustelle-arbeiten/fototagebuch",
+                  "de/erfolgsgeschichten/baustelle-arbeiten/baustellen-tagebuch"
+                ]
+              },
+              {
+                "group": "Qualität",
+                "pages": [
+                  "de/erfolgsgeschichten/qualitat/nichtkonformitatsbericht",
+                  "de/erfolgsgeschichten/qualitat/antrag-auf-inspektion",
+                  "de/erfolgsgeschichten/qualitat/ubergabe-an-kaufer",
+                  "de/erfolgsgeschichten/qualitat/aktionspunktverwaltung"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "it",
+        "groups": [
+          {
+            "group": "Supporto SnagR",
+            "pages": [
+              "it/index"
+            ]
+          },
+          {
+            "group": "Per cominciare",
+            "pages": [
+              "it/per-cominciare/developer"
+            ]
+          },
+          {
+            "group": "Difetti",
+            "pages": [
+              "it/difetti/index",
+              {
+                "group": "Modifica Difetti",
+                "pages": [
+                  "it/difetti/modifica-difetti/can-i-edit-issues",
+                  "it/difetti/modifica-difetti/how-to-batch-edit-issues",
+                  "it/difetti/modifica-difetti/can-i-delete-issues",
+                  "it/difetti/modifica-difetti/can-i-move-an-issue-pin",
+                  "it/difetti/modifica-difetti/how-to-organise-issue-pins-that-overlap-on-each-other",
+                  "it/difetti/modifica-difetti/how-to-break-items-out-from-a-plot-with-multiple-issues"
+                ]
+              },
+              {
+                "group": "Aggiungi Difetti",
+                "pages": [
+                  "it/difetti/aggiungi-difetti/how-to-add-an-issue",
+                  "it/difetti/aggiungi-difetti/can-i-add-more-photos-to-an-issue",
+                  "it/difetti/aggiungi-difetti/can-i-copy-and-paste-an-issue",
+                  "it/difetti/aggiungi-difetti/what-is-add-future-issue",
+                  "it/difetti/aggiungi-difetti/can-i-define-photo-size"
+                ]
+              },
+              {
+                "group": "Reportistica ed Analisi",
+                "pages": [
+                  "it/difetti/reportistica-ed-analisi/how-to-generate-an-issue-report",
+                  "it/difetti/reportistica-ed-analisi/can-issue-reports-be-generated-automatically",
+                  "it/difetti/reportistica-ed-analisi/how-to-generate-issue-report-for-subcontractors-only",
+                  "it/difetti/reportistica-ed-analisi/can-i-have-a-report-with-the-first-and-last-photo-only",
+                  "it/difetti/reportistica-ed-analisi/how-to-get-a-summary-statistics-of-our-issue-records",
+                  "it/difetti/reportistica-ed-analisi/how-do-i-view-analytics",
+                  "it/difetti/reportistica-ed-analisi/project-summary-what-are-the-figures-in-red-colour"
+                ]
+              },
+              {
+                "group": "Aggiorna informazioni Difetto",
+                "pages": [
+                  "it/difetti/aggiorna-informazioni-difetto/how-to-update-issues",
+                  "it/difetti/aggiorna-informazioni-difetto/how-to-reopen-the-issue",
+                  "it/difetti/aggiorna-informazioni-difetto/what-do-the-pin-colours-represent",
+                  "it/difetti/aggiorna-informazioni-difetto/how-do-i-send-a-notification-regarding-an-issue"
+                ]
+              },
+              {
+                "group": "Trova Difetti",
+                "pages": [
+                  "it/difetti/trova-difetti/how-do-i-search-issues-on-device",
+                  "it/difetti/trova-difetti/filtering-issues-on-device",
+                  "it/difetti/trova-difetti/where-do-i-see-issue-notifications",
+                  "it/difetti/trova-difetti/how-to-view-issue-history"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Ispezioni",
+            "pages": [
+              "it/ispezioni/index",
+              {
+                "group": "Collega Difetti e Documenti del repositorio",
+                "pages": [
+                  "it/ispezioni/collega-difetti-e-documenti-del-repositorio/how-can-i-link-issues-to-a-form",
+                  "it/ispezioni/collega-difetti-e-documenti-del-repositorio/how-can-i-unlink-issues-from-a-form",
+                  "it/ispezioni/collega-difetti-e-documenti-del-repositorio/how-can-i-link-documents-to-a-form",
+                  "it/ispezioni/collega-difetti-e-documenti-del-repositorio/how-can-i-unlink-documents-from-a-form",
+                  "it/ispezioni/collega-difetti-e-documenti-del-repositorio/how-to-upload-documents-to-link-to-forms"
+                ]
+              },
+              {
+                "group": "Finalizza Documenti di Ispezione",
+                "pages": [
+                  "it/ispezioni/finalizza-documenti-di-ispezione/how-to-complete-forms-on-device",
+                  "it/ispezioni/finalizza-documenti-di-ispezione/how-to-complete-forms-on-website",
+                  "it/ispezioni/finalizza-documenti-di-ispezione/permits-dashboard",
+                  "it/ispezioni/finalizza-documenti-di-ispezione/can-i-track-changes-of-a-form",
+                  "it/ispezioni/finalizza-documenti-di-ispezione/can-i-have-a-summary-of-the-form-workflow-history",
+                  "it/ispezioni/finalizza-documenti-di-ispezione/how-do-i-send-notifications-regarding-a-form",
+                  "it/ispezioni/finalizza-documenti-di-ispezione/how-can-i-be-notified-of-forms-updates",
+                  "it/ispezioni/finalizza-documenti-di-ispezione/how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form"
+                ]
+              },
+              {
+                "group": "Esporta Documenti di Ispezione",
+                "pages": [
+                  "it/ispezioni/esporta-documenti-di-ispezione/can-i-export-forms-in-pdf",
+                  "it/ispezioni/esporta-documenti-di-ispezione/how-do-i-export-form-pdf-if-there-are-issues-and-documents-attached-to-it",
+                  "it/ispezioni/esporta-documenti-di-ispezione/can-i-extract-a-list-of-forms-that-are-created-on-snagr",
+                  "it/ispezioni/esporta-documenti-di-ispezione/how-to-export-excel-from-template"
+                ]
+              },
+              {
+                "group": "Trova ed Aggiorna Documenti di Ispezione",
+                "pages": [
+                  "it/ispezioni/trova-ed-aggiorna-documenti-di-ispezione/how-can-i-search-for-forms",
+                  "it/ispezioni/trova-ed-aggiorna-documenti-di-ispezione/how-do-i-see-form-notifications",
+                  "it/ispezioni/trova-ed-aggiorna-documenti-di-ispezione/can-i-delete-form",
+                  "it/ispezioni/trova-ed-aggiorna-documenti-di-ispezione/can-i-search-inspection-forms-by-the-hotspot-value",
+                  "it/ispezioni/trova-ed-aggiorna-documenti-di-ispezione/inspection-dashboard",
+                  "it/ispezioni/trova-ed-aggiorna-documenti-di-ispezione/can-i-change-location-of-an-inspection-form"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Repositorio Documenti",
+            "pages": [
+              "it/repositorio-documenti/index",
+              {
+                "group": "Carica Documenti",
+                "pages": [
+                  "it/repositorio-documenti/carica-documenti/how-to-create-a-folder",
+                  "it/repositorio-documenti/carica-documenti/how-to-upload-documents"
+                ]
+              },
+              {
+                "group": "Gestisci Documenti",
+                "pages": [
+                  "it/repositorio-documenti/gestisci-documenti/who-has-access-to-document-repository",
+                  "it/repositorio-documenti/gestisci-documenti/how-to-link-documents-to-locations",
+                  "it/repositorio-documenti/gestisci-documenti/how-to-delete-a-folder",
+                  "it/repositorio-documenti/gestisci-documenti/how-to-delete-a-file",
+                  "it/repositorio-documenti/gestisci-documenti/what-is-bundle",
+                  "it/repositorio-documenti/gestisci-documenti/how-to-move-a-file-from-one-folder-to-another",
+                  "it/repositorio-documenti/gestisci-documenti/is-there-version-control-in-snagr-documents"
+                ]
+              },
+              {
+                "group": "Scarica Documenti",
+                "pages": [
+                  "it/repositorio-documenti/scarica-documenti/how-to-download-files",
+                  "it/repositorio-documenti/scarica-documenti/how-to-find-documents-by-locations"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Impostazione Progetti",
+            "pages": [
+              "it/impostazione-progetti/index",
+              {
+                "group": "Permessi - Amministrazione Societa'",
+                "pages": [
+                  "it/impostazione-progetti/permessi-amministrazione-societa/add-permit-inspection",
+                  "it/impostazione-progetti/permessi-amministrazione-societa/add-permit",
+                  "it/impostazione-progetti/permessi-amministrazione-societa/view-edit-delete-permit-inspection"
+                ]
+              },
+              {
+                "group": "Checklists e schedulazione - Amministrazione Societa'",
+                "pages": [
+                  "it/impostazione-progetti/checklists-e-schedulazione-amministrazione-societa/project-checklists",
+                  "it/impostazione-progetti/checklists-e-schedulazione-amministrazione-societa/project-checklists-2",
+                  "it/impostazione-progetti/checklists-e-schedulazione-amministrazione-societa/construction-stages",
+                  "it/impostazione-progetti/checklists-e-schedulazione-amministrazione-societa/construction-stages-2"
+                ]
+              },
+              {
+                "group": "Utenti e Permessi-Amministrazione Societa'",
+                "pages": [
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-societa/add-user-at-the-company-level",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-societa/add-contractors-at-the-company-level"
+                ]
+              },
+              {
+                "group": "Utenti e Permessi-Amministrazione Progetto",
+                "pages": [
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/how-to-add-users-to-project",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/how-to-add-contractors-to-project",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/how-to-edit-users-and-contractors",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/how-to-set-up-form-permissions",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/how-to-set-permissions-forms",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/how-to-set-permission-for-kpi-dashboard",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/how-to-set-permission-for-custom-reports",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/how-to-send-password-reminders",
+                  "it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/reset2fa"
+                ]
+              },
+              {
+                "group": "Siti-Amministrazione Progetto",
+                "pages": [
+                  "it/impostazione-progetti/siti-amministrazione-progetto/how-to-set-up-locations-on-drawings",
+                  "it/impostazione-progetti/siti-amministrazione-progetto/move-edit-delete-a-location-pin",
+                  "it/impostazione-progetti/siti-amministrazione-progetto/create-barcode-for-location"
+                ]
+              },
+              {
+                "group": "Impostazioni generali",
+                "pages": [
+                  "it/impostazione-progetti/impostazioni-generali/enable2fa",
+                  "it/impostazione-progetti/impostazioni-generali/passwordcomplexity",
+                  "it/impostazione-progetti/impostazioni-generali/edit-default-language-or-logo",
+                  "it/impostazione-progetti/impostazioni-generali/can-i-edit-the-priorities-and-due-day",
+                  "it/impostazione-progetti/impostazioni-generali/edit-view-projects",
+                  "it/impostazione-progetti/impostazioni-generali/regions-divisions-programs",
+                  "it/impostazione-progetti/impostazioni-generali/how-to-edit-the-project-settings",
+                  "it/impostazione-progetti/impostazioni-generali/terminology"
+                ]
+              },
+              {
+                "group": "Disegni - Amministrazione Progetto",
+                "pages": [
+                  "it/impostazione-progetti/disegni-amministrazione-progetto/how-to-group-drawings",
+                  "it/impostazione-progetti/disegni-amministrazione-progetto/how-to-edit-drawing-set",
+                  "it/impostazione-progetti/disegni-amministrazione-progetto/how-to-upload-drawings",
+                  "it/impostazione-progetti/disegni-amministrazione-progetto/how-to-edit-existing-drawing",
+                  "it/impostazione-progetti/disegni-amministrazione-progetto/how-to-set-up-the-drawing-regions",
+                  "it/impostazione-progetti/disegni-amministrazione-progetto/what-is-the-quickest-way-to-set-up-repetitive-units",
+                  "it/impostazione-progetti/disegni-amministrazione-progetto/how-to-link-drawings-together-manually",
+                  "it/impostazione-progetti/disegni-amministrazione-progetto/how-to-link-drawings-together-automatically"
+                ]
+              },
+              {
+                "group": "Registro Difetti - Amministrazione Societa'",
+                "pages": [
+                  "it/impostazione-progetti/registro-difetti-amministrazione-societa/how-to-design-the-issue-list",
+                  "it/impostazione-progetti/registro-difetti-amministrazione-societa/how-to-import-issue-list",
+                  "it/impostazione-progetti/registro-difetti-amministrazione-societa/how-to-add-single-items-to-issue-list",
+                  "it/impostazione-progetti/registro-difetti-amministrazione-societa/how-to-edit-items-on-standard-issue-list",
+                  "it/impostazione-progetti/registro-difetti-amministrazione-societa/how-to-enable-specific-issue-categories-for-a-project",
+                  "it/impostazione-progetti/registro-difetti-amministrazione-societa/how-can-i-set-up-auto-close-for-photo-diaries"
+                ]
+              },
+              {
+                "group": "Modelli di Documento - Amministrazione Societa'",
+                "pages": [
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-to-design-inspections-in-snagr",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-to-edit-the-inspection-template",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-do-i-digitalise-a-form",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/can-i-edit-replace-inspection-form",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-can-i-remove-a-form-from-the-inspection-template",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-can-i-remove-the-inspection-from-the-company",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-to-create-custom-list",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-to-edit-the-custom-list",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/import-export-inspection-form-templates",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-to-design-the-dms-export-template",
+                  "it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-to-create-a-hierarchical-list"
+                ]
+              },
+              {
+                "group": "Notifiche - Amministrazione Progetto",
+                "pages": [
+                  "it/impostazione-progetti/notifiche-amministrazione-progetto/how-to-set-up-issues-notifications-for-all-users",
+                  "it/impostazione-progetti/notifiche-amministrazione-progetto/how-to-set-up-forms-notifications-for-all-users",
+                  "it/impostazione-progetti/notifiche-amministrazione-progetto/how-to-manage-subscriptions"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Reportistica",
+            "pages": [
+              "it/reportistica/index",
+              {
+                "group": "Reports PDF personalizzati",
+                "pages": [
+                  "it/reportistica/reports-pdf-personalizzati/how-do-i-generate-a-custom-report"
+                ]
+              },
+              {
+                "group": "Analisi e Business Intelligence",
+                "pages": [
+                  "it/reportistica/analisi-e-business-intelligence/how-do-i-see-custom-dashboard"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "FAQ",
+            "pages": [
+              "it/faq/index",
+              {
+                "group": "Get Ready On Mobile",
+                "pages": [
+                  "it/faq/get-ready-on-mobile/how-do-i-download-a-project",
+                  "it/faq/get-ready-on-mobile/how-can-i-go-from-one-drawing-to-another",
+                  "it/faq/get-ready-on-mobile/icons-or-buttons-on-the-device",
+                  "it/faq/get-ready-on-mobile/what-does-synchronise-mean",
+                  "it/faq/get-ready-on-mobile/can-i-set-up-auto-sync",
+                  "it/faq/get-ready-on-mobile/how-to-enable-location-data-on-the-mobile-device"
+                ]
+              },
+              {
+                "group": "Troubelshooting per Amministratori",
+                "pages": [
+                  "it/faq/troubelshooting-per-amministratori/i-can-t-add-a-user-i-don-t-see-him-her-on-the-project-but-the-system-says-email-already-exists-what-is-wrong",
+                  "it/faq/troubelshooting-per-amministratori/how-to-enable-form-templates-for-a-project"
+                ]
+              },
+              {
+                "group": "Siti",
+                "pages": [
+                  "it/faq/siti/location-ready-for-inspection",
+                  "it/faq/siti/location-sign-off",
+                  "it/faq/siti/room-area-signoff"
+                ]
+              },
+              {
+                "group": "Rimedi App Mobile",
+                "pages": [
+                  "it/faq/rimedi-app-mobile/common-issues-in-project-download",
+                  "it/faq/rimedi-app-mobile/the-app-has-been-checking-credentials-for-a-long-time-and-does-not-allow-me-to-download-project-on-mobile-app",
+                  "it/faq/rimedi-app-mobile/remove-and-re-add-project",
+                  "it/faq/rimedi-app-mobile/i-can-t-sync-on-mobile-app-what-should-i-do"
+                ]
+              },
+              {
+                "group": "Generale",
+                "pages": [
+                  "it/faq/generale/2fa",
+                  "it/faq/generale/loginwith2fa",
+                  "it/faq/generale/how-do-i-change-password",
+                  "it/faq/generale/what-is-issue-mode-and-form-mode",
+                  "it/faq/generale/what-os-version-does-snagr-support"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Casi studio",
+            "pages": [
+              "it/casi-studio/index",
+              {
+                "group": "Sicurezza",
+                "pages": [
+                  "it/casi-studio/sicurezza/safety-inspection",
+                  "it/casi-studio/sicurezza/permit-to-work"
+                ]
+              },
+              {
+                "group": "Diari Cantiere",
+                "pages": [
+                  "it/casi-studio/diari-cantiere/daily-site-walk",
+                  "it/casi-studio/diari-cantiere/photo-diary"
+                ]
+              },
+              {
+                "group": "Gestione qualita'",
+                "pages": [
+                  "it/casi-studio/gestione-qualita/defect-management",
+                  "it/casi-studio/gestione-qualita/handover-process-with-purchaser",
+                  "it/casi-studio/gestione-qualita/request-for-inspections",
+                  "it/casi-studio/gestione-qualita/non-conformance-report"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "zh-Hant",
+        "groups": [
+          {
+            "group": "SnagR 支援中心",
+            "pages": [
+              "zh-hant/index"
+            ]
+          },
+          {
+            "group": "入門指南",
+            "pages": [
+              "zh-hant/getting-started/index",
+              {
+                "group": "你的角色是什麼？",
+                "pages": [
+                  "zh-hant/getting-started/what-is-your-role/385989",
+                  "zh-hant/getting-started/what-is-your-role/385995",
+                  "zh-hant/getting-started/what-is-your-role/385996",
+                  "zh-hant/getting-started/what-is-your-role/385997",
+                  {
+                    "group": "簡介",
+                    "pages": [
+                      "zh-hant/getting-started/what-is-your-role/introduction/279886",
+                      "zh-hant/getting-started/what-is-your-role/introduction/280002",
+                      "zh-hant/getting-started/what-is-your-role/introduction/280007"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "初階指引：如何記錄缺陷？",
+                "pages": [
+                  "zh-hant/getting-started/starter-guide-how-to-take-issues/280009",
+                  "zh-hant/getting-started/starter-guide-how-to-take-issues/280492"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "缺陷模式",
+            "pages": [
+              {
+                "group": "添加缺陷",
+                "pages": [
+                  "zh-hant/issues/add-issues/280571",
+                  "zh-hant/issues/add-issues/280573",
+                  "zh-hant/issues/add-issues/280574",
+                  "zh-hant/issues/add-issues/280576",
+                  "zh-hant/issues/add-issues/280653",
+                  "zh-hant/issues/add-issues/304085"
+                ]
+              },
+              {
+                "group": "更新缺陷",
+                "pages": [
+                  "zh-hant/issues/update-issues/285775",
+                  "zh-hant/issues/update-issues/286088",
+                  "zh-hant/issues/update-issues/286324"
+                ]
+              },
+              {
+                "group": "查找缺陷",
+                "pages": [
+                  "zh-hant/issues/find-issues/280662",
+                  "zh-hant/issues/find-issues/280979",
+                  "zh-hant/issues/find-issues/325489",
+                  "zh-hant/issues/find-issues/386031"
+                ]
+              },
+              {
+                "group": "編輯缺陷",
+                "pages": [
+                  "zh-hant/issues/edit-issues/284316",
+                  "zh-hant/issues/edit-issues/284562",
+                  "zh-hant/issues/edit-issues/284571",
+                  "zh-hant/issues/edit-issues/285771",
+                  "zh-hant/issues/edit-issues/285774",
+                  "zh-hant/issues/edit-issues/311755"
+                ]
+              },
+              {
+                "group": "報告和分析",
+                "pages": [
+                  "zh-hant/issues/report-and-analytics/286325",
+                  "zh-hant/issues/report-and-analytics/286327",
+                  "zh-hant/issues/report-and-analytics/286735",
+                  "zh-hant/issues/report-and-analytics/286736",
+                  "zh-hant/issues/report-and-analytics/286737",
+                  "zh-hant/issues/report-and-analytics/286740",
+                  "zh-hant/issues/report-and-analytics/386431"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "表格/檢查模式",
+            "pages": [
+              "zh-hant/forms/index",
+              {
+                "group": "搜索、編輯表格",
+                "pages": [
+                  "zh-hant/forms/find-and-edit-forms/289903",
+                  "zh-hant/forms/find-and-edit-forms/289908",
+                  "zh-hant/forms/find-and-edit-forms/304208",
+                  "zh-hant/forms/find-and-edit-forms/386760",
+                  "zh-hant/forms/find-and-edit-forms/391829"
+                ]
+              },
+              {
+                "group": "提交表格",
+                "pages": [
+                  "zh-hant/forms/submit-forms/286924",
+                  "zh-hant/forms/submit-forms/286936",
+                  "zh-hant/forms/submit-forms/287064",
+                  "zh-hant/forms/submit-forms/287066",
+                  "zh-hant/forms/submit-forms/287203",
+                  "zh-hant/forms/submit-forms/287302",
+                  "zh-hant/forms/submit-forms/how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form",
+                  "zh-hant/forms/submit-forms/399352"
+                ]
+              },
+              {
+                "group": "鏈接缺陷和文件到表格",
+                "pages": [
+                  "zh-hant/forms/link-issues-and-documents-to-forms/289403",
+                  "zh-hant/forms/link-issues-and-documents-to-forms/289404",
+                  "zh-hant/forms/link-issues-and-documents-to-forms/289405",
+                  "zh-hant/forms/link-issues-and-documents-to-forms/289901",
+                  "zh-hant/forms/link-issues-and-documents-to-forms/how-to-upload-documents-to-link-to-forms-new-upgrade",
+                  "zh-hant/forms/link-issues-and-documents-to-forms/how-to-mark-the-document-as-not-in-use-new-upgrade"
+                ]
+              },
+              {
+                "group": "導出表格",
+                "pages": [
+                  "zh-hant/forms/export-forms/pdf",
+                  "zh-hant/forms/export-forms/pdf-2",
+                  "zh-hant/forms/export-forms/snagr",
+                  "zh-hant/forms/export-forms/304554",
+                  "zh-hant/forms/export-forms/excel"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "項目文件存儲庫",
+            "pages": [
+              {
+                "group": "上載文件",
+                "pages": [
+                  "zh-hant/documents/upload-documents/290534",
+                  "zh-hant/documents/upload-documents/290535",
+                  "zh-hant/documents/upload-documents/291598",
+                  "zh-hant/documents/upload-documents/314106"
+                ]
+              },
+              {
+                "group": "下載文檔",
+                "pages": [
+                  "zh-hant/documents/download-documents/291600"
+                ]
+              },
+              {
+                "group": "管理文件",
+                "pages": [
+                  "zh-hant/documents/manage-documents/291588",
+                  "zh-hant/documents/manage-documents/291594",
+                  "zh-hant/documents/manage-documents/291595",
+                  "zh-hant/documents/manage-documents/291599",
+                  "zh-hant/documents/manage-documents/291813"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "項目設置",
+            "pages": [
+              "zh-hant/set-up-project/index",
+              {
+                "group": "圖紙 - 項目管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/drawings-project-level/303435",
+                  "zh-hant/set-up-project/drawings-project-level/admin-drawings-2-7-how-to-prepare-and-upload-drawings",
+                  "zh-hant/set-up-project/drawings-project-level/303438",
+                  "zh-hant/set-up-project/drawings-project-level/admin-drawings-4-7-how-to-link-drawings-together-manually",
+                  "zh-hant/set-up-project/drawings-project-level/303441",
+                  "zh-hant/set-up-project/drawings-project-level/303442",
+                  "zh-hant/set-up-project/drawings-project-level/303443",
+                  "zh-hant/set-up-project/drawings-project-level/308328",
+                  "zh-hant/set-up-project/drawings-project-level/312833"
+                ]
+              },
+              {
+                "group": "帳戶及權限設定 - 項目管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/303440",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/303586",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/303587",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/303590",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/315824",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/315828",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/328385",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/how-to-set-permissions-for-custom-reports",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/400021",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/400056",
+                  "zh-hant/set-up-project/accounts-and-permissions-project-level/400380"
+                ]
+              },
+              {
+                "group": "位置 - 項目管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/locations-project-level/how-to-move-edit-delete-a-location-pin",
+                  "zh-hant/set-up-project/locations-project-level/how-to-generate-qr-codes-for-locations"
+                ]
+              },
+              {
+                "group": "通知 - 項目管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/notifications-project-level/303592",
+                  "zh-hant/set-up-project/notifications-project-level/303593",
+                  "zh-hant/set-up-project/notifications-project-level/303594"
+                ]
+              },
+              {
+                "group": "缺陷列表 - 項目管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/standard-issue-list-project-level/303431",
+                  "zh-hant/set-up-project/standard-issue-list-project-level/can-the-contractor-be-automatically-selected-when-a-specific-issue-type-is-selected"
+                ]
+              },
+              {
+                "group": "一般設定",
+                "pages": [
+                  "zh-hant/set-up-project/general-settings/enable-two-factor-authentication-at-company-level",
+                  "zh-hant/set-up-project/general-settings/password-complexity-set-up-at-company-level",
+                  "zh-hant/set-up-project/general-settings/edit-default-language-or-logo-at-company-level",
+                  "zh-hant/set-up-project/general-settings/edit-view-projects-at-company-level",
+                  "zh-hant/set-up-project/general-settings/edit-priorities-and-due-days-at-company-level",
+                  "zh-hant/set-up-project/general-settings/regions-divisions-programs-at-company-level",
+                  "zh-hant/set-up-project/general-settings/edit-project-settings-at-project-level",
+                  "zh-hant/set-up-project/general-settings/terminology-at-company-level"
+                ]
+              },
+              {
+                "group": "表格 - 公司管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/forms-company-level/303597",
+                  "zh-hant/set-up-project/forms-company-level/list-cn",
+                  "zh-hant/set-up-project/forms-company-level/307811",
+                  "zh-hant/set-up-project/forms-company-level/313054",
+                  "zh-hant/set-up-project/forms-company-level/330059",
+                  "zh-hant/set-up-project/forms-company-level/how-can-i-edit-an-inspection-template",
+                  "zh-hant/set-up-project/forms-company-level/can-i-edit-replace-form-page-image",
+                  "zh-hant/set-up-project/forms-company-level/440931"
+                ]
+              },
+              {
+                "group": "缺陷列表 - 公司管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/standard-issue-list-company-level/303413",
+                  "zh-hant/set-up-project/standard-issue-list-company-level/303427",
+                  "zh-hant/set-up-project/standard-issue-list-company-level/admin-issue-list-3-5-how-to-add-single-items-to-issue-list",
+                  "zh-hant/set-up-project/standard-issue-list-company-level/303429",
+                  "zh-hant/set-up-project/standard-issue-list-company-level/how-can-i-enable-auto-close-for-photo-diaries"
+                ]
+              },
+              {
+                "group": "帳戶及權限 - 公司管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/accounts-and-permissions-company-level/manage-user-at-company-level",
+                  "zh-hant/set-up-project/accounts-and-permissions-company-level/403231"
+                ]
+              },
+              {
+                "group": "工程項目檢查清單及進度",
+                "pages": [
+                  "zh-hant/set-up-project/checklists-and-scheduling-company-level/create-project-checklist",
+                  "zh-hant/set-up-project/checklists-and-scheduling-company-level/import-project-checklists-at-project-level",
+                  "zh-hant/set-up-project/checklists-and-scheduling-company-level/create-construction-stages",
+                  "zh-hant/set-up-project/checklists-and-scheduling-company-level/import-construction-stages-schedules-to-track-progress-at-project-level"
+                ]
+              },
+              {
+                "group": "許可證 - 公司管理區域",
+                "pages": [
+                  "zh-hant/set-up-project/permits-company-level/add-permit-inspection",
+                  "zh-hant/set-up-project/permits-company-level/add-permit-form-pages",
+                  "zh-hant/set-up-project/permits-company-level/view-edit-delete-permit-inspection"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "報告",
+            "pages": [
+              "zh-hant/reporting/index",
+              {
+                "group": "分析表",
+                "pages": [
+                  "zh-hant/reporting/analytics/319706",
+                  "zh-hant/reporting/analytics/how-do-i-get-an-overview-of-all-inspection-forms"
+                ]
+              },
+              {
+                "group": "訂製PDF報告",
+                "pages": [
+                  "zh-hant/reporting/custom-pdf-report/how-do-i-generate-a-custom-report"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "常見問題",
+            "pages": [
+              "zh-hant/faq/index",
+              {
+                "group": "使用移動應用程式前的準備",
+                "pages": [
+                  "zh-hant/faq/get-ready-on-mobile/280101",
+                  "zh-hant/faq/get-ready-on-mobile/280105",
+                  "zh-hant/faq/get-ready-on-mobile/386010",
+                  "zh-hant/faq/get-ready-on-mobile/412571"
+                ]
+              },
+              {
+                "group": "疑難排解 - 移動應用程式 (APP)",
+                "pages": [
+                  "zh-hant/faq/troubleshooting-on-mobile/280494",
+                  "zh-hant/faq/troubleshooting-on-mobile/280502",
+                  "zh-hant/faq/troubleshooting-on-mobile/app-checking-credentials",
+                  "zh-hant/faq/troubleshooting-on-mobile/app"
+                ]
+              },
+              {
+                "group": "一般問題",
+                "pages": [
+                  "zh-hant/faq/general/280106",
+                  "zh-hant/faq/general/280493",
+                  "zh-hant/faq/general/snagr",
+                  "zh-hant/faq/general/what-is-project-activity-log",
+                  "zh-hant/faq/general/3867032fafa",
+                  "zh-hant/faq/general/login-with-two-factor-authentication",
+                  "zh-hant/faq/general/snagr-2",
+                  "zh-hant/faq/general/398323"
+                ]
+              },
+              {
+                "group": "疑難排解 - 管理員 (Admin)",
+                "pages": [
+                  "zh-hant/faq/troubleshooting-for-admins/303596",
+                  "zh-hant/faq/troubleshooting-for-admins/386417"
+                ]
+              },
+              {
+                "group": "位置",
+                "pages": [
+                  "zh-hant/faq/locations/291590",
+                  "zh-hant/faq/locations/386033",
+                  "zh-hant/faq/locations/386034",
+                  "zh-hant/faq/locations/room-area-signoff"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "成功經驗",
+            "pages": [
+              {
+                "group": "質量",
+                "pages": [
+                  "zh-hant/success-stories/quality/defect-management",
+                  "zh-hant/success-stories/quality/380418",
+                  "zh-hant/success-stories/quality/380463",
+                  "zh-hant/success-stories/quality/380769"
+                ]
+              },
+              {
+                "group": "安全管理",
+                "pages": [
+                  "zh-hant/success-stories/safety/383514",
+                  "zh-hant/success-stories/safety/383728"
+                ]
+              },
+              {
+                "group": "地盤工序",
+                "pages": [
+                  "zh-hant/success-stories/site-operations/383733",
+                  "zh-hant/success-stories/site-operations/383735"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "cn",
+        "groups": [
+          {
+            "group": "SnagR 支持中心",
+            "pages": [
+              "cn/index"
+            ]
+          },
+          {
+            "group": "入门指南",
+            "pages": [
+              {
+                "group": "简介",
+                "pages": [
+                  "cn/getting-started/introduction/overview-for-management",
+                  "cn/getting-started/introduction/overview-for-inspection-teams-consultants",
+                  "cn/getting-started/introduction/getting-started-3-3-intro-overview-for-subcontractors"
+                ]
+              },
+              {
+                "group": "设置手机",
+                "pages": [
+                  "cn/getting-started/set-up-mobile/how-do-i-download-a-project",
+                  "cn/getting-started/set-up-mobile/why-should-i-synchronise",
+                  "cn/getting-started/set-up-mobile/can-i-set-up-auto-sync"
+                ]
+              },
+              {
+                "group": "必备技能",
+                "pages": [
+                  "cn/getting-started/essential-skills/getting-started-key-nav-1-3-what-is-issue-mode-and-form-mode",
+                  "cn/getting-started/essential-skills/how-can-i-go-from-one-drawing-to-another",
+                  "cn/getting-started/essential-skills/308352",
+                  "cn/getting-started/essential-skills/321270"
+                ]
+              },
+              {
+                "group": "手机设置常见问题",
+                "pages": [
+                  "cn/getting-started/mobile-setup-faq/remove-and-re-add-project",
+                  "cn/getting-started/mobile-setup-faq/common-issues-in-project-download"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "缺陷模式",
+            "pages": [
+              {
+                "group": "添加缺陷",
+                "pages": [
+                  "cn/issues/add-issues/305040",
+                  "cn/issues/add-issues/305041",
+                  "cn/issues/add-issues/305042",
+                  "cn/issues/add-issues/305044",
+                  "cn/issues/add-issues/305046",
+                  "cn/issues/add-issues/305047"
+                ]
+              },
+              {
+                "group": "查找缺陷",
+                "pages": [
+                  "cn/issues/find-issues/305048",
+                  "cn/issues/find-issues/305152",
+                  "cn/issues/find-issues/326639"
+                ]
+              },
+              {
+                "group": "编辑缺陷",
+                "pages": [
+                  "cn/issues/edit-issues/305153",
+                  "cn/issues/edit-issues/305154",
+                  "cn/issues/edit-issues/305155",
+                  "cn/issues/edit-issues/305156",
+                  "cn/issues/edit-issues/305157",
+                  "cn/issues/edit-issues/311757"
+                ]
+              },
+              {
+                "group": "更新缺陷",
+                "pages": [
+                  "cn/issues/update-issues/305158",
+                  "cn/issues/update-issues/305159",
+                  "cn/issues/update-issues/305160"
+                ]
+              },
+              {
+                "group": "报告和分析",
+                "pages": [
+                  "cn/issues/report-and-analytics/305161",
+                  "cn/issues/report-and-analytics/305162",
+                  "cn/issues/report-and-analytics/305163",
+                  "cn/issues/report-and-analytics/305164",
+                  "cn/issues/report-and-analytics/305165",
+                  "cn/issues/report-and-analytics/305166"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "表格模式",
+            "pages": [
+              {
+                "group": "完成或编辑表格",
+                "pages": [
+                  "cn/forms/complete-or-edit-forms/305167",
+                  "cn/forms/complete-or-edit-forms/305168",
+                  "cn/forms/complete-or-edit-forms/305169",
+                  "cn/forms/complete-or-edit-forms/305170",
+                  "cn/forms/complete-or-edit-forms/305171",
+                  "cn/forms/complete-or-edit-forms/305172",
+                  "cn/forms/complete-or-edit-forms/305173"
+                ]
+              },
+              {
+                "group": "链接缺陷和文件到表格",
+                "pages": [
+                  "cn/forms/link-issues-and-documents-to-forms/305174",
+                  "cn/forms/link-issues-and-documents-to-forms/305175",
+                  "cn/forms/link-issues-and-documents-to-forms/305176",
+                  "cn/forms/link-issues-and-documents-to-forms/305177",
+                  "cn/forms/link-issues-and-documents-to-forms/305178"
+                ]
+              },
+              {
+                "group": "搜索表格",
+                "pages": [
+                  "cn/forms/search-forms/305179",
+                  "cn/forms/search-forms/305180"
+                ]
+              },
+              {
+                "group": "导出表格",
+                "pages": [
+                  "cn/forms/export-forms/pdf",
+                  "cn/forms/export-forms/pdf-2",
+                  "cn/forms/export-forms/snagr",
+                  "cn/forms/export-forms/305202"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "文件管理",
+            "pages": [
+              {
+                "group": "上传文档",
+                "pages": [
+                  "cn/documents/upload-documents/305203",
+                  "cn/documents/upload-documents/305204"
+                ]
+              },
+              {
+                "group": "管理文档",
+                "pages": [
+                  "cn/documents/manage-documents/305205",
+                  "cn/documents/manage-documents/305206",
+                  "cn/documents/manage-documents/305207",
+                  "cn/documents/manage-documents/305208",
+                  "cn/documents/manage-documents/305209",
+                  "cn/documents/manage-documents/305210",
+                  "cn/documents/manage-documents/315548"
+                ]
+              },
+              {
+                "group": "下载文档",
+                "pages": [
+                  "cn/documents/download-documents/305211",
+                  "cn/documents/download-documents/305213"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "管理员模式",
+            "pages": [
+              {
+                "group": "图纸",
+                "pages": [
+                  "cn/admin/drawings/305215",
+                  "cn/admin/drawings/305218",
+                  "cn/admin/drawings/305221",
+                  "cn/admin/drawings/306940",
+                  "cn/admin/drawings/306941",
+                  "cn/admin/drawings/306942",
+                  "cn/admin/drawings/306945",
+                  "cn/admin/drawings/308330",
+                  "cn/admin/drawings/312905"
+                ]
+              },
+              {
+                "group": "帐户及权限设定",
+                "pages": [
+                  "cn/admin/accounts-and-permissions/306948",
+                  "cn/admin/accounts-and-permissions/306949",
+                  "cn/admin/accounts-and-permissions/306950",
+                  "cn/admin/accounts-and-permissions/306952",
+                  "cn/admin/accounts-and-permissions/316399",
+                  "cn/admin/accounts-and-permissions/316400",
+                  "cn/admin/accounts-and-permissions/328534"
+                ]
+              },
+              {
+                "group": "通知",
+                "pages": [
+                  "cn/admin/notifications/306954",
+                  "cn/admin/notifications/306956",
+                  "cn/admin/notifications/306957"
+                ]
+              },
+              {
+                "group": "设定缺陷列表",
+                "pages": [
+                  "cn/admin/standard-issue-list/306969",
+                  "cn/admin/standard-issue-list/306970",
+                  "cn/admin/standard-issue-list/306972",
+                  "cn/admin/standard-issue-list/306973",
+                  "cn/admin/standard-issue-list/306974"
+                ]
+              },
+              {
+                "group": "设定表格模板",
+                "pages": [
+                  "cn/admin/form-templates/306976",
+                  "cn/admin/form-templates/306980",
+                  "cn/admin/form-templates/306982",
+                  "cn/admin/form-templates/excel",
+                  "cn/admin/form-templates/308327",
+                  "cn/admin/form-templates/313260",
+                  "cn/admin/form-templates/330060"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "成功经验",
+            "pages": [
+              {
+                "group": "项目验收",
+                "pages": [
+                  "cn/success-stories/project-handover/319036"
+                ]
+              }
+            ]
+          }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
-    }
   },
   "contextual": {
     "options": [
@@ -61,12 +2338,5 @@
       "cursor",
       "vscode"
     ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
   }
 }

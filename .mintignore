@@ -5,3 +5,10 @@
 # Draft content
 drafts/
 *.draft.mdx
+
+# Login-only sections on the old Helpjuice site (client-specific / internal).
+# Remove these lines and add the groups from helpjuice-export/migration-report.md
+# to docs.json if you want to publish them.
+en/aahk-trd/
+en/aahk-cwd/
+en/power-bi-integration/

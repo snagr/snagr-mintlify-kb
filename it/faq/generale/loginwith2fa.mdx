@@ -1,0 +1,64 @@
+---
+title: "Login con autenticazione Two-Factor"
+---
+
+Se la modalita' e' attivata gli utenti possono effettuare il log in con due fattori di autenticazione differenti.
+
+Per l' applicazione web i due fattori di autenticazione sono
+
+**1. Nome utente e password**  
+**2. Codice di verifica da Google Authenticator app o app simile**.
+
+Per l' applicazione mobile i due fattori di autenticazione sono  
+**1. Nome utente e password**  
+**2. Codice telefono o tablet /impronta digitale**
+
+<img src="/images/uploads/123693-if_ic_tv_48px_352186.png" alt="if ic tv 48px 352186" width="20" /> Applicazione web
+
+Inseriamo **Nome Utente e password**
+
+<img src="/images/direct/1547006777634-Admin_Website-login-.001.jpeg" alt="Admin Website (login).001" />
+
+Apriamo Google Authenticator o qualsiasi app del tipo TOTP (Time-based One-Time Password) per recuperare il codice di verifica.
+
+**Inserimao il codice di verifica a 6 cifre**
+
+<img src="/images/direct/1547006798752-Admin_Website-login-.002.jpeg" alt="Admin Website (login).002" />
+
+Il log in e' completato!
+
+<img src="/images/direct/1547006912577-Admin_Website-login-.003.jpeg" alt="Admin Website (login).003" />
+
+<img src="/images/uploads/123669-if_icons_mobile_1564515.png" alt="if icons mobile 1564515" width="18" /> Applicazione Mobile
+
+Inseriamo **Nome utente e password**
+
+<img src="/images/direct/1547007157426-Admin_Device-login-.001.jpeg" alt="Admin Device (login).001" />
+
+Inserimamo **codice di sicurezza telefono o tablet**
+
+<img src="/images/uploads/127041-Red_Flag_Emoji.png" alt="Red Flag Emoji" width="18" /> Su iOS , e' **obbligatorio** inserire codice telefono o impronta digitale per accedere a SnagR.
+
+<img src="/images/uploads/127041-Red_Flag_Emoji.png" alt="Red Flag Emoji" width="20" /> Su Android, la app permettera' il log in solo <u>dop</u>o che **hai impostato un codice di accesso al telefono tablet o registrato la tua impronta digitale**. Senza un codice di sicurezza all' accesso del telefono o impronta digitale, non sara' possibile effettuare il log in.
+
+<img src="/images/direct/1547007186445-Admin_Device-login-.002.jpeg" alt="Admin Device (login).002" />
+
+Log in completato con successo!
+
+<img src="/images/direct/1547007825549-Admin_Device-login-.003.jpeg" alt="Admin Device (login).003" />
+
+### Dettagli e consigli ...
+
+### E' necessario generare i codici sulla app TOTP (Time-based One-Time Password) o Google Authenticator ogni volta che faccio il login?
+
+No. La connessione con la app di autenticazione che genera i codici va fatta una sola volta e rimane. E' sufficiente aprire la app e generare il codice a 6 cifre ad ogni accesso senza bisogno di ri-collegare la app.
+
+Vai [here](/it/faq/generale/2fa) per vedere come attivare l' autenticazione a due fattori.
+
+### Devo ricordarmi il codice a 6 cifre?
+
+No, il codice **cambia automaticamente ogni 30 secondi** sulla app di autenticazione che usi.
+
+### Come faccio a reimpostare la chiave di verifica dell' app di autenticazione e ricevere un nuovo codice QR?
+
+Vai [here](/it/impostazione-progetti/utenti-e-permessi-amministrazione-progetto/reset2fa) per una descrizione della procedura.

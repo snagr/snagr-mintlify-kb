@@ -1,0 +1,162 @@
+---
+title: "How to set up the QR Code image field?"
+---
+
+<img src="/images/direct/1594978288112-1594978288112.png" alt="1594978288112" width="17" /> **Website**
+
+Put your hands together to welcome our new function - QR Code image.  
+it is a short cut to fill multiple fields by scan a QR code/Bar code via APP.
+
+There have 2 scenarios or more you may use it.
+
+- Create your own QR Code to pre-filled multiple fields.
+- Scan the QR Code/Bar Code on the document provided by the parties.
+
+To set up, please access the form wizard from Company admin &gt; Inspection &gt; Form &gt; Form wizard.
+
+Set a field properties to a QR Code image, enter the code for mapping.
+
+Below have 2 types of code you may use.
+
+1️⃣
+
+```json
+{
+  "qrcodeType": "QRCodeToImage",
+  "parseType": "array",
+  "arraySeparator":",",
+  "arrayMapping": [
+        {
+            "CheckCode":"{Checkcode}"
+        },{
+            "CheckCode":"{Checkcode)"
+        },{
+            "CheckCode":"{Checkcode}"
+        },{
+            "CheckCode":"{Checkcode}"
+        },{
+            "CheckCode":"{Checkcode}"
+        },{
+            "CheckCode":"{Checkcode}"
+        }
+                    ]
+}
+```
+
+To match which above code, the content of the QR Code has to separate the item by a comma.
+
+Such as,
+
+1,2,03/04/2015,18:00,7,8
+
+Would be nice to use it to create your own QR Code.
+
+_How to create?  
+Search "QR Code Generator" via the web search engine!_
+
+2️⃣
+
+```json
+{
+    "qrcodeType": "QRCodeToImage",
+    "parseType": "queryString",
+    "arrayKeyMapping": [
+        {
+            "key":"{key1}",
+            "value":"{Checkcode}"
+        }, {   
+            "key":"{key2}",
+            "value":"{Checkcode}"
+        }, {
+            "key":"{key3}",
+            "value":"{Checkcode}"
+        }, {
+            "key":"{key4}",
+            "value":"{Checkcode}"
+        }, {
+            "key":"{key5}",
+            "value":"{Checkcode}"
+        }, {
+            "key":"{key6}",
+            "value":"{Checkcode}"
+        }
+    ]
+  }
+```
+
+To match which above code, the content of the QR Code has to describe content with the \{key\}, start with "?" and separate the item by "&".
+
+Such as,
+
+```text
+?Name=SnagR&Ref=ref no.123456789&Date=12/07/2020&Time=18:00&Type=Demo&Location=On Site
+```
+
+You may scan the QR Code/Bar Code on the document first and see which one would meet your needs.
+
+_Where to scan?_  
+_Search "QR Code Scanner" via the web search engine or scan via the camera on your device!_
+
+⭐️ To know what is the \{Checkcode\} of that field, please screenshot it, remark which field you are willing to know, and send it to the support team :)  
+[How can I contact SnagR?](/en/faq/general/how-can-i-contact-snagr)
+
+Let's practice!
+
+Please create a new inspection with the below form "QR code" template.  
+Please create the form code as "**QR**".  
+[Check this link to know how to create a new inspection template.](/it/impostazione-progetti/modelli-di-documento-amministrazione-societa/how-to-design-inspections-in-snagr)
+
+<img src="/images/direct/1595223596747-QR-test.jpeg" alt="QR test" />
+
+🎬 Start
+
+<img src="/images/direct/1595224161468-Admin_Website.004.jpeg" alt="Admin Website.004" />
+
+Create fields from the <u>left to right, from the top to bottom</u>.
+
+Set the form field properties to the corresponding type.
+
+<img src="/images/direct/1595224422873-1595224422873.png" alt="1595224422873" />
+
+Select the **QRCode image.** (the QRCode will be stamped on the form.)
+
+<img src="/images/direct/1595224342202-Admin_Website.006.jpeg" alt="Admin Website.006" />
+
+Back to the Attributes and enter the code to mapping.
+
+<img src="/images/direct/1595229165052-Screenshot-2020-07-17-at-4.17.48-PM.png" alt="Screenshot 2020 07 17 at 4.17.48 PM" />
+
+```json
+{
+  "qrcodeType": "QRCodeToImage",
+  "parseType": "array",
+  "arraySeparator":",",
+  "arrayMapping": [
+        {
+            "CheckCode":"QR0002"
+        },{
+            "CheckCode":"QR0003"
+        },{
+            "CheckCode":"QR0004",
+ "DateInputFormat":"DD/MM/YYYY"
+        },{
+            "CheckCode":"QR0005",
+"DateInputFormat":"hh:mm"
+    },{
+            "CheckCode":"QR0006"
+    },{
+            "CheckCode":"QR0007"
+    }
+    ]
+}
+```
+
+Done. Please save and enable the insection template on the project.
+
+Login to the APP, sync, add a new inspection and scan below QR Code to test on it.
+
+<img src="/images/direct/1595229786685-Screenshot-2020-07-20-at-3.23.02-PM.png" alt="Screenshot 2020 07 20 at 3.23.02 PM" />
+
+Let see how it works. 👀
+
+<img src="/images/direct/1595230426991-Jul-20-2020-15-30-50.gif" alt="helpjuice production/uploads/upload/image/3577/direct/1595230426991 Jul 20 2020 15 30 50" />

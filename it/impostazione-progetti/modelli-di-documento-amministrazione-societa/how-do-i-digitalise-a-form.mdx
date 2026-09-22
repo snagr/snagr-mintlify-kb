@@ -1,0 +1,116 @@
+---
+title: "Creazione Modelli di Documento (amministrazione societa')"
+---
+
+<img src="/images/uploads/123693-if_ic_tv_48px_352186.png" alt="if ic tv 48px 352186" width="20" /> **applicazione web**
+
+Siete nel Menu Ispezioni societa', Aggiungi Documento Ispezione. Una volta che avete caricato l' immagine relativa alla pagina che volete mappare cliccate la bacchetta magica<img src="/images/direct/1539336162633-Screen-Shot-2018-10-11-at-11.47.40-AM.png" alt="Screen Shot 2018 10 11 at 11.47.40 AM" width="28" />per mappare i vostri hotspots. La dimensione dell' immagine della pagina consigliata e' 1600x1200, con risoluzioni inferiori possibili. Non eccedete la dimensione altrimenti sara' difficile visualizzare in fase di compilazione su telefono o tablet la pagina per intero.
+
+<img src="/images/direct/1524802003498-Admin_Website.150.jpeg" alt="Admin Website.150" />
+
+Per preparare un Modello di Documento e' necessario:
+
+1. **Creare** gli hotspots (campi del database relativo al documento che sono visualizzati per la compilazione)
+2. **Nominar****e** gli hotspots and **assegnarvi** la tipologia di dati.
+
+### 1. Creazione hotspots
+
+<img src="/images/direct/1524805005228-1608787-24.png" alt="1608787 24" width="20" /> Cliccate su questa icona o Ctrl-2 per creare hotspots **come se disegnaste una casella di testo in Word o Excel**.
+
+<img src="/images/direct/1524805852831-wizard-wand.png" alt="wizard wand" width="20" /> Cliccate su questa icona o Ctrl-3) per creare hotsposts hotspots **che saranno posizionati da SnagR all' interno di bordi predefiniti** **in modo automatico.**
+
+<img src="/images/direct/1524805907050-Admin_Website.152.jpeg" alt="Admin Website.152" />
+
+_Come mai la bacchetta magica a volte **sbaglia a rilevare i bordi**_ _?_  
+Se cio' succede **modificate la sensibilita' ai bordi**.
+
+<img src="/images/direct/1524804510408-Screen-Shot-2018-04-27-at-12.47.18-PM.png" alt="Screen Shot 2018 04 27 at 12.47.18 PM" />
+
+### 2. Nominare gli hotspots ed assegnarvi il tipo di dati
+
+<img src="/images/direct/1524806594781-box.png" alt="box" width="20" /> Cliccate su questa icona, Ctrl-4 o doppio click sull' Hotspot per **assegnare le proprieta all' hotspot**
+
+In Prorpieta' , **nominate l**' **hotspot nel campo Titolo** ed **assegnate la tipologia di dato** nel campo Tipo
+
+<img src="/images/direct/1524806831507-Screen-Shot-2018-04-27-at-1.25.00-PM.png" alt="Screen Shot 2018 04 27 at 1.25.00 PM" />
+
+I tipi di dato disponibili sono :
+
+1. Testo (non va a capo e rimpicciolisce il contenuto, va bene per testo breve) e area di testo: va a capo e non ripicciolisce il contenuto
+2. Checkbox di spunta\*
+3. Check box Pass/Fail/NA
+4. Lista Utenti (Utenti e Appaltatori) #
+5. Lista Utenti#
+6. Lista Appaltatori #
+7. List _( Liste personalizzate vai [qui](/en/set-up-project/forms-company-level/how-to-create-custom-list) per ulteriori informazioni)_
+8. Data
+9. Data Ora (i.e. 2 April 2018 15:03:20)
+10. Ora
+11. Foto
+12. Firma
+13. Notifica Utenti _(invia a &lt;nome&gt; allo specifico &lt;flusso di lavoro&gt;)_
+14. Notifica Utente _(Come sopra)_
+15. Notifica Appaltatore _(Come sopra)_
+
+#Solo gli Utenti e Appaltatori che hanno i privilegio necessario per accedere al documento verranno mostrati nelle liste Utenti Appaltatori.
+
+\*Se si vogliono limitare le scelte dell' utente **seleziona un opzione tra n opzioni, ma non le altre**, potete usare questa metodologia: selezionate gli Hotspots, cambiate il tipo dati a Checkbox, Cliccate con il pulasante destro del mouse e scegliete Link. Per scollegare selezionate gli hotspots e cliccate cancella collegamento.
+
+Differenza tra lista e **Lista di notifica**_?_  
+Gli hotspot lista, come i 4, 5 o 6 della lista sopra e Lista notifica, quelli 13, 14, 15 e' che questi ultimi creano una notifica automatica al momento della cambio del flusso di lavoro del documento come specificato.  
+Queste liste mostrano tutti gli Utenti e Appaltatori
+
+<img src="/images/direct/1524808664924-Screen-Shot-2018-04-27-at-1.57.02-PM.png" alt="Screen Shot 2018 04 27 at 1.57.02 PM" />
+
+Come inserire dati a **completamento automatico**  
+Gli hotspots di sola lettura saranno compilati automaticamente da SnagR e non sono modificabili; i dati disponibili:
+
+1. Contract
+2. Contract No
+3. Date stamp _(Data creazione documento)_
+4. Totolo Disegno _(dove e' l' ispezione)_
+5. Inspection external reference
+6. Inspection ID
+7. Inspection Type ID
+8. Inpsection Type No.
+9. Location _(of where the form is created)_
+10. Location external reference
+11. Company logo
+12. Project logo
+13. Username _(of whom created the form)_
+
+### Hotspots obbligatori (facoltativo)
+
+In Proprieta' e' possibile rendere un hotspot obbligatorio:
+
+1. SnagR **avverte gli utenti quando chiudono un Documento di Ispezione senza aver compilato tutti i campi obbligatori**
+2. SnagR calcola la % di completamento del documetno in base al peso assegnato ad ogni campo obbligatorio.
+
+<img src="/images/direct/1524817393856-Screen-Shot-2018-04-27-at-4.21.43-PM.png" alt="Screen Shot 2018 04 27 at 4.21.43 PM" />
+
+_Che peso assegnare all' Hotspost obbligatorio__?_  
+Se abbiamo due Hotspots obbligatori ed ogni uno ha peso 1, se uno e' compilato e l' altro no la % di completamento di tutto il documento sara' 50%.
+
+<img src="/images/direct/1524818857138-Admin_Website.152.jpeg" alt="Admin Website.152" />
+
+### Seleziona piu' Hotspots
+
+<img src="/images/direct/1524805311199-134218-24.png" alt="134218 24" width="20" /> Clicca questa icona per selezionare piu' hotsposts, tieni premuto il tasto sinistro del mouse e trascina sopra gli hotposts che vuoi selezionare. Alternativamente tiene premuto Ctr e clicca sugli hotsposts da selezionare con tasto sinistro.
+
+Usando questa tecnica puoi cambiare le Proprieta' degli Hotspost in Batch quando sono tutti selezionati nello stesso momento.
+
+_Esempio_
+
+1. Copia (Ctrl C) e incolla (Ctrl V) hotspots da una pagina all' altra pagina o Modello di Documento
+2. Aggiorna tipo dati
+3. Aggiorna Titolo Hotspost
+
+### Posso Usare un Modello di Documento in piu' di un Ispezione?
+
+Si un modello di ispezione puo' essere usato in piu' ispezioni.
+
+_Esempio_
+
+La prima pagina di questi due documenti di ispezione e' identica
+
+<img src="/images/direct/1524822293456-Admin_Website.153.jpeg" alt="Admin Website.153" />

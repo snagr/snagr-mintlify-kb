@@ -1,0 +1,1026 @@
+codename,id,name,description,views,created_at,updated_at,is_published,language_id,category_id,joined_tag_names,language_code,next_expiration_on,language_code
+what-is-issue-mode-and-form-mode,264208,What is issue mode? What is inspection mode?,"",3100,2017-07-24 06:35:55 UTC,2018-09-28 05:35:28 UTC,true,1,,,,,,en_US
+264202-untitled-question,264202,Untitled Question,,,2017-07-24 05:37:37 UTC,2017-07-24 05:37:37 UTC,false,1,,,,,,en_US
+264216-untitled-question,264216,Can SnagR store documents?,"",,2017-07-24 06:46:17 UTC,2017-07-24 06:46:27 UTC,false,1,,,,,,en_US
+264217-untitled-question,264217,How do I see list of all issues and forms?,"",,2017-07-24 06:46:34 UTC,2017-07-24 06:46:48 UTC,false,1,,,,,,en_US
+264212-untitled-question,264212,What does synchronise mean?,"",,2017-07-24 06:44:52 UTC,2017-07-24 06:45:01 UTC,false,1,,,,,,en_US
+264213-untitled-question,264213,How do I change drawing?,"",,2017-07-24 06:45:14 UTC,2017-07-24 06:45:22 UTC,false,1,,,,,,en_US
+264214-untitled-question,264214,What is the difference between issue mode and form mode?,"",,2017-07-24 06:45:33 UTC,2017-07-24 06:45:47 UTC,false,1,,,,,,en_US
+264219-untitled-question,264219,What does synchronise mean?,"",,2017-07-24 06:48:46 UTC,2017-07-24 06:49:01 UTC,false,1,,,,,,en_US
+264220-untitled-question,264220,How do I change drawing?,"",,2017-07-24 06:49:14 UTC,2017-07-24 06:49:25 UTC,false,1,,,,,,en_US
+who-has-access-to-document-repository,268884,Who has access to document repository?,"",1835,2017-08-25 08:56:29 UTC,2019-08-08 08:51:36 UTC,true,1,,,,,,en_US
+264290-untitled-question,264290,Untitled Question,,,2017-07-24 09:48:49 UTC,2017-07-24 09:48:49 UTC,false,1,,,,,,en_US
+702731-untitled-article,702731,Supporting Video,"",1,2020-11-02 04:49:38 UTC,2020-11-02 04:52:17 UTC,false,1,,,,,,en_US
+378714-trd-admin-training-video,378714,TRD Admin Training Video,"",,2019-04-10 08:00:42 UTC,2019-04-10 08:02:52 UTC,true,1,,,,,,en_US
+340868-i-can-t-add-a-user-i-don-t-see-him-her-on-the-project-but-the-system-says-email-already-exists-what-is-wrong,340868,"I can't add a user. I don't see him/her on the project, but the system says email already exists. What is wrong? ","",1607,2018-09-27 04:42:37 UTC,2019-01-15 12:36:44 UTC,true,1,,,,,,en_US
+dowl-essentials-your-user-workflow-guide,3409410,DOWL Essentials: Your User Workflow Guide,"A comprehensive guide to understanding the DOWL application, offering essential workflow insights, user guidelines, and practical strategies for effective platform utilization.",,2025-07-21 09:36:41 UTC,2025-07-21 09:36:47 UTC,false,1,,,,,,en_US
+how-can-i-link-documents-to-a-form,266210,How can I link documents to a form? (Older version),"",739,2017-08-05 04:17:31 UTC,2020-04-15 05:55:25 UTC,true,1,,,,,,en_US
+356448-untitled-question,356448,How to login with Two - Factor Authentication?,"",,2019-01-08 08:31:51 UTC,2019-01-08 08:35:23 UTC,false,1,,,,,,en_US
+377203-trd-nqaa-training-video,377203,"Video Tutorial - NQAA
+","",149,2019-04-04 08:13:58 UTC,2021-08-25 01:35:50 UTC,true,1,,,,,,en_US
+389566-nqaa-training-video-website,389566,Website - Export PDF / PDF in batch,"",6,2019-05-21 09:36:27 UTC,2019-05-29 07:17:54 UTC,true,1,,,,,,en_US
+389567-nqaa-training-video-app,389567,App - Login,"",3,2019-05-21 09:36:35 UTC,2019-05-21 09:55:00 UTC,true,1,,,,,,en_US
+389568-website-form-closed-passed-failed,389568,Website - Form Closed (Passed) / (Failed),"",1,2019-05-21 09:42:04 UTC,2019-05-21 09:47:33 UTC,true,1,,,,,,en_US
+389569-website-fill-in-form-and-attach-document,389569,Website - Fill in form and attach document,"",2,2019-05-21 09:45:44 UTC,2019-05-21 09:49:09 UTC,true,1,,,,,,en_US
+389571-website-login-with-2-factor-authentication-code,389571,Website - Login with 2-factor authentication code,"",1,2019-05-21 09:49:27 UTC,2019-05-21 09:52:35 UTC,true,1,,,,,,en_US
+how-to-make-use-of-form-finder-in-app,391374,How to make use of form finder in app?,"",58,2019-05-29 02:10:17 UTC,2019-11-01 03:59:56 UTC,true,1,,,,,,en_US
+app-login,394794,Video Tutorial - DOWL,"",42,2019-06-10 07:21:44 UTC,2019-10-24 03:52:13 UTC,true,1,,,,,,en_US
+389572-website-form-creation,389572,Website - Form Creation,"",2,2019-05-21 09:49:53 UTC,2019-05-21 09:51:08 UTC,true,1,,,,,,en_US
+389573-app-create-a-new-inspection,389573,App - Create a new inspection,"",1,2019-05-21 09:55:40 UTC,2019-05-21 10:04:24 UTC,true,1,,,,,,en_US
+389574-app-form-closed-passed-failed,389574,App - Form Closed (Passed) / (Failed),"",1,2019-05-21 09:56:30 UTC,2019-05-21 10:04:37 UTC,true,1,,,,,,en_US
+389575-app-open-form-from-dashboard,389575,App - Open form from Dashboard,"",2,2019-05-21 09:59:25 UTC,2019-05-21 10:04:55 UTC,true,1,,,,,,en_US
+389576-app-notification,389576,App - Notification,"",3,2019-05-21 10:00:31 UTC,2019-05-21 10:03:28 UTC,true,1,,,,,,en_US
+video-tutorials-spe-report,394803,Video Tutorial - SPE Report,"",45,2019-06-10 08:05:25 UTC,2019-10-24 03:58:56 UTC,true,1,,,,,,en_US
+website-photo-diary-issue-dashboard,400392,Website - Photo Diary - Issue Dashboard,"",,2019-06-28 06:46:14 UTC,2019-06-28 06:47:41 UTC,true,1,,,,,,en_US
+website-photo-dairy-create-a-photo-diary-record,400393,Website - Photo Dairy - Create a Photo Diary record,"",4,2019-06-28 06:47:52 UTC,2019-06-28 06:53:58 UTC,true,1,,,,,,en_US
+app-photo-dairy-create-a-photo-diary-record,400394,APP - Photo Dairy - Create a Photo Diary record,"",3,2019-06-28 06:49:22 UTC,2019-06-28 06:54:17 UTC,true,1,,,,,,en_US
+app-photo-dairy-synchronisation,400395,APP - Photo Dairy - Synchronisation,"",,2019-06-28 06:50:13 UTC,2019-06-28 06:51:48 UTC,true,1,,,,,,en_US
+photo-diary-adding-more-photos-in-the-same-record,400396,APP - Photo Diary - Adding more photos in the same record,"",,2019-06-28 06:51:55 UTC,2019-06-28 06:53:03 UTC,true,1,,,,,,en_US
+how-do-i-get-my-api-token,448362,How do I get my API token?,"",23,2019-08-29 03:29:16 UTC,2019-08-29 03:40:18 UTC,true,1,,,,,,en_US
+where-do-i-find-snagr-api-documentation,448363,Where do I find SnagR API documentation? ,"",32,2019-08-29 03:29:33 UTC,2019-08-29 03:45:57 UTC,true,1,,,,,,en_US
+how-do-i-embed-power-bi-dashboards-in-snagr-project-sites,448364,How do I embed Power BI reports in SnagR project sites?,"",14,2019-08-29 03:30:19 UTC,2019-08-29 08:37:33 UTC,true,1,,,,,,en_US
+training-handout-spe,484404,Handout Material - SPE Report,"",47,2019-10-24 03:12:44 UTC,2019-10-24 04:15:46 UTC,true,1,,,,,,en_US
+handout-material-nqaa,484403,Handout Material - NQAA,"",131,2019-10-24 02:57:49 UTC,2019-10-24 03:07:35 UTC,true,1,,,,,,en_US
+handout-material-dowl-hints-and-tips,484402,Handout Material - DOWL,"",42,2019-10-24 02:51:28 UTC,2019-10-24 03:18:27 UTC,true,1,,,,,,en_US
+how-to-generate-photo-links,530656,How to generate photo links?,"",30,2020-02-11 07:40:15 UTC,2020-12-14 10:42:03 UTC,true,1,,,,,,en_US
+how-to-generate-plan-viewer-link,530664,How to generate plan viewer link to view issues?,"",10,2020-02-11 09:00:03 UTC,2020-02-11 09:25:51 UTC,true,1,,,,,,en_US
+how-to-generate-link-to-view-inspection-form,530667,How to generate link to view inspection form?,"",19,2020-02-11 09:26:58 UTC,2020-02-11 09:34:13 UTC,true,1,,,,,,en_US
+how-to-group-drawings,264285,How to create drawing sets / folders? ,"",2671,2017-07-24 09:23:45 UTC,2021-01-04 09:38:30 UTC,true,1,,,,,,en_US
+reset2fa,357029,How to reset Two-Factor Authentication key?,"",2285,2019-01-09 08:46:14 UTC,2019-10-28 13:58:16 UTC,true,1,,,,,,en_US
+release-notes-hotfix-android-v41543-06-august-2021,1003487,Release Notes - Hotfix Android v4.154.3 (06-August-2021),"",886,2021-08-06 02:01:04 UTC,2021-08-06 02:02:37 UTC,true,1,,,,,,en_US
+can-i-move-an-issue-pin,264232,Can I move an issue pin?,"",1792,2017-07-24 07:19:32 UTC,2019-11-01 04:02:01 UTC,true,1,,,,,,en_US
+340896-how-to-edit-the-project-settings,340896,Edit Project Settings (at Project Level),"",1455,2018-09-27 10:24:32 UTC,2018-09-28 05:34:18 UTC,true,1,,,,,,en_US
+388027-how-to-enable-location-data-on-the-mobile-device,388027,How to enable location data on the mobile device?,"",1346,2019-05-15 09:40:47 UTC,2019-08-01 10:30:38 UTC,true,1,,,,,,en_US
+can-i-have-a-summary-of-the-form-workflow-history,266540,Can I have a summary of the form workflow history?,"",2267,2017-08-10 07:49:42 UTC,2018-03-14 07:34:49 UTC,true,1,,,,,,en_US
+how-to-edit-users-and-contractors,271414,How to edit users and contractors? ,"",2903,2017-08-30 06:03:21 UTC,2020-12-14 10:05:44 UTC,true,1,,,,,,en_US
+release-notes-android-v41486-29-may-2020,595763,Release Notes - Android v4.148.6 (29-May-2020),"",949,2020-06-15 02:16:59 UTC,2020-06-15 02:17:31 UTC,true,1,,,,,,en_US
+614229-snagr-ltd-glossary,614229,Snagr ltd Glossary,,266,2020-07-22 07:50:10 UTC,2020-08-10 07:27:40 UTC,true,1,,,,,,en_US
+add-the-previous-issue,476572,Can I save commonly used issue descriptions?,"",1113,2019-10-04 05:18:17 UTC,2019-11-01 04:01:37 UTC,true,1,,,,,,en_US
+2fa,357014,How can users activate Two-Factor Authentication?,"",3833,2019-01-09 05:57:01 UTC,2019-11-01 03:58:35 UTC,true,1,,,,,,en_US
+328540-how-to-view-issue-history,328540,How to view issue history?,"",1753,2018-07-20 08:29:47 UTC,2019-11-01 04:01:56 UTC,true,1,,,,,,en_US
+how-to-import-issue-list,266216,How to import issue list?,"",1878,2017-08-06 13:52:39 UTC,2019-01-10 09:32:20 UTC,true,1,,,,,,en_US
+how-to-add-an-issue,264026,How to add an issue?,"",7338,2017-07-21 10:12:42 UTC,2019-11-01 04:01:10 UTC,true,1,,,,,,en_US
+308326-how-to-edit-the-custom-list,308326,How to edit custom list?,"",1789,2018-04-16 03:42:34 UTC,2018-04-26 06:46:32 UTC,true,1,,,,,,en_US
+how-can-i-unlink-issues-from-a-form,266236,How can I unlink issues from a form?,"",1961,2017-08-07 08:36:56 UTC,2021-08-16 02:59:27 UTC,true,1,,,,,,en_US
+release-notes-mobile-ios-android-v4-146-1-29-jan-2020,529354,Release Notes - Mobile (iOS & Android) v4.146.1 (29-Jan-2020),"",1081,2020-02-05 00:27:01 UTC,2020-02-05 02:01:41 UTC,true,1,,,,,,en_US
+341361-can-i-change-location-of-an-inspection-form,341361,Can I change the location/discipline of an inspection form? ,"",1667,2018-10-04 05:32:42 UTC,2019-08-29 03:22:57 UTC,true,1,,,,,,en_US
+how-can-i-unlink-documents-from-a-form,266239,How can I unlink documents from a form? (Older version),"",1003,2017-08-07 09:03:12 UTC,2019-06-27 07:55:33 UTC,true,1,,,,,,en_US
+how-can-i-search-for-forms,264269,How can I search for forms?,"",2710,2017-07-24 08:13:05 UTC,2019-02-13 13:57:28 UTC,true,1,,,,,,en_US
+how-to-closed-failed-related-forms,398326,"How to ""Closed (Failed)"" related forms? ","",1202,2019-06-20 05:57:32 UTC,2021-08-16 02:40:00 UTC,true,1,,,,,,en_US
+release-notes-ios-v41480-30-april-2020,595760,Release Notes - Hot fix - iOS v4.148.0 (30-April-2020),"",905,2020-06-15 02:12:04 UTC,2020-06-15 02:15:17 UTC,true,1,,,,,,en_US
+how-to-withdraw-an-appointment?,623354,How to withdraw an appointment?,"",861,2020-08-10 11:26:19 UTC,2020-08-10 11:54:24 UTC,true,1,,,,,,en_US
+340755-view-edit-delete-permit-inspection,340755,View/Edit/Delete Permit Inspection,"",1774,2018-09-26 09:32:07 UTC,2018-09-26 10:36:23 UTC,true,1,,,,,,en_US
+how-to-link-documents-to-locations,269194,How to link documents to locations?,"",2324,2017-08-28 04:20:10 UTC,2019-05-06 10:49:50 UTC,true,1,,,,,,en_US
+how-to-add-users-to-project,264286,How to add users to project?,"",4541,2017-07-24 09:25:25 UTC,2020-12-14 08:37:32 UTC,true,1,,,,,,en_US
+287202-how-to-design-inspections-in-snagr,287202,How do I create an inspection form template and build in business logic? ,"",4287,2017-11-22 03:34:51 UTC,2019-01-15 13:25:14 UTC,true,1,,,,,,en_US
+how-to-delete-a-file,268886,How to delete a file?,"",1926,2017-08-25 08:58:13 UTC,2018-03-14 08:10:47 UTC,true,1,,,,,,en_US
+340744-edit-default-language-or-logo,340744,Edit Default Language or Logo (at Company Level),"",1873,2018-09-26 08:26:23 UTC,2018-09-28 05:32:26 UTC,true,1,,,,,,en_US
+how-do-i-send-notifications-regarding-a-form,264256,How do I send notifications regarding a form?,"",2142,2017-07-24 07:50:22 UTC,2018-09-19 09:47:52 UTC,true,1,,,,,,en_US
+how-to-batch-update-user-permissions,384651,How to batch update user(s) permissions?,"",1335,2019-05-02 09:56:50 UTC,2019-10-28 13:44:00 UTC,true,1,,,,,,en_US
+can-i-define-photo-size,268126,Can I define photo size?,"",2202,2017-08-21 04:48:17 UTC,2018-03-14 06:50:15 UTC,true,1,,,,,,en_US
+how-to-add-contractors-to-project,264287,How to add contractors to project?,"",4031,2017-07-24 09:25:27 UTC,2019-01-10 06:05:36 UTC,true,1,,,,,,en_US
+release-notes-hotfix-iosandroid-v41536-12-may-2021-,922859,Release Notes - Hotfix iOS/Android v4.153.6 (12-May-2021) ,"",891,2021-05-12 10:22:34 UTC,2021-05-28 08:46:16 UTC,true,1,,,,,,en_US
+release-notes-hot-fix-android-v41489-07-june-2020,595766,Release Notes - Hot fix Android v4.148.9 (07-June-2020),"",972,2020-06-15 02:21:12 UTC,2020-06-15 02:22:14 UTC,true,1,,,,,,en_US
+340874-location-sign-off,340874,Location Sign-off,"",2441,2018-09-27 07:14:53 UTC,2018-12-03 12:52:42 UTC,true,1,,,,,,en_US
+how-to-create-an-appointment-for-the-owner?,623316,How to create an appointment for the Owner?,"",905,2020-08-10 09:06:06 UTC,2020-08-10 11:25:46 UTC,true,1,,,,,,en_US
+how-do-i-clone-project,553904,How do I clone project?,"",1034,2020-04-02 08:28:17 UTC,2020-04-02 09:57:46 UTC,true,1,,,,,,en_US
+308329-how-to-edit-drawing-set,308329,How to edit drawing set?,"",1901,2018-04-16 04:15:54 UTC,2018-04-26 10:59:09 UTC,true,1,,,,,,en_US
+passwordcomplexity,357032,Password complexity set up (at Company level),"",1635,2019-01-09 09:56:00 UTC,2019-08-22 04:43:41 UTC,true,1,,,,,,en_US
+how-to-set-up-locations-on-drawings,264282,How to set up locations on drawings?,"",4593,2017-07-24 09:18:32 UTC,2021-02-09 10:37:14 UTC,true,1,,,,,,en_US
+photo-diary,268289,Photo Diary,"",2634,2017-08-22 01:52:54 UTC,2019-08-09 10:31:21 UTC,true,1,,,,,,en_US
+what-is-bundle,268887,What is bundle?,"",2243,2017-08-25 08:58:30 UTC,2017-12-19 08:53:12 UTC,true,1,,,,,,en_US
+315549-is-there-version-control-in-snagr-documents,315549,Is there version control in SnagR documents?,"",2138,2018-05-08 05:17:02 UTC,2019-01-03 10:50:00 UTC,true,1,,,,,,en_US
+what-if-i-forgot-my-account-password,398320,What if I forgot my account password?,"",1544,2019-06-20 05:25:41 UTC,2019-11-01 03:58:53 UTC,true,1,,,,,,en_US
+release-notes-ios-v41472-20-april-2020,567265,Release Notes - iOS v4.147.2 (20-April-2020),"",973,2020-04-21 00:53:36 UTC,2020-04-21 01:00:55 UTC,true,1,,,,,,en_US
+latest-release-notes-mobile-app-v41459-23-jan-2020,521700,Release Notes - Mobile (iOS & Android) v4.145.9 (23-Jan-2020),"",992,2020-01-23 05:32:37 UTC,2020-01-29 09:32:23 UTC,true,1,,,,,,en_US
+340736-how-can-i-remove-the-inspection-from-the-company,340736,Can I remove the inspection template at company level?,"",1538,2018-09-26 05:19:19 UTC,2018-09-26 10:34:31 UTC,true,1,,,,,,en_US
+340745-add-contractors-at-the-company-level,340745,Manage Contractors at Company Level,"",1766,2018-09-26 08:38:08 UTC,2018-10-29 02:38:37 UTC,true,1,,,,,,en_US
+386734-how-to-upload-documents-to-link-to-forms-new-upgrade,386734,How to upload documents to link to forms? (New upgrade),"",1936,2019-05-10 09:08:04 UTC,2021-08-16 02:45:33 UTC,true,1,,,,,,en_US
+how-do-i-send-a-notification-regarding-an-issue,264234,Can I send a notification regarding an issue or update?,"",1816,2017-07-24 07:26:27 UTC,2018-03-14 07:20:15 UTC,true,1,,,,,,en_US
+340751-add-permit,340751,Add Permit Form Pages,"",1784,2018-09-26 09:04:32 UTC,2018-09-26 10:35:44 UTC,true,1,,,,,,en_US
+how-to-the-snagr-home-user-cancel-a-requested-appointment?,623314,How to the SnagR Home user cancel a requested appointment?,"",987,2020-08-10 08:47:06 UTC,2020-08-10 11:54:57 UTC,true,1,,,,,,en_US
+how-to-upload-drawings,264279,How to prepare and upload drawings?,"",3969,2017-07-24 09:09:57 UTC,2019-01-10 04:26:39 UTC,true,1,,,,,,en_US
+can-i-have-a-report-with-the-first-and-last-photo-only,268291,Can I have a report with the first and last photo only? ,"",1874,2017-08-22 01:56:16 UTC,2018-09-26 09:04:29 UTC,true,1,,,,,,en_US
+how-do-i-search-issues-on-device,264257,How do I search for issues?,"",2756,2017-07-24 07:52:42 UTC,2019-11-01 04:01:49 UTC,true,1,,,,,,en_US
+340863-permits-dashboard,340863,How do I view and submit permits?,"",1758,2018-09-27 03:27:36 UTC,2019-05-10 09:58:56 UTC,true,1,,,,,,en_US
+340737-how-can-i-remove-a-form-from-the-inspection-template,340737,How can I remove a form template from an inspection template?,"",1556,2018-09-26 05:27:23 UTC,2018-09-26 10:34:49 UTC,true,1,,,,,,en_US
+how-to-link-drawings-together-manually,264280,How to link drawings together (manually)?,"",2030,2017-07-24 09:10:00 UTC,2019-05-06 03:09:11 UTC,true,1,,,,,,en_US
+340762-terminology,340762,Terminology (at Company Level),"",1734,2018-09-26 10:03:31 UTC,2019-01-07 12:07:25 UTC,true,1,,,,,,en_US
+312274-how-to-set-up-the-drawing-regions,312274,What is Drawing Region and how to set it up? ,"",5468,2018-04-24 10:50:55 UTC,2018-04-30 07:09:44 UTC,true,1,,,,,,en_US
+340862-manufacturer,340862,Manufacturer,"",1885,2018-09-27 03:23:08 UTC,2018-09-27 03:25:09 UTC,true,1,,,,,,en_US
+how-do-i-view-analytics,268299,How do I view issue analytics?,"",2232,2017-08-22 02:56:29 UTC,2018-09-26 08:47:25 UTC,true,1,,,,,,en_US
+how-to-send-password-reminders,271440,How to send password reminders? ,"",1791,2017-08-30 09:39:28 UTC,2019-08-22 04:44:22 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-/-android-v41515-(9-oct-2020)-,680099,Release Notes - Hotfix iOS v4.151.5 / Android v4.151.4 (9-Oct-2020) ,"",702,2020-10-12 01:07:52 UTC,2020-10-12 02:04:01 UTC,true,1,,,,,,en_US
+how-can-i-go-from-one-drawing-to-another,264206,How can I go from one drawing to another?,"",2967,2017-07-24 06:32:19 UTC,2019-10-24 04:14:16 UTC,true,1,,,,,,en_US
+how-to-set-up-the-qr-code-image,610712,How to set up the QR Code image field?,"",1590,2020-07-17 08:21:27 UTC,2020-08-26 09:16:16 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41522-(5-nov-2020)-,713580,Release Notes - Hotfix iOS v4.152.2 (5-Nov-2020) ,"",856,2020-11-05 05:53:02 UTC,2020-11-05 05:54:40 UTC,true,1,,,,,,en_US
+remove-and-re-add-project,264260,Remove and re-add project,"",3138,2017-07-24 08:03:21 UTC,2019-09-09 04:01:55 UTC,true,1,,,,,,en_US
+how-to-organise-issue-pins-that-overlap-on-each-other,264227,Issue pins overlap on each other. It's difficult to click on them. How can this be fixed?,"",2403,2017-07-24 07:08:33 UTC,2018-12-03 05:26:41 UTC,true,1,,,,,,en_US
+how-to-upload-documents,268878,How to upload documents to the Project Document Repository?,"",2342,2017-08-25 07:32:35 UTC,2019-05-06 10:45:57 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41549-19-oct-2021,1097563,Release Notes - Hotfix iOS v4.154.9 (19-Oct-2021),"",818,2021-10-19 00:48:35 UTC,2021-10-19 00:50:00 UTC,true,1,,,,,,en_US
+latest-release-notes-v41011913-13-jan-2020,516167,Release Notes - Web v4.1.0.11913 (13-Jan-2020),"",1006,2020-01-13 09:31:04 UTC,2020-01-29 09:28:46 UTC,true,1,,,,,,en_US
+release-notes-hotfix-android-v41462-13-march-2020,544549,Release Notes - Hotfix Android v4.146.2 (13-March-2020),"",876,2020-03-13 03:31:59 UTC,2020-03-13 03:36:04 UTC,true,1,,,,,,en_US
+how-can-i-set-up-auto-close-for-photo-diaries,339759,How can I enable auto-close for photo diaries? ,"",1554,2018-09-19 08:28:58 UTC,2019-05-14 04:41:30 UTC,true,1,,,,,,en_US
+340752-project-checklists,340752,Create Project Checklist,"",1729,2018-09-26 09:14:43 UTC,2018-09-27 10:24:14 UTC,true,1,,,,,,en_US
+can-i-edit-issues,264231,Can I edit issues?,"",2915,2017-07-24 07:15:05 UTC,2019-11-01 04:01:42 UTC,true,1,,,,,,en_US
+release-notes-android-v41489-07-june-2020,595764,Release Notes - Hot fix Android v4.148.9 (07-June-2020),"",923,2020-06-15 02:18:21 UTC,2020-06-15 02:20:07 UTC,true,1,,,,,,en_US
+how-to-generate-the-welcome-packs,2153867,How to generate the Welcome Pack(s)?,"",586,2023-09-05 10:19:33 UTC,2023-09-05 10:26:42 UTC,true,1,,,,,,en_US
+can-i-add-more-photos-to-an-issue,264229,Can I add more photos to an issue?,"",2700,2017-07-24 07:10:26 UTC,2019-11-01 04:01:25 UTC,true,1,,,,,,en_US
+linkup-issue-contractor,378047,Can the contractor be automatically selected when a specific issue type is selected? ,"",1258,2019-04-09 05:02:39 UTC,2019-04-10 07:08:14 UTC,true,1,,,,,,en_US
+how-to-edit-form-details,395174,How to edit form details?,"",1224,2019-06-11 10:31:17 UTC,2019-06-13 04:04:31 UTC,true,1,,,,,,en_US
+340756-can-i-edit-replace-inspection-form,340756,Can I edit / replace form page image?,"",1509,2018-09-26 09:34:50 UTC,2018-09-26 10:32:01 UTC,true,1,,,,,,en_US
+how-do-i-change-password,264226,How do I change password?,"",2160,2017-07-24 06:55:34 UTC,2019-02-04 05:26:19 UTC,true,1,,,,,,en_US
+how-to-enable-specific-issue-categories-for-a-project,266223,I can't see the issue list when I add issues. What is wrong?,"",2003,2017-08-06 14:15:17 UTC,2018-09-27 08:40:34 UTC,true,1,,,,,,en_US
+release-notes-v41517-(29-oct-2020)-,699547,Release Notes -  v4.151.7 (29-Oct-2020) ,"",822,2020-10-29 05:50:06 UTC,2020-10-29 05:51:02 UTC,true,1,,,,,,en_US
+project-summary-what-are-the-figures-in-red-colour,340865,Project Summary: What are the figures in red colour? ,"",1817,2018-09-27 04:08:26 UTC,2019-05-09 06:28:03 UTC,true,1,,,,,,en_US
+340764-can-i-search-inspection-forms-by-the-hotspot-value,340764,Can I search inspection forms by its content?,"",1728,2018-09-26 10:15:45 UTC,2020-08-31 05:59:52 UTC,true,1,,,,,,en_US
+release-notes-hot-fix-android-v41490-10-june-2020,595765,Release Notes - Hot fix Android v4.149.0 (10-June-2020),"",994,2020-06-15 02:20:21 UTC,2020-06-15 02:21:08 UTC,true,1,,,,,,en_US
+release-notes-ios-v41483-12-may-2020,595761,Release Notes - Hot fix - iOS v4.148.3 (12-May-2020),"",950,2020-06-15 02:13:42 UTC,2020-06-15 02:15:43 UTC,true,1,,,,,,en_US
+handover-process-with-purchaser,268283,Handover to Purchasers,"",3301,2017-08-22 01:42:05 UTC,2019-04-16 05:41:26 UTC,true,1,,,,,,en_US
+how-to-set-permission-for-kpi-dashboard,324497,How to set permissions for KPI dashboards?,"",2415,2018-06-25 04:20:21 UTC,2019-01-10 07:00:03 UTC,true,1,,,,,,en_US
+340761-regions-divisions-programs,340761,Regions / Divisions / Programs (at Company Level),"",1528,2018-09-26 10:02:12 UTC,2019-01-07 12:12:37 UTC,true,1,,,,,,en_US
+what-is-add-future-issue,264228,"What is ""Add Future Issue""?","",2049,2017-07-24 07:09:33 UTC,2018-03-14 06:49:29 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-/-android-v41510-(25-sept-2020)-,668547,Release Notes - Hotfix iOS / Android v4.151.0 (25-Sept-2020) ,"",639,2020-09-25 10:00:44 UTC,2020-09-25 10:02:57 UTC,true,1,,,,,,en_US
+how-to-create-a-folder,268877,How to create a folder? ,"",2239,2017-08-25 07:32:15 UTC,2018-03-14 08:03:03 UTC,true,1,,,,,,en_US
+371412-what-is-email-log,371412,What is Project Activity Log?,"",1559,2019-03-13 08:58:33 UTC,2019-10-28 14:46:17 UTC,true,1,,,,,,en_US
+340878-icons-or-buttons-on-the-device,340878,Overview of all icons/buttons in mobile app,"",2471,2018-09-27 08:05:47 UTC,2019-05-10 05:01:48 UTC,true,1,,,,,,en_US
+340750-add-permit-inspection,340750,Add Permit Inspection,"",1766,2018-09-26 09:04:31 UTC,2018-09-26 09:32:17 UTC,true,1,,,,,,en_US
+312904-how-do-i-digitalise-a-form,312904,How do I set up a digital form?,"",3598,2018-04-27 03:41:41 UTC,2020-07-17 09:31:28 UTC,true,1,,,,,,en_US
+latest-release-notes-v4-1-11845,499063,Release Notes - v4.1.11845 (28-Nov-2019),"",1202,2019-11-28 06:41:25 UTC,2020-01-13 09:34:47 UTC,true,1,,,,,,en_US
+can-i-track-changes-of-a-form,266538,Can I track changes of a form?,"",2164,2017-08-10 07:37:42 UTC,2019-02-13 13:57:16 UTC,true,1,,,,,,en_US
+release-notes-hotfix-iosandroid-v41531-03-may-2021-,905104,Release Notes - Hotfix iOS/Android v4.153.1 (03-May-2021) ,"",848,2021-05-03 02:45:57 UTC,2021-05-03 02:47:00 UTC,true,1,,,,,,en_US
+can-issue-reports-be-generated-automatically,268445,Can issue reports be generated automatically? ,"",2265,2017-08-23 06:37:51 UTC,2018-09-27 04:12:42 UTC,true,1,,,,,,en_US
+defect-management,337879,Defect Management,"",3112,2018-09-05 09:55:46 UTC,2018-12-31 15:36:02 UTC,true,1,,,,,,en_US
+how-to-edit-users-detail,2153171,How to edit user's detail?,"",557,2023-09-04 08:48:08 UTC,2023-09-04 08:52:15 UTC,true,1,,,,,,en_US
+how-to-move-a-file-from-one-folder-to-another,268888,How to move a file from one folder to another?,"",1941,2017-08-25 09:01:53 UTC,2018-03-14 08:11:44 UTC,true,1,,,,,,en_US
+337878-non-conformance-report,337878,Non Conformance Report,"",2862,2018-09-05 09:55:09 UTC,2018-09-28 02:34:59 UTC,true,1,,,,,,en_US
+release-notes-hotfix-android-v41545-27-august-2021,1025233,Release Notes - Hotfix Android v4.154.5 (27-August-2021),"",795,2021-08-27 01:08:38 UTC,2021-08-27 01:09:48 UTC,true,1,,,,,,en_US
+340894-room-area-signoff,340894,Room / Area Signoff,"",1477,2018-09-27 10:13:35 UTC,2019-07-26 09:30:32 UTC,true,1,,,,,,en_US
+how-to-add-multiple-issues-on-the-same-spot,265844,Can I add multiple issues on the same spot? ,"",2775,2017-08-03 05:29:40 UTC,2019-11-01 04:01:19 UTC,true,1,,,,,,en_US
+339385-how-do-i-generate-a-custom-report,339385,How do I generate a custom report? ,"",3221,2018-09-14 11:35:32 UTC,2019-06-10 05:36:41 UTC,true,1,,,,,,en_US
+how-to-generate-issue-report-for-subcontractors-only,268290,How to generate issue report for subcontractors only?,"",2640,2017-08-22 01:55:40 UTC,2018-01-03 08:11:12 UTC,true,1,,,,,,en_US
+how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form,341368,How can I add a photo from the photo gallery in an inspection form?,"",2185,2018-10-04 09:42:03 UTC,2019-08-08 08:40:00 UTC,true,1,,,,,,en_US
+how-to-get-a-summary-statistics-of-our-issue-records,268294,How to get a summary statistics of our issue records? ,"",2318,2017-08-22 02:06:01 UTC,2018-09-26 09:04:46 UTC,true,1,,,,,,en_US
+how-can-i-link-issues-to-a-form,264254,How can I link issues to a form?,"",3713,2017-07-24 07:50:18 UTC,2019-11-01 04:02:19 UTC,true,1,,,,,,en_US
+how-to-design-the-issue-list,266217,How to design the issue list?,"",2802,2017-08-06 13:53:02 UTC,2019-07-04 10:13:27 UTC,true,1,,,,,,en_US
+can-i-set-up-auto-sync,264203,Can I set up auto sync?,"",2463,2017-07-24 06:16:41 UTC,2019-11-01 03:58:59 UTC,true,1,,,,,,en_US
+daily-site-walk,268288,Site Diary,"",3404,2017-08-22 01:52:38 UTC,2019-04-29 05:14:50 UTC,true,1,,,,,,en_US
+how-do-i-create-a-new-project,553879,How do I create a new project?,"",1490,2020-04-02 07:21:22 UTC,2020-04-02 09:51:23 UTC,true,1,,,,,,en_US
+safety-inspection,268286,Safety Inspection,"",2923,2017-08-22 01:47:02 UTC,2019-04-26 10:13:09 UTC,true,1,,,,,,en_US
+enable2fa,357025,Enable Two-Factor Authentication (at Company level),"",1806,2019-01-09 08:31:45 UTC,2019-08-08 08:45:37 UTC,true,1,,,,,,en_US
+how-to-delete-a-folder,268885,How to delete a folder?,"",1813,2017-08-25 08:57:49 UTC,2018-03-14 08:06:19 UTC,true,1,,,,,,en_US
+release-notes-hot-fix-ios-v41486-29-may-2020,595762,Release Notes - Hot fix iOS v4.148.6 (29-May-2020),"",1000,2020-06-15 02:16:05 UTC,2020-06-15 02:16:45 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-/-android-v41512-(-6-oct-2020)-,676156,Release Notes - Hotfix iOS / Android v4.151.2 (-6-Oct-2020) ,"",660,2020-10-06 12:31:36 UTC,2020-10-06 12:33:29 UTC,true,1,,,,,,en_US
+what-do-the-pin-colours-represent,264262,The issue pins have different colours. What do they mean?,"",3117,2017-07-24 08:05:30 UTC,2019-02-13 13:54:24 UTC,true,1,,,,,,en_US
+how-to-edit-existing-drawing,264284,How to edit drawings?,"",2824,2017-07-24 09:18:37 UTC,2018-04-30 07:11:23 UTC,true,1,,,,,,en_US
+loginwith2fa,356992,Login with Two-Factor Authentication,"",4066,2019-01-09 03:16:45 UTC,2019-11-01 03:58:41 UTC,true,1,,,,,,en_US
+how-to-set-up-forms-notifications-for-all-users,266215,How to set up forms notifications for all users?,"",2577,2017-08-06 13:51:36 UTC,2018-11-05 05:31:08 UTC,true,1,,,,,,en_US
+340895-create-barcode-for-location,340895,How to generate QR codes for locations? ,"",2540,2018-09-27 10:20:21 UTC,2021-02-10 08:16:32 UTC,true,1,,,,,,en_US
+340867-move-edit-delete-a-location-pin,340867,How to move / edit / delete a location pin?,"",2133,2018-09-27 04:33:32 UTC,2018-10-29 02:29:09 UTC,true,1,,,,,,en_US
+how-do-i-see-custom-dashboard,339604,"How do I view a custom KPI dashboard?
+","",2925,2018-09-18 01:54:21 UTC,2018-09-27 03:33:55 UTC,true,1,,,,,,en_US
+how-to-set-permission-for-custom-reports,339388,How to set permissions for custom reports? ,"",1885,2018-09-14 11:51:30 UTC,2019-06-10 05:40:02 UTC,true,1,,,,,,en_US
+how-to-the-snagr-home-user-request-an-appointment?,623309,How to the SnagR Home user request an appointment?,"",896,2020-08-10 07:29:38 UTC,2020-08-10 11:17:04 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41527---android-v41529-(21-jan-2021)-,802435,Release Notes - Hotfix iOS v4.152.7 / Android v4.152.9 (21-Jan-2021) ,"",933,2021-01-21 03:18:59 UTC,2021-01-21 03:25:28 UTC,true,1,,,,,,en_US
+how-to-manage-subscriptions,268447,How to manage subscriptions?,"",2508,2017-08-23 06:40:03 UTC,2018-12-14 07:54:39 UTC,true,1,,,,,,en_US
+340754-construction-stages,340754,Create Construction Stages,"",1682,2018-09-26 09:29:11 UTC,2018-09-27 10:33:31 UTC,true,1,,,,,,en_US
+330054-import-export-inspection-form-templates,330054,Import/Export Inspection Form Templates,"",2714,2018-07-31 05:38:27 UTC,2019-05-06 04:28:03 UTC,true,1,,,,,,en_US
+315713-how-to-set-permissions-forms,315713, How to set permissions? (Forms) ,"",2503,2018-05-09 07:53:29 UTC,2020-12-14 09:49:12 UTC,true,1,,,,,,en_US
+340758-how-to-edit-the-inspection-template,340758,How can I edit an inspection template?,"",1786,2018-09-26 09:36:22 UTC,2019-08-08 08:19:08 UTC,true,1,,,,,,en_US
+how-to-edit-items-on-standard-issue-list,283557,How to edit items on standard issue list?,"",1871,2017-10-31 04:43:59 UTC,2019-01-10 09:41:04 UTC,true,1,,,,,,en_US
+release-notes-hot-fix-android-v41496-16-july-2020,610178,Release Notes - Hot fix Android v4.149.6 (16-July-2020),"",904,2020-07-16 06:38:43 UTC,2020-07-20 11:02:06 UTC,true,1,,,,,,en_US
+how-to-confirm-appointment?,623368,How to confirm appointment?,"",1092,2020-08-10 12:00:06 UTC,2020-08-10 12:14:24 UTC,true,1,,,,,,en_US
+release-notes-hot-fix-ios-v41493-18-june-2020,598344,Release Notes - Hot fix iOS v4.149.3 (18-June-2020),"",940,2020-06-18 23:29:43 UTC,2020-06-18 23:31:53 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41526-(9-dec-2020),764733,Release Notes - Hotfix iOS v4.152.6 (9-Dec-2020),"",899,2020-12-09 14:00:28 UTC,2020-12-09 14:02:17 UTC,true,1,,,,,,en_US
+how-can-i-be-notified-of-forms-updates,268446,How can I be notified of forms updates?,"",2291,2017-08-23 06:39:26 UTC,2018-11-05 02:06:36 UTC,true,1,,,,,,en_US
+how-to-find-documents-by-locations,269193,How to find documents by locations? ,"",2076,2017-08-28 04:04:28 UTC,2019-08-08 08:52:50 UTC,true,1,,,,,,en_US
+how-to-scan-and-fill-the-qrcode-image-qrcode-text-field,611310,How to scan and fill the QRCode image / QRCode text field?,"",1281,2020-07-20 07:41:24 UTC,2020-07-20 07:46:05 UTC,true,1,,,,,,en_US
+how-to-add-single-items-to-issue-list,266218,How to add single items to issue list? ,"",2134,2017-08-06 13:53:28 UTC,2018-10-04 05:30:27 UTC,true,1,,,,,,en_US
+how-to-link-drawings-together-automatically,264281,How to link drawings together (automatically)?,"",2227,2017-07-24 09:10:02 UTC,2018-09-27 04:00:41 UTC,true,1,,,,,,en_US
+release-notes-hotfix-iosandroid-v41537-28-may-2021-,940850,Release Notes - Hotfix iOS/Android v4.153.7 (28-May-2021) ,"",836,2021-05-28 08:45:58 UTC,2021-05-28 08:47:04 UTC,true,1,,,,,,en_US
+386689-how-can-i-contact-snagr,386689,How can I contact SnagR?,"",2372,2019-05-10 05:03:28 UTC,2019-05-10 05:05:26 UTC,true,1,,,,,,en_US
+how-to-update-the-users-profile,2153157,How to update the user's profile?,"",550,2023-09-04 08:34:29 UTC,2023-09-04 08:46:02 UTC,true,1,,,,,,en_US
+how-do-i-download-a-project,263838,How do I download a project on mobile app?,"",7234,2017-07-20 14:22:38 UTC,2019-11-01 03:58:47 UTC,true,1,,,,,,en_US
+how-to-enable-form-templates-for-a-project,266224,I can't see the Inspection Template on the project. What is wrong?,"",2425,2017-08-06 14:20:11 UTC,2019-05-10 10:43:32 UTC,true,1,,,,,,en_US
+how-to-set-up-issues-notifications-for-all-users,266214,How to set up issues notifications for all users?,"",3062,2017-08-06 13:50:51 UTC,2019-01-10 07:59:58 UTC,true,1,,,,,,en_US
+where-do-i-see-issue-notifications,265852,Where do I see issue notifications?,"",2212,2017-08-03 08:47:52 UTC,2018-03-14 07:06:43 UTC,true,1,,,,,,en_US
+304335-how-to-create-custom-list,304335,How to create a custom list?,"",2535,2018-03-16 04:30:29 UTC,2018-05-02 06:40:07 UTC,true,1,,,,,,en_US
+340877-filtering-issues-on-device,340877,Can I filter issues on drawings? ,"",2897,2018-09-27 07:56:44 UTC,2018-09-27 10:11:03 UTC,true,1,,,,,,en_US
+340759-can-i-edit-the-priorities-and-due-day,340759,Edit Priorities and Due Days (at Company Level),"",1588,2018-09-26 09:47:57 UTC,2019-01-07 09:32:22 UTC,true,1,,,,,,en_US
+how-to-download-files,264210,How to download files?,"",2552,2017-07-24 06:38:55 UTC,2018-03-14 08:12:40 UTC,true,1,,,,,,en_US
+304211-can-i-delete-form,304211,How can I delete Inspection Forms?,"",2717,2018-03-15 10:04:40 UTC,2019-02-04 05:31:25 UTC,true,1,,,,,,en_US
+340763-add-user-at-the-company-level,340763,Manage User at Company Level,"",2079,2018-09-26 10:05:16 UTC,2018-09-27 04:56:42 UTC,true,1,,,,,,en_US
+311758-how-to-batch-edit-issues,311758,Can I batch edit issues?,"",2439,2018-04-23 10:33:28 UTC,2019-06-20 05:27:50 UTC,true,1,,,,,,en_US
+can-i-delete-issues,265685,Can I delete issues?,"",2121,2017-08-02 07:52:54 UTC,2018-11-12 03:37:47 UTC,true,1,,,,,,en_US
+can-i-copy-and-paste-an-issue,265856,"Can I ""copy and paste"" an issue? ","",2174,2017-08-03 09:14:21 UTC,2019-11-01 04:01:31 UTC,true,1,,,,,,en_US
+340881-the-app-has-been-checking-credentials-for-a-long-time-and-does-not-allow-me-to-download-project-on-mobile-app-what-is-wrong,340881,"The app has been ""Checking Credentials"" for a long time. What is wrong? ","",1783,2018-09-27 08:28:00 UTC,2019-01-15 10:27:44 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-/-android-v41506-(23-sept-2020)-,660682,Release Notes - Hotfix iOS / Android v4.150.6 (23-Sept-2020) ,"",705,2020-09-24 09:15:40 UTC,2020-09-24 09:20:09 UTC,true,1,,,,,,en_US
+317970-permit-to-work,317970,Permit to Work,"",2113,2018-05-23 05:21:20 UTC,2019-04-29 04:01:48 UTC,true,1,,,,,,en_US
+what-is-the-quickest-way-to-set-up-repetitive-units,268134,What is the quickest way to set up repetitive units? ,"",2186,2017-08-21 09:28:48 UTC,2018-09-27 04:01:50 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41552-android-v41554-17-nov-2021,1145959,Release Notes - Hotfix iOS v4.155.2 / Android v4.155.4 (17-Nov-2021),"",779,2021-11-17 10:31:11 UTC,2021-11-17 10:34:36 UTC,true,1,,,,,,en_US
+request-for-inspections,268284,Request for Inspections,"",1952,2017-08-22 01:42:32 UTC,2019-04-17 05:28:46 UTC,true,1,,,,,,en_US
+how-to-generate-an-issue-report,264237,How to generate an issue report?,"",5659,2017-07-24 07:28:47 UTC,2019-02-13 13:55:05 UTC,true,1,,,,,,en_US
+what-does-synchronise-mean,264204,What is synchronise and why should I do it?,"",3941,2017-07-24 06:18:25 UTC,2019-10-24 04:14:25 UTC,true,1,,,,,,en_US
+subcontractor,338148,Subcontractor,"",5156,2018-09-07 10:09:50 UTC,2019-04-30 05:17:03 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41540-07-june-2021,951285,Release Notes - Hotfix iOS v4.154.0 (07-June-2021),"",853,2021-06-08 01:48:00 UTC,2021-06-08 01:49:09 UTC,true,1,,,,,,en_US
+developer,340861,Developer,"",2935,2018-09-27 03:20:17 UTC,2019-01-08 10:47:24 UTC,true,1,,,,,,en_US
+how-to-update-issues,264230,How to update / close issues?,"",5563,2017-07-24 07:11:25 UTC,2019-02-13 13:54:08 UTC,true,1,,,,,,en_US
+386735-how-to-mark-the-document-as-not-in-use-new-upgrade,386735,"How to mark the document as ""Not in Use""? (New Upgrade)","",1393,2019-05-10 09:08:40 UTC,2019-11-22 12:03:47 UTC,true,1,,,,,,en_US
+how-to-complete-forms-on-website,266256,How to complete forms on website?,"",3079,2017-08-07 09:44:52 UTC,2019-11-01 04:00:36 UTC,true,1,,,,,,en_US
+release-notes-ios-v41497-(18-sept-2020),648266,Release Notes - iOS v4.149.7 & Android v4.149.8 (18-Sept-2020),"",918,2020-09-19 01:17:49 UTC,2020-09-24 09:14:59 UTC,true,1,,,,,,en_US
+common-issues-in-project-download,268292,"I can login on website, but I can't on mobile app. What is wrong?","",4802,2017-08-22 01:59:41 UTC,2019-01-10 14:33:59 UTC,true,1,,,,,,en_US
+343363-how-to-create-a-hierarchical-list,343363,How to create a Hierarchical List? ,"",2155,2018-10-12 08:08:01 UTC,2018-10-15 02:45:34 UTC,true,1,,,,,,en_US
+340889-inspection-dashboard,340889,How do I get an overview of all Inspection Forms?,"",2056,2018-09-27 09:39:01 UTC,2019-01-02 13:36:38 UTC,true,1,,,,,,en_US
+341362-i-can-t-sync-on-mobile-app-what-should-i-do,341362,I can't sync on mobile app. What should I do? ,"",2161,2018-10-04 05:42:53 UTC,2019-05-10 05:03:08 UTC,true,1,,,,,,en_US
+340888-project-checklists,340888,Import Project Checklists (at Project level),"",1659,2018-09-27 09:37:15 UTC,2019-09-25 08:14:46 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41463-18-march-2020,546284,Release Notes - Hotfix iOS v4.146.3 (18-March-2020),"",962,2020-03-19 02:42:44 UTC,2020-03-19 02:45:54 UTC,true,1,,,,,,en_US
+release-notes-v4111930-29-jan-2019,526502,Release Notes - v4.1.11930 (29-Jan-2019),"",971,2020-01-29 09:29:28 UTC,2020-01-29 09:31:09 UTC,true,1,,,,,,en_US
+how-to-complete-forms-on-device,264253,How to complete forms on device? ,"",3963,2017-07-24 07:50:16 UTC,2019-11-01 04:00:31 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41465-19-march-2020,546285,Release Notes - Hotfix iOS v4.146.5 (19-March-2020),"",1036,2020-03-19 02:46:19 UTC,2020-03-19 02:48:20 UTC,true,1,,,,,,en_US
+304697-how-to-export-excel-from-template,304697,How to export form content into Excel?,"",2796,2018-03-20 13:50:02 UTC,2019-11-07 05:01:49 UTC,true,1,,,,,,en_US
+340883-what-os-version-does-snagr-support,340883,What OS version does SnagR support?,"",1629,2018-09-27 09:03:18 UTC,2020-07-16 10:05:53 UTC,true,1,,,,,,en_US
+can-i-extract-a-list-of-forms-that-are-created-on-snagr,264273,Can I extract a list of forms that are created on SnagR? ,"",2135,2017-07-24 08:31:10 UTC,2018-10-04 05:29:26 UTC,true,1,,,,,,en_US
+how-do-i-export-form-pdf-if-there-are-issues-and-documents-attached-to-it,266542,How do I export form PDF if there are issues and documents attached to it?,"",2344,2017-08-10 07:53:57 UTC,2018-10-04 05:29:21 UTC,true,1,,,,,,en_US
+can-i-export-forms-in-pdf,266541,Can I export forms in PDF?,"",2370,2017-08-10 07:50:44 UTC,2019-11-01 04:00:39 UTC,true,1,,,,,,en_US
+384922-how-to-batch-edit-user-s-role-enabled,384922,How to batch edit User(s) Role / Enabled?,"",1328,2019-05-03 06:33:47 UTC,2019-08-22 04:44:40 UTC,true,1,,,,,,en_US
+how-to-set-permissions-issues,271445,How to set permissions? (Issues) ,"",3540,2017-08-30 10:12:12 UTC,2019-05-03 10:38:04 UTC,true,1,,,,,,en_US
+how-do-i-see-form-notifications,264276,How do I see form notifications?,"",2311,2017-07-24 08:50:10 UTC,2019-08-07 10:37:35 UTC,true,1,,,,,,en_US
+to-batch-assign-the-appointment?,623372,To batch assign the appointment?,"",872,2020-08-10 12:15:57 UTC,2020-08-10 12:36:43 UTC,true,1,,,,,,en_US
+main-contractor,338152,Main Contractor,"",4423,2018-09-07 11:00:42 UTC,2019-04-30 05:43:45 UTC,true,1,,,,,,en_US
+release-notes-hotfix-ios-v41525-(3-dec-2020)-,756887,Release Notes - Hotfix iOS v4.152.5 (3-Dec-2020) ,"",874,2020-12-03 02:32:39 UTC,2020-12-03 02:33:40 UTC,true,1,,,,,,en_US
+340869-location-ready-for-inspection,340869,Location Ready for Inspection,"",2036,2018-09-27 05:16:21 UTC,2018-09-27 07:31:26 UTC,true,1,,,,,,en_US
+340760-edit-view-projects,340760,Edit / View Projects (at Company Level),"",1514,2018-09-26 09:55:25 UTC,2019-01-07 10:25:50 UTC,true,1,,,,,,en_US
+how-to-break-items-out-from-a-plot-with-multiple-issues,264233,How to break items out from a plot with multiple issues?,"",1776,2017-07-24 07:21:19 UTC,2018-03-14 07:12:47 UTC,true,1,,,,,,en_US
+release-notes-hotfix-android-v41544-24-august-2021,1018790,Release Notes - Hotfix Android v4.154.4 (24-August-2021),"",787,2021-08-24 03:06:10 UTC,2021-08-24 03:07:11 UTC,true,1,,,,,,en_US
+release-notes-android-v41605-04-feb-2022,1231721,Release Notes - Android v4.160.5 (04-Feb-2022),"",753,2022-02-04 04:52:33 UTC,2022-02-04 04:54:36 UTC,true,1,,,,,,en_US
+304553-how-to-design-the-dms-export-template,304553,[Export Form Content to Excel] How to setup template?,"",3021,2018-03-19 05:21:49 UTC,2019-08-08 08:26:10 UTC,true,1,,,,,,en_US
+340886-construction-stages,340886,Import Construction Stages Schedules to track progress (at Project Level),"",1891,2018-09-27 09:32:59 UTC,2019-05-14 04:37:03 UTC,true,1,,,,,,en_US
+wie-kann-ich-dokumente-mit-formularen-verknupfen,402616,Wie kann ich Dokumente mit Formularen verknüpfen?,"",1151,2019-07-04 03:02:43 UTC,2019-08-01 10:13:49 UTC,true,4,,,,,,de_DE
+projektcheckliste-erstellen,402545,Projektcheckliste erstellen,"",821,2019-07-04 03:00:53 UTC,2019-08-01 12:14:49 UTC,true,4,,,,,,de_DE
+nl-issues-in-project-download,402496,Veelvoorkomende problemen bij het downloaden van een project,"",122,2019-07-04 02:59:53 UTC,2019-07-04 02:59:54 UTC,true,4,,,,,,de_DE
+overzicht-voor-inspectie-teams-adviseurs,402502,Overzicht voor Inspectie Teams / Adviseurs,"",90,2019-07-04 03:00:01 UTC,2019-07-04 03:00:03 UTC,true,4,,,,,,de_DE
+overzicht-voor-management,402544,Overzicht voor Management,"",97,2019-07-04 03:00:52 UTC,2019-07-04 03:00:53 UTC,true,4,,,,,,de_DE
+overzicht-voor-onderaannemers,402556,Overzicht voor onderaannemers,"",85,2019-07-04 03:01:04 UTC,2019-07-04 03:01:04 UTC,true,4,,,,,,de_DE
+wie-kann-unser-problembehebungsprozess-in-snagr-definiert-werden,402592,Hoe kan ons probleemherstelproces worden gedefinieerd in SnagR?,"",117,2019-07-04 03:02:02 UTC,2019-07-31 14:12:53 UTC,false,4,,,,,,de_DE
+kan-ik-meer-fotos-toevoegen-aan-een-actiepunt,402612,Kan ik meer foto's toevoegen aan een actiepunt?,"",103,2019-07-04 03:02:34 UTC,2019-07-04 03:02:35 UTC,true,4,,,,,,de_DE
+hoe-voeg-ik-handmatige-workflows-toe-aan-formulieren,402472,Hoe voeg ik handmatige workflows toe aan formulieren?,"",105,2019-07-04 02:59:29 UTC,2019-07-04 02:59:29 UTC,true,4,,,,,,de_DE
+wat-is-het-verschil-tussen-een-gebruikers-en-aannemers-account,402493,Wat is het verschil tussen een gebruikers en aannemers account? ,"",99,2019-07-04 02:59:51 UTC,2019-07-04 02:59:51 UTC,true,4,,,,,,de_DE
+hoe-ontwerp-ik-inspecties,402514,Hoe ontwerp ik inspecties?,"",100,2019-07-04 03:00:16 UTC,2019-07-04 03:00:17 UTC,true,4,,,,,,de_DE
+hoe-stel-ik-inspecties-en-formulieren-in,402538,Hoe stel ik inspecties en formulieren in?,"",106,2019-07-04 03:00:48 UTC,2019-07-04 03:00:49 UTC,true,4,,,,,,de_DE
+wie-lade-ich-dokumente-hoch,402519,Wie lade ich Dokumente hoch?,"",950,2019-07-04 03:00:22 UTC,2019-08-01 07:36:24 UTC,true,4,,,,,,de_DE
+kann-ich-einen-aktionspunkt-und-einfugen,402488,Kann ich einen Aktionspunkt und einfügen?,"",970,2019-07-04 02:59:47 UTC,2019-08-01 08:19:25 UTC,true,4,,,,,,de_DE
+kan-ik-actiepunten-verwijderen,402539,Kann ich Aktionspunkte löschen?,"",709,2019-07-04 03:00:49 UTC,2019-07-26 09:44:32 UTC,true,4,,,,,,de_DE
+wie-losche-ich-inspektionsformulare,402521,Wie lösche ich Inspektionsformulare?,"",888,2019-07-04 03:00:23 UTC,2019-08-01 08:32:29 UTC,true,4,,,,,,de_DE
+wie-erstelle-ich-ein-digitales-formular,402537,Wie erstelle ich ein digitales Formular?,"",1217,2019-07-04 03:00:43 UTC,2019-08-01 11:36:09 UTC,true,4,,,,,,de_DE
+hauptauftragnehmer,402477,Hauptauftragnehmer,"",961,2019-07-04 02:59:34 UTC,2019-08-01 08:54:28 UTC,true,4,,,,,,de_DE
+wie-bearbeite-ich-elemente-in-der-standardaktionspunkteliste,402623,Wie bearbeite ich Elemente in der Standardaktionspunkteliste?,"",985,2019-07-04 03:02:49 UTC,2019-07-31 13:57:11 UTC,true,4,,,,,,de_DE
+wie-fuge-ich-einem-projekt-benutzer-hinzu,402501,Wie füge ich einem Projekt Benutzer hinzu?,"",1187,2019-07-04 03:00:00 UTC,2019-08-01 12:00:06 UTC,true,4,,,,,,de_DE
+aktionspunktverwaltung,402579,Aktionspunktverwaltung,"",949,2019-07-04 03:01:49 UTC,2019-08-01 08:01:05 UTC,true,4,,,,,,de_DE
+kann-ich-eine-automatische-synchronisation-einrichten,402581,Kann ich eine automatische Synchronisation einrichten?,"",1162,2019-07-04 03:01:52 UTC,2019-07-31 15:11:37 UTC,true,4,,,,,,de_DE
+wie-erstelle-ich-einen-aktionspunktbericht,402479,Wie erstelle ich einen Aktionspunktbericht?,"",1262,2019-07-04 02:59:35 UTC,2019-07-22 12:53:42 UTC,true,4,,,,,,de_DE
+wie-aktualisiere-ich-einen-aktionspunkt,402512,Wie aktualisiere ich einen Aktionspunkt?,"",1290,2019-07-04 03:00:14 UTC,2019-07-22 12:31:27 UTC,true,4,,,,,,de_DE
+genehmigungsprufungen-anzeigen-bearbeiten-loschen,402559,Genehmigungsprüfungen anzeigen / bearbeiten / löschen,"",842,2019-07-04 03:01:06 UTC,2019-07-31 13:02:28 UTC,true,4,,,,,,de_DE
+wie-kann-ich-die-verknupfung-von-aktionspunkten-mit-formularen-aufheben,402522,Wie kann ich die Verknüpfung von Aktionspunkten mit Formularen aufheben?,"",1132,2019-07-04 03:00:24 UTC,2019-08-01 08:31:23 UTC,true,4,,,,,,de_DE
+wie-erstelle-ich-die-standardaktionspunktlisten,402572,Wie erstelle ich die Standardaktionspunktlisten ?,"",1148,2019-07-04 03:01:33 UTC,2019-07-31 13:44:14 UTC,true,4,,,,,,de_DE
+was-bedeuten-die-verschiedenen-aktionspunktfarben,402596,Was bedeuten die verschiedenen Aktionspunktfarben?,"",1014,2019-07-04 03:02:10 UTC,2019-07-22 12:41:02 UTC,true,4,,,,,,de_DE
+wie-sehe-ich-formularbenachrichtigungen,402565,Wie sehe ich Formularbenachrichtigungen?,"",1167,2019-07-04 03:01:16 UTC,2019-08-01 08:32:22 UTC,true,4,,,,,,de_DE
+wie-entferne-ich-eine-formularvorlage-aus-einer-inspektionsvorlage,402489,Wie entferne ich eine Formularvorlage aus einer Inspektionsvorlage?,"",885,2019-07-04 02:59:48 UTC,2019-08-01 08:34:41 UTC,true,4,,,,,,de_DE
+wie-erstelle-ich-eine-benutzerdefinierte-liste,402610,Wie erstelle ich eine benutzerdefinierte Liste?,"",1028,2019-07-04 03:02:29 UTC,2019-08-01 08:19:36 UTC,true,4,,,,,,de_DE
+wie-kann-ich-aktionspunkte-mit-einem-formular-verknupfen,402569,Wie kann ich Aktionspunkte mit einem Formular verknüpfen?,"",1375,2019-07-04 03:01:28 UTC,2019-08-01 10:16:06 UTC,true,4,,,,,,de_DE
+wie-exportiere-ich-formulare-in-pdf-wenn-aktionspunkte-und-dokumente-daran-angehangt-sind,402564,"Wie exportiere ich Formulare in PDF, wenn Aktionspunkte und Dokumente daran angehängt sind?","",1106,2019-07-04 03:01:15 UTC,2019-08-01 11:17:01 UTC,true,4,,,,,,de_DE
+regionen-bereiche-programme-auf-unternehmensebene,402480,Regionen / Bereiche / Programme (auf Unternehmensebene),"",889,2019-07-04 02:59:35 UTC,2019-07-31 09:35:26 UTC,true,4,,,,,,de_DE
+projekteinstellungen-bearbeiten-auf-projektebene,402528,Projekteinstellungen bearbeiten (auf Projektebene),"",852,2019-07-04 03:00:35 UTC,2019-07-31 08:58:48 UTC,true,4,,,,,,de_DE
+wie-andere-ich-mein-passwort,402535,Wie ändere ich mein Passwort?,"",884,2019-07-04 03:00:42 UTC,2019-07-31 14:39:23 UTC,true,4,,,,,,de_DE
+genehmigungsformularseite-hinzufugen,402591,Genehmigungsformularseite hinzufügen,"",966,2019-07-04 03:02:00 UTC,2019-08-01 12:11:51 UTC,true,4,,,,,,de_DE
+ich-sehe-die-aktionspunktkategorien-nicht-was-ist-falsch,402571,Ich sehe die Aktionspunktkategorien nicht. Was ist falsch,"",898,2019-07-04 03:01:31 UTC,2019-07-31 13:58:21 UTC,true,4,,,,,,de_DE
+lokation-abmelden,402593,Lokation Abmelden,"",858,2019-07-04 03:02:03 UTC,2019-07-31 14:38:15 UTC,true,4,,,,,,de_DE
+was-sind-zeichnungfelde-und-wie-setze-ich-sie,402527,Was sind Zeichnungsfelder und wie setze ich sie?,"",1127,2019-07-04 03:00:31 UTC,2019-07-31 10:07:38 UTC,true,4,,,,,,de_DE
+wie-trenne-ich-einen-aktionspunkt-von-einem-multiplot-mit-mehreren-aktionspunkten,402622,Wie trenne ich einen Aktionspunkt von einem Multiplot mit mehreren Aktionspunkten?,"",909,2019-07-04 03:02:49 UTC,2019-08-01 08:18:47 UTC,true,4,,,,,,de_DE
+kann-ich-eine-inspektionsvorlage-auf-unternehmensebene-loschen,402619,Kann ich eine Inspektionsvorlage auf Unternehmensebene löschen?,"",889,2019-07-04 03:02:46 UTC,2019-08-01 08:34:47 UTC,true,4,,,,,,de_DE
+formularinhalt-nach-excel-exportieren-wie-bereite-ich-eine-vorlage-vor,402487,[Formularinhalt nach Excel exportieren] Wie bereite ich eine Vorlage vor?,"",1114,2019-07-04 02:59:45 UTC,2019-08-01 11:43:43 UTC,true,4,,,,,,de_DE
+wie-kann-ich-uber-formularanderungen-informiert-werden,402595,Wie kann ich über Formularänderungen informiert werden?,"",1108,2019-07-04 03:02:10 UTC,2019-08-01 08:32:04 UTC,true,4,,,,,,de_DE
+kann-ich-den-lokation-eines-inspektionsformulars-andern,402541,Kann ich den Lokation eines Inspektionsformulars ändern?,"",881,2019-07-04 03:00:51 UTC,2019-08-01 08:32:46 UTC,true,4,,,,,,de_DE
+wie-kann-ich-nach-formularen-suchen,402624,Wie kann ich nach Formularen suchen?,"",1212,2019-07-04 03:02:50 UTC,2019-08-01 10:13:16 UTC,true,4,,,,,,de_DE
+welche-betriebssysteme-unterstutzt-snagr,402520,Welche Betriebssysteme unterstützt SnagR?,"",869,2019-07-04 03:00:23 UTC,2019-07-31 14:43:04 UTC,true,4,,,,,,de_DE
+wie-erstellen-sie-eine-hierarchische-liste,402617,Wie erstellen Sie eine hierarchische Liste?,"",1082,2019-07-04 03:02:44 UTC,2019-07-31 08:45:56 UTC,true,4,,,,,,de_DE
+lokation-zur-inspektion-bereit,402548,Lokation zur Inspektion bereit,"",1015,2019-07-04 03:00:54 UTC,2019-07-31 14:27:08 UTC,true,4,,,,,,de_DE
+wie-kann-ich-die-verknupfung-von-dokumenten-mit-formularen-aufheben,402513,Wie kann ich die Verknüpfung von Dokumenten mit Formularen aufheben?,"",1082,2019-07-04 03:00:16 UTC,2019-08-01 08:31:03 UTC,true,4,,,,,,de_DE
+lokation-schlieen-ubergeben,402563,Lokation schließen / übergeben,"",973,2019-07-04 03:01:13 UTC,2019-07-31 14:36:28 UTC,true,4,,,,,,de_DE
+kann-ich-eine-liste-der-in-snagr-erstellten-formulare-extrahieren,402470,Kann ich eine Liste der in SnagR erstellten Formulare extrahieren?,"",991,2019-07-04 02:59:27 UTC,2019-08-01 08:20:15 UTC,true,4,,,,,,de_DE
+wie-fuge-ich-dem-projekt-auftragnehmer-hinzu,402484,Wie füge ich dem Projekt Auftragnehmer hinzu?,"",1296,2019-07-04 02:59:41 UTC,2019-07-31 11:04:06 UTC,true,4,,,,,,de_DE
+genehmigungsprufungen-hinzufugen,402509,Genehmigungsprüfungen hinzufügen,"",1024,2019-07-04 03:00:12 UTC,2019-08-01 12:10:25 UTC,true,4,,,,,,de_DE
+construction-stages-erstellen,402613,Construction Stages erstellen,"",821,2019-07-04 03:02:35 UTC,2019-07-31 13:37:21 UTC,true,4,,,,,,de_DE
+kann-ich-nur-mit-dem-ersten-und-dem-letzten-foto-einen-bericht-erhalten,402601,Kann ich nur mit dem ersten und dem letzten Foto einen Bericht erhalten?,"",1056,2019-07-04 03:02:19 UTC,2019-08-01 08:02:28 UTC,true,4,,,,,,de_DE
+wie-kann-ich-formulare-auf-der-website-ausfullen,402621,Wie kann ich Formulare auf der Website ausfüllen?,"",1256,2019-07-04 03:02:48 UTC,2019-07-30 07:47:21 UTC,true,4,,,,,,de_DE
+hoe-download-ik-bestanden,402602,Hoe download ik bestanden?,"",878,2019-07-04 03:02:19 UTC,2019-08-01 08:36:28 UTC,true,4,,,,,,de_DE
+baustellen-tagebuch,402530,Baustellen-Tagebuch,"",1609,2019-07-04 03:00:36 UTC,2019-08-01 08:00:35 UTC,true,4,,,,,,de_DE
+wie-fuge-ich-der-standardaktionspunkteliste-ein-einzelnes-element-hinzu,402562,Wie füge ich der Standardaktionspunkteliste ein einzelnes Element hinzu?,"",1000,2019-07-04 03:01:12 UTC,2019-07-31 13:55:25 UTC,true,4,,,,,,de_DE
+wie-erstelle-ich-barcodes-qr-codes-fur-lokationen,402555,Wie erstelle ich Barcodes / QR-Codes für Lokationen?,"",841,2019-07-04 03:01:03 UTC,2019-08-01 12:09:00 UTC,true,4,,,,,,de_DE
+wie-sehe-ich-die-aktionspunktstatistik,402533,Wie sehe ich die Aktionspunktstatistik?,"",1072,2019-07-04 03:00:40 UTC,2019-08-01 08:01:52 UTC,true,4,,,,,,de_DE
+wie-kann-ich-standardaktionspunktlisten-importieren,402590,Wie kann ich Standardaktionspunktlisten importieren?,"",971,2019-07-04 03:01:59 UTC,2019-07-31 13:45:08 UTC,true,4,,,,,,de_DE
+benutzerverwaltung-auf-unternehmensebene,402594,Benutzerverwaltung auf Unternehmensebene,"",1151,2019-07-04 03:02:04 UTC,2019-08-01 12:17:47 UTC,true,4,,,,,,de_DE
+kann-ich-anhand-des-inhalts-nach-inspektionsformularen-suchen,402567,Kann ich anhand des Inhalts nach Inspektionsformularen suchen?,"",963,2019-07-04 03:01:18 UTC,2019-08-01 08:32:38 UTC,true,4,,,,,,de_DE
+importieren-exportieren-von-inspektionsformularvorlagen,402523,Importieren / Exportieren von Inspektionsformularvorlagen,"",1041,2019-07-04 03:00:24 UTC,2019-07-31 08:24:27 UTC,true,4,,,,,,de_DE
+gibt-es-eine-versionsverwaltung-in-snagr-dokumenten,402511,Gibt es eine Versionsverwaltung in SnagR-Dokumenten?,"",885,2019-07-04 03:00:13 UTC,2019-08-01 07:48:57 UTC,true,4,,,,,,de_DE
+wer-hat-zugriff-auf-die-dokumentenablage,402582,Wer hat Zugriff auf die Dokumentenablage?,"",1049,2019-07-04 03:01:52 UTC,2019-08-01 07:37:18 UTC,true,4,,,,,,de_DE
+wie-suche-ich-nach-aktionspunkten,402558,Wie suche ich nach Aktionspunkten?,"",1219,2019-07-04 03:01:05 UTC,2019-07-22 12:45:48 UTC,true,4,,,,,,de_DE
+wie-kann-ich-zwischen-den-zeichnungen-navigieren,402494,Wie kann ich zwischen den Zeichnungen navigieren?,"",1172,2019-07-04 02:59:51 UTC,2019-08-01 09:04:23 UTC,true,4,,,,,,de_DE
+arbeitserlaubnis,402476,Arbeitserlaubnis,"",879,2019-07-04 02:59:33 UTC,2019-08-01 07:59:57 UTC,true,4,,,,,,de_DE
+kann-ich-einem-werbeartikel-mehrere-fotos-hinzufugen,402500,"Kann ich einem Werbeartikel mehrere Fotos hinzufügen?
+","",956,2019-07-04 02:59:59 UTC,2019-08-01 08:19:17 UTC,true,4,,,,,,de_DE
+waar-zie-ik-de-actiepunten-notificaties,402574,Wo sehe ich die Aktionspunkte für Benachrichtigungen?,"",965,2019-07-04 03:01:40 UTC,2019-08-01 08:03:31 UTC,true,4,,,,,,de_DE
+fototagebuch,402481,Fototagebuch,"",1223,2019-07-04 02:59:37 UTC,2019-08-01 08:00:45 UTC,true,4,,,,,,de_DE
+subunternehmer,402531,Subunternehmer,"",938,2019-07-04 03:00:39 UTC,2019-08-01 08:54:48 UTC,true,4,,,,,,de_DE
+wie-erstelle-ich-einen-ordner,402580,Wie erstelle ich einen Ordner?,"",896,2019-07-04 03:01:52 UTC,2019-08-01 07:35:54 UTC,true,4,,,,,,de_DE
+kann-ich-eine-benachrichtigung-uber-eine-aktionspunkt-oder-ein-update-senden,402550,Kann ich eine Benachrichtigung über eine Aktionspunkt oder ein Update senden?,"",1034,2019-07-04 03:00:56 UTC,2019-08-01 08:33:29 UTC,true,4,,,,,,de_DE
+kann-ich-aktionspunkte-bearbeiten,402474,Kann ich Aktionspunkte bearbeiten?,"",1097,2019-07-04 02:59:30 UTC,2019-08-01 07:58:09 UTC,true,4,,,,,,de_DE
+wie-verschaffe-ich-mir-einen-uberblick-uber-alle-inspektionsformulare,402598,Wie verschaffe ich mir einen Überblick über alle Inspektionsformulare?,"",1124,2019-07-04 03:02:16 UTC,2019-08-01 08:02:00 UTC,true,4,,,,,,de_DE
+wie-stelle-ich-inspektionsbenachrichtigungen-fur-alle-benutzer-ein,402547,Wie stelle ich Inspektionsbenachrichtigungen für alle Benutzer ein?,"",865,2019-07-04 03:00:54 UTC,2019-08-01 12:05:17 UTC,true,4,,,,,,de_DE
+wie-losche-ich-einen-ordner,402510,Wie lösche ich einen Ordner?,"",977,2019-07-04 03:00:13 UTC,2019-08-01 07:41:24 UTC,true,4,,,,,,de_DE
+antrag-auf-inspektion,402554,Antrag auf Inspektion,"",910,2019-07-04 03:01:00 UTC,2019-08-01 08:01:18 UTC,true,4,,,,,,de_DE
+warum-muss-ich-synchronisieren,402586,Warum muss ich synchronisieren?,"",1259,2019-07-04 03:01:56 UTC,2019-08-01 08:36:39 UTC,true,4,,,,,,de_DE
+wie-kann-ich-eine-inspektionsvorlage-bearbeiten,402483,Wie kann ich eine Inspektionsvorlage bearbeiten?,"",988,2019-07-04 02:59:40 UTC,2019-08-01 08:22:19 UTC,true,4,,,,,,de_DE
+ich-kann-mich-auf-der-website-anmelden-aber-nicht-in-der-app-was-ist-los,402492,"Ich kann mich auf der Website anmelden, aber nicht in der App. Was ist los?","",1159,2019-07-04 02:59:50 UTC,2019-08-01 08:37:13 UTC,true,4,,,,,,de_DE
+ich-kann-keinen-benutzer-hinzufugen-ich-sehe-den-benutzer-im-projekt-nicht-aber-das-system-meldet-dass-die-e-mail-adresse-bereits-existiert-was-ist-los,402475,"Ich kann keinen Benutzer hinzufügen. Ich sehe den Benutzer im Projekt nicht, aber das System meldet, dass die E-Mail-Adresse bereits existiert. Was ist los?","",894,2019-07-04 02:59:32 UTC,2019-08-01 11:28:44 UTC,true,4,,,,,,de_DE
+loschen-sie-das-projekt-und-fugen-sie-es-erneut-hinzu,402495,Löschen Sie das Projekt und fügen Sie es erneut hinzu,"",1143,2019-07-04 02:59:52 UTC,2019-07-31 15:19:40 UTC,true,4,,,,,,de_DE
+die-app-zeigt-weiterhin-anmeldeinformationen-prufen-an-was-ist-los,402529,"Die App zeigt weiterhin ""Anmeldeinformationen prüfen"" an. Was ist los?","",904,2019-07-04 03:00:36 UTC,2019-07-31 15:17:29 UTC,true,4,,,,,,de_DE
+nichtkonformitatsbericht,402482,Nichtkonformitätsbericht,"",1375,2019-07-04 02:59:39 UTC,2019-08-01 08:01:26 UTC,true,4,,,,,,de_DE
+wie-fuge-ich-lokationen-zu-zeichnungen-hinzu,402585,Wie füge ich Lokationen zu Zeichnungen hinzu?,"",1279,2019-07-04 03:01:54 UTC,2019-07-31 11:44:57 UTC,true,4,,,,,,de_DE
+wie-kann-ich-ein-geandertes-kpi-dashboard-anzeigen,402516,Wie kann ich ein geändertes KPI-Dashboard anzeigen?,"",1156,2019-07-04 03:00:18 UTC,2019-08-01 08:02:07 UTC,true,4,,,,,,de_DE
+wie-sende-ich-eine-passworterinnerung,402576,Wie sende ich eine Passworterinnerung?,"",1026,2019-07-04 03:01:44 UTC,2019-07-31 11:29:08 UTC,true,4,,,,,,de_DE
+wie-lege-ich-die-berechtigungen-fur-custom-report-fest,402518,Wie lege ich die Berechtigungen für Custom Report fest?,"",866,2019-07-04 03:00:22 UTC,2019-07-31 11:28:13 UTC,true,4,,,,,,de_DE
+wie-kann-ich-zeichnungen-gruppieren,402583,Wie kann ich Zeichnungen gruppieren?,"",1105,2019-07-04 03:01:53 UTC,2019-07-31 09:40:33 UTC,true,4,,,,,,de_DE
+wie-verknupfe-ich-dokumente-mit-lokationen,402491,Wie verknüpfe ich Dokumente mit Lokationen?,"",1064,2019-07-04 02:59:49 UTC,2019-08-01 07:39:23 UTC,true,4,,,,,,de_DE
+wie-losche-ich-eine-datei,402557,Wie lösche ich eine Datei?,"",918,2019-07-04 03:01:04 UTC,2019-08-01 07:42:48 UTC,true,4,,,,,,de_DE
+wie-finde-ich-dokumente-nach-lokation,402611,Wie finde ich Dokumente nach Lokation?,"",933,2019-07-04 03:02:33 UTC,2019-08-01 11:25:51 UTC,true,4,,,,,,de_DE
+wie-bearbeite-ich-eine-vorhandene-zeichnung,402605,Wie bearbeite ich eine vorhandene Zeichnung?,"",1207,2019-07-04 03:02:22 UTC,2019-07-31 09:49:44 UTC,true,4,,,,,,de_DE
+kann-ich-mehrere-aktionspunkte-an-einem-ort-hinzufugen,402589,Kann ich mehrere Aktionspunkte an einem Ort hinzufügen?,"",1147,2019-07-04 03:01:58 UTC,2019-07-22 08:26:33 UTC,true,4,,,,,,de_DE
+wie-lade-ich-dokumente-hoch-um-auf-formulare-zu-verlinken,402486,"Wie lade ich Dokumente hoch, um auf Formulare zu verlinken?","",1523,2019-07-04 02:59:45 UTC,2019-08-01 11:21:13 UTC,true,4,,,,,,de_DE
+wie-lade-ich-ein-projekt-herunter,402608,Wie lade ich ein Projekt herunter?,"",1701,2019-07-04 03:02:26 UTC,2019-08-01 09:00:00 UTC,true,4,,,,,,de_DE
+wie-ziehen-sie-eine-datei-von-einem-ordner-in-einen-anderen,402620,Wie ziehen Sie eine Datei von einem Ordner in einen anderen?,"",932,2019-07-04 03:02:47 UTC,2019-08-01 07:46:01 UTC,true,4,,,,,,de_DE
+wie-verknupfen-sie-zeichnungen-automatisch,402600,Wie verknüpfen Sie Zeichnungen (automatisch)?,"",1158,2019-07-04 03:02:18 UTC,2019-07-31 10:27:45 UTC,true,4,,,,,,de_DE
+wie-fuge-ich-einen-cue-point-hinzu,402575,Wie füge ich einen Aktionspunkt hinzu?,"",1309,2019-07-04 03:01:41 UTC,2019-08-01 10:23:18 UTC,true,4,,,,,,de_DE
+wie-fulle-ich-mit-der-app-ein-formular-aus,402546,Wie fülle ich mit der App ein Formular aus?,"",1353,2019-07-04 03:00:53 UTC,2019-07-30 07:12:44 UTC,true,4,,,,,,de_DE
+wie-bearbeite-ich-zeichnungsordner,402526,Wie bearbeite ich Zeichnungsordner?,"",892,2019-07-04 03:00:31 UTC,2019-07-31 09:41:34 UTC,true,4,,,,,,de_DE
+kann-ich-die-fotogroe-bestimmen,402473,Kann ich die Fotogröße bestimmen?,"",924,2019-07-04 02:59:29 UTC,2019-08-01 08:20:32 UTC,true,4,,,,,,de_DE
+wie-verwalte-ich-automatische-benachrichtigungen,402603,Wie verwalte ich automatische Benachrichtigungen?,"",1009,2019-07-04 03:02:21 UTC,2019-07-31 11:38:29 UTC,true,4,,,,,,de_DE
+wie-setzen-sie-benutzerrechte-formulare,402503,Wie setzen Sie Benutzerrechte? (Formulare),"",1093,2019-07-04 03:00:03 UTC,2019-07-31 11:21:48 UTC,true,4,,,,,,de_DE
+wie-lege-ich-die-berechtigungen-fur-kpi-dashboards-fest,402536,Wie lege ich die Berechtigungen für KPI-Dashboards fest?,"",946,2019-07-04 03:00:42 UTC,2019-07-31 11:24:12 UTC,true,4,,,,,,de_DE
+354949-hoe-bekijk-ik-de-actiepunthistorie,402588,Wie zeige ich den Verlauf der Aktionspunkte an?,"",656,2019-07-04 03:01:58 UTC,2019-07-26 09:30:52 UTC,true,4,,,,,,de_DE
+kann-ich-ein-aktionspunkt-erneut-eroffnen,402577,Kann ich ein Aktionspunkt erneut eröffnen?,"",842,2019-07-04 03:01:45 UTC,2019-08-01 08:33:35 UTC,true,4,,,,,,de_DE
+kann-ich-eine-zusammenfassung-des-workflow-verlaufs-eines-formulars-erhalten,402506,Kann ich eine Zusammenfassung des Workflow-Verlaufs eines Formulars erhalten?,"",1112,2019-07-04 03:00:06 UTC,2019-08-01 11:17:57 UTC,true,4,,,,,,de_DE
+konnen-aktionspunktberichte-automatisch-generiert-werden,402573,Können Aktionspunktberichte automatisch generiert werden?,"",1124,2019-07-04 03:01:36 UTC,2019-08-01 08:33:47 UTC,true,4,,,,,,de_DE
+wie-bereite-ich-zeichnungen-vor-und-lade-sie-hoch,402607,Wie bereite ich Zeichnungen vor und lade sie hoch?,"",1167,2019-07-04 03:02:25 UTC,2019-08-01 11:13:41 UTC,true,4,,,,,,de_DE
+aktionspunkte-uberlappen-sich-wie-kann-dem-abgeholfen-werden,402499,Aktionspunkte überlappen sich. Wie kann dem abgeholfen werden?,"",1030,2019-07-04 02:59:58 UTC,2019-08-01 08:18:03 UTC,true,4,,,,,,de_DE
+sicherheitsinspektion,402517,Sicherheitsinspektion,"",906,2019-07-04 03:00:19 UTC,2019-08-01 07:59:05 UTC,true,4,,,,,,de_DE
+354943-kan-ik-actiepunten-op-tekeningen-filteren,402524,Kann ich Aktionspunkte in Zeichnungen filtern?,"",870,2019-07-04 03:00:26 UTC,2019-07-26 09:20:30 UTC,true,4,,,,,,de_DE
+wie-bekomme-ich-zusammenfassungen-unserer-aktionspunkte,402584,Wie bekomme ich Zusammenfassungen unserer Aktionspunkte?,"",1014,2019-07-04 03:01:54 UTC,2019-08-01 08:02:35 UTC,true,4,,,,,,de_DE
+was-ist-aufeinanderfolgenden-aktionspunkt-hinzufugen,402553,"Was ist ""Aufeinanderfolgenden Aktionspunkt hinzufügen""?","",1044,2019-07-04 03:00:59 UTC,2019-08-01 08:34:00 UTC,true,4,,,,,,de_DE
+projektzusammenfassung-was-sind-diese-roten-zahlen,402532,Projektzusammenfassung: Was sind diese roten Zahlen?,"",1018,2019-07-04 03:00:39 UTC,2019-08-01 08:02:48 UTC,true,4,,,,,,de_DE
+kann-ich-einen-aktionspunkt-verschieben,402606,Kann ich einen Aktionspunkt verschieben?,"",967,2019-07-04 03:02:24 UTC,2019-08-01 08:12:19 UTC,true,4,,,,,,de_DE
+wie-bearbeite-ich-benutzer-und-auftragnehmer,402604,Wie bearbeite ich Benutzer und Auftragnehmer?,"",1086,2019-07-04 03:02:21 UTC,2019-07-31 11:05:31 UTC,true,4,,,,,,de_DE
+wie-kann-ich-formulare-im-pdf-format-exportieren,402542,Wie kann ich Formulare im PDF-Format exportieren?,"",1048,2019-07-04 03:00:51 UTC,2019-08-01 10:17:59 UTC,true,4,,,,,,de_DE
+ubergabe-an-kaufer,402561,Übergabe an Käufer,"",956,2019-07-04 03:01:08 UTC,2019-08-01 08:01:11 UTC,true,4,,,,,,de_DE
+entwickler,402485,Entwickler,"",1061,2019-07-04 02:59:43 UTC,2019-08-01 08:54:14 UTC,true,4,,,,,,de_DE
+kann-ich-die-anderungen-an-einem-formular-anzeigen,402478,Kann ich die Änderungen an einem Formular anzeigen?,"",1288,2019-07-04 02:59:34 UTC,2019-08-01 10:12:00 UTC,true,4,,,,,,de_DE
+wie-exportiere-ich-formulardaten-nach-excel,402552,Wie exportiere ich Formulardaten nach Excel?,"",1076,2019-07-04 03:00:58 UTC,2019-08-01 08:33:06 UTC,true,4,,,,,,de_DE
+wie-bearbeite-ich-listen,402534,Wie bearbeite ich Listen?,"",920,2019-07-04 03:00:41 UTC,2019-07-31 08:06:36 UTC,true,4,,,,,,de_DE
+projekt-checklisten-importieren-auf-projektebene,402618,Projekt-Checklisten importieren (auf Projektebene),"",1010,2019-07-04 03:02:44 UTC,2019-08-01 12:13:43 UTC,true,4,,,,,,de_DE
+wie-verschiebe-bearbeite-losche-ich-eine-lokationensnadel,402508,Wie verschiebe / bearbeite / lösche ich eine Lokationensnadel?,"",906,2019-07-04 03:00:10 UTC,2019-08-01 12:08:04 UTC,true,4,,,,,,de_DE
+ubersicht-aller-icons-buttons-in-der-app,402498,Übersicht aller Icons / Buttons in der App,"",1038,2019-07-04 02:59:54 UTC,2019-08-01 08:37:21 UTC,true,4,,,,,,de_DE
+ich-kann-in-der-app-nicht-synchronisieren-was-soll-ich-tun,402549,Ich kann in der App nicht synchronisieren. Was soll ich tun?,"",913,2019-07-04 03:00:55 UTC,2019-07-31 15:20:22 UTC,true,4,,,,,,de_DE
+wie-entwerfe-ich-eine-inspektionsformularvorlage-mit-geschaftslogik,402614,Wie entwerfe ich eine Inspektionsformularvorlage mit Geschäftslogik?,"",1083,2019-07-04 03:02:38 UTC,2019-08-01 11:34:11 UTC,true,4,,,,,,de_DE
+kann-ich-das-formularbild-bearbeiten-ersetzen,402568,Kann ich das Formularbild bearbeiten / ersetzen?,"",883,2019-07-04 03:01:23 UTC,2019-08-01 08:34:36 UTC,true,4,,,,,,de_DE
+was-ist-der-aktionspunktmodus-und-der-inspektionsmodus,402515,Was ist der Aktionspunktmodus und der Inspektionsmodus?,"",1161,2019-07-04 03:00:17 UTC,2019-08-01 08:37:37 UTC,true,4,,,,,,de_DE
+begriffe-auf-unternehmensebene,402504,Begriffe (auf Unternehmensebene),"",971,2019-07-04 03:00:04 UTC,2019-07-31 09:34:50 UTC,true,4,,,,,,de_DE
+standardsprache-oder-logo-bearbeiten-auf-unternehmensebene,402570,Standardsprache oder Logo bearbeiten (auf Unternehmensebene),"",840,2019-07-04 03:01:28 UTC,2019-07-31 09:11:14 UTC,true,4,,,,,,de_DE
+wie-kann-ich-einem-inspektionsformular-ein-foto-aus-meiner-fotogalerie-hinzufugen,402587,Wie kann ich einem Inspektionsformular ein Foto aus meiner Fotogalerie hinzufügen?,"",937,2019-07-04 03:01:58 UTC,2019-08-01 08:32:13 UTC,true,4,,,,,,de_DE
+wie-kann-ich-genehmigungen-anzeigen-und-hinzufugen,402505,Wie kann ich Genehmigungen anzeigen und hinzufügen?,"",918,2019-07-04 03:00:05 UTC,2019-08-01 08:31:36 UTC,true,4,,,,,,de_DE
+wie-aktiviere-ich-das-auto-close-fur-fototagebucher,402471,Wie aktiviere ich das Auto-Close für Fototagebücher?,"",729,2019-07-04 02:59:27 UTC,2019-08-01 11:30:56 UTC,true,4,,,,,,de_DE
+prioritaten-und-enddatum-bearbeiten-auf-unternehmensebene,402490,Prioritäten und Enddatum bearbeiten (auf Unternehmensebene),"",857,2019-07-04 02:59:48 UTC,2019-07-31 09:18:18 UTC,true,4,,,,,,de_DE
+wie-aktiviere-ich-formularvorlagen-fur-ein-projekt,402560,Wie aktiviere ich Formularvorlagen für ein Projekt?,"",1055,2019-07-04 03:01:08 UTC,2019-08-01 11:45:21 UTC,true,4,,,,,,de_DE
+was-ist-der-schnellste-weg-um-sich-wiederholende-zeichnungen-raume-einzurichten,402525,"Was ist der schnellste Weg, um sich wiederholende Zeichnungen / Räume einzurichten?","",950,2019-07-04 03:00:29 UTC,2019-08-01 11:49:57 UTC,true,4,,,,,,de_DE
+wie-sende-ich-benachrichtigungen-zu-einem-formular,402615,Wie sende ich Benachrichtigungen zu einem Formular?,"",927,2019-07-04 03:02:43 UTC,2019-08-01 08:31:54 UTC,true,4,,,,,,de_DE
+wie-legst-du-rechte-fest-aktionspunkte,402507,Wie legst du Rechte fest? (Aktionspunkte),"",1016,2019-07-04 03:00:07 UTC,2019-08-01 12:02:32 UTC,true,4,,,,,,de_DE
+projekte-bearbeiten-anzeigen-auf-unternehmensebene,402551,Projekte bearbeiten / anzeigen (auf Unternehmensebene),"",839,2019-07-04 03:00:56 UTC,2019-07-31 09:24:58 UTC,true,4,,,,,,de_DE
+wie-erstelle-ich-einen-benutzerdefinierten-bericht,402578,Wie erstelle ich einen benutzerdefinierten Bericht?,"",868,2019-07-04 03:01:47 UTC,2019-08-01 08:01:42 UTC,true,4,,,,,,de_DE
+vertragsmanagement-auf-unternehmensebene,402566,Vertragsmanagement auf Unternehmensebene,"",950,2019-07-04 03:01:17 UTC,2019-07-31 14:10:48 UTC,true,4,,,,,,de_DE
+hersteller,402543,Hersteller,"",947,2019-07-04 03:00:52 UTC,2019-08-01 08:53:42 UTC,true,4,,,,,,de_DE
+was-ist-ein-paket,402497,Was ist ein Paket?,"",1021,2019-07-04 02:59:54 UTC,2019-08-01 07:44:51 UTC,true,4,,,,,,de_DE
+wie-erstelle-ich-einen-aktionspunktbericht-fur-subunternehmer,402609,Wie erstelle ich einen Aktionspunktbericht für Subunternehmer?,"",1247,2019-07-04 03:02:28 UTC,2019-08-01 08:02:19 UTC,true,4,,,,,,de_DE
+354950-kan-ik-meerdere-actiepunten-tegelijk-aanpassen,402540,Kann ich mehrere Aktionspunkte gleichzeitig anpassen?,"",806,2019-07-04 03:00:50 UTC,2019-07-26 09:39:17 UTC,true,4,,,,,,de_DE
+wie-verbinde-ich-zeichnungen-manuell,402599,Wie verbinde ich Zeichnungen (manuell)?,"",848,2019-07-04 03:02:17 UTC,2019-08-01 11:50:46 UTC,true,4,,,,,,de_DE
+wie-richte-ich-aktionspunktbenachrichtigungen-fur-alle-benutzer-ein,402597,Wie richte ich Aktionspunktbenachrichtigungen für alle Benutzer ein?,"",1082,2019-07-04 03:02:11 UTC,2019-08-01 11:10:46 UTC,true,4,,,,,,de_DE
+how-to-link-drawings-together-automatically,359624,Procedura di collegamento automatico Disegni ,"",977,2019-01-28 03:41:31 UTC,2019-09-12 13:35:01 UTC,true,6,,,,,,it_IT
+how-do-i-see-custom-dashboard,359681,"Come visualizzare i vostri pannelli di controllo KPI personalizzati
+","",983,2019-01-28 03:42:56 UTC,2019-09-11 13:02:29 UTC,true,6,,,,,,it_IT
+340752-project-checklists,359687,Creazione di una Checklist di Progetto,"",752,2019-01-28 03:43:05 UTC,2019-09-12 09:03:33 UTC,true,6,,,,,,it_IT
+how-to-group-drawings,359708,Creazione Set Disegni,"",1002,2019-01-28 03:43:23 UTC,2019-03-07 13:05:00 UTC,true,6,,,,,,it_IT
+how-to-edit-items-on-standard-issue-list,359577,Come modificare descrizioni difetto nella lista difetti standard,"",981,2019-01-28 03:40:32 UTC,2019-02-26 15:40:16 UTC,true,6,,,,,,it_IT
+how-to-set-up-issues-notifications-for-all-users,359591,Impostazione notifica automatica Difetti ,"",1126,2019-01-28 03:40:43 UTC,2019-09-13 06:35:14 UTC,true,6,,,,,,it_IT
+339385-how-do-i-generate-a-custom-report,359685,Come aggiornare i dati di un custom report,"",891,2019-01-28 03:43:00 UTC,2019-09-11 14:15:46 UTC,true,6,,,,,,it_IT
+340751-add-permit,359604,Aggiunta di un documento al Permesso di Lavoro,"",991,2019-01-28 03:41:09 UTC,2019-09-12 09:01:04 UTC,true,6,,,,,,it_IT
+how-to-upload-documents-to-link-to-forms,359652,Come allegare documenti dal repositorio a Documenti di Ispezione,"",1678,2019-01-28 03:42:05 UTC,2019-09-11 13:08:24 UTC,true,6,,,,,,it_IT
+how-to-move-a-file-from-one-folder-to-another,359622,Repositorio Documenti: spostare un documento da una cartella all' altra,"",1031,2019-01-28 03:41:30 UTC,2019-09-11 15:04:48 UTC,true,6,,,,,,it_IT
+how-to-enable-specific-issue-categories-for-a-project,359658,"Quando aggiungo difetti non ho Categoria, Tipo e Descrizione Difetto da cui scegliere, cosa non va?
+","",1011,2019-01-28 03:42:19 UTC,2019-09-12 13:41:17 UTC,true,6,,,,,,it_IT
+how-can-i-link-documents-to-a-form,359585,Come collegare documenti dal repositorio a Documenti di Ispezione,"",1037,2019-01-28 03:40:39 UTC,2019-02-26 19:29:20 UTC,true,6,,,,,,it_IT
+how-to-set-up-form-permissions,359659,Privilegi Utenti: modalita' rilevazione (Difetti),"",2568,2019-01-28 03:42:20 UTC,2019-09-12 12:40:38 UTC,true,6,,,,,,it_IT
+how-can-i-go-from-one-drawing-to-another,359713,Come passare da un disegno all' altro?,"",1179,2019-01-28 03:43:31 UTC,2019-02-26 15:03:29 UTC,true,6,,,,,,it_IT
+how-to-upload-documents,359698,Caricare documenti nel Repositorio Documenti,"",1002,2019-01-28 03:43:16 UTC,2019-09-11 15:08:53 UTC,true,6,,,,,,it_IT
+how-do-i-see-form-notifications,359581,Come trovo e vedo notifiche relative a Documenti di Ispezione?,"",979,2019-01-28 03:40:35 UTC,2019-09-11 14:03:36 UTC,true,6,,,,,,it_IT
+how-do-i-send-notifications-regarding-a-form,359579,Notifica manuale Documento di Ispezione,"",1071,2019-01-28 03:40:33 UTC,2019-09-11 13:33:38 UTC,true,6,,,,,,it_IT
+345440-how-to-enable-location-data-on-the-mobile-device,359598,Come attivare i servizi di localizzazione per SnagR,"",947,2019-01-28 03:40:47 UTC,2019-03-04 17:47:59 UTC,true,6,,,,,,it_IT
+341362-i-can-t-sync-on-mobile-app-what-should-i-do,359615,"La sincronizzazione non funziona, cosa dovrei fare? ","",724,2019-01-28 03:41:17 UTC,2019-02-25 18:29:56 UTC,true,6,,,,,,it_IT
+340863-permits-dashboard,359672,Come visualizzo e pubblico Permessi di Lavoro,"",758,2019-01-28 03:42:44 UTC,2019-09-11 13:22:21 UTC,true,6,,,,,,it_IT
+how-to-download-files,359595,"Documenti nel repositorio, come scaricarli al primo accesso","",1023,2019-01-28 03:40:45 UTC,2019-09-11 15:10:48 UTC,true,6,,,,,,it_IT
+what-do-the-pin-colours-represent,359720,Cosa significano i colori dei Cartellini?,"",1140,2019-01-28 03:43:55 UTC,2019-09-11 14:52:24 UTC,true,6,,,,,,it_IT
+can-i-track-changes-of-a-form,359589,Come monitorare i cambiamenti ad un Documento di Ispezione,"",1003,2019-01-28 03:40:42 UTC,2019-02-26 20:11:46 UTC,true,6,,,,,,it_IT
+how-do-i-download-a-project,359722,Set up progetto su applicazione mobile,"",1674,2019-01-28 03:43:56 UTC,2019-02-26 14:59:36 UTC,true,6,,,,,,it_IT
+can-i-export-forms-in-pdf,359710,Esportare Documenti di Ispezione in PDF,"",1101,2019-01-28 03:43:25 UTC,2019-09-11 13:41:43 UTC,true,6,,,,,,it_IT
+how-do-i-export-form-pdf-if-there-are-issues-and-documents-attached-to-it,359575,Come esporto in PDF un Documento con Difetti e documenti di repositorio collegati?,"",1073,2019-01-28 03:40:28 UTC,2019-09-11 13:44:21 UTC,true,6,,,,,,it_IT
+340874-location-sign-off,359676,Sign-off di un Sito,"",1067,2019-01-28 03:42:47 UTC,2019-02-25 20:02:48 UTC,true,6,,,,,,it_IT
+loginwith2fa,359643,Login con autenticazione Two-Factor ,"",968,2019-01-28 03:41:57 UTC,2019-02-25 16:05:46 UTC,true,6,,,,,,it_IT
+340761-regions-divisions-programs,359662,Regioni / Divisioni / Programi (Amministrazione Societa'),"",732,2019-01-28 03:42:26 UTC,2019-09-12 13:17:28 UTC,true,6,,,,,,it_IT
+340889-inspection-dashboard,359590,Visualizzazione di tutti Documenti di Ispezione del progetto aperti e modifica stato,"",821,2019-01-28 03:40:42 UTC,2019-09-11 14:07:16 UTC,true,6,,,,,,it_IT
+312904-how-do-i-digitalise-a-form,359599,Creazione Modelli di Documento (amministrazione societa'),"",1351,2019-01-28 03:40:48 UTC,2019-09-12 13:51:00 UTC,true,6,,,,,,it_IT
+340883-what-os-version-does-snagr-support,359660,Che versioni OS supporta SnagR ? ,"",719,2019-01-28 03:42:25 UTC,2019-02-25 16:08:21 UTC,true,6,,,,,,it_IT
+340869-location-ready-for-inspection,359702,Sito pronto per ispezione,"",1016,2019-01-28 03:43:18 UTC,2019-02-25 20:53:01 UTC,true,6,,,,,,it_IT
+how-to-set-permission-for-custom-reports,359715,Abilitare Utenti all' ultilizzo dei custom reports,"",1003,2019-01-28 03:43:33 UTC,2019-09-12 13:04:47 UTC,true,6,,,,,,it_IT
+315549-is-there-version-control-in-snagr-documents,359683,Come controllare la versione documenti nel repositorio?,"",866,2019-01-28 03:42:58 UTC,2019-09-11 15:07:38 UTC,true,6,,,,,,it_IT
+340756-can-i-edit-replace-inspection-form,359588,Aggiornamento pagina di un Modello di Documento,"",698,2019-01-28 03:40:42 UTC,2019-09-12 13:52:06 UTC,true,6,,,,,,it_IT
+what-is-bundle,359638,Repositorio documenti: che cos' e' un Fascicolo e come si crea?,"",1066,2019-01-28 03:41:53 UTC,2019-09-11 15:03:51 UTC,true,6,,,,,,it_IT
+remove-and-re-add-project,359587,Rimuovi e ri-aggiungi progetti su dispositivo mobile,"",1240,2019-01-28 03:40:41 UTC,2019-02-25 17:59:33 UTC,true,6,,,,,,it_IT
+what-does-synchronise-mean,359649,Cosa significa sincronizzare e perche' e necessario?,"",3080,2019-01-28 03:42:04 UTC,2019-03-07 17:16:30 UTC,true,6,,,,,,it_IT
+developer,359601,Benvenuti,"",860,2019-01-28 03:41:00 UTC,2019-09-11 14:13:09 UTC,true,6,,,,,,it_IT
+341361-can-i-change-location-of-an-inspection-form,359609,Posso cambiare il Sito di appartenenza di un Documento di Ispezione?,"",698,2019-01-28 03:41:14 UTC,2019-09-11 14:08:48 UTC,true,6,,,,,,it_IT
+304697-how-to-export-excel-from-template,359718,Come esportare il contenuto di un Documento di Ispezione in Excel,"",1243,2019-01-28 03:43:50 UTC,2019-09-11 13:52:01 UTC,true,6,,,,,,it_IT
+2fa,359680,Opzioni utente: attivazione del sistema di autenticazione two-factor,"",1074,2019-01-28 03:42:55 UTC,2019-02-25 16:31:31 UTC,true,6,,,,,,it_IT
+340867-move-edit-delete-a-location-pin,359605,Muovi elimina o modifica Sito,"",832,2019-01-28 03:41:09 UTC,2019-02-27 11:46:53 UTC,true,6,,,,,,it_IT
+how-to-delete-a-file,359673,Come cancellare un documento dal repositorio Documenti,"",903,2019-01-28 03:42:45 UTC,2019-03-04 17:31:02 UTC,true,6,,,,,,it_IT
+how-can-i-unlink-documents-from-a-form,359648,Come posso scollagare documenti del Repositorio da un Documento di Ispezione?,"",1084,2019-01-28 03:42:04 UTC,2019-09-11 13:09:15 UTC,true,6,,,,,,it_IT
+340881-the-app-has-been-checking-credentials-for-a-long-time-and-does-not-allow-me-to-download-project-on-mobile-app-what-is-wrong,359594,La barra di progresso download progetto e' bloccata.. Che cosa succede? ,"",865,2019-01-28 03:40:45 UTC,2019-02-25 18:23:56 UTC,true,6,,,,,,it_IT
+reset2fa,359642,Reimpostazione della chiave autenticazione Two Factor,"",904,2019-01-28 03:41:55 UTC,2019-09-12 13:07:38 UTC,true,6,,,,,,it_IT
+photo-diary,359712,Diari fotografici con SnagR,"",991,2019-01-28 03:43:27 UTC,2019-09-13 06:45:56 UTC,true,6,,,,,,it_IT
+340888-project-checklists,359584,Importa Checklist di Progetto (Amministrazione progetto),"",826,2019-01-28 03:40:39 UTC,2019-09-12 09:15:50 UTC,true,6,,,,,,it_IT
+340764-can-i-search-inspection-forms-by-the-hotspot-value,359646,Posso cercare informazioni contenute nei Documenti di Ispezione?,"",803,2019-01-28 03:42:02 UTC,2019-09-11 14:06:03 UTC,true,6,,,,,,it_IT
+340896-how-to-edit-the-project-settings,359597,Modifica Impostazione progetto (Amministrazione progetto),"",733,2019-01-28 03:40:46 UTC,2019-09-12 13:18:32 UTC,true,6,,,,,,it_IT
+safety-inspection,359653,Ispezioni Sicurezza,"",922,2019-01-28 03:42:06 UTC,2019-09-12 08:54:57 UTC,true,6,,,,,,it_IT
+how-to-enable-form-templates-for-a-project,359635, Non posso usare un Ispezione nel Progetto. Come mai?,"",1027,2019-01-28 03:41:51 UTC,2019-02-28 11:41:32 UTC,true,6,,,,,,it_IT
+request-for-inspections,359619,Gli Stati Avanzamento Lavori,"",1035,2019-01-28 03:41:25 UTC,2019-09-13 06:55:23 UTC,true,6,,,,,,it_IT
+340878-icons-or-buttons-on-the-device,359671,Tutti i comandi e icone dell' applicazione mobile,"",830,2019-01-28 03:42:43 UTC,2019-03-04 17:18:18 UTC,true,6,,,,,,it_IT
+how-to-complete-forms-on-website,359657,Compilazione Documenti di Ispezione su applicazione Web,"",1158,2019-01-28 03:42:19 UTC,2019-09-11 13:18:19 UTC,true,6,,,,,,it_IT
+what-is-issue-mode-and-form-mode,359593,"Cosa significano ""modalita' rilevazione"" e modalita' ispezione""?","",1215,2019-01-28 03:40:44 UTC,2019-02-25 15:43:28 UTC,true,6,,,,,,it_IT
+how-to-send-password-reminders,359697,Inviare email con nome utente e password a Utenti e Appaltatori ,"",935,2019-01-28 03:43:16 UTC,2019-03-05 15:33:10 UTC,true,6,,,,,,it_IT
+how-to-edit-users-and-contractors,359596,Come modificare dettagli Utenti e Sub appaltatori,"",1293,2019-01-28 03:40:46 UTC,2019-09-12 09:40:16 UTC,true,6,,,,,,it_IT
+340754-construction-stages,359641,Fasi di costruzione,"",882,2019-01-28 03:41:55 UTC,2019-09-12 09:19:37 UTC,true,6,,,,,,it_IT
+how-can-i-link-issues-to-a-form,359723,Collegare un Difetto ad un Documento di Ispezione,"",1313,2019-01-28 03:43:57 UTC,2019-09-11 13:12:52 UTC,true,6,,,,,,it_IT
+340760-edit-view-projects,359707,Visualizza Modifica Progetti (Amministrazione Societa'),"",858,2019-01-28 03:43:22 UTC,2019-03-07 12:53:56 UTC,true,6,,,,,,it_IT
+who-has-access-to-document-repository,359656,Chi ha accesso al repositorio dei documenti?,"",909,2019-01-28 03:42:19 UTC,2019-09-11 15:01:04 UTC,true,6,,,,,,it_IT
+how-to-delete-a-folder,359608,Eliminare cartella documenti nel Repositorio dei Documenti,"",865,2019-01-28 03:41:13 UTC,2019-02-27 11:55:43 UTC,true,6,,,,,,it_IT
+how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form,359714,Come aggiungere ad un Documento di Ispezione una foto da archivio foto del vostro dispositivo mobile ,"",755,2019-01-28 03:43:31 UTC,2019-09-11 13:38:13 UTC,true,6,,,,,,it_IT
+can-i-extract-a-list-of-forms-that-are-created-on-snagr,359693,Estrazione di tutti i Documenti di Ispezione del progetto,"",934,2019-01-28 03:43:11 UTC,2019-09-11 13:45:14 UTC,true,6,,,,,,it_IT
+340763-add-user-at-the-company-level,359623,Gestione Utenti in Amministrazione Societa',"",992,2019-01-28 03:41:30 UTC,2019-09-12 09:32:33 UTC,true,6,,,,,,it_IT
+how-to-link-documents-to-locations,359640,Collegare documenti del repositorio a un Sito,"",1079,2019-01-28 03:41:54 UTC,2019-09-11 15:01:53 UTC,true,6,,,,,,it_IT
+340745-add-contractors-at-the-company-level,359620,"Gestione Appaltatori, Amministrazione Societa'","",749,2019-01-28 03:41:28 UTC,2019-09-12 09:34:43 UTC,true,6,,,,,,it_IT
+can-i-set-up-auto-sync,359607,Come impostare la sincronizzazione automatica,"",1108,2019-01-28 03:41:13 UTC,2019-02-26 13:53:47 UTC,true,6,,,,,,it_IT
+how-to-create-a-folder,359689,Come creare una cartella nel Repositorio Documenti,"",1125,2019-01-28 03:43:06 UTC,2019-03-05 13:01:06 UTC,true,6,,,,,,it_IT
+340868-i-can-t-add-a-user-i-don-t-see-him-her-on-the-project-but-the-system-says-email-already-exists-what-is-wrong,359674,Non posso aggiungere un Utente al progetto... Quando inserisco email SnagR dice gia' esistente. Cosa non va? ,"",737,2019-01-28 03:42:45 UTC,2019-03-04 17:39:27 UTC,true,6,,,,,,it_IT
+how-can-i-be-notified-of-forms-updates,359647,Come posso essere informato della compilazione dei Documenti di Ispezione?,"",1086,2019-01-28 03:42:03 UTC,2019-09-11 13:37:02 UTC,true,6,,,,,,it_IT
+can-i-have-a-summary-of-the-form-workflow-history,359580,Come posso vedere la cronistoria del flusso di lavoro di un Documento di Ispezione?,"",967,2019-01-28 03:40:34 UTC,2019-09-11 13:31:35 UTC,true,6,,,,,,it_IT
+handover-process-with-purchaser,359668,Consegna al Cliente,"",1091,2019-01-28 03:42:32 UTC,2019-09-13 06:51:44 UTC,true,6,,,,,,it_IT
+311758-how-to-batch-edit-issues,359576,Posso modificare non conformita' in batch?,"",991,2019-01-28 03:40:28 UTC,2019-09-11 14:30:05 UTC,true,6,,,,,,it_IT
+can-i-delete-issues,359688,Eliminare Difetti,"",965,2019-01-28 03:43:06 UTC,2019-09-11 14:38:55 UTC,true,6,,,,,,it_IT
+what-is-the-quickest-way-to-set-up-repetitive-units,359706,Disegni ripetuti per unita' simili: modalita di set up,"",985,2019-01-28 03:43:22 UTC,2019-09-12 13:31:41 UTC,true,6,,,,,,it_IT
+315713-how-to-set-permissions-forms,359677, Livelli di privilegio Ispezioni ,"",928,2019-01-28 03:42:49 UTC,2019-09-12 12:59:44 UTC,true,6,,,,,,it_IT
+how-do-i-search-issues-on-device,359667,Trovare un Difetto nel Progetto,"",1152,2019-01-28 03:42:31 UTC,2019-09-11 14:54:55 UTC,true,6,,,,,,it_IT
+how-can-i-set-up-auto-close-for-photo-diaries,359606,Attivare Auto Close per funzione di diario fotografico,"",733,2019-01-28 03:41:12 UTC,2019-09-12 13:42:16 UTC,true,6,,,,,,it_IT
+340886-construction-stages,359651,Fasi di Costruzione: importazione a livello Progetto,"",840,2019-01-28 03:42:05 UTC,2019-09-12 09:30:05 UTC,true,6,,,,,,it_IT
+340762-terminology,359574,Terminologia (Funzione Amministrazione Societa'),"",762,2019-01-28 03:40:27 UTC,2019-09-12 13:19:31 UTC,true,6,,,,,,it_IT
+how-to-import-issue-list,359621,Importazione lista difetti,"",935,2019-01-28 03:41:29 UTC,2019-02-27 18:30:55 UTC,true,6,,,,,,it_IT
+can-i-edit-issues,359632,Modifica dettagli Difetto,"",1262,2019-01-28 03:41:43 UTC,2019-09-11 14:28:30 UTC,true,6,,,,,,it_IT
+340895-create-barcode-for-location,359603,Generazione codici QR per Siti,"",717,2019-01-28 03:41:08 UTC,2019-09-12 13:12:32 UTC,true,6,,,,,,it_IT
+how-to-get-a-summary-statistics-of-our-issue-records,359691,Report Difetti di sommario (statistiche),"",1085,2019-01-28 03:43:07 UTC,2019-03-05 13:07:39 UTC,true,6,,,,,,it_IT
+340864-how-to-reopen-the-issue,359644,Riaprire un Difetto chiuso,"",1345,2019-01-28 03:42:01 UTC,2019-09-11 14:51:34 UTC,true,6,,,,,,it_IT
+can-i-copy-and-paste-an-issue,359582,Copia e incolla Difetto piu' e piu' volte ,"",998,2019-01-28 03:40:36 UTC,2019-03-07 16:36:12 UTC,true,6,,,,,,it_IT
+how-do-i-view-analytics,359690,Visualizzazione del pannello di Analisi Difetti,"",1037,2019-01-28 03:43:07 UTC,2019-09-11 14:22:42 UTC,true,6,,,,,,it_IT
+can-i-add-more-photos-to-an-issue,359719,Come aggiungere piu' foto ad un Difetto,"",973,2019-01-28 03:43:55 UTC,2019-03-07 16:08:05 UTC,true,6,,,,,,it_IT
+330054-import-export-inspection-form-templates,359616,Esportazione ed Importazione template di Ispezione,"",977,2019-01-28 03:41:18 UTC,2019-09-12 13:58:41 UTC,true,6,,,,,,it_IT
+340744-edit-default-language-or-logo,359645,Impostazioni lingua e logo (Amministrazione societa'),"",858,2019-01-28 03:42:02 UTC,2019-09-12 13:15:18 UTC,true,6,,,,,,it_IT
+343363-how-to-create-a-hierarchical-list,359634,Creazione di Liste Gerarchiche,"",950,2019-01-28 03:41:47 UTC,2019-09-13 06:24:47 UTC,true,6,,,,,,it_IT
+how-to-manage-subscriptions,359627,Le mie notifiche automatiche,"",1135,2019-01-28 03:41:39 UTC,2019-09-13 06:34:44 UTC,true,6,,,,,,it_IT
+308329-how-to-edit-drawing-set,359661,Modificare nome e altri dettagli di un Set Disegni,"",851,2019-01-28 03:42:25 UTC,2019-03-04 14:29:44 UTC,true,6,,,,,,it_IT
+how-to-add-an-issue,359724,Come aggiungere un Difetto,"",1804,2019-01-28 03:43:58 UTC,2019-03-07 16:30:56 UTC,true,6,,,,,,it_IT
+how-to-generate-an-issue-report,359637,Come generare reportistica Difetti,"",1246,2019-01-28 03:41:53 UTC,2019-09-11 14:17:43 UTC,true,6,,,,,,it_IT
+how-to-break-items-out-from-a-plot-with-multiple-issues,359694,Come separare un cartellino multiplo,"",929,2019-01-28 03:43:12 UTC,2019-09-11 14:42:27 UTC,true,6,,,,,,it_IT
+how-to-set-up-locations-on-drawings,359586,Impostazione Siti su disegno,"",1272,2019-01-28 03:40:40 UTC,2019-09-12 13:10:55 UTC,true,6,,,,,,it_IT
+how-to-design-the-issue-list,359629,Come creare una lista difetti?,"",1353,2019-01-28 03:41:40 UTC,2019-09-12 13:37:53 UTC,true,6,,,,,,it_IT
+how-to-add-single-items-to-issue-list,359670,Modifica dettagli Registro Difetti,"",979,2019-01-28 03:42:42 UTC,2019-09-12 13:39:31 UTC,true,6,,,,,,it_IT
+how-to-set-up-forms-notifications-for-all-users,359704,Notifiche automatiche Ispezioni ,"",1107,2019-01-28 03:43:19 UTC,2019-09-13 06:35:52 UTC,true,6,,,,,,it_IT
+how-to-find-documents-by-locations,359628,Come trovare i documenti del repositorio di un Sito,"",896,2019-01-28 03:41:40 UTC,2019-09-11 15:11:31 UTC,true,6,,,,,,it_IT
+340894-room-area-signoff,359600,Stanza/ Area Sign off ,"",771,2019-01-28 03:41:00 UTC,2019-02-25 18:34:31 UTC,true,6,,,,,,it_IT
+defect-management,359695,Gestione Difetti,"",783,2019-01-28 03:43:12 UTC,2019-09-13 06:49:10 UTC,true,6,,,,,,it_IT
+how-to-complete-forms-on-device,359725,Completare Documenti di Ispezione su dispositivo mobile,"",1510,2019-01-28 03:43:59 UTC,2019-09-11 13:16:50 UTC,true,6,,,,,,it_IT
+304211-can-i-delete-form,359711,Come elimino un documento di ispezione?,"",953,2019-01-28 03:43:26 UTC,2019-09-11 14:04:27 UTC,true,6,,,,,,it_IT
+how-to-add-users-to-project,359618,Aggiungere Utenti al progetto,"",1327,2019-01-28 03:41:24 UTC,2019-09-12 09:38:55 UTC,true,6,,,,,,it_IT
+340750-add-permit-inspection,359654,Aggiungi un Permesso di Lavoro,"",893,2019-01-28 03:42:09 UTC,2019-09-12 08:58:14 UTC,true,6,,,,,,it_IT
+can-issue-reports-be-generated-automatically,359703,Come generare sommari Difetti automaticamente,"",1089,2019-01-28 03:43:19 UTC,2019-09-11 14:19:27 UTC,true,6,,,,,,it_IT
+what-is-add-future-issue,359611,"Aggiungi difetto Futuro, cos' e' e come si usa","",856,2019-01-28 03:41:15 UTC,2019-09-11 14:46:37 UTC,true,6,,,,,,it_IT
+312274-how-to-set-up-the-drawing-regions,359678,Che cosa sono le Regioni Disegni e come impostarle,"",988,2019-01-28 03:42:53 UTC,2019-09-12 13:27:55 UTC,true,6,,,,,,it_IT
+can-i-have-a-report-with-the-first-and-last-photo-only,359663,Report Perizia: report Difetti con prima ed ultima foto,"",901,2019-01-28 03:42:27 UTC,2019-09-11 14:20:58 UTC,true,6,,,,,,it_IT
+where-do-i-see-issue-notifications,359613,Dove trovo le notifiche automatiche difetti di SnagR?,"",943,2019-01-28 03:41:16 UTC,2019-09-11 14:58:50 UTC,true,6,,,,,,it_IT
+340877-filtering-issues-on-device,359684,Come filtrare difetti su disegno,"",982,2019-01-28 03:42:59 UTC,2019-09-11 14:57:30 UTC,true,6,,,,,,it_IT
+308326-how-to-edit-the-custom-list,359633,Come modificare una lista personalizzata,"",992,2019-01-28 03:41:44 UTC,2019-09-12 13:56:26 UTC,true,6,,,,,,it_IT
+can-i-move-an-issue-pin,359578,Spostare posizione Difetto su disegno,"",928,2019-01-28 03:40:33 UTC,2019-09-11 14:39:55 UTC,true,6,,,,,,it_IT
+328540-how-to-view-issue-history,359679,Visualizza Cronistoria difetto,"",776,2019-01-28 03:42:55 UTC,2019-09-11 14:59:33 UTC,true,6,,,,,,it_IT
+how-to-organise-issue-pins-that-overlap-on-each-other,359709,I Cartellini Difetto sono molto vicini l' un altro e difficili da selezionare. Come risolvere?,"",976,2019-01-28 03:43:25 UTC,2019-09-11 14:41:26 UTC,true,6,,,,,,it_IT
+how-do-i-send-a-notification-regarding-an-issue,359636,Come mandare una notifica istantanea Difetto manualmente,"",907,2019-01-28 03:41:53 UTC,2019-09-11 14:53:12 UTC,true,6,,,,,,it_IT
+can-i-define-photo-size,359650,Posso modificare la dimensione delle foto Difetti?,"",907,2019-01-28 03:42:05 UTC,2019-09-11 14:47:59 UTC,true,6,,,,,,it_IT
+enable2fa,359682,Abilitazione autenticazione Two Factors  (Amministrazione Societa'),"",721,2019-01-28 03:42:57 UTC,2019-09-12 13:13:28 UTC,true,6,,,,,,it_IT
+337878-non-conformance-report,359666,Report di non conformita' ,"",1090,2019-01-28 03:42:29 UTC,2019-09-13 06:57:31 UTC,true,6,,,,,,it_IT
+how-to-update-issues,359617,Come Chiudere o aggiornare i Difetti,"",1525,2019-01-28 03:41:23 UTC,2019-09-11 14:50:19 UTC,true,6,,,,,,it_IT
+common-issues-in-project-download,359665,Log in possibilie su applicazione web ma non su mobile... Come risolvo il problema?,"",1417,2019-01-28 03:42:27 UTC,2019-02-25 18:16:04 UTC,true,6,,,,,,it_IT
+how-to-link-drawings-together-manually,359592,Come collegare i disegni manualmente,"",959,2019-01-28 03:40:44 UTC,2019-09-12 13:33:24 UTC,true,6,,,,,,it_IT
+how-to-generate-issue-report-for-subcontractors-only,359614,Come generare report difetti per Appaltatore,"",964,2019-01-28 03:41:16 UTC,2019-09-11 14:20:16 UTC,true,6,,,,,,it_IT
+how-do-i-change-password,359664,Come cambio la password?,"",1055,2019-01-28 03:42:27 UTC,2019-02-25 15:35:51 UTC,true,6,,,,,,it_IT
+317970-permit-to-work,359686,Permessi di Lavoro,"",927,2019-01-28 03:43:01 UTC,2019-09-13 06:39:17 UTC,true,6,,,,,,it_IT
+how-to-set-permission-for-kpi-dashboard,359696,Impostazione permessi di accesso ai Pannelli di controllo KPIs,"",1057,2019-01-28 03:43:14 UTC,2019-09-12 13:00:46 UTC,true,6,,,,,,it_IT
+how-to-upload-drawings,359610,Preparazione e upload disegni di Progetto,"",1376,2019-01-28 03:41:15 UTC,2019-09-12 13:23:51 UTC,true,6,,,,,,it_IT
+passwordcomplexity,359583,Imposta complessita' password utenti (amministrazione Societa'),"",881,2019-01-28 03:40:37 UTC,2019-09-12 13:14:16 UTC,true,6,,,,,,it_IT
+how-can-i-search-for-forms,359675,Funzione di ricerca Documenti di Ispezione,"",1120,2019-01-28 03:42:46 UTC,2019-09-11 14:00:52 UTC,true,6,,,,,,it_IT
+340755-view-edit-delete-permit-inspection,359699,Visualizza/Modifica/Elimina Permesso,"",774,2019-01-28 03:43:17 UTC,2019-09-12 09:02:36 UTC,true,6,,,,,,it_IT
+how-to-edit-existing-drawing,359626,Cambiare disegni per accomodare variazioni in corso d' opera,"",1028,2019-01-28 03:41:39 UTC,2019-09-12 13:25:34 UTC,true,6,,,,,,it_IT
+project-summary-what-are-the-figures-in-red-colour,359630,Sommario Progetto: come leggere la presentazione dei dati ,"",744,2019-01-28 03:41:41 UTC,2019-09-11 14:25:42 UTC,true,6,,,,,,it_IT
+how-can-i-unlink-issues-from-a-form,359721,Scollegare Difetti da un Documento di Ispezione,"",876,2019-01-28 03:43:56 UTC,2019-03-07 16:23:55 UTC,true,6,,,,,,it_IT
+how-to-add-contractors-to-project,359700,Aggiungre Appaltatori al progetto,"",1128,2019-01-28 03:43:17 UTC,2019-03-05 17:54:08 UTC,true,6,,,,,,it_IT
+340759-can-i-edit-the-priorities-and-due-day,359701,Modifica Priorita' e relative date di scadenza standard,"",765,2019-01-28 03:43:18 UTC,2019-03-06 13:00:24 UTC,true,6,,,,,,it_IT
+340758-how-to-edit-the-inspection-template,359612,Modifica dettagli Ispezione,"",793,2019-01-28 03:41:15 UTC,2019-02-27 15:00:53 UTC,true,6,,,,,,it_IT
+daily-site-walk,359625,Giornale di cantiere,"",2977,2019-01-28 03:41:31 UTC,2019-09-13 06:41:51 UTC,true,6,,,,,,it_IT
+340736-how-can-i-remove-the-inspection-from-the-company,359705,Rimozione di un Ispezione in Area Amministrazione Societa',"",760,2019-01-28 03:43:21 UTC,2019-03-07 11:36:20 UTC,true,6,,,,,,it_IT
+340737-how-can-i-remove-a-form-from-the-inspection-template,359639,Rimuovere un Modello di Ispezione da un Ispezione?,"",740,2019-01-28 03:41:54 UTC,2019-09-12 13:53:10 UTC,true,6,,,,,,it_IT
+304553-how-to-design-the-dms-export-template,359716,Come estrarre in formato Excel contenuto dei documenti? Creazione maschere di esportazione,"",1623,2019-01-28 03:43:33 UTC,2019-09-13 06:22:34 UTC,true,6,,,,,,it_IT
+304335-how-to-create-custom-list,359602,Creazione lista personalizzata,"",1047,2019-01-28 03:41:00 UTC,2019-09-12 13:55:23 UTC,true,6,,,,,,it_IT
+287202-how-to-design-inspections-in-snagr,359655,Come creare Ispezioni e duplicare procedure aziendali in digitale personalizzando flussi di lavoro e Documenti di Ispezione,"",1446,2019-01-28 03:42:10 UTC,2019-09-12 13:47:18 UTC,true,6,,,,,,it_IT
+hoe-markeer-je-documenten-als-niet-in-gebruik-nieuwe-upgrade,486807,"Hoe markeer je documenten als ""Niet in Gebruik""? (Nieuwe Upgrade)","",858,2019-10-29 12:40:41 UTC,2019-10-29 12:44:50 UTC,true,7,,,,,,nl_NL
+355544-prioriteiten-en-einddatum-bewerken-op-bedrijfsniveau,355544,Prioriteiten en Einddatum bewerken (op Bedrijfsniveau),"",901,2019-01-07 09:32:10 UTC,2019-01-07 09:42:11 UTC,true,7,,,,,,nl_NL
+overzicht-voor-management,293104,Overzicht voor Management,"",303,2018-01-03 09:15:17 UTC,2018-01-17 15:02:58 UTC,true,7,,,,,,nl_NL
+overzicht-voor-onderaannemers,293107,Overzicht voor onderaannemers,"",387,2018-01-03 09:16:54 UTC,2018-01-17 15:06:35 UTC,true,7,,,,,,nl_NL
+hoe-download-ik-een-project,293108,Hoe download ik een project?,"",1635,2018-01-03 09:17:35 UTC,2019-10-24 10:44:51 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-documenten-ontkoppelen-van-formulieren,293279,Hoe kan ik documenten ontkoppelen van formulieren? (Oude versie),"",1375,2018-01-04 07:23:13 UTC,2019-10-29 08:30:36 UTC,true,7,,,,,,nl_NL
+kan-ik-meer-fotos-toevoegen-aan-een-actiepunt,293120,Kan ik meer foto's toevoegen aan een actiepunt?,"",384,2018-01-03 09:39:52 UTC,2018-01-23 15:45:08 UTC,true,7,,,,,,nl_NL
+hoe-beheer-ik-automatische-notificaties,293312,Hoe beheer ik automatische notificaties?,"",1302,2018-01-04 08:57:53 UTC,2018-01-23 15:27:17 UTC,true,7,,,,,,nl_NL
+kan-ik-meerdere-actiepunten-toevoegen-op-een-plek,293117,Kan ik meerdere actiepunten toevoegen op één plek? ,"",1505,2018-01-03 09:37:01 UTC,2019-01-17 12:50:39 UTC,true,7,,,,,,nl_NL
+hoe-ontwerp-ik-inspecties,293318,Hoe ontwerp ik inspecties?,"",336,2018-01-04 09:21:46 UTC,2019-01-15 13:24:26 UTC,true,7,,,,,,nl_NL
+wat-moet-ik-doen-als-ik-mijn-wachtwoord-ben-vergeten,486252,Wat moet ik doen als ik mijn wachtwoord ben vergeten?,"",928,2019-10-28 15:00:10 UTC,2019-10-28 15:02:41 UTC,true,7,,,,,,nl_NL
+wat-is-een-pakket,293291,Wat is een pakket?,"",993,2018-01-04 07:42:10 UTC,2018-01-23 15:13:14 UTC,true,7,,,,,,nl_NL
+hoe-zie-ik-formulier-notificaties,293282,Hoe zie ik formulier notificaties?,"",1454,2018-01-04 07:25:41 UTC,2018-01-23 14:55:11 UTC,true,7,,,,,,nl_NL
+355565-gebruikersbeheer-op-bedrijfsniveau,355565,Gebruikers beheer op Bedrijfsniveau,"",1013,2019-01-07 13:56:28 UTC,2019-01-07 15:31:05 UTC,true,7,,,,,,nl_NL
+hoe-stel-ik-inspecties-en-formulieren-in,293319,Hoe stel ik inspecties en formulieren in?,"",381,2018-01-04 09:22:20 UTC,2018-01-23 15:26:24 UTC,true,7,,,,,,nl_NL
+358075-ik-kan-niet-synchroniseren-op-de-app-wat-moet-ik-doen,358075,Ik kan niet synchroniseren in de app. Wat moet ik doen? ,"",929,2019-01-15 10:28:49 UTC,2019-01-15 11:06:06 UTC,true,7,,,,,,nl_NL
+overzicht-voor-inspectie-teams-adviseurs,293105,Overzicht voor Inspectie Teams / Adviseurs,"",400,2018-01-03 09:16:15 UTC,2018-01-17 15:03:08 UTC,true,7,,,,,,nl_NL
+kan-ik-automatisch-synchroniseren-instellen,293110,Kan ik automatisch synchroniseren instellen?,"",1515,2018-01-03 09:31:43 UTC,2018-01-17 15:10:27 UTC,true,7,,,,,,nl_NL
+hoe-download-ik-bestanden,293294,Hoe download ik bestanden?,"",1269,2018-01-04 07:43:25 UTC,2018-01-23 15:13:44 UTC,true,7,,,,,,nl_NL
+waar-zie-ik-de-actiepunten-notificaties,293128,Waar zie ik de actiepunten notificaties?,"",1443,2018-01-03 09:42:17 UTC,2018-01-23 14:47:21 UTC,true,7,,,,,,nl_NL
+wat-is-het-verschil-tussen-een-gebruikers-en-aannemers-account,293309,Wat is het verschil tussen een gebruikers en aannemers account? ,"",470,2018-01-04 08:12:20 UTC,2018-01-23 15:17:59 UTC,true,7,,,,,,nl_NL
+354949-hoe-bekijk-ik-de-actiepunthistorie,354949,Hoe bekijk ik de actiepuntenhistorie?,"",1048,2019-01-02 15:20:37 UTC,2019-01-02 15:23:24 UTC,true,7,,,,,,nl_NL
+hoe-bewerk-je-formulier-details,486822,Hoe bewerk je formulier details?,"",979,2019-10-29 12:55:24 UTC,2019-10-29 13:20:05 UTC,true,7,,,,,,nl_NL
+357048-project-checklijst-maken,357048,Project Checklijst maken,"",940,2019-01-09 12:45:13 UTC,2019-01-09 13:11:32 UTC,true,7,,,,,,nl_NL
+kan-ik-de-wijzigingen-van-een-formulier-bekijken,293272,Kan ik de wijzigingen van een formulier bekijken?,"",1321,2018-01-04 07:17:21 UTC,2019-01-17 13:17:28 UTC,true,7,,,,,,nl_NL
+357088-welke-besturingssystemen-ondersteunt-snagr,357088,Welke besturingssystemen ondersteunt SnagR? ,"",897,2019-01-09 15:13:28 UTC,2019-01-09 15:16:16 UTC,true,7,,,,,,nl_NL
+354760-producent,354760,Producent,"",981,2018-12-31 14:58:43 UTC,2018-12-31 14:59:21 UTC,true,7,,,,,,nl_NL
+hoe-vind-ik-documenten-per-locatie,293295,Hoe vind ik documenten per locatie? ,"",1004,2018-01-04 07:43:52 UTC,2019-10-29 11:25:01 UTC,true,7,,,,,,nl_NL
+354752-hoofdaannemer,354752,Hoofdaannemer,"",1112,2018-12-31 12:01:20 UTC,2018-12-31 14:55:30 UTC,true,7,,,,,,nl_NL
+hoe-verander-ik-mijn-wachtwoord,293113,Hoe verander ik mijn wachtwoord?,"",978,2018-01-03 09:33:38 UTC,2019-01-21 08:26:45 UTC,true,7,,,,,,nl_NL
+354751-ontwikkelaar,354751,Ontwikkelaar,"",968,2018-12-31 11:02:55 UTC,2018-12-31 11:59:14 UTC,true,7,,,,,,nl_NL
+358074-de-app-blijft-checking-credentials-aangeven-wat-is-er-aan-de-hand,358074,"De app blijft ""Checking Credentials"" aangeven. Wat is er aan de hand? ","",1059,2019-01-15 10:20:16 UTC,2019-01-15 10:27:31 UTC,true,7,,,,,,nl_NL
+wie-heeft-toegang-tot-de-documenten-opslag,293287,Wie heeft toegang tot de documenten opslag?,"",989,2018-01-04 07:40:04 UTC,2018-01-23 15:03:31 UTC,true,7,,,,,,nl_NL
+kan-een-aannemersgroep-automatisch-gekoppeld-worden-aan-een-specifiek-actiepuntentype,486732,Kan een aannemersgroep automatisch gekoppeld worden aan een specifiek actiepuntentype?,"",980,2019-10-29 08:51:51 UTC,2019-10-29 10:24:57 UTC,true,7,,,,,,nl_NL
+355104-is-er-versiebeheer-in-snagr-documenten,355104,Is er versiebeheer in SnagR documenten?,"",970,2019-01-03 10:42:59 UTC,2019-01-03 10:57:34 UTC,true,7,,,,,,nl_NL
+hoe-maak-ik-een-actiepunten-rapport,293138,Hoe maak ik een actiepunten rapport?,"",2086,2018-01-03 09:48:40 UTC,2019-01-17 12:54:58 UTC,true,7,,,,,,nl_NL
+hoe-activeer-ik-formulier-sjablonen-voor-een-project,293321,Hoe activeer ik formulier sjablonen voor een project?,"",1333,2018-01-04 09:24:16 UTC,2019-10-29 12:51:41 UTC,true,7,,,,,,nl_NL
+hoe-voeg-ik-een-actiepunt-toe,293116,Hoe voeg ik een actiepunt toe?,"",1762,2018-01-03 09:36:21 UTC,2019-01-17 12:50:04 UTC,true,7,,,,,,nl_NL
+354932-hoe-maak-ik-een-aangepast-rapport,354932,Hoe maak ik een aangepast rapport?,"",977,2019-01-02 13:57:02 UTC,2019-01-02 14:16:27 UTC,true,7,,,,,,nl_NL
+354921-hoe-krijg-ik-een-overzicht-van-alle-inspectieformulieren,354921,Hoe krijg ik een overzicht van alle inspectieformulieren?,"",1182,2019-01-02 13:10:54 UTC,2019-01-02 13:41:11 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-documenten-koppelen-aan-formulieren,293278,Hoe kan ik documenten koppelen aan formulieren? (Oude versie),"",1660,2018-01-04 07:22:46 UTC,2019-10-29 12:26:57 UTC,true,7,,,,,,nl_NL
+kan-ik-automatische-synchronisatie-instellen,486290,Kan ik automatische synchronisatie instellen?,"",784,2019-10-28 15:43:34 UTC,2019-10-28 15:48:01 UTC,true,7,,,,,,nl_NL
+356462-hoe-maak-je-een-hierarchische-lijst,356462,Hoe maak je een hiërarchische lijst?,"",1123,2019-01-08 13:18:14 UTC,2019-01-08 13:45:17 UTC,true,7,,,,,,nl_NL
+355094-hoe-kan-ik-een-foto-uit-mijn-fotogalerij-toevoegen-aan-een-inspectieformulier,355094,Hoe kan ik een foto uit mijn fotogalerij toevoegen aan een inspectieformulier?,"",1296,2019-01-03 08:18:24 UTC,2019-10-29 08:40:34 UTC,true,7,,,,,,nl_NL
+kan-ik-een-rapport-krijgen-met-alleen-de-eerste-en-laatste-foto,293141,Kan ik een rapport krijgen met alleen de eerste en laatste foto?,"",1260,2018-01-03 09:50:28 UTC,2019-01-21 08:43:20 UTC,true,7,,,,,,nl_NL
+hoe-gebruik-ik-de-formulier-zoeker-in-de-app,484524,Hoe gebruik ik de Formulier Zoeker in de app?,"",962,2019-10-24 13:12:51 UTC,2019-10-29 13:35:01 UTC,true,7,,,,,,nl_NL
+357091-overzicht-van-alle-iconen-knoppen-in-de-app,357091,Overzicht van alle iconen / knoppen in de app,"",1190,2019-01-09 15:17:07 UTC,2019-01-10 14:32:07 UTC,true,7,,,,,,nl_NL
+354950-kan-ik-meerdere-actiepunten-tegelijk-aanpassen,354950,Kan ik meerdere actiepunten tegelijk aanpassen?,"",1074,2019-01-02 15:24:40 UTC,2019-01-02 15:33:17 UTC,true,7,,,,,,nl_NL
+twee-traps-authenticatie-activeren-op-bedrijfsniveau,486780,Twee-Traps-Authenticatie activeren (op Bedrijfsniveau),"",863,2019-10-29 11:16:34 UTC,2019-10-29 11:23:13 UTC,true,7,,,,,,nl_NL
+355541-project-instellingen-bewerken-op-project-niveau,355541,Project Instellingen bewerken (op Project niveau),"",935,2019-01-07 09:03:36 UTC,2019-01-07 09:14:01 UTC,true,7,,,,,,nl_NL
+351217-hoe-maak-ik-een-aangepaste-lijst,351217,Hoe maak ik een aangepaste lijst?,"",1177,2018-12-03 08:47:55 UTC,2018-12-03 09:25:19 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-actiepunten-ontkoppelen-van-formulieren,293277,Hoe kan ik actiepunten ontkoppelen van formulieren?,"",1375,2018-01-04 07:22:15 UTC,2019-06-04 10:14:50 UTC,true,7,,,,,,nl_NL
+hoe-koppel-je-tekeningen-automatisch,293300,Hoe koppel je tekeningen (automatisch)?,"",1340,2018-01-04 08:01:05 UTC,2018-01-23 15:15:11 UTC,true,7,,,,,,nl_NL
+355108-hoe-bewerk-ik-tekeningenmappen,355108,Hoe bewerk ik tekeningenmappen?,"",1037,2019-01-03 11:00:48 UTC,2019-01-03 11:54:39 UTC,true,7,,,,,,nl_NL
+hoe-partij-bewerk-je-gebruikersrechten,484540,Hoe Partij bewerk je gebruikersrechten?,"",944,2019-10-24 13:47:59 UTC,2019-10-29 12:48:56 UTC,true,7,,,,,,nl_NL
+354941-kan-ik-een-actiepunt-heropenen,354941,Kan ik een actiepunt heropenen?,"",979,2019-01-02 14:25:12 UTC,2019-01-02 14:38:31 UTC,true,7,,,,,,nl_NL
+hoe-exporteer-ik-formulieren-in-pdf-wanneer-er-actiepunten-en-documenten-aan-vast-zitten,293284,Hoe exporteer ik formulieren in PDF wanneer er actiepunten en documenten aan vast zitten?,"",1350,2018-01-04 07:28:16 UTC,2018-01-23 14:56:00 UTC,true,7,,,,,,nl_NL
+actiepunten-overlappen-elkaar-hoe-kan-dit-verholpen-worden,293132,Actiepunten overlappen elkaar. Hoe kan dit verholpen worden?,"",1317,2018-01-03 09:44:33 UTC,2018-01-23 15:50:20 UTC,true,7,,,,,,nl_NL
+hoe-ontkoppel-ik-actiepunt-uit-een-plot-met-meerdere-actiepunten,293133,Hoe ontkoppel ik een actiepunt uit een plot met meerdere actiepunten.,"",1176,2018-01-03 09:45:08 UTC,2018-12-10 15:07:39 UTC,true,7,,,,,,nl_NL
+355095-hoe-verwijder-ik-inspectieformulieren,355095,Hoe verwijder ik inspectieformulieren?,"",1106,2019-01-03 08:28:00 UTC,2019-01-03 08:42:54 UTC,true,7,,,,,,nl_NL
+wat-is-de-snelste-weg-om-herhalende-tekeningen-ruimtes-in-te-stellen,293298,Wat is de snelste weg om herhalende tekeningen/ruimtes in te stellen? ,"",1227,2018-01-04 08:00:11 UTC,2018-01-23 15:14:40 UTC,true,7,,,,,,nl_NL
+355197-hoe-stel-ik-inspectie-notificaties-in-voor-alle-gebruikers,355197,Hoe stel ik Inspectie notificaties in voor alle gebruikers?,"",929,2019-01-03 16:03:35 UTC,2019-01-07 08:05:54 UTC,true,7,,,,,,nl_NL
+hoe-bewerk-je-items-op-de-standaard-actiepunten-lijst,293316,Hoe bewerk je items op de standaard actiepunten lijst?,"",1570,2018-01-04 09:11:37 UTC,2018-01-23 15:24:50 UTC,true,7,,,,,,nl_NL
+355098-kan-ik-de-locatie-van-een-inspectieformulier-wijzigen,355098,Kan ik de locatie van een inspectieformulier wijzigen?,"",913,2019-01-03 09:36:24 UTC,2019-10-24 13:26:57 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-standaard-actiepuntenlijsten-importeren,293314,Hoe kan ik standaard actiepuntenlijsten importeren?,"",1277,2018-01-04 09:09:08 UTC,2018-01-23 15:24:27 UTC,true,7,,,,,,nl_NL
+356452-hoe-verwijder-ik-een-formulier-template-uit-een-inspectie-template,356452,Hoe verwijder ik een formulier template uit een inspectie template?,"",1014,2019-01-08 10:40:47 UTC,2019-01-08 10:49:11 UTC,true,7,,,,,,nl_NL
+356450-kan-ik-de-formulierafbeelding-bewerken-vervangen,356450,Kan ik de formulierafbeelding bewerken / vervangen?,"",922,2019-01-08 09:45:41 UTC,2019-01-08 10:39:48 UTC,true,7,,,,,,nl_NL
+hoe-voeg-ik-aannemers-toe-aan-het-project,293305,Hoe voeg ik aannemers toe aan het project?,"",1538,2018-01-04 08:10:08 UTC,2018-01-23 15:17:03 UTC,true,7,,,,,,nl_NL
+kan-ik-een-samenvatting-krijgen-van-de-workflow-historie-van-een-formulier,293273,Kan ik een samenvatting krijgen van de workflow historie van een formulier?,"",1343,2018-01-04 07:18:38 UTC,2018-01-23 14:52:18 UTC,true,7,,,,,,nl_NL
+354939-kan-ik-meerdere-foto-s-toevoegen-aan-een-actiepunt,354939,"Kan ik meerdere foto's toevoegen aan een actiepunt?
+","",1015,2019-01-02 14:18:43 UTC,2019-01-02 14:24:03 UTC,true,7,,,,,,nl_NL
+wat-betekenen-de-verschillende-actiepunt-kleuren,293135,Wat betekenen de verschillende actiepunt kleuren?,"",1372,2018-01-03 09:46:46 UTC,2019-01-17 12:52:06 UTC,true,7,,,,,,nl_NL
+351224-hoe-kan-ik-een-inspectie-sjabloon-bewerken,351224,Hoe kan ik een Inspectie sjabloon bewerken?,"",1252,2018-12-03 09:31:24 UTC,2018-12-03 10:13:01 UTC,true,7,,,,,,nl_NL
+hoe-voeg-ik-een-los-item-toe-aan-de-standaard-actiepunten-lijst,293315,Hoe voeg ik een los item toe aan de standaard actiepunten lijst?,"",1464,2018-01-04 09:09:35 UTC,2018-01-23 15:24:39 UTC,true,7,,,,,,nl_NL
+hoe-activeer-ik-specifieke-actiepunt-categorieen-voor-een-project,293317,Ik zie de actiepunten categorieën niet. Wat is er mis?,"",1342,2018-01-04 09:12:11 UTC,2019-10-29 10:51:48 UTC,true,7,,,,,,nl_NL
+kan-ik-een-lijst-onttrekken-van-formulieren-welke-zijn-gecreeerd-in-snagr,293285,Kan ik een lijst onttrekken van formulieren welke zijn gecreëerd in SnagR? ,"",1073,2018-01-04 07:28:45 UTC,2018-01-23 14:57:17 UTC,true,7,,,,,,nl_NL
+wat-is-activiteiten-logboek-project,486232,"Wat is Activiteiten logboek project?
+","",1305,2019-10-28 14:43:22 UTC,2019-10-28 14:51:41 UTC,true,7,,,,,,nl_NL
+355560-hoe-activeer-ik-auto-close-voor-fotodagboeken,355560,Hoe activeer ik Auto-Close voor fotodagboeken? ,"",833,2019-01-07 13:27:39 UTC,2019-01-07 14:44:34 UTC,true,7,,,,,,nl_NL
+hoe-koppel-ik-documenten-aan-locaties,293288,Hoe koppel ik documenten aan locaties?,"",1125,2018-01-04 07:40:39 UTC,2018-01-23 15:03:46 UTC,true,7,,,,,,nl_NL
+358103-locatie-aftekenen,358103,Locatie Aftekenen,"",878,2019-01-15 13:04:13 UTC,2019-01-15 13:17:22 UTC,true,7,,,,,,nl_NL
+hoe-upload-ik-documenten-om-te-linken-aan-formulieren,293280,Hoe upload ik documenten om te linken aan formulieren?,"",1372,2018-01-04 07:23:48 UTC,2018-01-23 14:54:47 UTC,true,7,,,,,,nl_NL
+355543-standaard-taal-of-logo-bewerken-op-bedrijfsniveau,355543,Standaard Taal of Logo bewerken (op Bedrijfsniveau),"",910,2019-01-07 09:14:34 UTC,2019-01-07 09:31:06 UTC,true,7,,,,,,nl_NL
+verwijderen-en-opnieuw-toevoegen-project,293114,Verwijderen en opnieuw toevoegen project,"",1270,2018-01-03 09:34:24 UTC,2018-01-23 14:44:34 UTC,true,7,,,,,,nl_NL
+355096-kan-ik-naar-inspectieformulieren-zoeken-aan-de-hand-van-de-inhoud,355096,Kan ik naar inspectieformulieren zoeken aan de hand van de inhoud?,"",1044,2019-01-03 08:47:53 UTC,2019-01-03 09:31:07 UTC,true,7,,,,,,nl_NL
+hoe-kunnen-gebruikers-de-twee-traps-authenticatie-activeren,486261,Hoe kunnen gebruikers de Twee-Traps-Authenticatie activeren?,"",1085,2019-10-28 15:12:31 UTC,2019-10-28 15:41:04 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-formulieren-invullen-op-de-website,293271,Hoe kan ik formulieren invullen op de website?,"",1502,2018-01-04 07:13:16 UTC,2019-01-17 13:16:26 UTC,true,7,,,,,,nl_NL
+355555-termen-op-bedrijfsniveau,355555,Termen (op Bedrijfsniveau),"",1531,2019-01-07 11:09:53 UTC,2019-01-07 12:11:35 UTC,true,7,,,,,,nl_NL
+351230-locatie-aftekenen,351230,Locatie sluiten / overhandigen,"",1364,2018-12-03 10:16:08 UTC,2019-01-15 13:10:53 UTC,true,7,,,,,,nl_NL
+354769-overdracht-aan-kopers,354769,Overdracht aan kopers,"",1172,2018-12-31 15:37:18 UTC,2019-01-02 08:15:11 UTC,true,7,,,,,,nl_NL
+354959-project-samenvatting-wat-zijn-die-rode-cijfers,354959,Project samenvatting: Wat zijn die rode cijfers?,"",1182,2019-01-02 15:43:38 UTC,2019-01-02 15:57:45 UTC,true,7,,,,,,nl_NL
+355547-regio-s-divisies-programma-s-op-bedrijfsniveau,355547,Regio's / Divisies / Programma's (op Bedrijfsniveau),"",912,2019-01-07 10:26:38 UTC,2019-01-07 12:13:47 UTC,true,7,,,,,,nl_NL
+hoe-stel-ik-notificaties-in-voor-alle-gebruikers,293310,Hoe stel ik Actiepunt notificaties in voor alle gebruikers?,"",1327,2018-01-04 08:12:59 UTC,2019-01-07 08:31:36 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-contact-opnemen-met-snagr,486243,Hoe kan ik contact opnemen met SnagR?,"",838,2019-10-28 14:52:19 UTC,2019-10-28 14:56:49 UTC,true,7,,,,,,nl_NL
+355093-hoe-bekijk-en-voeg-ik-vergunningen-toe,355093,Hoe bekijk en voeg ik vergunningen toe?,"",870,2019-01-03 08:05:54 UTC,2019-01-03 08:17:19 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-tekeningen-groeperen,293296,Hoe kan ik tekeningen groeperen? ,"",1195,2018-01-04 07:59:06 UTC,2018-01-23 15:14:15 UTC,true,7,,,,,,nl_NL
+hoe-verwijder-ik-een-bestand,293290,Hoe verwijder ik een bestand?,"",1081,2018-01-04 07:41:27 UTC,2018-01-23 15:12:59 UTC,true,7,,,,,,nl_NL
+hoe-zet-je-gerelateerde-formulieren-op-gesloten-afgekeurd,484533,"Hoe zet je gerelateerde formulieren op ""Gesloten (Afgekeurd)""","",820,2019-10-24 13:28:39 UTC,2019-10-29 08:34:39 UTC,true,7,,,,,,nl_NL
+kan-ik-een-actiepunt-verplaatsen,293131,Kan ik een actiepunt verplaatsen?,"",1023,2018-01-03 09:44:10 UTC,2018-01-23 14:47:57 UTC,true,7,,,,,,nl_NL
+wachtwoord-complexiteit-instellen-op-bedrijfsniveau,486771,Wachtwoord complexiteit instellen (op Bedrijfsniveau),"",922,2019-10-29 10:53:06 UTC,2019-10-29 11:13:17 UTC,true,7,,,,,,nl_NL
+355127-hoe-verplaats-bewerk-verwijder-ik-een-locatie-pin,355127,Hoe verplaats / bewerk / verwijder ik een locatie pin?,"",970,2019-01-03 12:35:30 UTC,2019-01-03 13:09:09 UTC,true,7,,,,,,nl_NL
+354822-veiligheidsinspectie,354822,Veiligheidsinspectie,"",1047,2019-01-02 09:34:45 UTC,2019-01-02 10:26:01 UTC,true,7,,,,,,nl_NL
+hoe-verwijder-ik-een-map,293289,Hoe verwijder ik een map?,"",1027,2018-01-04 07:41:04 UTC,2018-01-23 15:03:59 UTC,true,7,,,,,,nl_NL
+358106-hoe-ontwerp-ik-een-inspectie-formulier-template-met-bedrijfslogica-erin,358106,Hoe ontwerp ik een Inspectie Formulier Template met bedrijfslogica erin? ,"",1805,2019-01-15 13:25:04 UTC,2019-01-15 15:17:36 UTC,true,7,,,,,,nl_NL
+nl-how-to-link-drawings-together-manually,293299,Hoe link ik tekeningen aan elkaar (handmatig)?,"",1299,2018-01-04 08:00:34 UTC,2018-01-17 12:46:57 UTC,true,7,,,,,,nl_NL
+hoe-sleep-je-een-bestand-van-de-ene-map-naar-de-andere,293292,Hoe sleep je een bestand van de ene map naar de andere?,"",1077,2018-01-04 07:42:42 UTC,2018-01-23 15:13:27 UTC,true,7,,,,,,nl_NL
+357050-maak-construction-stages,357050,Maak Construction Stages,"",856,2019-01-09 13:30:45 UTC,2019-01-09 13:49:26 UTC,true,7,,,,,,nl_NL
+356454-hoe-bewerk-ik-lijsten,356454,Hoe bewerk ik Lijsten?,"",807,2019-01-08 11:01:31 UTC,2019-01-08 11:09:08 UTC,true,7,,,,,,nl_NL
+355154-hoe-stel-je-rechten-in-actiepunten,355154,Hoe stel je rechten in? (Actiepunten),"",1146,2019-01-03 14:06:21 UTC,2019-01-03 14:51:00 UTC,true,7,,,,,,nl_NL
+hoe-stuur-ik-notificaties-over-een-formulier,293274,Hoe stuur ik notificaties over een formulier?,"",1244,2018-01-04 07:19:45 UTC,2018-01-23 14:52:31 UTC,true,7,,,,,,nl_NL
+354824-werkvergunning,354824,Werkvergunning,"",1014,2019-01-02 10:27:14 UTC,2019-01-02 10:59:32 UTC,true,7,,,,,,nl_NL
+354761-actiepunt-management,354761,Actiepunt Management,"",1005,2018-12-31 15:00:45 UTC,2018-12-31 15:35:14 UTC,true,7,,,,,,nl_NL
+354817-verzoek-voor-inspecties,354817,Verzoek voor Inspecties,"",977,2019-01-02 07:48:19 UTC,2019-01-02 08:24:28 UTC,true,7,,,,,,nl_NL
+354845-bouwplaatsdagboek,354845,Bouwplaatsdagboek,"",1117,2019-01-02 11:02:31 UTC,2019-01-02 12:35:28 UTC,true,7,,,,,,nl_NL
+hoe-bewerk-ik-gebruikers-en-aannemers,293307,Hoe bewerk ik gebruikers en aannemers? ,"",1386,2018-01-04 08:10:57 UTC,2018-01-23 15:17:29 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-formulieren-exporteren-in-pdf-formaat,293283,Hoe kan ik formulieren exporteren in PDF formaat?,"",1444,2018-01-04 07:26:27 UTC,2019-01-17 13:19:49 UTC,true,7,,,,,,nl_NL
+hoe-update-ik-een-actiepunt,293134,Hoe update ik een actiepunt?,"",1706,2018-01-03 09:45:42 UTC,2019-07-22 12:26:28 UTC,true,7,,,,,,nl_NL
+kan-ik-actiepunten-bewerken,293129,Kan ik actiepunten bewerken?,"",1474,2018-01-03 09:42:44 UTC,2019-01-17 12:54:21 UTC,true,7,,,,,,nl_NL
+wat-is-opvolgend-actiepunt-toevoegen,293123,Wat is ''Opvolgend Actiepunt toevoegen''?,"",1107,2018-01-03 09:41:00 UTC,2018-01-23 15:46:28 UTC,true,7,,,,,,nl_NL
+kunnen-actiepunt-rapportages-automatisch-gegeneerd-worden,293139,Kunnen actiepunt rapportages automatisch gegeneerd worden?,"",1181,2018-01-03 09:49:03 UTC,2018-01-23 14:49:33 UTC,true,7,,,,,,nl_NL
+kan-ik-de-foto-grootte-bepalen,293126,Kan ik de foto grootte bepalen?,"",1083,2018-01-03 09:41:29 UTC,2018-01-23 14:46:52 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-op-de-hoogte-gehouden-worden-van-formulier-wijzigingen,293275,Hoe kan ik op de hoogte gehouden worden van formulier wijzigingen?,"",1331,2018-01-04 07:20:47 UTC,2018-01-23 14:52:44 UTC,true,7,,,,,,nl_NL
+hoe-voeg-ik-gebruikers-toe-aan-een-project,293304,Hoe voeg ik gebruikers toe aan een project?,"",1531,2018-01-04 08:05:44 UTC,2018-01-23 15:16:49 UTC,true,7,,,,,,nl_NL
+hoe-zoek-ik-naar-actiepunten,293127,Hoe zoek ik naar actiepunten?,"",1372,2018-01-03 09:41:55 UTC,2019-10-24 10:46:19 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-actiepunten-koppelen-aan-een-formulier,293276,Hoe kan ik actiepunten koppelen aan een formulier?,"",1712,2018-01-04 07:21:22 UTC,2019-01-17 13:19:05 UTC,true,7,,,,,,nl_NL
+kan-ik-een-actiepunten-kopieren-en-plakken,293122,Kan ik een actiepunt kopiëren en plakken?,"",1001,2018-01-03 09:40:29 UTC,2018-12-10 09:08:40 UTC,true,7,,,,,,nl_NL
+hoe-verstuur-ik-een-wachtwoord-herinnering,293308,Hoe verstuur ik een wachtwoord herinnering? ,"",1290,2018-01-04 08:11:44 UTC,2019-10-29 12:48:22 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-zoeken-naar-formulieren,293281,Hoe kan ik zoeken naar formulieren?,"",1459,2018-01-04 07:25:14 UTC,2019-01-17 13:18:01 UTC,true,7,,,,,,nl_NL
+hoe-voeg-ik-handmatige-workflows-toe-aan-formulieren,293320,Hoe voeg ik handmatige workflows toe aan formulieren?,"",901,2018-01-04 09:23:55 UTC,2018-01-23 15:26:36 UTC,true,7,,,,,,nl_NL
+hoe-zie-ik-de-statistieken,293142,Hoe zie ik de actiepunt statistieken?,"",1287,2018-01-03 09:50:55 UTC,2018-11-26 15:12:34 UTC,true,7,,,,,,nl_NL
+hoe-ontwerp-ik-de-standaard-actiepunten-lijst,293313,Hoe ontwerp ik de standaard actiepunten lijst?,"",1512,2018-01-04 08:59:06 UTC,2018-01-23 15:24:17 UTC,true,7,,,,,,nl_NL
+hoe-kan-ik-tussen-de-tekeningen-navigeren,293112,Hoe kan ik tussen de tekeningen navigeren?,"",1596,2018-01-03 09:33:07 UTC,2019-01-21 08:29:14 UTC,true,7,,,,,,nl_NL
+inloggen-met-twee-traps-authenticatie,486217,Inloggen met Twee-Traps-Authenticatie,"",1241,2019-10-28 14:19:12 UTC,2019-10-28 14:41:01 UTC,true,7,,,,,,nl_NL
+kan-ik-een-notificatie-versturen-over-een-actiepunt-of-update,293136,Kan ik een notificatie versturen over een actiepunt of update?,"",1152,2018-01-03 09:47:13 UTC,2018-01-23 14:48:57 UTC,true,7,,,,,,nl_NL
+hoe-upload-ik-documenten,293286,Hoe upload ik documenten?,"",1112,2018-01-04 07:38:38 UTC,2018-01-23 14:57:57 UTC,true,7,,,,,,nl_NL
+356474-bekijk-bewerk-verwijder-vergunning-inspecties,356474,Bekijk / Bewerk / Verwijder Vergunning Inspecties,"",901,2019-01-08 14:41:12 UTC,2019-01-09 12:43:14 UTC,true,7,,,,,,nl_NL
+355173-hoe-stel-ik-de-rechten-in-voor-custom-reports,355173,Hoe stel ik de rechten in voor Custom Reports? ,"",923,2019-01-03 15:23:06 UTC,2019-01-03 15:42:09 UTC,true,7,,,,,,nl_NL
+hoe-partij-bewerk-je-gebruikersrollen-geactiveerd,486192,Hoe Partij bewerk je Gebruikersrollen / Geactiveerd?,"",834,2019-10-28 13:45:01 UTC,2019-10-29 12:49:12 UTC,true,7,,,,,,nl_NL
+wat-is-de-actiepunten-mode-en-inspectie-mode,293111,Wat is de Actiepunten mode en Inspectie mode?,"",1403,2018-01-03 09:32:34 UTC,2018-01-17 15:13:21 UTC,true,7,,,,,,nl_NL
+hoe-maak-ik-een-map-aan,295043,Hoe maak ik een map aan? ,"",1077,2018-01-17 09:05:52 UTC,2018-01-17 09:10:50 UTC,true,7,,,,,,nl_NL
+hoe-voeg-ik-locaties-toe-op-tekeningen,293301,Hoe voeg ik locaties toe op tekeningen?,"",1786,2018-01-04 08:01:47 UTC,2019-10-29 12:47:13 UTC,true,7,,,,,,nl_NL
+354927-hoe-bekijk-ik-een-aangepaste-kpi-dashboard,354927,Hoe bekijk ik een aangepaste KPI dashboard?,"",1150,2019-01-02 13:43:14 UTC,2019-01-02 14:16:24 UTC,true,7,,,,,,nl_NL
+hoe-vul-ik-een-formulier-in-met-de-app,293270,Hoe vul ik een formulier in met de app?,"",1532,2018-01-04 07:12:18 UTC,2019-01-17 13:15:39 UTC,true,7,,,,,,nl_NL
+hoe-krijg-ik-samenvattingen-van-onze-actiepunten,293143,Hoe krijg ik samenvattingen van onze actiepunten?,"",1455,2018-01-03 09:51:16 UTC,2019-01-21 08:43:50 UTC,true,7,,,,,,nl_NL
+356460-export-formulier-content-naar-excel-hoe-stel-ik-een-template-op,356460,[Export Formulier Content naar Excel] Hoe stel ik een template op?,"",1819,2019-01-08 12:50:42 UTC,2019-10-29 13:22:37 UTC,true,7,,,,,,nl_NL
+hoe-kan-ons-probleemherstelproces-worden-gedefinieerd-in-snagr,293303,Hoe kan ons probleemherstelproces worden gedefinieerd in SnagR?,"",853,2018-01-04 08:03:33 UTC,2018-01-23 15:15:58 UTC,true,7,,,,,,nl_NL
+documenten-uploaden-om-aan-formulieren-te-koppelen-nieuwe-upgrade,484500,Documenten uploaden om aan formulieren te koppelen (Nieuwe upgrade),"",1058,2019-10-24 12:33:19 UTC,2019-10-29 12:40:11 UTC,true,7,,,,,,nl_NL
+355122-wat-zijn-tekening-vakken-en-hoe-stel-ik-ze-in,355122,Wat zijn Tekening Vakken en hoe stel ik ze in? ,"",1578,2019-01-03 11:57:40 UTC,2019-01-03 12:33:12 UTC,true,7,,,,,,nl_NL
+355134-hoe-genereer-ik-barcodes-qr-codes-voor-locaties,355134,Hoe genereer ik barcodes / QR codes voor locaties? ,"",2137,2019-01-03 13:12:22 UTC,2019-01-03 14:03:12 UTC,true,7,,,,,,nl_NL
+hoe-reset-je-de-twee-staps-authenticatie-sleutel,486208,Hoe reset je de Twee-Traps-Authenticatie sleutel?,"",1066,2019-10-28 13:57:14 UTC,2019-10-29 13:33:19 UTC,true,7,,,,,,nl_NL
+355595-hoe-maak-ik-een-digitaal-formulier,355595,Hoe maak ik een digitaal formulier?,"",2101,2019-01-07 15:33:43 UTC,2019-01-08 09:43:16 UTC,true,7,,,,,,nl_NL
+hoe-bewerk-ik-een-bestaande-tekening,293302,Hoe bewerk ik een bestaande tekening?,"",2008,2018-01-04 08:03:02 UTC,2018-01-23 15:15:35 UTC,true,7,,,,,,nl_NL
+355103-hoe-exporteer-ik-formuliergegevens-naar-excel,355103,Hoe exporteer ik formuliergegevens naar Excel?,"",2285,2019-01-03 10:22:29 UTC,2019-01-03 10:40:09 UTC,true,7,,,,,,nl_NL
+356466-vergunning-inspectie-toevoegen,356466,Vergunning Inspectie toevoegen,"",1620,2019-01-08 13:46:38 UTC,2019-01-08 14:04:03 UTC,true,7,,,,,,nl_NL
+354918-fotodagboek,354918,Fotodagboek,"",1572,2019-01-02 12:38:38 UTC,2019-01-02 13:09:45 UTC,true,7,,,,,,nl_NL
+357261-ik-kan-inloggen-op-de-website-maar-niet-op-de-app-wat-is-er-aan-de-hand,357261,"Ik kan inloggen op de website, maar niet op de app. Wat is er aan de hand?","",1239,2019-01-10 14:34:14 UTC,2019-01-15 10:19:24 UTC,true,7,,,,,,nl_NL
+356469-vergunningsformulier-pagina-toevoegen,356469,Vergunningsformulier pagina toevoegen,"",1603,2019-01-08 14:00:51 UTC,2019-01-08 14:29:28 UTC,true,7,,,,,,nl_NL
+nl-issues-in-project-download,293115,Veelvoorkomende problemen bij het downloaden van een project,"",1046,2018-01-03 09:34:59 UTC,2019-01-21 08:40:52 UTC,true,7,,,,,,nl_NL
+354943-kan-ik-actiepunten-op-tekeningen-filteren,354943,Kan ik actiepunten op tekeningen filteren?,"",2256,2019-01-02 14:39:47 UTC,2019-01-02 15:19:22 UTC,true,7,,,,,,nl_NL
+357049-importeer-project-checklijsten-op-projectniveau,357049,Importeer Project Checklijsten (op Projectniveau),"",1620,2019-01-09 13:03:58 UTC,2019-01-09 13:29:06 UTC,true,7,,,,,,nl_NL
+354820-non-conformance-report,354820,Non Conformance Rapport,"",1464,2019-01-02 08:43:19 UTC,2019-01-02 09:33:46 UTC,true,7,,,,,,nl_NL
+waarom-moet-ik-synchroniseren,293109,Waarom moet ik synchroniseren?,"",5348,2018-01-03 09:30:59 UTC,2018-01-17 15:10:12 UTC,true,7,,,,,,nl_NL
+hoe-stel-je-gebruikersrechten-in-formulieren,293306,"Hoe stel je gebruikersrechten in? (Formulieren)
+","",1146,2018-01-04 08:10:37 UTC,2019-01-21 08:03:12 UTC,true,7,,,,,,nl_NL
+kan-ik-actiepunten-verwijderen,293130,Kan ik actiepunten verwijderen?,"",1216,2018-01-03 09:43:10 UTC,2018-01-23 14:47:46 UTC,true,7,,,,,,nl_NL
+355576-aannemersbeheer-op-bedrijfsniveau,355576,Aannemers beheer op Bedrijfsniveau,"",914,2019-01-07 15:10:59 UTC,2019-01-07 15:30:28 UTC,true,7,,,,,,nl_NL
+hoe-genereer-ik-een-actiepunten-rapportage-voor-onderaannemers,293140,Hoe genereer ik een actiepunten rapportage voor onderaannemers?,"",1304,2018-01-03 09:49:46 UTC,2019-01-21 08:42:46 UTC,true,7,,,,,,nl_NL
+hoe-tekeningen-voorbereiden-en-uploaden,293297,Hoe tekeningen voorbereiden en uploaden?,"",1803,2018-01-04 07:59:35 UTC,2018-01-23 15:14:27 UTC,true,7,,,,,,nl_NL
+355546-bewerk-bekijk-projecten-op-bedrijfsniveau,355546,Bewerk / Bekijk Projecten (op Bedrijfsniveau),"",916,2019-01-07 09:43:21 UTC,2019-01-07 10:25:37 UTC,true,7,,,,,,nl_NL
+358090-ik-kan-een-gebruiker-niet-toevoegen-ik-zie-de-gebruiker-niet-in-het-project-maar-het-systeem-zegt-dat-het-e-mailadres-al-bestaat-wat-is-er-aan-de-hand,358090,"Ik kan een gebruiker niet toevoegen. Ik zie de gebruiker niet in het project, maar het systeem zegt dat het e-mailadres al bestaat. Wat is er aan de hand? ","",941,2019-01-15 11:07:05 UTC,2019-01-15 12:36:35 UTC,true,7,,,,,,nl_NL
+355161-hoe-stel-ik-de-rechten-voor-kpi-dashboards-in,355161,Hoe stel ik de rechten voor KPI dashboards in?,"",859,2019-01-03 14:55:15 UTC,2019-01-03 15:15:56 UTC,true,7,,,,,,nl_NL
+356455-import-export-inspectie-formulieren-templates,356455,Import/Export Inspectie Formulieren Templates,"",1207,2019-01-08 11:18:22 UTC,2019-01-08 12:48:36 UTC,true,7,,,,,,nl_NL
+358102-locatie-gereed-voor-inspectie,358102,Locatie Gereed voor Inspectie,"",1000,2019-01-15 12:38:38 UTC,2019-01-15 13:03:27 UTC,true,7,,,,,,nl_NL
+354753-onderaannemer,354753,Onderaannemer,"",1112,2018-12-31 12:19:27 UTC,2018-12-31 14:53:39 UTC,true,7,,,,,,nl_NL
+356453-kan-ik-een-inspectie-template-verwijderen-op-bedrijfsniveau,356453,Kan ik een Inspectie template verwijderen op Bedrijfsniveau?,"",896,2019-01-08 10:50:53 UTC,2019-01-08 10:59:58 UTC,true,7,,,,,,nl_NL
+306970,306970,如何汇入缺陷列表？,"",1073,2018-04-09 08:35:24 UTC,2018-04-19 09:11:18 UTC,true,13,,,,,,cn_CN
+305218,305218,"如何准备及上传图纸？
+","",1479,2018-03-26 10:01:37 UTC,2018-04-19 03:47:17 UTC,true,13,,,,,,cn_CN
+305040,305040,如何添加一个缺陷？,"",3,2018-03-23 08:39:17 UTC,2018-04-16 05:32:55 UTC,true,13,,,,,,cn_CN
+330060,330060,导入/导出检查表格模板,"",1775,2018-07-31 09:16:53 UTC,2018-07-31 10:20:05 UTC,true,13,,,,,,cn_CN
+306969,306969,"如何设计缺陷列表？
+","",2352,2018-04-09 08:34:11 UTC,2018-04-19 08:41:41 UTC,true,13,,,,,,cn_CN
+293093-can-i-set-up-auto-sync,293093,我可以设置自动同步么？,"",1135,2018-01-03 08:02:01 UTC,2019-06-19 03:25:53 UTC,true,13,,,,,,cn_CN
+305042,305042,可否在一个缺陷里添加多张相片？,"",1199,2018-03-23 08:53:36 UTC,2018-04-16 05:34:41 UTC,true,13,,,,,,cn_CN
+321270,321270,可列印表现指标总览吗？,"",1181,2018-06-08 09:03:43 UTC,2018-06-08 09:09:49 UTC,true,13,,,,,,cn_CN
+312905,312905,如何设置图纸区域？,"",1592,2018-04-27 04:54:52 UTC,2018-04-30 05:44:27 UTC,true,13,,,,,,cn_CN
+293088-overview-for-management,293088,"管理团队应用简介
+","",1159,2018-01-03 07:58:07 UTC,2018-03-22 08:50:44 UTC,true,13,,,,,,cn_CN
+305210,305210,如何将文件由一个资料夹转移到另一个？,"",1113,2018-03-26 09:34:30 UTC,2018-04-18 10:14:45 UTC,true,13,,,,,,cn_CN
+305048,305048,如何查找缺陷？,"",1247,2018-03-23 09:21:35 UTC,2018-04-16 05:47:58 UTC,true,13,,,,,,cn_CN
+305170,305170,如何得到工作流程历史纪录？,"",1306,2018-03-26 05:02:10 UTC,2018-04-17 03:41:16 UTC,true,13,,,,,,cn_CN
+305176,305176,如何将文件和表格解除链接？,"",1232,2018-03-26 05:56:17 UTC,2019-02-01 05:06:12 UTC,true,13,,,,,,cn_CN
+306956,306956,如何为所有用户设置检查项目通知？,"",1528,2018-04-09 05:25:34 UTC,2018-04-19 08:28:36 UTC,true,13,,,,,,cn_CN
+306972,306972,"如何将每个项目添加到缺陷列表？
+","",1090,2018-04-09 08:36:55 UTC,2018-04-19 09:00:46 UTC,true,13,,,,,,cn_CN
+305204,305204,如何上传文档？,"",1034,2018-03-26 09:06:34 UTC,2018-04-18 09:35:29 UTC,true,13,,,,,,cn_CN
+305179,305179,如何搜索表格？,"",1293,2018-03-26 06:00:31 UTC,2018-04-17 09:11:50 UTC,true,13,,,,,,cn_CN
+306974,306974,如何为项目启用特定的缺陷类别？,"",1046,2018-04-09 08:40:33 UTC,2018-04-19 09:29:59 UTC,true,13,,,,,,cn_CN
+305172,305172,如何在表格更新后收到通知？,"",1275,2018-03-26 05:39:58 UTC,2018-04-17 04:14:59 UTC,true,13,,,,,,cn_CN
+308330,308330,如何编缉现有的图纸集？,"",1001,2018-04-16 04:16:12 UTC,2018-04-19 04:31:30 UTC,true,13,,,,,,cn_CN
+306976,306976,如何设置表格模板及流程？,"",2522,2018-04-09 08:42:14 UTC,2018-05-02 03:53:21 UTC,true,13,,,,,,cn_CN
+305046,305046,什麼是添加後續缺陷？,"",1066,2018-03-23 09:17:33 UTC,2018-04-16 05:35:46 UTC,true,13,,,,,,cn_CN
+308327,308327,如何编缉已有的名单？,"",1161,2018-04-16 03:43:33 UTC,2018-04-20 04:46:46 UTC,true,13,,,,,,cn_CN
+305215,305215,如何对图纸进行分组（图纸集）？,"",1269,2018-03-26 09:51:56 UTC,2018-04-19 03:39:06 UTC,true,13,,,,,,cn_CN
+315548,315548,能否控制或查阅文件版本？,"",1027,2018-05-08 05:16:27 UTC,2018-05-08 09:35:01 UTC,true,13,,,,,,cn_CN
+306945,306945,如何在图纸上设置位置？,"",1205,2018-04-09 03:40:40 UTC,2018-04-19 04:55:37 UTC,true,13,,,,,,cn_CN
+305152,305152,在哪里可以收到缺陷通知？,"",1560,2018-03-26 02:45:16 UTC,2018-04-16 05:58:28 UTC,true,13,,,,,,cn_CN
+305203,305203,如何创建一个文件夹,"",976,2018-03-26 09:05:34 UTC,2018-04-18 09:34:21 UTC,true,13,,,,,,cn_CN
+305180,305180,如何看到表格通知？,"",1236,2018-03-26 06:12:55 UTC,2018-04-17 09:41:52 UTC,true,13,,,,,,cn_CN
+306982,306982,"如何为项目启用表格模板？
+","",1469,2018-04-09 09:01:10 UTC,2018-04-20 05:16:58 UTC,true,13,,,,,,cn_CN
+306950,306950,如何添加承办商？,"",2014,2018-04-09 04:04:07 UTC,2018-04-19 05:46:22 UTC,true,13,,,,,,cn_CN
+306954,306954,"如何为所有用户设置缺陷通知？
+","",1470,2018-04-09 04:43:16 UTC,2018-04-19 07:49:58 UTC,true,13,,,,,,cn_CN
+305213,305213,如何根据位置查找文件？,"",1080,2018-03-26 09:47:39 UTC,2018-04-19 03:22:45 UTC,true,13,,,,,,cn_CN
+305200-snagr,305200,"如何将SnagR系统中生成的表格生成一个列表？
+","",1438,2018-03-26 08:56:38 UTC,2018-04-17 10:34:43 UTC,true,13,,,,,,cn_CN
+305206,305206,如何将文件与位置相链接,"",1101,2018-03-26 09:08:58 UTC,2018-04-18 09:57:58 UTC,true,13,,,,,,cn_CN
+293091-how-do-i-download-a-project,293091,How do I download a project?,"",1173,2018-01-03 08:00:35 UTC,2018-01-03 08:01:48 UTC,true,13,,,,,,cn_CN
+306983-excel,306983,[将表格内容导出到Excel] 如何设置模板？,"",2508,2018-04-09 09:02:20 UTC,2018-05-02 05:10:19 UTC,true,13,,,,,,cn_CN
+305163,305163,如何为分判商创建缺陷报告？,"",1232,2018-03-26 04:14:24 UTC,2018-04-16 09:27:01 UTC,true,13,,,,,,cn_CN
+306940,306940,"如何将图纸链接在一起（手动）？
+","",1058,2018-04-09 03:23:11 UTC,2018-04-19 04:06:14 UTC,true,13,,,,,,cn_CN
+305166,305166,如何得到缺陷数量的摘要报告？,"",1135,2018-03-26 04:51:56 UTC,2018-04-16 09:46:49 UTC,true,13,,,,,,cn_CN
+305156,305156,多个缺陷图钉叠在一起，怎么办？,"",1452,2018-03-26 03:30:27 UTC,2018-04-16 07:48:16 UTC,true,13,,,,,,cn_CN
+305154,305154,可以删除缺陷么？,"",1035,2018-03-26 03:08:24 UTC,2018-04-16 07:31:18 UTC,true,13,,,,,,cn_CN
+326639,326639,"如何查看缺陷编缉历史？
+","",981,2018-07-12 09:21:29 UTC,2018-07-20 08:29:28 UTC,true,13,,,,,,cn_CN
+313260,313260,如何设置电子表格？,"",1583,2018-05-02 03:48:42 UTC,2018-05-11 09:20:36 UTC,true,13,,,,,,cn_CN
+305157,305157,"如何将整合的缺陷再拆分？
+","",1088,2018-03-26 03:34:33 UTC,2018-04-16 08:24:28 UTC,true,13,,,,,,cn_CN
+293095-how-can-i-go-from-one-drawing-to-another,293095,How can I go from one drawing to another?,"",1127,2018-01-03 08:03:01 UTC,2018-01-03 08:03:25 UTC,true,13,,,,,,cn_CN
+293090-getting-started-3-3-intro-overview-for-subcontractors,293090,Overview for Subcontractors,"",1087,2018-01-03 07:59:47 UTC,2018-01-03 08:00:16 UTC,true,13,,,,,,cn_CN
+316400,316400,"如何设置权限？ （表格）
+","",2157,2018-05-11 04:13:44 UTC,2018-05-11 04:27:13 UTC,true,13,,,,,,cn_CN
+305047,305047,"更改照片尺寸？
+","",1511,2018-03-23 09:19:41 UTC,2018-04-16 05:36:11 UTC,true,13,,,,,,cn_CN
+305164,305164,如何让报告只显示缺陷的头尾两张相片？,"",1536,2018-03-26 04:51:02 UTC,2018-04-16 09:42:57 UTC,true,13,,,,,,cn_CN
+293092-why-should-i-synchronise,293092,Why should I synchronise?,"",1217,2018-01-03 08:01:17 UTC,2018-01-03 08:01:39 UTC,true,13,,,,,,cn_CN
+311757,311757,如何批量编缉缺陷？,"",1025,2018-04-23 10:03:44 UTC,2018-04-23 10:32:49 UTC,true,13,,,,,,cn_CN
+305162,305162,缺陷报告可以自动生成么？,"",1488,2018-03-26 04:02:49 UTC,2018-04-16 09:23:20 UTC,true,13,,,,,,cn_CN
+305044,305044,可否复制粘贴缺陷？,"",1192,2018-03-23 08:55:35 UTC,2018-05-08 09:02:29 UTC,true,13,,,,,,cn_CN
+306952,306952,如何编辑用户和承办商？,"",1398,2018-04-09 04:32:02 UTC,2018-04-19 07:30:45 UTC,true,13,,,,,,cn_CN
+308352,308352,如何更改密码？,"",1245,2018-04-16 09:52:30 UTC,2018-04-16 09:53:55 UTC,true,13,,,,,,cn_CN
+306973,306973,如何编辑缺陷列表上的项目？,"",1147,2018-04-09 08:38:22 UTC,2018-04-19 09:23:50 UTC,true,13,,,,,,cn_CN
+305221,305221,建立重复单位的最快方法是什么？,"",1549,2018-03-26 10:23:52 UTC,2018-04-19 03:53:57 UTC,true,13,,,,,,cn_CN
+305159,305159,图钉的颜色代表什么呢？,"",1606,2018-03-26 03:51:24 UTC,2018-11-02 03:00:32 UTC,true,13,,,,,,cn_CN
+305153,305153,我可以编辑缺陷么？,"",1117,2018-03-26 03:03:21 UTC,2018-05-29 04:52:32 UTC,true,13,,,,,,cn_CN
+306948,306948,如何发送密码提醒？,"",1401,2018-04-09 03:57:11 UTC,2018-04-19 05:11:27 UTC,true,13,,,,,,cn_CN
+305155,305155,可以移動一個缺陷圖釘麼？,"",1271,2018-03-26 03:28:28 UTC,2018-04-16 07:41:02 UTC,true,13,,,,,,cn_CN
+305161,305161,如何生成一份缺陷报告？,"",1094,2018-03-26 03:55:18 UTC,2018-04-16 08:54:37 UTC,true,13,,,,,,cn_CN
+305208,305208,如何删除文件？,"",1053,2018-03-26 09:14:47 UTC,2018-04-18 10:07:35 UTC,true,13,,,,,,cn_CN
+305168,305168,网页版如何完成表格？,"",1476,2018-03-26 04:57:10 UTC,2018-04-16 10:22:52 UTC,true,13,,,,,,cn_CN
+305175,305175,如何将缺陷从表格上解除链接？,"",1292,2018-03-26 05:55:18 UTC,2018-04-17 04:48:29 UTC,true,13,,,,,,cn_CN
+305188-pdf,305188,如何将附有缺陷或者文档的表格导出为PDF文件？,"",1675,2018-03-26 07:42:40 UTC,2018-04-17 10:14:32 UTC,true,13,,,,,,cn_CN
+305169,305169,可以追踪表格的改变么？,"",1449,2018-03-26 05:00:55 UTC,2018-04-16 10:29:40 UTC,true,13,,,,,,cn_CN
+305041,305041,一个图钉上可以有多个缺陷吗？,"",1129,2018-03-23 08:46:30 UTC,2018-04-16 05:34:18 UTC,true,13,,,,,,cn_CN
+305205,305205,"谁可以登入文件储存库
+","",1145,2018-03-26 09:07:48 UTC,2018-03-26 09:08:54 UTC,true,13,,,,,,cn_CN
+305158,305158,如何消項？,"",1261,2018-03-26 03:36:22 UTC,2018-05-29 03:51:06 UTC,true,13,,,,,,cn_CN
+305171,305171,如何根据單一表格发送通知？,"",1165,2018-03-26 05:03:44 UTC,2018-04-17 03:57:09 UTC,true,13,,,,,,cn_CN
+305184-pdf,305184,表格可以以PDF格式导出么？,"",1704,2018-03-26 07:08:36 UTC,2018-04-17 09:47:43 UTC,true,13,,,,,,cn_CN
+305174,305174,如何将缺陷链接到表格上？,"",1219,2018-03-26 05:42:48 UTC,2018-04-17 04:37:01 UTC,true,13,,,,,,cn_CN
+305173,305173,可以删除表格吗？,"",1012,2018-03-26 05:40:57 UTC,2018-04-26 04:13:53 UTC,true,13,,,,,,cn_CN
+305165,305165,如何查看数据分析？,"",1196,2018-03-26 04:51:55 UTC,2018-04-16 09:48:47 UTC,true,13,,,,,,cn_CN
+293089-overview-for-inspection-teams-consultants,293089,验收和顾问团队应用简介,"",1119,2018-01-03 07:59:17 UTC,2018-04-16 04:34:25 UTC,true,13,,,,,,cn_CN
+305207,305207,如何删除一个资料夹？,"",1175,2018-03-26 09:10:04 UTC,2018-04-18 09:59:55 UTC,true,13,,,,,,cn_CN
+306949,306949,如何添加用户？,"",1450,2018-04-09 03:58:31 UTC,2018-04-19 05:24:19 UTC,true,13,,,,,,cn_CN
+293094-getting-started-key-nav-1-3-what-is-issue-mode-and-form-mode,293094,What is Issue Mode and Form Mode?,"",1256,2018-01-03 08:02:37 UTC,2018-01-03 08:02:52 UTC,true,13,,,,,,cn_CN
+305167,305167,移动设备上如何完成表格？,"",1106,2018-03-26 04:54:55 UTC,2018-04-16 10:12:40 UTC,true,13,,,,,,cn_CN
+306980,306980,如何自制名单于表格上？,"",2035,2018-04-09 08:54:49 UTC,2018-05-02 07:14:59 UTC,true,13,,,,,,cn_CN
+306941,306941,如何将图纸链接在一起（自动）？,"",1212,2018-04-09 03:26:36 UTC,2018-04-19 04:18:50 UTC,true,13,,,,,,cn_CN
+328534,328534,谁可以查看表现指标总览呢？,"",979,2018-07-20 04:47:06 UTC,2018-07-20 05:03:29 UTC,true,13,,,,,,cn_CN
+319036,319036,買家驗收,"",1766,2018-05-30 03:39:38 UTC,2018-06-01 04:28:09 UTC,true,13,,,,,,cn_CN
+305202,305202,如何从模板导出资料？,"",1952,2018-03-26 09:00:02 UTC,2018-04-25 10:43:17 UTC,true,13,,,,,,cn_CN
+305209,305209,"什么是资料包？
+","",2108,2018-03-26 09:16:20 UTC,2018-04-18 10:14:24 UTC,true,13,,,,,,cn_CN
+293097-remove-and-re-add-project,293097,Remove and re-add project,"",961,2018-01-03 08:05:04 UTC,2018-01-03 08:05:19 UTC,true,13,,,,,,cn_CN
+293099-common-issues-in-project-download,293099,Common Issues in Project Download,"",1393,2018-01-03 08:05:31 UTC,2018-01-03 08:05:45 UTC,true,13,,,,,,cn_CN
+306942,306942,"如何编辑现有的图纸？
+","",1678,2018-04-09 03:29:11 UTC,2018-04-19 04:26:04 UTC,true,13,,,,,,cn_CN
+305211,305211,如何下载文件？,"",1150,2018-03-26 09:37:46 UTC,2018-04-18 10:37:04 UTC,true,13,,,,,,cn_CN
+316399,316399,"如何设置权限？ （缺陷）
+","",1355,2018-05-11 03:52:43 UTC,2018-05-11 04:15:14 UTC,true,13,,,,,,cn_CN
+305178,305178,如何将文件链接到表格上？,"",1303,2018-03-26 05:56:33 UTC,2019-02-01 05:04:59 UTC,true,13,,,,,,cn_CN
+305160,305160,可以针对个别缺陷发送通知么？,"",1043,2018-03-26 03:53:41 UTC,2018-04-16 08:45:33 UTC,true,13,,,,,,cn_CN
+305177,305177,"如何上传文档附在表格上？
+","",1987,2018-03-26 05:56:32 UTC,2018-04-17 08:36:43 UTC,true,13,,,,,,cn_CN
+306957,306957,如何管理电子邮件通知？,"",1662,2018-04-09 05:27:44 UTC,2018-04-19 08:30:18 UTC,true,13,,,,,,cn_CN
+386417,386417,我無法添加用戶，在項目中沒有看到他/她，但系統說電子郵件已經存在。 怎麼了？,"",947,2019-05-09 03:57:06 UTC,2019-05-09 04:08:22 UTC,true,15,,,,,,t_CN
+387517-import-project-checklists-at-project-level,387517,查看/更新/匯入/編輯項目檢查清單,"",959,2019-05-14 04:35:32 UTC,2019-07-12 05:01:05 UTC,true,15,,,,,,t_CN
+384098,384098,開發者,"",,2019-04-30 09:39:09 UTC,2019-04-30 10:21:20 UTC,false,15,,,,,,t_CN
+399352,399352,同時 “關閉（失敗）” 相關表格？,"",948,2019-06-25 04:57:38 UTC,2019-06-26 03:28:48 UTC,true,15,,,,,,t_CN
+440931,440931,如何編輯表格詳情？,"",801,2019-08-06 09:57:11 UTC,2019-08-06 10:36:32 UTC,true,15,,,,,,t_CN
+292116-untitled-question,292116,Untitled Question,,,2017-12-22 05:10:33 UTC,2017-12-22 05:10:33 UTC,false,15,,,,,,t_CN
+384045,384045,分判商,"",,2019-04-30 04:09:51 UTC,2019-04-30 09:52:48 UTC,false,15,,,,,,t_CN
+384047,384047,主承辦商,"",,2019-04-30 05:27:15 UTC,2019-04-30 10:17:13 UTC,false,15,,,,,,t_CN
+384111,384111,生產商,"",,2019-04-30 10:05:26 UTC,2019-04-30 10:16:51 UTC,false,15,,,,,,t_CN
+386759-can-i-search-inspection-forms-by-its-content,386759,我可以按其內容搜索檢查表格嗎？,"",9,2019-05-10 09:34:34 UTC,2019-08-09 10:49:21 UTC,false,15,,,,,,t_CN
+386786-how-do-i-view-and-submit-permits,386786,如何查看和提交許可證？,"",10,2019-05-10 09:58:49 UTC,2019-08-08 05:42:31 UTC,false,15,,,,,,t_CN
+387513-how-to-create-a-hierarchical-list,387513,How to create a Hierarchical List? ,"",,2019-05-14 04:28:32 UTC,2019-08-09 08:56:59 UTC,false,15,,,,,,t_CN
+387514-how-can-i-remove-a-form-template-from-an-inspection-template,387514,How can I remove a form template from an inspection template?,"",,2019-05-14 04:29:06 UTC,2019-08-09 10:15:46 UTC,false,15,,,,,,t_CN
+387515-can-i-remove-the-inspection-template-at-company-level,387515,Can I remove the inspection template at company level?,"",,2019-05-14 04:29:21 UTC,2019-08-09 10:36:09 UTC,false,15,,,,,,t_CN
+307811,307811,如何編緝已有的名單/清單？,"",987,2018-04-13 09:48:14 UTC,2019-08-06 09:54:45 UTC,true,15,,,,,,t_CN
+383733,383733,地盤日記,"",1779,2019-04-29 04:38:52 UTC,2019-08-09 10:16:07 UTC,true,15,,,,,,t_CN
+400021-untitled-question,400021,如何重置雙重身份驗證密鑰 (2FA Key)？,"",1388,2019-06-27 08:55:57 UTC,2019-08-08 08:44:40 UTC,true,15,,,,,,t_CN
+289908,289908,如何看到表格通知？,"",1250,2017-12-07 09:50:01 UTC,2019-07-26 10:31:16 UTC,true,15,,,,,,t_CN
+291600,291600,如何下載文件？,"",1162,2017-12-19 09:07:30 UTC,2018-03-26 09:46:03 UTC,true,15,,,,,,t_CN
+303587,303587,如何添加承辦商？,"",1404,2018-03-08 05:37:10 UTC,2018-03-08 07:42:57 UTC,true,15,,,,,,t_CN
+303594,303594,如何管理電子郵件通知？,"",1326,2018-03-08 07:59:46 UTC,2018-03-09 09:00:43 UTC,true,15,,,,,,t_CN
+280502,280502,"我可以登錄網站，但我不能在APP上登錄。 怎麼了？
+","",1414,2017-10-12 08:13:45 UTC,2019-05-09 03:22:18 UTC,true,15,,,,,,t_CN
+383514,383514,安全檢查,"",1057,2019-04-26 08:53:07 UTC,2019-08-08 10:10:49 UTC,true,15,,,,,,t_CN
+285774,285774,如何將整合的缺陷再拆分？,"",971,2017-11-08 07:40:21 UTC,2018-03-09 04:54:25 UTC,true,15,,,,,,t_CN
+290534,290534,如何創建一個文件夾,"",1136,2017-12-08 09:26:53 UTC,2018-03-09 08:18:11 UTC,true,15,,,,,,t_CN
+303596,303596,我在項目上看不到檢查表格，為甚麼？,"",1256,2018-03-08 08:39:27 UTC,2019-05-10 10:58:03 UTC,true,15,,,,,,t_CN
+303427,303427,如何匯入缺陷列表？,"",1054,2018-03-07 08:04:25 UTC,2018-04-09 08:35:48 UTC,true,15,,,,,,t_CN
+287066,287066,如何得到工作流程歷史紀錄？,"",1505,2017-11-21 08:09:25 UTC,2018-03-09 05:29:47 UTC,true,15,,,,,,t_CN
+list-cn,304213,如何自製名單於表格上？,"",1920,2018-03-15 10:14:52 UTC,2018-05-02 06:54:02 UTC,true,15,,,,,,t_CN
+385995,385995,主承辦商,"",1078,2019-05-07 04:09:11 UTC,2019-05-07 04:10:32 UTC,true,15,,,,,,t_CN
+386416-app,386416,我無法在APP上同步。 我該怎麼辦？,"",855,2019-05-09 03:26:43 UTC,2019-05-10 05:09:31 UTC,true,15,,,,,,t_CN
+386031,386031,我可以篩選圖紙上的缺陷問題嗎？,"",1212,2019-05-07 09:54:39 UTC,2019-05-07 09:55:59 UTC,true,15,,,,,,t_CN
+291599,291599,如何將文件由一個資料夾轉移到另一個？,"",1060,2017-12-19 09:00:51 UTC,2018-03-09 08:25:16 UTC,true,15,,,,,,t_CN
+328385,328385,誰可以查看表現指標總覽呢？,"",1254,2018-07-19 09:54:53 UTC,2018-07-20 05:05:34 UTC,true,15,,,,,,t_CN
+303442,303442,如何在圖紙上設置位置？,"",1227,2018-03-07 09:38:26 UTC,2019-05-10 10:33:37 UTC,true,15,,,,,,t_CN
+289914-pdf,289914,表格可以以PDF格式導出麼？,"",1230,2017-12-07 10:06:19 UTC,2018-04-17 09:48:44 UTC,true,15,,,,,,t_CN
+286324,286324,可以針對個別缺陷發送通知麼？,"",1063,2017-11-14 03:50:30 UTC,2018-03-09 05:06:45 UTC,true,15,,,,,,t_CN
+280494,280494,移除和重新添加項目,"",1366,2017-10-12 04:54:51 UTC,2019-05-30 05:51:59 UTC,true,15,,,,,,t_CN
+291813,291813,如何根據位置查找文件？,"",1100,2017-12-20 02:51:29 UTC,2019-08-08 08:53:01 UTC,true,15,,,,,,t_CN
+380418,380418,買方驗收,"",1214,2019-04-16 05:39:24 UTC,2019-08-09 10:49:03 UTC,true,15,,,,,,t_CN
+387518-create-construction-stages,387518,建立/編輯工程階段進度檢查（公司管理區域）,"",1347,2019-05-14 04:35:32 UTC,2019-07-19 09:10:56 UTC,true,15,,,,,,t_CN
+387524-view-edit-delete-permit-inspection,387524,查看/編輯/刪除許可證檢查,"",818,2019-05-14 04:45:48 UTC,2019-08-20 07:18:03 UTC,true,15,,,,,,t_CN
+280105,280105,我可以設置自動同步麼？,"",1317,2017-10-11 08:49:58 UTC,2019-06-19 03:25:12 UTC,true,15,,,,,,t_CN
+403231,403231,管理承辦商（公司管理區域）,"",1139,2019-07-08 03:39:37 UTC,2019-07-08 04:18:07 UTC,true,15,,,,,,t_CN
+286735,286735,如何為分判商創建缺陷報告？,"",1250,2017-11-17 07:51:48 UTC,2019-05-10 08:21:12 UTC,true,15,,,,,,t_CN
+412571,412571,如何授權於移動設備上啟用位置數據？,"",896,2019-08-01 05:01:58 UTC,2019-08-01 10:30:24 UTC,true,15,,,,,,t_CN
+386706-snagr,386706,SnagR支援哪些系統版本？,"",902,2019-05-10 08:32:49 UTC,2019-05-10 08:34:01 UTC,true,15,,,,,,t_CN
+291595,291595,如何刪除文件？,"",1057,2017-12-19 08:42:05 UTC,2018-03-09 08:23:43 UTC,true,15,,,,,,t_CN
+311755,311755,如何批量編緝缺陷？,"",1144,2018-04-23 08:32:00 UTC,2018-04-23 10:24:32 UTC,true,15,,,,,,t_CN
+330059,330059,導入/導出檢查表格模板,"",1252,2018-07-31 09:16:34 UTC,2018-07-31 10:08:22 UTC,true,15,,,,,,t_CN
+383728,383728,工作許可證,"",1286,2019-04-29 02:28:46 UTC,2019-08-09 05:46:49 UTC,true,15,,,,,,t_CN
+385997,385997,製造商,"",943,2019-05-07 04:11:09 UTC,2019-05-07 04:11:34 UTC,true,15,,,,,,t_CN
+280574,280574,我可以在同一缺陷中添加更多照片嗎？,"",984,2017-10-13 05:51:08 UTC,2019-08-08 06:03:20 UTC,true,15,,,,,,t_CN
+314106,314106,能否控制或查閱文件版本？,"",1054,2018-05-07 09:43:12 UTC,2018-05-08 05:39:26 UTC,true,15,,,,,,t_CN
+303443,303443,如何將圖紙鏈接在一起（自動）？,"",1174,2018-03-07 09:38:37 UTC,2018-03-09 08:42:17 UTC,true,15,,,,,,t_CN
+280662,280662,如何查找缺陷？,"",1231,2017-10-16 09:35:03 UTC,2019-05-07 05:15:00 UTC,true,15,,,,,,t_CN
+319706,319706,如何查看或列印表現指標總覽？,"",1313,2018-06-01 09:11:10 UTC,2019-06-25 04:53:21 UTC,true,15,,,,,,t_CN
+379661-defect-management,379661,缺陷管理,"",1029,2019-04-12 10:13:36 UTC,2019-08-09 05:56:05 UTC,true,15,,,,,,t_CN
+291590,291590,如何將文件與位置相鏈接,"",1380,2017-12-19 05:42:22 UTC,2019-08-08 08:54:08 UTC,true,15,,,,,,t_CN
+386715-how-do-i-generate-a-custom-report,386715,如何生成訂製報告？,"",892,2019-05-10 08:42:18 UTC,2019-06-10 06:03:50 UTC,true,15,,,,,,t_CN
+380463,380463,檢查請求 (RISC),"",958,2019-04-16 10:14:37 UTC,2019-08-09 09:57:53 UTC,true,15,,,,,,t_CN
+387521-how-can-i-enable-auto-close-for-photo-diaries,387521,如何啟用自動關閉功能？,"",944,2019-05-14 04:41:18 UTC,2019-07-08 05:42:46 UTC,true,15,,,,,,t_CN
+386034,386034,"關閉已確認的位置 / 關閉並移交位置
+","",1164,2019-05-07 10:30:30 UTC,2019-08-20 08:56:43 UTC,true,15,,,,,,t_CN
+386826-terminology-at-company-level,386826,術語 （公司管理區域）,"",1219,2019-05-10 10:56:31 UTC,2019-07-04 10:07:59 UTC,true,15,,,,,,t_CN
+291598,291598,什麼是資料包？,"",1373,2017-12-19 08:53:34 UTC,2018-03-09 08:24:46 UTC,true,15,,,,,,t_CN
+386732-how-to-upload-documents-to-link-to-forms-new-upgrade,386732,如何上傳文件連接到表格？,"",1476,2019-05-10 09:03:18 UTC,2019-08-20 09:45:44 UTC,true,15,,,,,,t_CN
+289404,289404,如何將缺陷從表格上解除鏈接？,"",1081,2017-11-30 03:50:05 UTC,2018-03-09 06:05:51 UTC,true,15,,,,,,t_CN
+280492,280492,如何從一張圖紙轉去另一張圖紙？,"",1336,2017-10-12 03:02:10 UTC,2019-05-07 08:01:05 UTC,true,15,,,,,,t_CN
+285775,285775,如何更新缺陷？,"",1294,2017-11-08 09:03:12 UTC,2019-05-07 05:14:18 UTC,true,15,,,,,,t_CN
+280493,280493,如何更改密碼？,"",1240,2017-10-12 03:47:40 UTC,2018-04-16 09:51:47 UTC,true,15,,,,,,t_CN
+284571,284571,可以移動一個缺陷圖釘麼？,"",933,2017-11-07 09:38:57 UTC,2018-03-09 04:47:00 UTC,true,15,,,,,,t_CN
+312833,312833,如何設置圖紙區域？,"",1105,2018-04-26 09:28:21 UTC,2018-04-27 05:29:19 UTC,true,15,,,,,,t_CN
+315828,315828,如何設置權限？（表格）,"",1504,2018-05-10 10:21:58 UTC,2018-05-11 04:22:08 UTC,true,15,,,,,,t_CN
+280653,280653,什麼是添加後續缺陷？,"",1029,2017-10-16 05:26:06 UTC,2018-03-09 10:21:30 UTC,true,15,,,,,,t_CN
+289403,289403,如何將缺陷鏈接到表格上？,"",1173,2017-11-30 03:41:10 UTC,2019-05-07 05:22:12 UTC,true,15,,,,,,t_CN
+287203,287203,如何根據單一表格發送通知？,"",1017,2017-11-22 04:51:04 UTC,2018-03-26 05:38:46 UTC,true,15,,,,,,t_CN
+304208,304208,可以刪除表格嗎？,"",1012,2018-03-15 08:19:30 UTC,2018-04-26 04:15:41 UTC,true,15,,,,,,t_CN
+313054,313054,如何設置電子表格？,"",1348,2018-04-30 07:54:33 UTC,2018-05-11 09:20:11 UTC,true,15,,,,,,t_CN
+325489,325489,如何查看缺陷編緝歷史？,"",1001,2018-07-04 05:26:37 UTC,2018-07-12 09:23:00 UTC,true,15,,,,,,t_CN
+303597,303597,如何設置表格模板及流程？,"",1673,2018-03-08 08:39:34 UTC,2018-05-02 03:53:24 UTC,true,15,,,,,,t_CN
+286088,286088,圖釘的顏色代表什麼呢？,"",1270,2017-11-10 07:28:44 UTC,2019-05-07 05:15:40 UTC,true,15,,,,,,t_CN
+286327,286327,缺陷報告可以自動生成麼？,"",1692,2017-11-14 08:46:49 UTC,2018-03-06 07:53:44 UTC,true,15,,,,,,t_CN
+280576,280576,可否複製粘貼缺陷？,"",1218,2017-10-13 09:14:35 UTC,2018-05-08 09:01:36 UTC,true,15,,,,,,t_CN
+386704-login-with-two-factor-authentication,386704,利用雙重身份驗證登錄,"",1297,2019-05-10 08:31:01 UTC,2019-08-22 04:38:11 UTC,true,15,,,,,,t_CN
+286924,286924,移動設備上如何完成表格？,"",1253,2017-11-20 04:11:34 UTC,2018-03-09 05:24:29 UTC,true,15,,,,,,t_CN
+303429,303429,如何編輯缺陷列表上的項目？,"",1083,2018-03-07 08:04:57 UTC,2018-04-19 09:17:58 UTC,true,15,,,,,,t_CN
+291588,291588,誰可以登入文件儲存庫,"",1131,2017-12-19 04:25:38 UTC,2019-05-10 08:59:49 UTC,true,15,,,,,,t_CN
+387516-create-project-checklist,387516,添加工程項目檢查清單（公司管理區域）,"",1044,2019-05-14 04:35:31 UTC,2019-07-09 11:05:31 UTC,true,15,,,,,,t_CN
+286740,286740,如何查看數據分析？,"",1754,2017-11-17 08:53:53 UTC,2019-05-10 08:24:05 UTC,true,15,,,,,,t_CN
+398323,398323,忘記密碼了！,"",865,2019-06-20 05:48:48 UTC,2019-08-08 08:41:44 UTC,true,15,,,,,,t_CN
+286736,286736,如何讓報告只顯示缺陷的頭尾兩張相片？,"",1113,2017-11-17 08:06:31 UTC,2019-05-10 08:21:28 UTC,true,15,,,,,,t_CN
+304085,304085,"更改照片尺寸？
+","",938,2018-03-14 06:50:59 UTC,2018-03-14 07:03:16 UTC,true,15,,,,,,t_CN
+3867032fafa,386703,用戶如何激活雙重身份驗證？,"",1420,2019-05-10 08:30:37 UTC,2019-08-22 04:33:02 UTC,true,15,,,,,,t_CN
+308328,308328,如何編緝現有的圖紙集？,"",973,2018-04-16 04:06:43 UTC,2018-04-16 04:18:26 UTC,true,15,,,,,,t_CN
+303593,303593,如何為所有用戶設置檢查項目通知？,"",1031,2018-03-08 07:59:20 UTC,2018-04-09 05:25:52 UTC,true,15,,,,,,t_CN
+386431,386431,"項目摘要：紅色的數字代表甚麼？
+","",1256,2019-05-09 05:55:21 UTC,2019-05-09 06:27:27 UTC,true,15,,,,,,t_CN
+303440,303440,如何發送密碼提醒？,"",1008,2018-03-07 09:37:30 UTC,2019-08-22 04:42:47 UTC,true,15,,,,,,t_CN
+303441,303441,如何編輯現有的圖紙？,"",1001,2018-03-07 09:37:44 UTC,2018-03-08 04:04:07 UTC,true,15,,,,,,t_CN
+280101,280101,甚麼是同步項目？,"",1686,2017-10-11 03:47:02 UTC,2019-05-07 08:03:45 UTC,true,15,,,,,,t_CN
+391829,391829,如何在應用程式上以表格內容搜索 ?,"",1190,2019-05-30 09:35:52 UTC,2019-08-22 04:42:15 UTC,true,15,,,,,,t_CN
+303435,303435,如何添加圖紙集？,"",1240,2018-03-07 09:36:52 UTC,2019-05-10 10:25:54 UTC,true,15,,,,,,t_CN
+386818-enable-two-factor-authentication-at-company-level,386818,啟用雙重身份驗證功能(2FA)（公司管理區域）,"",1142,2019-05-10 10:54:13 UTC,2019-08-08 08:56:36 UTC,true,15,,,,,,t_CN
+386820-edit-default-language-or-logo-at-company-level,386820,編輯系統語言或標誌（公司管理區域）,"",887,2019-05-10 10:55:03 UTC,2019-07-02 06:01:54 UTC,true,15,,,,,,t_CN
+303437-admin-drawings-2-7-how-to-prepare-and-upload-drawings,303437,如何準備及上傳圖紙？,"",1177,2018-03-07 09:37:05 UTC,2018-03-26 10:01:21 UTC,true,15,,,,,,t_CN
+387523-add-permit-form-pages,387523,添加許可證表格頁面,"",961,2019-05-14 04:45:48 UTC,2019-08-20 07:17:40 UTC,true,15,,,,,,t_CN
+386690-snagr,386690,如何聯絡SnagR?,"",913,2019-05-10 05:06:10 UTC,2019-05-10 05:09:36 UTC,true,15,,,,,,t_CN
+303428-admin-issue-list-3-5-how-to-add-single-items-to-issue-list,303428,如何將每個項目添加到缺陷列表？,"",1069,2018-03-07 08:04:46 UTC,2018-04-09 08:37:16 UTC,true,15,,,,,,t_CN
+386822-edit-priorities-and-due-days-at-company-level,386822,編輯重要性和到期日數（公司管理區域）,"",819,2019-05-10 10:55:23 UTC,2019-07-03 10:34:06 UTC,true,15,,,,,,t_CN
+387522-add-permit-inspection,387522,添加許可証檢查,"",1161,2019-05-14 04:45:48 UTC,2019-08-20 07:15:53 UTC,true,15,,,,,,t_CN
+386701-how-do-i-get-an-overview-of-all-inspection-forms,386701,如何找到所有表格的概況？,"",995,2019-05-10 08:24:50 UTC,2019-08-08 06:00:49 UTC,true,15,,,,,,t_CN
+386779-how-can-i-add-a-photo-from-the-photo-gallery-in-an-inspection-form,386779,如何在表格中添加設備內媒體資料庫中的圖片？,"",997,2019-05-10 09:54:12 UTC,2019-05-10 09:58:36 UTC,true,15,,,,,,t_CN
+303586,303586,如何添加用戶？,"",1171,2018-03-08 05:36:57 UTC,2019-05-09 04:06:41 UTC,true,15,,,,,,t_CN
+386825-edit-project-settings-at-project-level,386825,編輯項目設置（項目管理級別）,"",912,2019-05-10 10:56:09 UTC,2019-07-04 05:58:41 UTC,true,15,,,,,,t_CN
+387519-import-construction-stages-schedules-to-track-progress-at-project-level,387519,匯入工程階段檢查以跟踪進度,"",836,2019-05-14 04:35:33 UTC,2019-08-08 08:31:43 UTC,true,15,,,,,,t_CN
+386821-edit-view-projects-at-company-level,386821,編輯/查看項目（公司管理區域）,"",854,2019-05-10 10:55:18 UTC,2019-07-02 08:03:26 UTC,true,15,,,,,,t_CN
+386702-what-is-project-activity-log,386702,什麼是項目活動紀錄？,"",857,2019-05-10 08:30:02 UTC,2019-06-05 04:54:50 UTC,true,15,,,,,,t_CN
+386760,386760,我可以更改表格的位置或類型嗎？,"",1073,2019-05-10 09:37:08 UTC,2019-05-10 09:47:10 UTC,true,15,,,,,,t_CN
+315824,315824,如何設置權限？（缺陷）,"",1162,2018-05-10 08:41:29 UTC,2018-05-11 04:12:28 UTC,true,15,,,,,,t_CN
+291594,291594,如何刪除一個資料夾？,"",1027,2017-12-19 08:10:31 UTC,2018-03-09 08:23:10 UTC,true,15,,,,,,t_CN
+285771,285771,多個缺陷圖釘疊在一起，怎麼辦？,"",1080,2017-11-08 05:37:16 UTC,2018-03-09 04:50:45 UTC,true,15,,,,,,t_CN
+290535,290535,如何上傳文檔到項目文件儲存庫？,"",1153,2017-12-08 09:45:16 UTC,2019-05-10 08:58:39 UTC,true,15,,,,,,t_CN
+386010,386010,移動應用程式中所有圖示/按鈕的概述,"",1129,2019-05-07 08:04:52 UTC,2019-05-08 10:30:33 UTC,true,15,,,,,,t_CN
+304554,304554,如何從模板導出資料？,"",1364,2018-03-19 06:10:51 UTC,2019-11-07 05:01:05 UTC,true,15,,,,,,t_CN
+how-to-set-permissions-for-custom-reports,394785,如何設置自訂報告的權限？,"",1060,2019-06-10 05:39:05 UTC,2019-06-27 08:55:18 UTC,true,15,,,,,,t_CN
+386812-how-to-move-edit-delete-a-location-pin,386812,如何移動/ 編輯/ 刪除圖釘？,"",1025,2019-05-10 10:34:12 UTC,2019-08-20 08:20:54 UTC,true,15,,,,,,t_CN
+303438,303438,建立重複單位的最快方法是什麼？,"",1233,2018-03-07 09:37:14 UTC,2018-03-26 10:24:20 UTC,true,15,,,,,,t_CN
+304337-excel,304337,[將表格內容導出到Excel] 如何設置模板？,"",1945,2018-03-16 05:52:09 UTC,2019-08-08 08:26:02 UTC,true,15,,,,,,t_CN
+386421-can-the-contractor-be-automatically-selected-when-a-specific-issue-type-is-selected,386421,"選擇特定缺陷類型時，是否可以自動選擇承辦商？
+","",920,2019-05-09 04:41:14 UTC,2019-08-08 08:44:18 UTC,true,15,,,,,,t_CN
+286325,286325,如何生成一份缺陷報告？,"",1237,2017-11-14 04:12:03 UTC,2019-05-10 08:20:47 UTC,true,15,,,,,,t_CN
+room-area-signoff,404529,房間 / 區域簽收,"",894,2019-07-12 05:04:29 UTC,2019-08-20 07:23:23 UTC,true,15,,,,,,t_CN
+286936,286936,如何於網頁完成表格？,"",1221,2017-11-20 09:18:14 UTC,2019-05-07 05:21:03 UTC,true,15,,,,,,t_CN
+385989,385989,建築商,"",896,2019-05-07 02:53:47 UTC,2019-05-07 04:08:49 UTC,true,15,,,,,,t_CN
+287064,287064,可以追蹤表格的改變麼？,"",1408,2017-11-21 04:14:29 UTC,2019-05-07 05:21:30 UTC,true,15,,,,,,t_CN
+290530-snagr,290530,如何將SnagR系統中生成的表格生成一個列表,"",1221,2017-12-08 07:43:51 UTC,2018-03-09 08:16:30 UTC,true,15,,,,,,t_CN
+289945-pdf,289945,如何將附有缺陷或者文檔的表格導出為PDF文件？,"",1182,2017-12-07 10:43:45 UTC,2018-03-09 08:15:23 UTC,true,15,,,,,,t_CN
+386733-how-to-mark-the-document-as-not-in-use-new-upgrade,386733,如何將文件標記為“不使用”？,"",1348,2019-05-10 09:04:43 UTC,2019-08-20 09:48:05 UTC,true,15,,,,,,t_CN
+284562,284562,可以刪除缺陷麼？,"",947,2017-11-07 08:32:41 UTC,2020-08-11 12:49:52 UTC,true,15,,,,,,t_CN
+280571,280571,如何添加一個缺陷？,"",1280,2017-10-13 04:30:03 UTC,2019-05-07 05:10:23 UTC,true,15,,,,,,t_CN
+280573,280573,一個圖釘上可以有多個缺陷嗎？,"",1193,2017-10-13 05:34:15 UTC,2019-05-07 05:11:53 UTC,true,15,,,,,,t_CN
+284316,284316,我可以編輯缺陷麼？,"",1185,2017-11-06 07:10:01 UTC,2019-05-07 05:16:01 UTC,true,15,,,,,,t_CN
+386824-regions-divisions-programs-at-company-level,386824,區域／部門／項目計劃（公司管理區域）,"",947,2019-05-10 10:55:54 UTC,2019-07-04 10:07:24 UTC,true,15,,,,,,t_CN
+386813-how-to-generate-qr-codes-for-locations,386813,如何建立位置的二維碼？ ,"",1379,2019-05-10 10:35:54 UTC,2019-08-20 07:24:57 UTC,true,15,,,,,,t_CN
+400380,400380,如何批量編輯用戶角色權限/啟用用戶？,"",1044,2019-06-28 04:37:54 UTC,2019-08-22 04:42:25 UTC,true,15,,,,,,t_CN
+386281-app-checking-credentials,386281,APP一直顯示Checking Credentials...，發生甚麼事了？,"",957,2019-05-08 10:37:22 UTC,2019-05-08 10:46:57 UTC,true,15,,,,,,t_CN
+385996,385996,分判商,"",938,2019-05-07 04:10:40 UTC,2019-05-07 04:11:02 UTC,true,15,,,,,,t_CN
+280002,280002,驗收和顧問團隊應用簡介,"",1003,2017-10-10 02:52:24 UTC,2018-03-22 08:56:52 UTC,true,15,,,,,,t_CN
+387512-can-i-edit-replace-form-page-image,387512,我可以編輯/替換表格頁面圖像嗎？,"",858,2019-05-14 04:27:15 UTC,2019-08-08 08:22:59 UTC,true,15,,,,,,t_CN
+279886,279886,管理團隊應用簡介,"",961,2017-10-09 04:07:05 UTC,2018-03-22 08:50:29 UTC,true,15,,,,,,t_CN
+303592,303592,如何為所有用戶設置缺陷通知？,"",1237,2018-03-08 07:57:33 UTC,2018-03-09 08:57:29 UTC,true,15,,,,,,t_CN
+280009,280009,如何於移動應用程式內下載項目？,"",1749,2017-10-10 09:25:19 UTC,2019-05-07 05:07:35 UTC,true,15,,,,,,t_CN
+400056,400056,如何批量編輯用戶權限？,"",1003,2019-06-27 09:24:26 UTC,2019-08-22 04:42:34 UTC,true,15,,,,,,t_CN
+280007,280007,分判商應用簡介,"",1017,2017-10-10 08:58:13 UTC,2018-03-09 03:48:45 UTC,true,15,,,,,,t_CN
+386419-manage-user-at-company-level,386419,管理用戶（公司管理區域）,"",1713,2019-05-09 04:07:51 UTC,2019-07-08 03:43:40 UTC,true,15,,,,,,t_CN
+289903,289903,如何搜索表格？,"",1809,2017-12-07 08:53:08 UTC,2019-06-25 10:26:36 UTC,true,15,,,,,,t_CN
+386819-password-complexity-set-up-at-company-level,386819,密碼安全級別設置（公司管理區域）,"",3171,2019-05-10 10:54:36 UTC,2019-08-22 04:42:58 UTC,true,15,,,,,,t_CN
+303439-admin-drawings-4-7-how-to-link-drawings-together-manually,303439,如何將圖紙鏈接在一起（手動）？,"",1086,2018-03-07 09:37:21 UTC,2019-05-06 03:23:01 UTC,true,15,,,,,,t_CN
+386033,386033,待檢 / 可供檢查的位置,"",1526,2019-05-07 10:26:46 UTC,2019-08-20 09:01:24 UTC,true,15,,,,,,t_CN
+289901,289901,如何將文件和表格解除鏈接？（舊版本）,如何將文件,1232,2017-12-07 08:14:40 UTC,2019-06-27 07:56:26 UTC,true,15,,,,,,t_CN
+286737,286737,如何得到缺陷數量的摘要報告？,"",1245,2017-11-17 08:29:23 UTC,2019-05-10 08:21:51 UTC,true,15,,,,,,t_CN
+280979,280979,在哪裡可以收到缺陷通知？,"",1202,2017-10-17 09:14:40 UTC,2018-04-16 05:38:55 UTC,true,15,,,,,,t_CN
+287302,287302,如何在表格更新後收到通知？,"",1538,2017-11-24 07:11:17 UTC,2018-03-09 05:33:00 UTC,true,15,,,,,,t_CN
+303590,303590,如何編輯用戶和承辦商？,"",1189,2018-03-08 05:37:38 UTC,2019-05-06 03:35:58 UTC,true,15,,,,,,t_CN
+303431,303431,添加缺陷時，我無法看到缺陷列表。 怎麼了？,"",1040,2018-03-07 08:05:12 UTC,2019-05-10 10:49:54 UTC,true,15,,,,,,t_CN
+383735,383735,照片日記,"",1062,2019-04-29 05:36:50 UTC,2019-08-09 10:46:01 UTC,true,15,,,,,,t_CN
+380769,380769,不符合規格的報告 (NCR),"",4065,2019-04-17 05:56:26 UTC,2019-08-09 10:00:46 UTC,true,15,,,,,,t_CN
+280106,280106,什麼是缺陷模式和表格模式？,"",1703,2017-10-11 09:27:00 UTC,2019-05-08 10:36:36 UTC,true,15,,,,,,t_CN
+303413,303413,如何設計缺陷列表？,"",1458,2018-03-07 06:18:44 UTC,2018-03-09 09:06:53 UTC,true,15,,,,,,t_CN
+387511-how-can-i-edit-an-inspection-template,387511,如何編輯檢查模板？,"",936,2019-05-14 04:25:39 UTC,2019-08-08 08:16:04 UTC,true,15,,,,,,t_CN
+289405,289405,如何將文件鏈接到表格上？（舊版本）,"",1717,2017-11-30 03:51:31 UTC,2019-08-08 05:48:57 UTC,true,15,,,,,,t_CN

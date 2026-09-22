@@ -1,0 +1,33 @@
+---
+title: "How to generate photo links?"
+---
+
+**<u>Issue Photo Link</u>**
+
+https://\{\{ProjectURL\}\}/view-image?type=**issue**&id=\{\{**GUID**\}\}
+
+_Project URL example:_ [demo40.snagrweb.com/training](//demo40.snagrweb.com/training)
+
+_GUID example:_ 551999e8-ae78-410d-8c87-c6ec9f4d64cb
+
+Please get the issue's GUID from endpoint api/defects
+
+**<u>Issue Update Photo Link</u>**
+
+https://\{\{ProjectURL\}\}/view-image?type=**issueupdate**&id=\{\{**PPCGUID**\}\}
+
+_Project URL example:_ [demo40.snagrweb.com/training](//demo40.snagrweb.com/training)
+
+_PPCGUID example:_ 551999e8-ae78-410d-8c87-c6ec9f4d64cb
+
+Please get the issue update's PPCGUID from endpoint api/snagupdates
+
+**<u>Form Field Photo Link</u>**
+
+https://\{\{ProjectURL\}\}/view-image?type=**formchecks**&id=\{\{**FCGUID**\}\}
+
+_Project URL example:_ [demo40.snagrweb.com/training](//demo40.snagrweb.com/training)
+
+_FCGUID example:_ 551999e8-ae78-410d-8c87-c6ec9f4d64cb
+
+Please get the formcheck's FCGUID from endpoint api/formchecks or api/v2/formitems

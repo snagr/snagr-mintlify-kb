@@ -1,0 +1,292 @@
+id,parent_id,name
+37023,36878,Find and Edit Forms
+37466,36878,Submit Forms
+37464,36878,Link Issues and Documents to Forms
+37465,36878,Export Forms
+49431,36879,Permits - Company Level
+95629,36879,New Projects - Company Level
+37029,36879,Forms - Company Level
+37024,36879,Drawings - Project Level
+37027,36879,Notifications - Project Level
+37028,36879,Standard Issue List - Project Level
+37476,36879,Accounts and Permissions - Project Level
+49432,36879,Checklists and Scheduling - Company Level
+49434,36879,Accounts and Permissions - Company Level
+49459,36879,Locations - Project Level
+49463,36879,General Settings
+58601,36879, Standard Issue List - Company Level
+58158,36923,初階指引：如何記錄缺陷？
+58188,36923,初階指引：如何提交表格？
+58501,36923,你的角色是什麼？
+39951,36924,添加缺陷
+39952,36924,查找缺陷
+39953,36924,編輯缺陷
+39955,36924,更新缺陷
+39957,36924,報告和分析
+37885,37827,Upload Document
+37886,37827,Manage Documents
+37887,37827,Download Documents
+37499,37828,Quality
+37888,37828,Safety
+37889,37828,Site Operations
+41079,39860,提交表格
+41107,39860,鏈接缺陷和文件到表格
+41108,39860,搜索、編輯表格
+41109,39860,導出表格
+41534,39862,上載文件
+41535,39862,管理文件
+41536,39862,下載文檔
+42028,39863,缺陷列表 - 項目管理區域
+42029,39863,圖紙 - 項目管理區域
+42032,39863,帳戶及權限設定 - 項目管理區域
+42033,39863,通知 - 項目管理區域
+42036,39863,表格 - 公司管理區域
+42037,39863,一般設定
+58600,39863,帳戶及權限 - 公司管理區域
+58603,39863,缺陷列表 - 公司管理區域
+58647,39863,位置 - 項目管理區域
+58828,39863,工程項目檢查清單及進度
+58829,39863,許可證 - 公司管理區域 
+41970,39864,安全管理
+57486,39864,質量
+58150,39864,地盤工序
+42182,39869,简介
+42183,39869,设置手机
+42184,39869,必备技能
+42185,39869,手机设置常见问题
+44032,39870,添加缺陷
+44033,39870,查找缺陷
+44064,39870,编辑缺陷
+44065,39870,更新缺陷
+44066,39870,报告和分析
+44067,39872,完成或编辑表格
+44068,39872,链接缺陷和文件到表格
+44069,39872,搜索表格
+44070,39872,导出表格
+44086,39873,上传文档
+44087,39873,管理文档
+44089,39873,下载文档 
+44090,39875,图纸
+44286,39875,帐户及权限设定
+44287,39875,通知
+44288,39875,设定缺陷列表
+44289,39875,设定表格模板
+46012,39878,项目验收
+42192,42186,In welk team zit je?
+52451,42186,Startgids: Hoe ga ik met actiepunten om?				
+52452,42186,Startgids: Hoe voeg ik formulieren toe?
+42196,42187,Actiepunten Toevoegen
+42197,42187,Actiepunten Vinden
+42198,42187,Actiepunten Bewerken
+42199,42187,Actiepunten Updaten
+42200,42187,Rapporten en Statistieken
+42204,42188,Formulieren Exporteren
+42201,42188,Formulieren Toevoegen
+42202,42188,Actiepunten en documenten aan formulieren koppelen
+42203,42188,Formulieren Vinden en Bewerken
+42205,42189,Documenten Uploaden
+42206,42189,Documenten Beheren
+42207,42189,Documenten Downloaden
+42208,42190,Tekeningen - Projectniveau
+42209,42190,Accounts en Rechten - Bedrijfsniveau
+42210,42190,Accounts en Rechten - Projectniveau
+42211,42190,Notificaties - Projectniveau
+42212,42190,Standaard Actiepunten Lijst - Bedrijfsniveau
+42213,42190,Formulieren - Bedrijfsniveau
+42214,42190,Algemene Instellingen
+52475,42190,Locaties - Projectniveau
+52476,42190,Vergunningen - Bedrijfsniveau
+52477,42190,Checklijsten en Schema's - Bedrijfsniveau
+79339,42190,Standaard Actiepunten Lijst - Projectniveau
+42215,42191,Bouwplaats werkzaamheden
+42216,42191,Veiligheid
+52455,42191,Kwaliteit
+47369,46766,Analytics
+49148,46766,Custom PDF Report
+49341,46766,Standard PDF Report
+39657,48719,Get Ready On Mobile
+39659,48719,Troubleshooting on Mobile
+48721,48719,General
+49457,48719,Troubelshooting for Admins
+49461,48719,Locations
+52459,52453,Statistieken
+52460,52453,Aangepast PDF rapport
+52474,52453,Standaard PDF Rapport
+52478,52454,Algemeen
+52479,52454,Klaar voor mobiel gebruik
+52480,52454,Probleemoplossingen voor mobiel gebruik
+52481,52454,Probleemoplossingen voor Beheerders
+52482,52454,Locaties
+52740,52727,Sicurezza
+52741,52727,Gestione qualita'
+52742,52727,Diari Cantiere
+52733,52730,Carica Documenti
+52734,52730,Gestisci Documenti
+52738,52730,Scarica Documenti
+52754,52736,Reports PDF personalizzati
+52765,52736,Reportistica Standard PDF
+52766,52736,Analisi e Business Intelligence
+52764,52751,Generale
+52743,52751,Get Ready On Mobile
+52744,52751,Troubelshooting per Amministratori
+52747,52751,Siti
+52753,52751,Rimedi App Mobile
+52725,52755,Aggiungi Difetti
+52724,52755,Modifica Difetti
+52728,52755,Reportistica ed Analisi
+52749,52755,Aggiorna informazioni Difetto
+52758,52755,Trova Difetti
+52723,52756,Collega Difetti e Documenti del repositorio 
+52735,52756,Finalizza Documenti di Ispezione
+52737,52756,Esporta Documenti di Ispezione
+52748,52756,Trova ed Aggiorna Documenti di Ispezione
+52732,52757,Utenti e Permessi-Amministrazione Societa'
+52761,52757,Modelli di Documento - Amministrazione Societa'
+52726,52757,Permessi - Amministrazione Societa'
+52729,52757,Checklists e schedulazione - Amministrazione Societa'
+52739,52757,Utenti e Permessi-Amministrazione Progetto
+52746,52757,Siti-Amministrazione Progetto
+52750,52757,Impostazioni generali
+52759,52757,Disegni - Amministrazione Progetto
+52760,52757,Registro Difetti - Amministrazione Societa'
+52762,52757,Notifiche - Amministrazione Progetto
+53696,53663,What is your role?
+53709,53663,Starter Guide: How do I take issues?
+53710,53663,Starter Guide: How to submit forms?
+53697,53664,Add Issues
+53698,53664,Update Issues
+53704,53664,Find Issues
+53705,53664,Edit Issues
+53706,53664,Report and Analytics
+56987,56448,NQAA
+56991,56448,Room Handover
+56989,56448,SPE Report
+56990,56448,DOWL
+58189,58188,我如何從手機應用程式下載項目？
+58190,58188,如何在手提裝置上填寫表格？
+58191,58188,如何在網站上填寫表格？
+58192,58188,我如何從目前的圖紙前往另一張圖紙？
+58193,58188,我如何追蹤表格的變化？
+58194,58188,我如何搜尋表格？
+58195,58188,我如何把文件鏈接到表格？
+58196,58188,我如何把缺陷鏈接到表格？
+58197,58188,如何傳出表格到PDF格式？
+39865,58501,簡介
+58504,58503,使用移動應用程式前的準備
+58505,58503,疑難排解 - 移動應用程式 (APP)
+58506,58503,疑難排解 - 管理員 (Admin)
+58507,58503,一般問題
+58508,58503,位置
+58597,58596,PDF報告
+58598,58596,分析表
+58599,58596,訂製PDF報告
+59207,59206,NQAA
+59639,59206,Photo Diary
+79158,60164,Documenten Opslag (Upgrade)
+79157,60164,2TA
+79159,60164,Diversen
+61807,61798, In welchem ​​Team bist du?
+61816,61798,Startanleitung: Wie gehe ich mit Aktionspunkten um?				
+61818,61798, Startanleitung: Wie füge ich Formulare hinzu?
+61817,61800,Berichte und Statistiken
+61801,61800,Aktionspunkte finden
+61809,61800,Aktionspunkte hinzufügen
+61829,61800,Aktionspunkte Bearbeiten
+61831,61800,Aktionspunkte aktualisieren
+61803,61802,Formulare suchen und bearbeiten
+61810,61802,Formulare hinzufügen
+61821,61802,Formulare exportieren
+61835,61802,Verknüpfen Sie Aktionspunkte und Dokumente mit Formularen
+61799,61804,Dokumente verwalten
+61811,61804,Laden Sie Dokumente hoch
+61812,61804,Dokumente herunterladen
+61814,61805,Allgemeine Einstellungen
+61813,61805,Formulare - Unternehmensebene
+61822,61805,Zeichnungen - Projektebene
+61823,61805,Konten und Rechte - Projektebene
+61825,61805,Benachrichtigungen - Projektebene
+61832,61805,Lokation - Projektebene
+61836,61805,Genehmigungen - Geschäftsniveau
+61837,61805,Checklisten und Zeitpläne - Business Level
+61838,61805,Liste der Standardaktionspunkte - Unternehmensebene
+61839,61805,Konten und Rechte - Firmensebene
+61815,61806,Baustelle arbeiten
+61808,61806,Sicherheit
+61834,61806,Qualität
+61824,61819,Statistik
+61826,61819,Benutzerdefinierter PDF-Bericht
+61827,61819,Standard PDF-Bericht
+61796,61820,Problemlösungen für Administratoren
+61797,61820,Lokation
+61828,61820,Allgemein
+61830,61820,Bereit für den mobilen Einsatz
+61833,61820,Problemlösungen für den mobilen Einsatz
+84318,62886,Release Notes
+62887,62886,2FA
+62889,62886,Document repository (Upgrade)
+70692,62886,Others
+69442,69441,雙重身份驗證 (2FA)
+69443,69441,文件存儲庫（升級）
+70691,69441,其他
+90581,71626,Links
+71627,71626,API Doc
+71628,71626,Publish
+112272,112239,Staff
+112271,112239,Owner
+112276,112239,SnagR Home Admin
+112275,112271,Appointment
+112273,112272,Appointment
+112277,112276,Appointment
+53663,,Getting Started
+112239,,SnagR Home
+36879,,Set up project
+53664,,Issues
+37828,,Success stories
+71626,,Power BI Integration
+48719,,FAQ
+62886,,New Features
+36878,,Forms
+37827,,Documents
+46766,,Reporting
+56448,,AAHK-TRD
+59206,,AAHK-CWD
+61819,,Berichterstattung
+61802,,Formulare
+61798,, Fangen Sie an
+61820,,Häufig gestellte Fragen
+61804,,Dokumente
+61800,,Aktionspunkte
+61805,,Projekt einrichten
+61806,, Erfolgsgeschichten
+52751,,FAQ
+52727,,Casi studio
+52730,,Repositorio Documenti
+52736,,Reportistica
+52755,,Difetti 
+52756,,Ispezioni
+52757,,Impostazione Progetti
+52968,,Per cominciare
+42191,,Succes Verhalen
+52453,,Verslaglegging
+52454,,Veelgestelde vragen
+42186,,Ga van start
+42187,,Actiepunten
+42188,,Formulieren
+42189,,Documenten
+42190,,Project opzetten
+60164,,Nieuwe functionaliteiten
+39872,,表格模式
+39873,,文件管理
+39875,,管理员模式
+39878,,成功经验
+39869,,入门指南
+39870,,缺陷模式
+39864,,成功經驗
+36924,,缺陷模式
+39860,,表格/檢查模式
+39862,,項目文件存儲庫
+69441,,新功能 🆙 
+39863,,項目設置
+36923,,入門指南
+58503,,常見問題
+58596,,報告

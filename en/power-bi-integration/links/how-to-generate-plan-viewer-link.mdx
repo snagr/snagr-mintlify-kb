@@ -1,0 +1,29 @@
+---
+title: "How to generate plan viewer link to view issues?"
+---
+
+**<u>For open issues</u>**
+
+https:/\{\{ProjectURL\}\}/View?ID=\{\{**IssueID**\}\}
+
+**<u>For closed issues</u>**
+
+https:/\{\{ProjectURL\}\}/View?ID=\{\{**IssueID**\}\}**&ShowClosed=true**
+
+_Note if &ShowClosed=true is not included the link will simply navigate the user to the plan where the closed issue exists but it will not be able to point to the specific closed issue on the plan._
+
+**<u>For issues assigned to a specific contractor on a drawing/plan</u>**
+
+https:/\{\{ProjectURL\}\}/View?GroupID=\{\{**Group****ID**\}\}&DrawingID=\{\{**DrawingID**\}\}
+
+**<u>For issues created by a specific user on a drawing/plan</u>**
+
+https:/\{\{ProjectURL\}\}/View?CreatedByID=\{\{**CreatedBy****ID**\}\}&DrawingID=\{\{**DrawingID**\}\}
+
+**Note**: ID, ShowClosed, GroupID, DrawingID, and CreatedByID is **case sensitive**. If otherwise, the link generated will not be effective.
+
+You can get IssueID, GroupID, DrawingID, CreatedByID from:
+
+api/defects; or
+
+api/v2/defects/search
