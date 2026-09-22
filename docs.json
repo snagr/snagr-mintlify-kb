@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "SnagR Support",
   "colors": {
-    "primary": "#086F92",
-    "light": "#3CC7F0",
-    "dark": "#086F92"
+    "primary": "#004A8F",
+    "light": "#09B2E6",
+    "dark": "#0A8FBA"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -2343,8 +2343,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "contextual": {
     "options": [
