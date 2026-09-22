@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "SnagR Support",
   "colors": {
-    "primary": "#09B2E6",
+    "primary": "#086F92",
     "light": "#3CC7F0",
-    "dark": "#0A8FBA"
+    "dark": "#086F92"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -37,7 +37,6 @@
           {
             "group": "Issues",
             "pages": [
-              "en/issues/index",
               {
                 "group": "Add Issues",
                 "pages": [
@@ -95,7 +94,6 @@
           {
             "group": "Forms",
             "pages": [
-              "en/forms/index",
               {
                 "group": "Submit Forms",
                 "pages": [
@@ -148,7 +146,6 @@
           {
             "group": "Documents",
             "pages": [
-              "en/documents/index",
               {
                 "group": "Upload Document",
                 "pages": [
@@ -435,7 +432,6 @@
           {
             "group": "Success stories",
             "pages": [
-              "en/success-stories/index",
               {
                 "group": "Quality",
                 "pages": [
@@ -464,7 +460,6 @@
           {
             "group": "SnagR Home",
             "pages": [
-              "en/snagr-home/index",
               {
                 "group": "Owner",
                 "pages": [
@@ -686,7 +681,6 @@
           {
             "group": "Project opzetten",
             "pages": [
-              "nl/project-opzetten/index",
               {
                 "group": "Tekeningen - Projectniveau",
                 "pages": [
@@ -1330,7 +1324,6 @@
           {
             "group": "Difetti",
             "pages": [
-              "it/difetti/index",
               {
                 "group": "Modifica Difetti",
                 "pages": [
@@ -1387,7 +1380,6 @@
           {
             "group": "Ispezioni",
             "pages": [
-              "it/ispezioni/index",
               {
                 "group": "Collega Difetti e Documenti del repositorio",
                 "pages": [
@@ -1436,7 +1428,6 @@
           {
             "group": "Repositorio Documenti",
             "pages": [
-              "it/repositorio-documenti/index",
               {
                 "group": "Carica Documenti",
                 "pages": [
@@ -1468,7 +1459,6 @@
           {
             "group": "Impostazione Progetti",
             "pages": [
-              "it/impostazione-progetti/index",
               {
                 "group": "Permessi - Amministrazione Societa'",
                 "pages": [
@@ -1650,7 +1640,6 @@
           {
             "group": "Casi studio",
             "pages": [
-              "it/casi-studio/index",
               {
                 "group": "Sicurezza",
                 "pages": [
@@ -1776,7 +1765,6 @@
           {
             "group": "表格/檢查模式",
             "pages": [
-              "zh-hant/forms/index",
               {
                 "group": "搜索、編輯表格",
                 "pages": [
@@ -1974,7 +1962,6 @@
           {
             "group": "報告",
             "pages": [
-              "zh-hant/reporting/index",
               {
                 "group": "分析表",
                 "pages": [
@@ -1993,7 +1980,6 @@
           {
             "group": "常見問題",
             "pages": [
-              "zh-hant/faq/index",
               {
                 "group": "使用移動應用程式前的準備",
                 "pages": [
